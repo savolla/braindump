@@ -1,0 +1,34 @@
+#+TITLE: Functional Programming
+#+STARTUP: overview
+#+ROAM_ALIAS: "Functional Programming"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 18:50]
+
+* TL;DR
+** What Is Functional Programming?
+TODO:
+# ** Why Is Functional Programming Important?
+# ** When To Use Functional Programming?
+# ** How To Use Functional Programming?
+# ** Examples of Functional Programming
+** Founder(s) of Functional Programming
+
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto
