@@ -10,7 +10,7 @@
 
 [[file:./images/screenshot-02.png]]
 
-I am [[file:person/Oleksiy Nehlyadyuk.org][Oleksiy Nehlyadyuk]]  and this is my attempt for [[https://www.buildingasecondbrain.com/][Building A Second Brain]]. Here I organized my information with [[file:PARA.org][PARA]] method.
+I am [[file:person/Oleksiy Nehlyadyuk.org][Oleksiy Nehlyadyuk]] and this is my attempt for [[https://www.buildingasecondbrain.com/][Building A Second Brain]]. Here I organized my information with [[file:PARA.org][PARA]] method.
 
 + [[file:project.org][Project]]
 + [[file:area.org][Area]]
