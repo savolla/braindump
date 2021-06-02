@@ -1,0 +1,7 @@
+#+TITLE: Theory Of Computation Books
+#+STARTUP: overview
+#+ROAM_TAGS: moc
+#+CREATED: [2021-05-31 Pzt]
+#+LAST_MODIFIED: [2021-05-31 Pzt 00:24]
+
++ [[https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/ref=sr_1_1?dchild=1&keywords=theory+of+computation&qid=1622409832&s=books&sr=1-1][Introduction to the Theory of Computation]]

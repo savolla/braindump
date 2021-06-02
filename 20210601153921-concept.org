@@ -1,0 +1,17 @@
+#+TITLE: Open Source
+#+STARTUP: overview
+#+ROAM_ALIAS: "Open Source"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 15:39]
+
+* What Is Open Source?
+TODO:
+# * Why Is Open Source Important?
+# * When To Use Open Source?
+# * How To Use Open Source?
+# * Examples of Open Source
+* Founder(s) of Open Source
+
+* References
++

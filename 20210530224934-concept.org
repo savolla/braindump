@@ -1,0 +1,20 @@
+#+TITLE: System Software
+#+STARTUP: overview
+#+ROAM_TAGS: concept
+#+ROAM_ALIAS: "Systems Software"
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 22:49]
+
+* What Is System Software?
+This is a type of software which _serves to other softwares_. While Application Software serves _Human Users_.
+# * Why Is System Software Important?
+# * When To Use System Software?
+# * How To Use System Software?
+* Examples of System Software
+- Operating System
+- Game Engine
+- Software As A Service Applications
+- Industrial Automation Applications
+
+* References
++ https://en.wikipedia.org/wiki/Systems_programming

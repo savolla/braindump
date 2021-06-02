@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b19b26d4-54e1-4a85-84c6-3a2a21c49c72
+:END:
+#+TITLE: Computer Organization Books
+#+STARTUP: overview
+#+ROAM_TAGS: moc
+#+CREATED: [2021-05-31 Pzt]
+#+LAST_MODIFIED: [2021-05-31 Pzt 00:15]
+
+- [[roam:Computer Organization and Design: The Hardware/Software Interface]]

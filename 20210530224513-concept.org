@@ -1,0 +1,18 @@
+#+TITLE: System Programming
+#+STARTUP: overview
+#+ROAM_TAGS: concept
+#+ROAM_ALIAS: "Systems Programming"
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 22:45]
+
+* What Is System Programming?
+:PROPERTIES:
+:ID:       a62c325d-3244-45e2-8a71-869def3c7b97
+:END:
+Type of [[file:20210530225718-concept.org][Programming]]. System Programming is an activity of programming [[file:20210530224934-concept.org][Systems Software]]
+# * Why Is System Programming Important?
+# * When To Use System Programming?
+# * How To Use System Programming?
+
+* References
++ https://en.wikipedia.org/wiki/Systems_programming

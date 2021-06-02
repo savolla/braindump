@@ -1,0 +1,21 @@
+#+TITLE: Object Oriented Programming
+#+STARTUP: overview
+#+ROAM_ALIAS: "Object Oriented Programming" "Object Orientation" "OOP"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 13:13]
+
+* What Is Object Oriented Programming?
+TODO:
+# * Why Is Object Oriented Programming Important?
+# * When To Use Object Oriented Programming?
+# * How To Use Object Oriented Programming?
+# * Examples of Object Oriented Programming
+* Founder(s) of Object Oriented Programming
+:PROPERTIES:
+:ID:       23df29bc-c526-4e3e-be98-81df8f38f6e5
+:END:
+[[file:person/Alan Kay.org][Alan Kay]]
+
+* References
++

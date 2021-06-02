@@ -1,0 +1,16 @@
+#+TITLE: cpp
+#+STARTUP: overview
+#+ROAM_TAGS: concept
+#+ROAM_ALIAS: "C++" "c++"
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 20:19]
+
+* What Is C++?
+C programming language with classes
+* Why Is C++ Important?
+It brings OOP paradigm to C programming language. It is also used in Embedded Systems programming
+# * When To Use C++?
+# * How To Use C++?
+
+* References
++

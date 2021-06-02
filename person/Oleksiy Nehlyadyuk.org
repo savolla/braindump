@@ -1,0 +1,20 @@
+#+TITLE: Oleksiy Nehlyadyuk
+#+STARTUP: overview
+#+ROAM_ALIAS: "Oleksiy Nehlyadyuk" "savolla" "me" "my"
+#+ROAM_TAGS: person
+#+CREATED: [2021-05-31 Pzt]
+#+LAST_MODIFIED: [2021-05-31 Pzt 20:07]
+
+[[file:./images/screenshot-04.png]]
+
+- blog      :: https://savolla.github.io/
+- telegram  :: https://t.me/savolla92
+- youtube   :: https://www.youtube.com/channel/UCoD-hIdg-gHhrandVLaof1w
+- lives     :: [[https://en.wikipedia.org/wiki/Kocaeli_Province][Kocaeli / Turkey]]
+- mail      :: savolla@protonmail.com
+
+* Who Is Oleksiy Nehlyadyuk?
+:PROPERTIES:
+:ID:       7d79df84-f765-4967-a503-fa125cd1e023
+:END:
+An [[file:../20210531211804-concept.org][Embedded Systems]] [[file:../20210531213326-concept.org][Engineer]] who has lots of other interests like [[file:../20210530222032-moc.org][Music]], [[file:../20210531214510-concept.org][Digital Art]], [[file:../20210531214618-concept.org][Productivity]] and [[file:../20210601012409-concept.org][Mathematics]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bafea0f8-8780-4f12-9801-cd1937c01b1d
+:END:
+#+TITLE: C
+#+STARTUP: overview
+#+ROAM_TAGS: language programming concept
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 23:16]
+
+* What Is C?
+:PROPERTIES:
+:ID:       427eb86a-fe38-48fd-a7f7-fb48fae5eda0
+:END:
+C is a [[file:20210530224252-concept.org][System Programming Language]] which uses [[file:20210530232047-concept.org][Structural Programming]] [[file:20210530232754-concept.org][Paradigm]]
+# * Why Is C Important?
+# * When To Use C?
+# * How To Use C?
+# * Examples of C
+
+* References
++

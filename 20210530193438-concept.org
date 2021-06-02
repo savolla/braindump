@@ -1,0 +1,14 @@
+#+TITLE: Computer Science
+#+STARTUP: overview
+#+ROAM_TAGS: concept
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 19:34]
+
+* What Is Computer Science?
+TODO
+# * Why Is Computer Science Important?
+# * When To Use Computer Science?
+# * How To Use Computer Science?
+
+* References
++

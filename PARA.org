@@ -1,0 +1,13 @@
+#+TITLE: PARA
+#+STARTUP: overview
+#+ROAM_TAGS: concept
+
+* What Is PARA?
+Digital information management method that founded by [[file:tiago-forte.org][Tiago Forte]].
+
+# * Why PARA is important?
+# * When to use PARA?
+# * How to use PARA?
+
+* References
++ https://www.youtube.com/watch?v=EZDZEhbhEpo

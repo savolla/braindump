@@ -1,0 +1,17 @@
+#+TITLE: Painting
+#+STARTUP: overview
+#+ROAM_ALIAS: "Painting"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 12:29]
+
+* What Is Painting?
+
+# * Why Is Painting Important?
+# * When To Use Painting?
+# * How To Use Painting?
+# * Examples of Painting
+* Founder(s) of Painting
+
+* References
++

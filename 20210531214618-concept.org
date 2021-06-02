@@ -1,0 +1,16 @@
+#+TITLE: Productivity
+#+STARTUP: overview
+#+ROAM_TAGS: concept
+#+CREATED: [2021-05-31 Pzt]
+#+LAST_MODIFIED: [2021-05-31 Pzt 21:46]
+
+* What Is Productivity?
+TODO
+# * Why Is Productivity Important?
+# * When To Use Productivity?
+# * How To Use Productivity?
+# * Examples of Productivity
+# * Founder(s) of Productivity
+
+* References
++

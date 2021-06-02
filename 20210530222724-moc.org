@@ -1,0 +1,5 @@
+#+TITLE: Hardware Description Language MOC
+#+STARTUP: overview
+#+ROAM_TAGS: moc
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 22:27]

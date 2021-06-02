@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ee3b9868-c753-4b24-a2c4-44111a313b09
+:END:
+#+TITLE: Book
+#+STARTUP: overview
+#+ROAM_TAGS: resource concept moc
+#+CREATED: [2021-05-31 Pzt]
+#+LAST_MODIFIED: [2021-05-31 Pzt 00:08]
+
+
+- [[file:20210601012219-moc.org][Programming Language Books]]
+- [[file:20210601013444-moc.org][Math Books]]
+- [[id:a5275a61-aec7-46e1-97ed-0fa03c0ab1f6][Computer Science Books]]

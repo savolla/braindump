@@ -1,0 +1,23 @@
+#+TITLE: Person
+#+STARTUP: overview
+#+ROAM_ALIAS: "Person"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 20:12]
+
+* What Is Person?
+TODO
+# * Why Is Person Important?
+# * When To Use Person?
+# * How To Use Person?
+# * Examples of Person
+* Founder(s) of Person
+* References
++
+
+* MOC
+- [[file:person/Alan Kay.org][Alan Kay]]
+- [[file:person/Oleksiy Nehlyadyuk.org][Oleksiy Nehlyadyuk]]
+- [[file:person/Dennis Ritchie.org][Dennis Ritchie]]
+- [[file:person/William Sawyer.org][William Sawyer]]
+- [[id:cf04e453-019c-4369-adc9-979e08c1bd72][Tiago Forte]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a5275a61-aec7-46e1-97ed-0fa03c0ab1f6
+:END:
+#+TITLE: Computer Science Books
+#+STARTUP: overview
+#+ROAM_TAGS: book moc
+#+CREATED: [2021-05-31 Pzt]
+#+LAST_MODIFIED: [2021-05-31 Pzt 00:12]
+
+- [[file:20210531001537-moc.org][Computer Organization Books]]
+- [[file:20210531002428-moc.org][Theory Of Computation Books]]

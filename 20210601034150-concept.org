@@ -1,0 +1,36 @@
+#+TITLE: Youtube
+#+STARTUP: overview
+#+ROAM_ALIAS: "Youtube"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 03:41]
+
+* TL;DR
+** What Is Youtube?
+:PROPERTIES:
+:ID:       cbb25c5e-198b-42ff-aff7-1be114fb4680
+:END:
+It is a [[file:20210601201633-concept.org][Website]] which is a [[file:resources.org][Resource]] of [[id:47efb087-ff41-4686-bf0f-77bae5589ec3][Video]]
+# * Why Is Youtube Important?
+# * When To Use Youtube?
+# * How To Use Youtube?
+# * Examples of Youtube
+** Founder(s) of Youtube
+
+** References
++
+* §
+** MOC
+# * Claim
+# * Anecdote
+# ** Story
+# ** Stat
+# ** Study
+# ** Chart
+# * Name
+# ** Place
+# ** People
+# ** Event
+# ** Date
+# * Tip
+# * Howto

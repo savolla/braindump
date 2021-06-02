@@ -1,0 +1,25 @@
+#+TITLE: Finished Books
+#+ROAM_TAGS: archive moc
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 02:33]
+
+The list of [[file:person/Oleksiy Nehlyadyuk.org][my]] finished [[id:ee3b9868-c753-4b24-a2c4-44111a313b09][Book]]s
+
+* Fiction
+- [[roam:Alamut]]
+- [[roam:Crime and Punishment]]
+- [[roam:Notes from Underground]]
+- [[roam:Diary of a Madman]]
+- [[roam:The Nose]]
+- [[roam:The Portrait]]
+- [[roam:The Overcoat]]
+- [[roam:How Much Land Does a Man Need?]]
+- [[roam:Divergent]]
+- [[roam:Empaty]]
+- [[roam:Monte Cristo]]
+- [[roam:Animal Farm]]
+- [[roam:The Alchemist]]
+- [[roam:Le Serment des limbes]]
+
+* Non-Fiction
+- [[roam:İnsan ve Davranışı]]

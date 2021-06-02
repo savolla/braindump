@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b9840d97-54d0-40bb-952c-d0667d82c480
+:END:
+#+TITLE: Programming Moc
+#+STARTUP: overview
+#+ROAM_TAGS: moc
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 22:21]
+
+[[file:MOC.org][MOC]] of Programming. Includes a list of Programming Languages
+
+- [[file:20210530222347-moc.org][Programming Language MOC]]

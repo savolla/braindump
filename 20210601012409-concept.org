@@ -1,0 +1,16 @@
+#+TITLE: Math
+#+STARTUP: overview
+#+ROAM_ALIAS: "Math" "Mathematics"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 01:24]
+
+* What Is Maht?
+# * Why Is Maht Important?
+# * When To Use Maht?
+# * How To Use Maht?
+# * Examples of Maht
+* Founder(s) of Maht
+
+* References
++

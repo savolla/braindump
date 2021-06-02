@@ -1,0 +1,33 @@
+#+TITLE: Paper
+#+STARTUP: overview
+#+ROAM_ALIAS: "Paper"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 20:28]
+
+* TL;DR
+** What Is Paper?
+TODO
+# * Why Is Paper Important?
+# * When To Use Paper?
+# * How To Use Paper?
+# * Examples of Paper
+** Founder(s) of Paper
+** References
++
+
+* §
+** MOC
+# * Claim
+# * Anecdote
+# ** Story
+# ** Stat
+# ** Study
+# ** Chart
+# * Name
+# ** Place
+# ** People
+# ** Event
+# ** Date
+# * Tip
+# * Howto

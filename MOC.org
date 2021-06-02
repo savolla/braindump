@@ -1,0 +1,15 @@
+#+TITLE: MOC
+#+STARTUP: overview
+#+ROAM_TAGS: concept
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 15:55]
+
+* What Is MOC?
+MOC is a *Map Of Content* which is curated list of links, somewhat akin to a table of contents, that pulls together notes related to a topic. MOCs are an _alternative way to organize information_ that provides the flexibility of tags along with a less-rigid hierarchy of folders.
+
+# * why MOC is important?
+# * when to use MOC?
+# * how to use MOC?
+
+* References
++ https://www.ideasnotebook.com/Map+of+Content

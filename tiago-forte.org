@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       cf04e453-019c-4369-adc9-979e08c1bd72
+:END:
+#+TITLE: Tiago Forte
+#+ROAM_TAGS: person productivity
+
+- website   :: https://fortelabs.co/
+- blog      :: https://fortelabs.co/blog/
+- social    :: [[https://www.youtube.com/user/simulacrumsquared][Youtube Channel]]
+- lives     :: Long Beach, California
+- phone     ::
+- mail      ::
+- reference ::
+
+[[file:./images/screenshot-03.png]]
+
+* Who Is Tiage Forte?
+:PROPERTIES:
+:ID:       cb2df535-2d96-4051-92e7-c574b5fa4dc8
+:END:
+Tiago Forte is a writer, speaker and teacher who focuses mostly on [[file:20210531214618-concept.org][Productivity]]. He is the founder of [[file:PARA.org][PARA]] method and has a great course called [[https://www.buildingasecondbrain.com/][Building A Second Brain]]
+
+* Resources
+:PROPERTIES:
+:ID:       e5bca88d-f18c-4f86-83df-ec4952fea550
+:END:
++ https://fortelabs.co/about-forte-labs/

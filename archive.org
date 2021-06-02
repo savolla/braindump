@@ -1,0 +1,16 @@
+#+TITLE: Archive
+#+roam_tags: productivity concept
+- source :: https://www.youtube.com/watch?v=EZDZEhbhEpo
+
+* what is Archive?
+The *fourth* letter of [[file:PARA.org][PARA]] method. *Inactive* items of other 3 categories. Can be used in future which makes it *Reusable*
+
+* Example Of Archive
+- Finished [[file:project.org][Project]]s
+- Notes taken from [[file:resources.org][Resources]]
+- Well designed slide
+
+* When To Use Archive?
+- You can put your finished [[file:project.org][Project]]s on your portfolio for showcase
+
+- You can also refer to *well organized notes* you took from [[file:resources.org][Resources]] like books, video lecturec etc. to recall some concepts, facts and tips etc.

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       06827548-74ff-4597-bd9a-e034620e89b9
+:END:
+#+TITLE: Second Brain
+#+AUTHOR: Oleksiy Nehlyadyuk
+#+STARTUP: overview
+#+ROAM_TAGS: moc
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 17:28]
+
+[[file:./images/screenshot-02.png]]
+
+I am [[file:person/Oleksiy Nehlyadyuk.org][Oleksiy Nehlyadyuk]]  and this is my attempt for [[https://www.buildingasecondbrain.com/][Building A Second Brain]]. Here I organized my information with [[file:PARA.org][PARA]] method.
+
++ [[file:project.org][Project]]
++ [[file:area.org][Area]]
++ [[file:resources.org][Resource]]
++ [[file:Archive-MOC.org][Archive]]

@@ -1,0 +1,33 @@
+#+TITLE: Website
+#+STARTUP: overview
+#+ROAM_ALIAS: "Website"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 20:16]
+
+* TL;DR
+** What Is Website?
+A website is a collection of web pages and related content that is identified by a common domain name and published on at least one web server.
+# * Why Is Website Important?
+# * When To Use Website?
+# * How To Use Website?
+# * Examples of Website
+
+** References
++ https://en.wikipedia.org/wiki/Website
+
+* §
+** MOC
+# * Claim
+# * Anecdote
+# ** Story
+# ** Stat
+# ** Study
+# ** Chart
+# * Name
+# ** Place
+# ** People
+# ** Event
+# ** Date
+# * Tip
+# * Howto

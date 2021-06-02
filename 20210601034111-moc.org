@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       47efb087-ff41-4686-bf0f-77bae5589ec3
+:END:
+#+TITLE: Video
+#+STARTUP: overview
+#+ROAM_TAGS: moc
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 03:41]
+
+- [[file:20210601034150-concept.org][Youtube]]

@@ -1,0 +1,16 @@
+#+TITLE: System
+#+STARTUP: overview
+#+ROAM_TAGS: concept
+#+CREATED: [2021-05-31 Pzt]
+#+LAST_MODIFIED: [2021-05-31 Pzt 21:39]
+
+* What Is System?
+TODO
+# * Why Is System Important?
+# * When To Use System?
+# * How To Use System?
+# * Examples of System
+* Founder(s) of System
+
+* References
++

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       86cb86d3-726f-46bd-bc80-6687cbefb55e
+:END:
+#+TITLE: Computer Organization and Design: The Hardware/Software Interface
+#+AUTHOR: David A. Patterson
+#+AUTHOR: John L. Hennessy
+#+STARTUP: overview
+#+ROAM_TAGS: book
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 03:25]
+
+This [[id:ee3b9868-c753-4b24-a2c4-44111a313b09][Book]] is recommended by [[file:person/William Sawyer.org][William Sawyer]] in [[https://www.youtube.com/watch?v=CDO28Esqmcg&list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu][this course]]
+
+* note
+* concept
+* claim
+* anecdote
+** story
+** stat
+** study
+** chart
+* name
+** place
+** people
+** event
+** date
+* tip
+* howto

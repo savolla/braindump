@@ -1,0 +1,20 @@
+#+TITLE: Hello World Program
+#+STARTUP: overview
+#+ROAM_ALIAS: "Hello World Program" "Hello World"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 20:15]
+
+* What Is Hello World Program?
+The first program you write when learning a new programming language
+
+* Why Is Hello World Program Important?
+:PROPERTIES:
+:ID:       edcba046-86c8-49bc-ba43-cf2c88e3af0b
+:END:
+It is easiest program to write in most programming languages
+# * When To Use Hello World Program?
+# * How To Use Hello World Program?
+
+* References
++

@@ -1,0 +1,31 @@
+#+TITLE: Software
+#+STARTUP: overview
+#+ROAM_ALIAS: "Software"
+#+ROAM_TAGS: programming concept
+#+CREATED: [2021-06-01 Sal]
+#+LAST_MODIFIED: [2021-06-01 Sal 22:48]
+
+* TL;DR
+** What Is Software?
+TODO:
+# * Why Is Software Important?
+# * When To Use Software?
+# * How To Use Software?
+# * Examples of Software
+** References
++
+* §
+# * MOC
+# * Claim
+# * Anecdote
+# ** Story
+# ** Stat
+# ** Study
+# ** Chart
+# * Name
+# ** Place
+# ** People
+# ** Event
+# ** Date
+# * Tip
+# * Howto

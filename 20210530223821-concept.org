@@ -1,0 +1,14 @@
+#+TITLE: Programming Language
+#+STARTUP: overview
+#+ROAM_TAGS: concept
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 22:38]
+
+* What Is Programming Language?
+TODO
+# * Why Is Programming Language Important?
+# * When To Use Programming Language?
+# * How To Use Programming Language?
+
+* References
++
