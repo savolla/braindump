@@ -1,0 +1,16 @@
+#+TITLE: Dennis Ritchie
+#+STARTUP: overview
+#+ROAM_TAGS: person
+#+CREATED: [2021-05-30 Paz]
+#+LAST_MODIFIED: [2021-05-30 Paz 23:33]
+
+- website   ::
+- blog      ::
+- social    ::
+- lives     ::
+- phone     ::
+- mail      ::
+- reference :: wikpedia
+
+* who is Dennis Ritchie?
+The father of [[id:bafea0f8-8780-4f12-9801-cd1937c01b1d][C]] [[file:20210530223821-concept.org][Programming Language]]

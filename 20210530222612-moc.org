@@ -10,5 +10,5 @@
 [[file:MOC.org][MOC]] for [[file:20210530224252-concept.org][System Programming Language]]
 
 - [[id:bafea0f8-8780-4f12-9801-cd1937c01b1d][C]]
-- [[file:20210530201910-cpponcppept.org][C++]]
+- [[file:20210530201910-concept.org][C++]]
 - [[file:20210530233525-concept.org][Rust]]

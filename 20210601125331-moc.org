@@ -4,7 +4,7 @@
 #+CREATED: [2021-06-01 Sal]
 #+LAST_MODIFIED: [2021-06-01 Sal 12:53]
 
-[[file:20210601125121-concept.org][Code Snippets]] of [[file:20210530201910-cpponcppept.org][C++]] [[file:20210530223821-concept.org][Programming Language]]
+[[file:20210601125121-concept.org][Code Snippets]] of [[file:20210530201910-concept.org][C++]] [[file:20210530223821-concept.org][Programming Language]]
 
 - [[file:20210530201501-concept.org][Hello World]]
   #+begin_src cpp

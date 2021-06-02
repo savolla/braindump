@@ -18,7 +18,7 @@ A [[file:20210530223821-concept.org][Programming Language]] that used for [[file
 :ID:       ad37924a-2ab7-4458-84ea-7693df000006
 :END:
 - [[file:20210530231659-concept.org][C]]
-- [[file:20210530201910-cpponcppept.org][C++]]
+- [[file:20210530201910-concept.org][C++]]
 - [[file:20210530233525-concept.org][Rust]]
 
 * References

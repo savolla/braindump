@@ -8,12 +8,11 @@
 #+CREATED: [2021-05-30 Paz]
 #+LAST_MODIFIED: [2021-05-30 Paz 17:28]
 
-[[file:./images/screenshot-07.png]] I am [[file:Oleksiy Nehlyadyuk.org][Oleksiy Nehlyadyuk]] a.k.a. [[file:Oleksiy Nehlyadyuk.org][savolla]] and this is my attempt for [[https://www.buildingasecondbrain.com/][Building A Second Brain]]. I connect concepts with each other to create connections between them. I don't simply list and store those concepts inside a file because this is not how our brain works. So I'm replicating a Brain here. Here I organized my knowledge with [[file:PARA.org][PARA]] method;
+I am [[file:Oleksiy Nehlyadyuk.org][Oleksiy Nehlyadyuk]] a.k.a. [[file:Oleksiy Nehlyadyuk.org][savolla]] and this is my attempt for [[https://www.buildingasecondbrain.com/][Building A Second Brain]]. I connect concepts with each other to create connections between them. I don't simply list and store those concepts inside a file because this is not how our brain works. So I'm replicating a Brain here. Here I organized my knowledge with [[file:PARA.org][PARA]] method;
 
 #+begin_quote
 BTW that brain is so fresh! I'm constantly developing it.
 #+end_quote
-
 
 + [[file:project.org][Project]]
 + [[file:area.org][Area]]
