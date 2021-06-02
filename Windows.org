@@ -10,7 +10,7 @@
 :PROPERTIES:
 :ID:       45ebd022-1dcc-46cb-94ee-db95bdf44dfe
 :END:
-A [[file:Proprietary.org][Proprietary]] [[file:Operating System.org][Operating System]] that runs by [[file:Microsoft.org][Microsoft]]
+A [[file:Proprietary.org][Proprietary]] [[file:Operating-System.org][Operating System]] that runs by [[file:Microsoft.org][Microsoft]]
 # ** Why Is Windows Important?
 # ** When To Use Windows?
 # ** How To Use Windows?

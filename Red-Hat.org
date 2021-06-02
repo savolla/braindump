@@ -1,0 +1,36 @@
+#+TITLE: Red Hat
+#+STARTUP: overview
+#+ROAM_ALIAS: "Red Hat"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 22:36]
+
+* TL;DR
+** What Is Red Hat?
+:PROPERTIES:
+:ID:       b82ae8e9-b525-4a1a-a727-100bd3c1807e
+:END:
+Company which sells Consultancy for their [[file:Linux.org][Linux]] [[file:Distro.org][Distro]] called [[file:Red-Hat-Enterprise.org][Red Hat Enterprise]]
+# ** Why Is Red Hat Important?
+# ** When To Use Red Hat?
+# ** How To Use Red Hat?
+# ** Examples of Red Hat
+** Founder(s) of Red Hat
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

@@ -4,7 +4,6 @@
 #+CREATED: [2021-05-30 Paz]
 #+LAST_MODIFIED: [2021-05-30 Paz 19:34]
 
-
 * TL;DR
 ** What Is Computer Science?
 TODO
@@ -23,7 +22,7 @@ TODO
 - [[file:20210530225718-concept.org][Programming]]
 - [[file:20210531002727-concept.org][Computer Organization]]
 - [[file:Networking.org][Networking]]
-- [[file:Computer Architecture.org][Computer Architecture]]
+- [[file:Computer-Architecture.org][Computer Architecture]]
 # ** Claim
 # ** Anecdote
 # *** Story

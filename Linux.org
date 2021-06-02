@@ -10,7 +10,7 @@
 :PROPERTIES:
 :ID:       7902554a-f167-4c95-a3ff-6ea95a2d16a0
 :END:
-It is an [[file:20210601153921-concept.org][Open Source]] [[file:Kernel.org][Kernel]] which is part of [[file:GNU.org][GNU]]/Linux [[file:Operating System.org][Operating System]]
+It is an [[file:20210601153921-concept.org][Open Source]] [[file:Kernel.org][Kernel]] which is part of [[file:GNU.org][GNU]]/Linux [[file:Operating-System.org][Operating System]]
 # ** Why Is Linux Important?
 # ** When To Use Linux?
 # ** How To Use Linux?
@@ -18,14 +18,14 @@ It is an [[file:20210601153921-concept.org][Open Source]] [[file:Kernel.org][Ker
 :PROPERTIES:
 :ID:       d7184110-b0a5-4012-a5b9-8efb3fa235e9
 :END:
-- [[file:Arch Linux.org][Arch Linux]]
+- [[file:Arch-Linux.org][Arch Linux]]
 - [[file:Ubuntu.org][Ubuntu]]
 - [[file:Fedora.org][Fedora]]
 ** Founder(s) of Linux
 :PROPERTIES:
 :ID:       ee1a4c61-2031-4adf-a0f5-4ece56f0d150
 :END:
-[[file:person/Linux Torvalds.org][Linux Torvalds]]
+[[file:Linus-Torvalds.org][Linux Torvalds]]
 ** References
 +
 

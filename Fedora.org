@@ -10,7 +10,7 @@
 :PROPERTIES:
 :ID:       3d7f28f5-d61c-44b0-99c8-9e764f3e62b7
 :END:
-[[file:20210601153921-concept.org][Open Source]] [[file:Operating System.org][Operating System]] from [[file:Red Hat.org][Red Hat]]. Focuses on Desktop usage instead of [[file:Server.org][Server]]s like [[file:Centos.org][Centos]].
+[[file:20210601153921-concept.org][Open Source]] [[file:Operating-System.org][Operating System]] from [[file:Red-Hat.org][Red Hat]]. Focuses on Desktop usage instead of [[file:Server.org][Server]]s like [[file:Centos.org][Centos]].
 # ** Why Is Fedora Important?
 # ** When To Use Fedora?
 # ** How To Use Fedora?

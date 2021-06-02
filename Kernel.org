@@ -7,7 +7,7 @@
 
 * TL;DR
 ** What Is Kernel?
-Core of an [[file:Operating System.org][Operating System]]
+Core of an [[file:Operating-System.org][Operating System]]
 # ** Why Is Kernel Important?
 # ** When To Use Kernel?
 # ** How To Use Kernel?

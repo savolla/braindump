@@ -4,7 +4,8 @@
 #+CREATED: [2021-05-30 Paz]
 #+LAST_MODIFIED: [2021-05-30 Paz 23:20]
 
-* What Is Structured Programming?
+* TL;DR
+** What Is Structured Programming?
 :PROPERTIES:
 :ID:       2dc10140-b71c-4276-a3c1-a159e5b72a8c
 :END:
@@ -14,5 +15,21 @@ Type of [[file:20210530232537-concept.org][Programming Paradigm]] that uses stru
 # * How To Use Structured Programming?
 # * Examples of Structured Programming
 
-* References
+** References
 +
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

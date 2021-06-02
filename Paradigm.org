@@ -15,7 +15,7 @@ TODO
 :END:
 - [[file:20210530232047-concept.org][Structural Programming]]
 - [[file:20210601131344-concept.org][Object Oriented Programming]]
-- [[file:Functional Programming.org][Functional Programming]]
+- [[file:Functional-Programming.org][Functional Programming]]
 
 * References
 +

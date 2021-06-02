@@ -16,7 +16,7 @@ TODO:
 :PROPERTIES:
 :ID:       30b12317-b47f-440b-9de8-4fd5fbff4234
 :END:
-[[file:Richard Stallman.org][Richard Stallman]]
+[[file:Richard-Stallman.org][Richard Stallman]]
 ** References
 +
 

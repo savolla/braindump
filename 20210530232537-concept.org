@@ -4,13 +4,32 @@
 #+CREATED: [2021-05-30 Paz]
 #+LAST_MODIFIED: [2021-05-30 Paz 23:25]
 
-* What Is Programming Paradigm?
+* TL;DR
+** What Is Programming Paradigm?
 TODO
 # * Why Is Programming Paradigm Important?
 # * When To Use Programming Paradigm?
 # * How To Use Programming Paradigm?
-* Examples of Programming Paradigm
--
+** Examples of Programming Paradigm
+- [[file:20210530232047-concept.org][Structural Programming]]
+- [[file:20210601131344-concept.org][OOP]]
+- [[file:Functional-Programming.org][Functional Programming]]
 
-* References
+** References
 +
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

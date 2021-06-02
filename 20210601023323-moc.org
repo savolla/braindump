@@ -3,10 +3,13 @@
 #+CREATED: [2021-06-01 Sal]
 #+LAST_MODIFIED: [2021-06-01 Sal 02:33]
 
-The list of [[file:person/Oleksiy Nehlyadyuk.org][my]] finished [[id:ee3b9868-c753-4b24-a2c4-44111a313b09][Book]]s
+The list of [[file:Oleksiy-Nehlyadyuk.org][my]] finished [[id:ee3b9868-c753-4b24-a2c4-44111a313b09][Book]]s
 
 * Fiction
-- [[roam:Alamut]]
+:PROPERTIES:
+:ID:       59648608-9e12-4081-b980-8879ecaf04dc
+:END:
+- [[file:20210603005109-book.org][Alamut]]
 - [[roam:Crime and Punishment]]
 - [[roam:Notes from Underground]]
 - [[roam:Diary of a Madman]]

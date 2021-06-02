@@ -16,7 +16,7 @@ Corporation
 :PROPERTIES:
 :ID:       180b7f6a-7756-4c61-8b51-548a56f68a85
 :END:
-[[roam:Bill Gates]]
+[[file:Bill-Gates.org][Bill Gates]]
 ** References
 +
 
