@@ -1,0 +1,21 @@
+#+TITLE: Luke Smith
+#+STARTUP: overview inlineimages
+#+ROAM_TAGS: person
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 21:43]
+
+[[file:./images/screenshot-02.png]]
+
+- website   :: https://lukesmith.xyz/
+- blog      :: https://lukesmith.xyz/blog
+- social    :: https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA
+- lives     ::
+- phone     ::
+- mail      :: luke@lukesmith.xyz
+- reference :: Youtube
+
+* Who Is Luke Smith?
+:PROPERTIES:
+:ID:       d3aae8b5-53db-41a4-8343-b8ff86b9f3a6
+:END:
+[[file:../20210601153921-concept.org][Open Source]] and [[file:../Linux.org][Linux]] enthusiast. Also has a [[file:../20210601034150-concept.org][Youtube Channel]].

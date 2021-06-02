@@ -1,20 +1,27 @@
 #+TITLE: Area
 #+STARTUP: overview
 #+roam_tags: concept
-- source :: https://www.youtube.com/watch?v=EZDZEhbhEpo
+#+DESCRIPTON: Areas that I'm interested in
 
-* what is Area?
+* TL;DR
+** What Is Area?
 The *second* letter of [[file:PARA.org][PARA]] method. A *Field* or a *Topic*. Does not have a *deadline* like [[file:project.org][Project]] has.
 
-* Example of Area
+** Example of Area
 - [[file:20210530225718-concept.org][Programming]]
 - [[file:20210531211804-concept.org][Embedded System]]
 - Mathematics
-
-* MOC
-- [[file:computer-science-MOC.org][Computer Science MOC]]
-- [[file:20210530221403-moc.org][Software Engineering MOC]]
-- [[file:20210530221853-moc.org][Embedded Systems MOC]]
+** Resource
++ https://www.youtube.com/watch?v=EZDZEhbhEpo
+* §
+** MOC
+:PROPERTIES:
+:ID:       ee4d41a4-f721-4fb2-a6dd-694fb4d1d64e
+:END:
+- [[file:Software Engineering.org][Software Engineering]]
+- [[file:20210530193438-concept.org][Computer Science]]
+- [[file:20210531211804-concept.org][Embedded Systems]]
+- [[file:Electronics.org][Electronics]]
 - [[file:20210601012409-concept.org][Math]]
-- [[file:20210530222032-moc.org][Music]]
+- [[file:Music.org][Music]]
 - [[file:20210531214510-concept.org][Digital Art]]

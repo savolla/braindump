@@ -4,7 +4,8 @@
 #+CREATED: [2021-05-30 Paz]
 #+LAST_MODIFIED: [2021-05-30 Paz 22:42]
 
-* What Is System Programming Language?
+* TL;DR
+** What Is System Programming Language?
 :PROPERTIES:
 :ID:       5d394f51-4678-4d1d-b1a1-5ff25e684bbc
 :END:
@@ -13,7 +14,7 @@ A [[file:20210530223821-concept.org][Programming Language]] that used for [[file
 # * Why Is System Programming Language Important?
 # * When To Use System Programming Language?
 # * How To Use System Programming Language?
-* Examples of System Programming Language
+** Examples of System Programming Language
 :PROPERTIES:
 :ID:       ad37924a-2ab7-4458-84ea-7693df000006
 :END:
@@ -21,5 +22,24 @@ A [[file:20210530223821-concept.org][Programming Language]] that used for [[file
 - [[file:20210530201910-concept.org][C++]]
 - [[file:20210530233525-concept.org][Rust]]
 
-* References
+** References
 +
+
+* §
+** MOC
+- [[id:bafea0f8-8780-4f12-9801-cd1937c01b1d][C]]
+- [[file:20210530201910-concept.org][C++]]
+- [[file:20210530233525-concept.org][Rust]]
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

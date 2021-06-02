@@ -4,13 +4,30 @@
 #+CREATED: [2021-05-31 Pzt]
 #+LAST_MODIFIED: [2021-05-31 Pzt 00:27]
 
-* What Is Computer Organization?
+* TL;DR
+** What Is Computer Organization?
 TODO
 # * Why Is Computer Organization Important?
 # * When To Use Computer Organization?
 # * How To Use Computer Organization?
 # * Examples of Computer Organization
-* Founder(s) of Computer Organization
+** Founder(s) of Computer Organization
 
-* References
+** References
 +
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

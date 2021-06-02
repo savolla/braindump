@@ -1,5 +1,34 @@
-#+TITLE: Scripting Programming Language MOC
+#+TITLE: Scripting Programming Language
 #+STARTUP: overview
 #+ROAM_TAGS: moc
+#+ROAM_ALIAS: "Scripting Programming Language" "Scripting Language"
 #+CREATED: [2021-05-30 Paz]
 #+LAST_MODIFIED: [2021-05-30 Paz 22:27]
+
+* TL;DR
+** What Is Scripting Programming Language?
+TODO:
+# ** Why Is Scripting Programming Language Important?
+# ** When To Use Scripting Programming Language?
+# ** How To Use Scripting Programming Language?
+# ** Examples of Scripting Programming Language
+** Founder(s) of Scripting Programming Language
+
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

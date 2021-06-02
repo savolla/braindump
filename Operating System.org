@@ -1,0 +1,40 @@
+#+TITLE: Operating System
+#+STARTUP: overview
+#+ROAM_ALIAS: "Operating System" "OS"
+#+ROAM_TAGS: os computer-science concept
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 22:11]
+
+* TL;DR
+** What Is Operating System?
+TODO:
+# ** Why Is Operating System Important?
+# ** When To Use Operating System?
+# ** How To Use Operating System?
+# ** Examples of Operating System
+** Founder(s) of Operating System
+** References
++
+
+* §
+** MOC
+:PROPERTIES:
+:ID:       6f405990-b2de-4086-9e54-d917fc207bf0
+:END:
+- [[file:Arch Linux.org][Arch Linux]]
+- [[file:Ubuntu.org][Ubuntu]]
+- [[file:Fedora.org][Fedora]]
+- [[file:Windows.org][Windows]]
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

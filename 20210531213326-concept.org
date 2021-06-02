@@ -5,7 +5,8 @@
 #+CREATED: [2021-05-31 Pzt]
 #+LAST_MODIFIED: [2021-05-31 Pzt 21:33]
 
-* What Is Engineer?
+* TL;DR
+** What Is Engineer?
 :PROPERTIES:
 :ID:       64cef9d3-e92e-434b-a78c-a9f7af389492
 :END:
@@ -15,8 +16,24 @@ People who *invent*, *design*, *analyze*, *build* and *test* [[file:202105312139
 # * When To Use Engineer?
 # * How To Use Engineer?
 # * Examples of Engineer
-* Founder(s) of Engineering
+** Founder(s) of Engineering
 That who found "Fire" :)
 
-* References
+** References
 +
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

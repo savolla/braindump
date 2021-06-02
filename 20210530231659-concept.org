@@ -7,7 +7,8 @@
 #+CREATED: [2021-05-30 Paz]
 #+LAST_MODIFIED: [2021-05-30 Paz 23:16]
 
-* What Is C?
+* TL;DR
+** What Is C?
 :PROPERTIES:
 :ID:       427eb86a-fe38-48fd-a7f7-fb48fae5eda0
 :END:
@@ -17,5 +18,21 @@ C is a [[file:20210530224252-concept.org][System Programming Language]] which us
 # * How To Use C?
 # * Examples of C
 
-* References
+** References
 +
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

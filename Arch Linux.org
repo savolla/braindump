@@ -1,0 +1,36 @@
+#+TITLE: Arch Linux
+#+STARTUP: overview
+#+ROAM_ALIAS: "Arch Linux"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 22:27]
+
+* TL;DR
+** What Is Arch Linux?
+An [[file:20210601153921-concept.org][Open Source]] [[file:Operating System.org][Operating System]] which is based on DIY principle.
+** Why Is Arch Linux Important?
+It comes with very minimal installation. You build _your own_ [[file:Operating System.org][Operating System]] on top of that
+# ** When To Use Arch Linux?
+# ** How To Use Arch Linux?
+** Examples of Arch Linux
+- [[roam:Manjaro Linux]]
+- [[roam:Garuda Linux]]
+** Founder(s) of Arch Linux
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

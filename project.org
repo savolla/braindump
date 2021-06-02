@@ -1,6 +1,6 @@
 #+TITLE: Project
 #+roam_tags: productivity concept
-- source :: https://www.youtube.com/watch?v=EZDZEhbhEpo
+#+STARTUP: overview
 
 * TL;DR
 ** what is Project?
@@ -9,6 +9,9 @@ The *first* letter of [[file:PARA.org][PARA]] method. A series of *tasks*. Has *
 ** Example Of Projects
 - Cooking a meal
 - Writing a book
+
+** Resource
++ https://www.youtube.com/watch?v=EZDZEhbhEpo
 
 * §
 ** MOC

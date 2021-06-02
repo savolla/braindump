@@ -1,5 +1,32 @@
 #+TITLE: Object Oriented Language
 #+STARTUP: overview
-#+ROAM_TAGS: moc
+#+ROAM_TAGS: "programming" "concept"
 #+CREATED: [2021-05-30 Paz]
 #+LAST_MODIFIED: [2021-05-30 Paz 22:28]
+
+* TL;DR
+** What Is Object Oriented Language?
+TODO:
+# ** Why Is Object Oriented Language Important?
+# ** When To Use Object Oriented Language?
+# ** How To Use Object Oriented Language?
+# ** Examples of Object Oriented Language
+** Founder(s) of Object Oriented Language
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

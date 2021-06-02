@@ -1,5 +1,5 @@
 #+TITLE: Alan Kay
-#+STARTUP: overview
+#+STARTUP: overview inlineimages
 #+ROAM_TAGS: person
 #+CREATED: [2021-06-01 Sal]
 #+LAST_MODIFIED: [2021-06-01 Sal 13:14]

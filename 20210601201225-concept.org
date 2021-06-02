@@ -1,23 +1,22 @@
 #+TITLE: Person
 #+STARTUP: overview
-#+ROAM_ALIAS: "Person"
+#+ROAM_ALIAS: "Person" "People"
 #+ROAM_TAGS: concept
 #+CREATED: [2021-06-01 Sal]
 #+LAST_MODIFIED: [2021-06-01 Sal 20:12]
 
-* What Is Person?
-TODO
-# * Why Is Person Important?
-# * When To Use Person?
-# * How To Use Person?
-# * Examples of Person
-* Founder(s) of Person
-* References
-+
-
 * MOC
+:PROPERTIES:
+:ID:       23f2d4fb-909d-4b3c-8aec-acace2a486ed
+:END:
 - [[file:Alan-Kay.org][Alan Kay]]
-- [[file:Oleksiy-Nehlyadyuk.org][Oleksiy Nehlyadyuk]]
+- [[file:Andy-Matuschak.org][Andy Matuschak]]
 - [[file:Dennis-Ritchie.org][Dennis Ritchie]]
+- [[file:Oleksiy-Nehlyadyuk.org][Oleksiy Nehlyadyuk]]
 - [[file:William-Sawyer.org][William Sawyer]]
+- [[file:person/Ben Eater.org][Ben Eater]]
+- [[file:person/Luke Smith.org][Luke Smith]]
+- [[file:person/Richard Stallman.org][Richard Stallman]]
 - [[id:cf04e453-019c-4369-adc9-979e08c1bd72][Tiago Forte]]
+- [[file:person/Linux Torvalds.org][Linux Torvalds]]
+- [[file:person/Bill Gates.org][Bill Gates]]

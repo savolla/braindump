@@ -7,29 +7,29 @@
 #+CREATED: [2021-05-31 Pzt]
 #+LAST_MODIFIED: [2021-05-31 Pzt 21:45]
 
-* What Is Digital Art?
+* TL;DR
+** What Is Digital Art?
 TODO
 # * Why Is Digital Art Important?
 # * When To Use Digital Art?
 # * How To Use Digital Art?
 # * Examples of Digital Art
-* Founder(s) of Digital Art
-
-* References
+** Founder(s) of Digital Art
+** References
 +
 
-
-* Note
-* Claim
-* Tip
-* Anecdote
-** Story
-** Stat
-** Study
-** Chart
-* Name
-** Place
-** People
-** Event
-** Date
-* Howto
+* §
+** Note
+** Claim
+** Tip
+** Anecdote
+*** Story
+*** Stat
+*** Study
+*** Chart
+** Name
+*** Place
+*** People
+*** Event
+*** Date
+** Howto

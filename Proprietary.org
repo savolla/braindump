@@ -1,0 +1,33 @@
+#+TITLE: Proprietary
+#+STARTUP: overview
+#+ROAM_ALIAS: "Proprietary"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 22:45]
+
+* TL;DR
+** What Is Proprietary?
+Something that is produced or marketed under _exclusive legal right_ of the inventor or company
+# ** Why Is Proprietary Important?
+# ** When To Use Proprietary?
+# ** How To Use Proprietary?
+# ** Examples of Proprietary
+** Founder(s) of Proprietary
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

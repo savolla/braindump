@@ -1,0 +1,33 @@
+#+TITLE: Hardware
+#+STARTUP: overview
+#+ROAM_ALIAS: "Hardware"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 22:56]
+
+* TL;DR
+** What Is Hardware?
+TODO:
+# ** Why Is Hardware Important?
+# ** When To Use Hardware?
+# ** How To Use Hardware?
+# ** Examples of Hardware
+** Founder(s) of Hardware
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

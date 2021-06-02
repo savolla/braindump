@@ -4,11 +4,34 @@
 #+CREATED: [2021-05-30 Paz]
 #+LAST_MODIFIED: [2021-05-30 Paz 22:38]
 
-* What Is Programming Language?
+* TL;DR
+** What Is Programming Language?
 TODO
 # * Why Is Programming Language Important?
 # * When To Use Programming Language?
 # * How To Use Programming Language?
 
-* References
+** References
 +
+
+* §
+** MOC
+- [[file:20210530224252-concept.org][System Programming Language]]
+- [[file:20210530222724-moc.org][Hardware Description Language]]
+- [[file:20210530222700-moc.org][Scripting Language]]
+- [[file:20210530222805-moc.org][Object Oriented Language]]
+- [[file:20210530223148-moc.org][Web Oriented Language]]
+
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

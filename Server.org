@@ -1,0 +1,36 @@
+#+TITLE: Server
+#+STARTUP: overview
+#+ROAM_ALIAS: "Server"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 22:51]
+
+* TL;DR
+** What Is Server?
+:PROPERTIES:
+:ID:       68268a8f-d9c5-43f4-aede-c564ea8316e5
+:END:
+A piece of [[file:Computer.org][Computer]] [[file:Hardware.org][Hardware]] or [[file:20210601224856-concept.org][Software]] that provides functionality for other programs or devices, called *Clients*.
+# ** Why Is Server Important?
+# ** When To Use Server?
+# ** How To Use Server?
+# ** Examples of Server
+** Founder(s) of Server
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

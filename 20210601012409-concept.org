@@ -5,12 +5,28 @@
 #+CREATED: [2021-06-01 Sal]
 #+LAST_MODIFIED: [2021-06-01 Sal 01:24]
 
-* What Is Maht?
+* TL;DR
+** What Is Maht?
 # * Why Is Maht Important?
 # * When To Use Maht?
 # * How To Use Maht?
 # * Examples of Maht
-* Founder(s) of Maht
+** Founder(s) of Maht
 
-* References
+** References
 +
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

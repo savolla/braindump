@@ -1,0 +1,31 @@
+#+TITLE: GNU
+#+STARTUP: overview
+#+ROAM_ALIAS: "GNU"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 21:57]
+
+* TL;DR
+** What Is GNU?
+Stands for "GNU is Not Unix"
+# ** Why Is GNU Important?
+** Founder(s) of GNU
+[[file:person/Richard Stallman.org][Richard Stallman]]
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

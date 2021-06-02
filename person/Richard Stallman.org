@@ -1,0 +1,21 @@
+#+TITLE: Richard Stallman
+#+STARTUP: overview inlineimages
+#+ROAM_TAGS: person
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 21:56]
+
+[[file:./images/screenshot-03.png]]
+
+- website   :: https://stallman.org/
+- blog      ::
+- social    :: N/A
+- lives     :: New York, US
+- phone     ::
+- mail      ::
+- reference ::
+
+* Who Is Richard Stallman?
+:PROPERTIES:
+:ID:       3811fb4d-d874-47f1-9bc2-979ecea4aac9
+:END:
+The founder of [[file:../20210601153921-concept.org][Open Source]] and [[file:../GNU.org][GNU]] project.

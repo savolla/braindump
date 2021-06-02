@@ -1,5 +1,5 @@
 #+TITLE: Andy Matuschak
-#+STARTUP: overview
+#+STARTUP: overview inlineimages
 #+ROAM_TAGS: "productivity" person
 #+CREATED: [2021-06-01 Sal]
 #+LAST_MODIFIED: [2021-06-01 Sal 22:46]
@@ -18,4 +18,4 @@
 :PROPERTIES:
 :ID:       488c13da-9a4e-44b0-9146-1e4da20eda0b
 :END:
-He is a [[file:../20210601224856-concept.org][Software]] [[file:../20210531213326-concept.org][Engineer]] who created a useful note taking idea called [[file:../20210601203227-concept.org][Evergreen Notes]]
+He is a [[file:20210601224856-concept.org][Software]] [[file:20210531213326-concept.org][Engineer]] who created a useful note taking idea called [[file:20210601203227-concept.org][Evergreen Notes]]

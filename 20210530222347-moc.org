@@ -1,16 +1,1 @@
-:PROPERTIES:
-:ID:       ffbd5581-121d-408a-8ea8-ca938742bd80
-:END:
-#+TITLE: Programming Language MOC
-#+STARTUP: overview
-#+ROAM_TAGS: moc
-#+CREATED: [2021-05-30 Paz]
-#+LAST_MODIFIED: [2021-05-30 Paz 22:23]
-
-[[file:MOC.org][MOC]] of [[file:20210530223821-concept.org][Programming Language]]s
-
-- [[file:20210530222612-moc.org][System Programming Language MOC]]
-- [[file:20210530222724-moc.org][Hardware Description Language MOC]]
-- [[file:20210530222700-moc.org][Scripting Programming Language MOC]]
-- [[file:20210530222805-moc.org][Object Oriented Language MOC]]
-- [[file:20210530223148-moc.org][Web Oriented Language MOC]]
+#+TITLE: 20210530222347 Moc

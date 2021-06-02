@@ -1,17 +1,38 @@
 #+TITLE: Rust
 #+STARTUP: overview
-#+ROAM_TAGS: language concept
+#+ROAM_TAGS: programming language concept
 #+CREATED: [2021-05-30 Paz]
 #+LAST_MODIFIED: [2021-05-30 Paz 23:35]
-- Founder of Rust is
 
-* What Is Rust?
+* TL;DR
+** What Is Rust?
 [[file:20210530224252-concept.org][System Programming Language]] that is fast as [[id:bafea0f8-8780-4f12-9801-cd1937c01b1d][C]]
 # * Why Is Rust Important?
-* When To Use Rust?
+** When To Use Rust?
 Use Rust when you need Speed and Memory Safety
 # * How To Use Rust?
 # * Examples of Rust
+** Founder(s) of Rust
+:PROPERTIES:
+:ID:       220a2b7b-dc4c-451b-ad27-25c39ce56ed7
+:END:
+[[roam:Mozilla]]
 
-* References
+** References
 + https://blog.logrocket.com/when-to-use-rust-and-when-to-use-golang/
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

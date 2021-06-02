@@ -1,6 +1,6 @@
 #+TITLE: William Sawyer
-#+STARTUP: overview
-#+ROAM_TAGS: person
+#+STARTUP: overview inlineimages
+#+ROAM_TAGS: teacher computer-science person
 #+CREATED: [2021-06-01 Sal]
 #+LAST_MODIFIED: [2021-06-01 Sal 03:33]
 
@@ -15,4 +15,4 @@
 - reference :: https://www.youtube.com/watch?v=CDO28Esqmcg&list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu
 
 * Who Is William Sawyer?
-This guy is an extremely great Teacher! I found him on [[https://www.youtube.com/watch?v=CDO28Esqmcg&list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu][this]] [[file:../20210601034150-concept.org][Youtube]] playlist where he teaches [[file:../20210531002727-concept.org][Computer Organization]].
+This guy is an extremely great Teacher! I found him on [[https://www.youtube.com/watch?v=CDO28Esqmcg&list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu][this]] playlist where he teaches [[file:20210531002727-concept.org][Computer Organization]]

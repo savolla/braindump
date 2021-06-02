@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       a5275a61-aec7-46e1-97ed-0fa03c0ab1f6
-:END:
 #+TITLE: Computer Science Books
 #+STARTUP: overview
 #+ROAM_TAGS: book moc

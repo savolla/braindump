@@ -1,16 +1,40 @@
 #+TITLE: Archive
+#+STARTUP: overview
 #+roam_tags: productivity concept
-- source :: https://www.youtube.com/watch?v=EZDZEhbhEpo
 
-* what is Archive?
+* TL;DR
+** What is Archive?
 The *fourth* letter of [[file:PARA.org][PARA]] method. *Inactive* items of other 3 categories. Can be used in future which makes it *Reusable*
 
-* Example Of Archive
+** Example Of Archive
 - Finished [[file:project.org][Project]]s
 - Notes taken from [[file:resources.org][Resources]]
 - Well designed slide
 
-* When To Use Archive?
+** When To Use Archive?
 - You can put your finished [[file:project.org][Project]]s on your portfolio for showcase
 
 - You can also refer to *well organized notes* you took from [[file:resources.org][Resources]] like books, video lecturec etc. to recall some concepts, facts and tips etc.
+** Reference
++ https://www.youtube.com/watch?v=EZDZEhbhEpo
+
+* §
+** MOC
+- [[file:20210601023323-moc.org][Finished Books]]
+- [[file:20210601125121-concept.org][Code Snippets]]
+- [[roam:Bookmark]]
+- [[file:20210601153709-moc.org][Tools]]
+- [[file:20210601203227-concept.org][Evergreen Notes]]
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

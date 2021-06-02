@@ -1,0 +1,33 @@
+#+TITLE: Software Engineering
+#+STARTUP: overview
+#+ROAM_ALIAS: "Software Engineering"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 19:55]
+
+* TL;DR
+** What Is Software Engineering?
+TODO:
+# ** Why Is Software Engineering Important?
+# ** When To Use Software Engineering?
+# ** How To Use Software Engineering?
+# ** Examples of Software Engineering
+** Founder(s) of Software Engineering
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

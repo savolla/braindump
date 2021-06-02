@@ -2,7 +2,10 @@
 :ID:       cf04e453-019c-4369-adc9-979e08c1bd72
 :END:
 #+TITLE: Tiago Forte
+#+STARTUP: overview inlineimages
 #+ROAM_TAGS: person productivity
+
+[[file:./images/screenshot-08.png]]
 
 - website   :: https://fortelabs.co/
 - blog      :: https://fortelabs.co/blog/
@@ -11,8 +14,6 @@
 - phone     ::
 - mail      ::
 - reference ::
-
-[[file:./images/screenshot-03.png]]
 
 * Who Is Tiage Forte?
 :PROPERTIES:

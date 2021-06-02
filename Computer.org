@@ -1,0 +1,33 @@
+#+TITLE: Computer
+#+STARTUP: overview
+#+ROAM_ALIAS: "Computer"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-02 Çrş]
+#+LAST_MODIFIED: [2021-06-02 Çrş 22:55]
+
+* TL;DR
+** What Is Computer?
+TODO:
+# ** Why Is Computer Important?
+# ** When To Use Computer?
+# ** How To Use Computer?
+# ** Examples of Computer
+** Founder(s) of Computer
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto
