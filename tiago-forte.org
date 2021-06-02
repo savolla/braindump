@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       cf04e453-019c-4369-adc9-979e08c1bd72
-:END:
 #+TITLE: Tiago Forte
 #+STARTUP: overview inlineimages
 #+ROAM_TAGS: person productivity

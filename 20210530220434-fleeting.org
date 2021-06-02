@@ -8,6 +8,5 @@
 Always enter your org-roam links inside double square brackets [[]]. Otherwise it will not show one character links like "C" or links like "C++"
 #+end_quote
 
-
 * Resources
 + Org Roam Slack channel @nobiot

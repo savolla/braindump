@@ -1,0 +1,38 @@
+#+TITLE: Note Taking
+#+STARTUP: overview
+#+ROAM_ALIAS: "Note Taking"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-03 Prş]
+#+LAST_MODIFIED: [2021-06-03 Prş 01:18]
+
+* TL;DR
+** What Is Note Taking?
+TODO:
+# ** Why Is Note Taking Important?
+# ** When To Use Note Taking?
+# ** How To Use Note Taking?
+# ** Examples of Note Taking
+** Founder(s) of Note Taking
+** References
++
+
+* §
+** MOC
+:PROPERTIES:
+:ID:       2eee976f-74c8-41ea-8f20-a5e3ad2d8f34
+:END:
+- [[file:MOC.org][MOC]]
+- [[file:20210603012103-person.org][Prograssive Summarization]]
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

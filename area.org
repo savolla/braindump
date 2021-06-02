@@ -25,3 +25,7 @@ The *second* letter of [[file:PARA.org][PARA]] method. A *Field* or a *Topic*. D
 - [[file:20210601012409-concept.org][Math]]
 - [[file:Music.org][Music]]
 - [[file:20210531214510-concept.org][Digital Art]]
+- [[file:20210601123022-concept.org][Art]]
+- [[file:20210531214636-concept.org][Privacy]]
+- [[file:20210601122934-concept.org][Painting]]
+- [[file:20210603011833-person.org][Note Taking]]
