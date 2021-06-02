@@ -2,11 +2,13 @@
 #+roam_tags: productivity concept
 - source :: https://www.youtube.com/watch?v=EZDZEhbhEpo
 
-* what is Project?
+* TL;DR
+** what is Project?
 The *first* letter of [[file:PARA.org][PARA]] method. A series of *tasks*. Has *deadline*. Has a *goal*. Has an *outcome* at the end.
 
-* Example Of Projects
+** Example Of Projects
 - Cooking a meal
 - Writing a book
 
-* MOC
+* §
+** MOC

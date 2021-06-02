@@ -16,8 +16,8 @@ TODO
 +
 
 * MOC
-- [[file:person/Alan Kay.org][Alan Kay]]
-- [[file:person/Oleksiy Nehlyadyuk.org][Oleksiy Nehlyadyuk]]
-- [[file:person/Dennis Ritchie.org][Dennis Ritchie]]
-- [[file:person/William Sawyer.org][William Sawyer]]
+- [[file:Alan Kay.org][Alan Kay]]
+- [[file:Oleksiy Nehlyadyuk.org][Oleksiy Nehlyadyuk]]
+- [[file:Dennis Ritchie.org][Dennis Ritchie]]
+- [[file:William Sawyer.org][William Sawyer]]
 - [[id:cf04e453-019c-4369-adc9-979e08c1bd72][Tiago Forte]]

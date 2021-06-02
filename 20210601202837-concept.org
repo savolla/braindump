@@ -6,6 +6,9 @@
 #+LAST_MODIFIED: [2021-06-01 Sal 20:28]
 
 * TL;DR
+:PROPERTIES:
+:ID:       fcecb17e-3413-419d-9b78-0de19425c1f5
+:END:
 ** What Is Paper?
 TODO
 # * Why Is Paper Important?

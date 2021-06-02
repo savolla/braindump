@@ -11,7 +11,7 @@
 :PROPERTIES:
 :ID:       427eb86a-fe38-48fd-a7f7-fb48fae5eda0
 :END:
-C is a [[file:20210530224252-concept.org][System Programming Language]] which uses [[file:20210530232047-concept.org][Structural Programming]] [[file:20210530232754-concept.org][Paradigm]]
+C is a [[file:20210530224252-concept.org][System Programming Language]] which uses [[file:20210530232047-concept.org][Structural Programming]] [[file:Paradigm.org][Paradigm]]
 # * Why Is C Important?
 # * When To Use C?
 # * How To Use C?

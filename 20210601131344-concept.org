@@ -15,7 +15,7 @@ TODO:
 :PROPERTIES:
 :ID:       23df29bc-c526-4e3e-be98-81df8f38f6e5
 :END:
-[[file:person/Alan Kay.org][Alan Kay]]
+[[file:Alan Kay.org][Alan Kay]]
 
 * References
 +
