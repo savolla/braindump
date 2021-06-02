@@ -14,5 +14,5 @@
 - mail      ::
 - reference :: wikpedia
 
-* who is Dennis Ritchie?
+* Who is Dennis Ritchie?
 The father of [[id:bafea0f8-8780-4f12-9801-cd1937c01b1d][C]] [[file:20210530223821-concept.org][Programming Language]].

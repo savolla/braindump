@@ -10,7 +10,7 @@
 Stands for "GNU is Not Unix"
 # ** Why Is GNU Important?
 ** Founder(s) of GNU
-[[file:person/Richard Stallman.org][Richard Stallman]]
+[[file:Richard Stallman.org][Richard Stallman]]
 ** References
 +
 
