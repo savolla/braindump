@@ -1,12 +1,16 @@
+:PROPERTIES:
+:ID:       37e03e6a-9cd0-4dde-a7a0-006ef456f51e
+:END:
 #+TITLE: problems that cannot be solved by computers
 #+STARTUP: overview
 #+ROAM_TAGS: claim
 #+CREATED: [2021-06-04 Cum]
 #+LAST_MODIFIED: [2021-06-04 Cum 18:15]
 
-- [[roam:Halting Porblem]]
-- [[roam:Kolmogorov Complexity]]
--
+- [[file:20210604181701-concept.org][Halting Porblem]]
+- [[file:20210604183342-concept.org][Kolmogorov Complexity]]
+-jj
+
 
 * Resources
 +

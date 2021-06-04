@@ -1,0 +1,33 @@
+#+TITLE: Algorithm
+#+STARTUP: overview
+#+ROAM_ALIAS: "Algorithm"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-04 Cum]
+#+LAST_MODIFIED: [2021-06-04 Cum 18:38]
+
+* TL;DR
+** What Is Algorithm?
+Step by step instructions that solves a particular problem.
+# ** Why Is Algorithm Important?
+# ** When To Use Algorithm?
+# ** How To Use Algorithm?
+# ** Examples of Algorithm
+# ** Founder(s) of Algorithm
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

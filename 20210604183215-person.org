@@ -1,0 +1,16 @@
+#+TITLE: Alan Turing
+#+STARTUP: overview inlineimages
+#+ROAM_TAGS: person
+#+CREATED: [2021-06-04 Cum]
+#+LAST_MODIFIED: [2021-06-04 Cum 18:32]
+
+- website   ::
+- blog      ::
+- social    ::
+- lives     ::
+- phone     ::
+- mail      ::
+- reference ::
+
+* Who Is Alan Turing?
+TODO:

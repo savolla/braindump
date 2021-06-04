@@ -1,0 +1,35 @@
+#+TITLE: Undecidable
+#+STARTUP: overview
+#+ROAM_ALIAS: "Undecidable"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-04 Cum]
+#+LAST_MODIFIED: [2021-06-04 Cum 18:22]
+
+* TL;DR
+** What Is Undecidable?
+It is a *decision problem* in [[file:20210604141054-concept.org][Computability Theory]] and [[file:20210604140820-concept.org][Complexity Theory]] which is proven to be impossible to construct an [[roam:Algorithm]] that always outputs =True= or =False=
+# ** Why Is Undecidable Important?
+# ** When To Use Undecidable?
+# ** How To Use Undecidable?
+** Examples of Undecidable
+- [[file:20210604181701-concept.org][Halting Porblem]]
+
+** Founder(s) of Undecidable
+** References
++ https://en.wikipedia.org/wiki/Undecidable_problem
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto
