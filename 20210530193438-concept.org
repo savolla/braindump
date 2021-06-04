@@ -23,6 +23,8 @@ TODO
 - [[file:20210531002727-concept.org][Computer Organization]]
 - [[file:Networking.org][Networking]]
 - [[file:Computer-Architecture.org][Computer Architecture]]
+- [[file:20210604140820-concept.org][Complexity Theory]]
+- [[file:20210604141054-concept.org][Computability Theory]]
 # ** Claim
 # ** Anecdote
 # *** Story

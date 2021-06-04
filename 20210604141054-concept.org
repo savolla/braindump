@@ -1,0 +1,33 @@
+#+TITLE: Computability Theory
+#+STARTUP: overview
+#+ROAM_ALIAS: "Computability Theory"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-04 Cum]
+#+LAST_MODIFIED: [2021-06-04 Cum 14:10]
+
+* TL;DR
+** What Is Computability Theory?
+A [[file:20210530193438-concept.org][Computer Science]] field that determines [[file:Computer.org][Computer]] problems as *solvable* or *not solvable*
+# ** Why Is Computability Theory Important?
+# ** When To Use Computability Theory?
+# ** How To Use Computability Theory?
+# ** Examples of Computability Theory
+** Founder(s) of Computability Theory
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto
