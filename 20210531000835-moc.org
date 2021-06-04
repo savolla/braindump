@@ -9,4 +9,4 @@
 
 - [[file:20210601012219-moc.org][Programming Language Books]]
 - [[file:20210601013444-moc.org][Math Books]]
-- [[id:a5275a61-aec7-46e1-97ed-0fa03c0ab1f6][Computer Science Books]]
+- [[file:20210531001227-moc.org][Computer Science Books]]

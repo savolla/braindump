@@ -1,0 +1,7 @@
+#+TITLE: how to solve equations with Absolute Values
+#+STARTUP: showeverything
+#+ROAM_TAGS: algebra absolute-value equation math howto
+#+CREATED: [2021-06-03 Prş]
+#+LAST_MODIFIED: [2021-06-03 Prş 20:56]
+
+Take the square of two sides and solve the equation. It will enlarge the equation but you'll find the correct roots

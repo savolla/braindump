@@ -9,6 +9,8 @@
 #+CREATED: [2021-06-01 Sal]
 #+LAST_MODIFIED: [2021-06-01 Sal 03:25]
 
+[[file:./images/screenshot-02.png]]
+
 This [[id:ee3b9868-c753-4b24-a2c4-44111a313b09][Book]] is recommended by [[file:William-Sawyer.org][William Sawyer]] in [[https://www.youtube.com/watch?v=CDO28Esqmcg&list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu][this course]]
 
 * note

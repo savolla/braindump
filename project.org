@@ -8,10 +8,15 @@ The *first* letter of [[file:PARA.org][PARA]] method. A series of *tasks*. Has *
 
 ** Example Of Projects
 - Cooking a meal
-- Writing a book
+- Writing or Reading a book
 
 ** Resource
 + https://www.youtube.com/watch?v=EZDZEhbhEpo
 
 * §
 ** MOC
+:PROPERTIES:
+:ID:       d36c5ec9-6583-434c-b80d-c4ff4a8b1a07
+:END:
+- Read [[id:86cb86d3-726f-46bd-bc80-6687cbefb55e][Computer Organization and Design: The Hardware/Software Interface]]
+- Read [[file:20210603124032-book.org][Calculus: Early Transcendentals]]

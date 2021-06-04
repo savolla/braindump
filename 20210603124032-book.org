@@ -1,0 +1,24 @@
+#+TITLE: Calculus: Early Transcendentals
+#+AUTHOR: James Stewart
+#+STARTUP: overview inlineimages
+#+ROAM_TAGS: calculus math book
+#+CREATED: [2021-06-03 Prş]
+#+LAST_MODIFIED: [2021-06-03 Prş 12:40]
+
+[[file:./images/screenshot-10.png]]
+
+* note
+* concept
+* claim
+* anecdote
+** story
+** stat
+** study
+** chart
+* name
+** place
+** people
+** event
+** date
+* tip
+* howto

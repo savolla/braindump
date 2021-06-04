@@ -5,3 +5,5 @@
 #+LAST_MODIFIED: [2021-06-01 Sal 01:34]
 
 List of [[id:ee3b9868-c753-4b24-a2c4-44111a313b09][Book]]s that teach [[file:20210601012409-concept.org][Mathematics]]
+
+- [[file:20210603124032-book.org][Calculus: Early Transcendentals]]

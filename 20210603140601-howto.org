@@ -1,0 +1,19 @@
+#+TITLE: how to annotate books
+#+STARTUP: showeverything
+#+ROAM_TAGS: color book annotate howto
+#+CREATED: [2021-06-03 Prş]
+#+LAST_MODIFIED: [2021-06-03 Prş 14:06]
+
+Use this *coloring* convention when annotating [[id:ee3b9868-c753-4b24-a2c4-44111a313b09][Book]]s
+
+| Color   | Meaning  |
+|---------+----------|
+| red     | claims   |
+| yellow  | concepts |
+| blue    | tips     |
+| green   | howtos   |
+|---------+----------|
+| sepia   | story    |
+| orange  | chart    |
+| grey    | people   |
+| magenta | event    |

@@ -35,4 +35,8 @@ TODO:
 # *** Event
 # *** Date
 # ** Tip
-# ** Howto
+** Howto
+:PROPERTIES:
+:ID:       2f77c929-24cb-4ccb-8538-7e9c1ba92756
+:END:
+- [[file:20210603140601-howto.org][how to annotate books]]
