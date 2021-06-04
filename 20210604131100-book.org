@@ -1,0 +1,24 @@
+#+TITLE: Introduction to the Theory of Computation
+#+AUTHOR: Michael Sipser
+#+STARTUP: overview inlineimages
+#+ROAM_TAGS: book
+#+CREATED: [2021-06-04 Cum]
+#+LAST_MODIFIED: [2021-06-04 Cum 13:11]
+
+[[file:./images/screenshot-11.png]]
+
+* note
+* concept
+* claim
+* anecdote
+** story
+** stat
+** study
+** chart
+* name
+** place
+** people
+** event
+** date
+* tip
+* howto
