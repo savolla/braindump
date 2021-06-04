@@ -18,6 +18,11 @@
 * §
 # ** MOC
 # ** Claim
+** Concept
+:PROPERTIES:
+:ID:       46fbf91a-e3db-49ee-b064-b2b5ee105500
+:END:
+- [[file:20210604202153-concept.org][Theorem]]
 # ** Anecdote
 # *** Story
 # *** Stat

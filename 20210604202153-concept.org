@@ -1,0 +1,33 @@
+#+TITLE: Theorem
+#+STARTUP: overview
+#+ROAM_ALIAS: "Theorem"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-04 Cum]
+#+LAST_MODIFIED: [2021-06-04 Cum 20:21]
+
+* TL;DR
+** What Is Theorem?
+It is a mathematical statement that proved True.
+# ** Why Is Theorem Important?
+# ** When To Use Theorem?
+# ** How To Use Theorem?
+# ** Examples of Theorem
+** Founder(s) of Theorem
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto
