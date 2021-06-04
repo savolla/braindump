@@ -9,7 +9,6 @@
 
 - [[file:20210604181701-concept.org][Halting Porblem]]
 - [[file:20210604183342-concept.org][Kolmogorov Complexity]]
--jj
 
 
 * Resources
