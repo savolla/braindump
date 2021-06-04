@@ -7,7 +7,7 @@
 #+CREATED: [2021-06-04 Cum]
 #+LAST_MODIFIED: [2021-06-04 Cum 18:15]
 
-- [[file:20210604181701-concept.org][Halting Porblem]]
+- [[file:20210604181701-concept.org][Halting Problem]]
 - [[file:20210604183342-concept.org][Kolmogorov Complexity]]
 
 

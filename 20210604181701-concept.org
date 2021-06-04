@@ -1,4 +1,4 @@
-#+TITLE: Halting Porblem
+#+TITLE: Halting Problem
 #+STARTUP: overview
 #+ROAM_ALIAS: "Halting Porblem"
 #+ROAM_TAGS: concept
@@ -19,7 +19,7 @@ It is an [[file:20210604182238-concept.org][Undecidable]] [[file:20210530193438-
 :PROPERTIES:
 :ID:       fd74eee0-6dd3-4468-9f6b-f54ca41fa629
 :END:
-[[roam:Alan Turing]]
+[[file:20210604183215-person.org][Alan Turing]]
 ** References
 + https://www.youtube.com/watch?v=Hex2hqPvOQ8
 
