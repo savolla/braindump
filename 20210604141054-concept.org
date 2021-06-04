@@ -18,7 +18,11 @@ A [[file:20210530193438-concept.org][Computer Science]] field that determines [[
 
 * §
 # ** MOC
-# ** Claim
+** Claim
+:PROPERTIES:
+:ID:       3da529ec-c104-40b8-bdb1-55ec7bc1a053
+:END:
+- [[roam:problems that cannot be solved by computers]]
 # ** Anecdote
 # *** Story
 # *** Stat

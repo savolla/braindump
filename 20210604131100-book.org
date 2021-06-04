@@ -1,11 +1,16 @@
+:PROPERTIES:
+:ID:       85a26004-7fba-4f06-bb4e-bedf0159b56a
+:END:
 #+TITLE: Introduction to the Theory of Computation
 #+AUTHOR: Michael Sipser
 #+STARTUP: overview inlineimages
-#+ROAM_TAGS: book
+#+ROAM_TAGS: computer-science toc book
 #+CREATED: [2021-06-04 Cum]
 #+LAST_MODIFIED: [2021-06-04 Cum 13:11]
 
 [[file:./images/screenshot-11.png]]
+
+[[id:ee3b9868-c753-4b24-a2c4-44111a313b09][Book]] on [[file:20210604180808-concept.org][Theory of Computation]]
 
 * note
 * concept
