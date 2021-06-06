@@ -29,3 +29,4 @@ The *second* letter of [[file:PARA.org][PARA]] method. A *Field* or a *Topic*. D
 - [[file:20210531214636-concept.org][Privacy]]
 - [[file:20210601122934-concept.org][Painting]]
 - [[file:20210603011833-person.org][Note Taking]]
+- [[file:20210606205751-congnitive_science.org][Congnitive Science]]
