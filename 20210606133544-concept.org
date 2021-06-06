@@ -1,0 +1,35 @@
+#+TITLE: Complete Graph
+#+STARTUP: overview
+#+ROAM_ALIAS: "Complete Graph"
+#+ROAM_TAGS: graph data-structure computer-science concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 13:35]
+
+* TL;DR
+** What Is Complete Graph?
+Every Edge connected to pair of nodes
+[[file:./images/screenshot-16.png]]
+# ** Why Is Complete Graph Important?
+# ** When To Use Complete Graph?
+# ** How To Use Complete Graph?
+# ** Examples of Complete Graph
+# ** Founder(s) of Complete Graph
+** References
++ https://www.youtube.com/watch?v=uOCSNgDi694&list=PLmnKof5TajdfSFu75Z1aoGiBPi8Wjzjok
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

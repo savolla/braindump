@@ -1,0 +1,34 @@
+#+TITLE: Stack
+#+STARTUP: overview
+#+ROAM_ALIAS: "Stack"
+#+ROAM_TAGS: lifo filo data-structure computer-science concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 13:20]
+
+* TL;DR
+** What Is Stack?
+TODO:
+# ** Why Is Stack Important?
+# ** When To Use Stack?
+# ** How To Use Stack?
+# ** Examples of Stack
+# ** Founder(s) of Stack
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

@@ -1,0 +1,34 @@
+#+TITLE: Queue
+#+STARTUP: overview
+#+ROAM_ALIAS: "Queue"
+#+ROAM_TAGS: data-structure computer-science concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 13:19]
+
+* TL;DR
+** What Is Queue?
+TODO:
+# ** Why Is Queue Important?
+# ** When To Use Queue?
+# ** How To Use Queue?
+# ** Examples of Queue
+# ** Founder(s) of Queue
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

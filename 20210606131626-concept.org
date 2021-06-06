@@ -1,0 +1,45 @@
+#+TITLE: Graph
+#+STARTUP: overview
+#+ROAM_ALIAS: "Graph"
+#+ROAM_TAGS: computer-science data-structure non-linear concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 13:16]
+
+* TL;DR
+** What Is Graph?
+TODO:
+# ** Why Is Graph Important?
+# ** When To Use Graph?
+# ** How To Use Graph?
+** Examples of Graph
+- Places connected by road (Online Maps)
+- Social media friends (Facebook, Twitter)
+- [[file:Computer.org][Computer]] Networks
+# ** Founder(s) of Graph
+** References
++
+
+* §
+** MOC
+- [[id:0a957f82-8e35-4bc3-a497-4f5d8a73dd49][Graphs in C]]
+# ** Claim
+** Concept
+:PROPERTIES:
+:ID:       7e6723e6-e00c-4d00-8310-14522e73650c
+:END:
+- [[file:20210606132917-concept.org][Directed Graph]]
+- [[file:20210606133148-concept.org][Undirected Graph]]
+- [[file:20210606133326-concept.org][Weighted Graph]]
+- [[file:20210606133544-concept.org][Complete Graph]]
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

@@ -1,0 +1,35 @@
+#+TITLE: Directed Graph
+#+STARTUP: overview
+#+ROAM_ALIAS: "Directed Graph"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 13:29]
+
+* TL;DR
+** What Is Directed Graph?
+All Edges are directed to notes
+[[file:./images/screenshot-13.png]]
+# ** Why Is Directed Graph Important?
+# ** When To Use Directed Graph?
+# ** How To Use Directed Graph?
+# ** Examples of Directed Graph
+# ** Founder(s) of Directed Graph
+** References
++ https://www.youtube.com/watch?v=uOCSNgDi694&list=PLmnKof5TajdfSFu75Z1aoGiBPi8Wjzjok
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

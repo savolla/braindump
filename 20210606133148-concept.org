@@ -1,0 +1,35 @@
+#+TITLE: Undirected Graph
+#+STARTUP: overview
+#+ROAM_ALIAS: "Undirected Graph"
+#+ROAM_TAGS: graph computer-science data-structure concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 13:31]
+
+* TL;DR
+** What Is Undirected Graph?
+All Edges between vertices are bidirectional
+[[file:./images/screenshot-14.png]]
+# ** Why Is Undirected Graph Important?
+# ** When To Use Undirected Graph?
+# ** How To Use Undirected Graph?
+# ** Examples of Undirected Graph
+# ** Founder(s) of Undirected Graph
+** References
++ https://www.youtube.com/watch?v=uOCSNgDi694&list=PLmnKof5TajdfSFu75Z1aoGiBPi8Wjzjok
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

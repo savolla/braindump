@@ -1,0 +1,34 @@
+#+TITLE: Linked List
+#+STARTUP: overview
+#+ROAM_ALIAS: "Linked List"
+#+ROAM_TAGS: data-structure computer-science concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 13:14]
+
+* TL;DR
+** What Is Linked List?
+TODO:
+# ** Why Is Linked List Important?
+# ** When To Use Linked List?
+# ** How To Use Linked List?
+# ** Examples of Linked List
+# ** Founder(s) of Linked List
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

@@ -22,7 +22,11 @@ C is a [[file:20210530224252-concept.org][System Programming Language]] which us
 +
 
 * §
-# ** MOC
+** MOC
+:PROPERTIES:
+:ID:       3aa4cc49-5623-4ac0-a3f2-6753add76bb1
+:END:
+- [[id:0a957f82-8e35-4bc3-a497-4f5d8a73dd49][Graphs in C]]
 # ** Claim
 # ** Anecdote
 # *** Story
