@@ -1,0 +1,34 @@
+#+TITLE: Adjacency List
+#+STARTUP: overview
+#+ROAM_ALIAS: "Adjacency List"
+#+ROAM_TAGS: graph data-structure computer-science concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 14:31]
+
+* TL;DR
+** What Is Adjacency List?
+[[file:./images/screenshot-18.png]]
+# ** Why Is Adjacency List Important?
+# ** When To Use Adjacency List?
+# ** How To Use Adjacency List?
+# ** Examples of Adjacency List
+# ** Founder(s) of Adjacency List
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

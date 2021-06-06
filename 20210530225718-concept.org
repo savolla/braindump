@@ -29,7 +29,7 @@ programming is the process of designing and building an executable computer prog
 :ID:       84abacaa-bbd2-416d-88af-c54b9e024882
 :END:
 - [[file:20210606140743-concept.org][Pointer]]
-- [[roam:Double Pointer]]
+- [[file:20210606140812-concept.org][Double Pointer]]
 # ** Anecdote
 # *** Story
 # *** Stat
@@ -41,4 +41,9 @@ programming is the process of designing and building an executable computer prog
 # *** Event
 # *** Date
 ** Tip
+:PROPERTIES:
+:ID:       18a8eaad-bb65-444d-8852-6aad6c6025f6
+:END:
+- If you want to point to any cell in two dimentional array ([[file:20210606141134-concept.org][Matrix]]) you must use [[file:20210606140812-concept.org][Double Pointer]]
+
 # ** Howto

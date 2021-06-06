@@ -31,8 +31,9 @@ TODO:
 - [[file:20210606133148-concept.org][Undirected Graph]]
 - [[file:20210606133326-concept.org][Weighted Graph]]
 - [[file:20210606133544-concept.org][Complete Graph]]
-- [[roam:Adjacency Matrix]]
+- [[file:20210606140234-concept.org][Adjacency Matrix]]
 - [[roam:Adjacency List]]
+
 # ** Anecdote
 # *** Story
 # *** Stat
