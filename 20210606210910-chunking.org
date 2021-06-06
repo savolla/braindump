@@ -1,0 +1,34 @@
+#+TITLE: Chunking
+#+STARTUP: overview
+#+ROAM_ALIAS: "Chunking"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 21:09]
+
+* TL;DR
+** What Is Chunking?
+It's a mnemonic that *splits the information* to more manageable pieces.
+# ** Why Is Chunking Important?
+# ** When To Use Chunking?
+# ** How To Use Chunking?
+# ** Examples of Chunking
+# ** Founder(s) of Chunking
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

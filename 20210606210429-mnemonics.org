@@ -1,0 +1,38 @@
+#+TITLE: Mnemonics
+#+STARTUP: overview
+#+ROAM_ALIAS: "Mnemonics"
+#+ROAM_TAGS: cognitive-science concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 21:04]
+
+* TL;DR
+** What Is Mnemonics?
+:PROPERTIES:
+:ID:       1a592c6d-acc7-4bde-b8fb-004d15ef1666
+:END:
+It's a *memory trick* that helps you *remember long strings of information*
+# ** Why Is Mnemonics Important?
+# ** When To Use Mnemonics?
+# ** How To Use Mnemonics?
+# ** Examples of Mnemonics
+# ** Founder(s) of Mnemonics
+** References
++ https://www.youtube.com/watch?v=Js5Tm1y0igY
+
+* §
+# ** MOC
+# ** Claim
+** Concept
+- [[roam:Chunking]]
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto
