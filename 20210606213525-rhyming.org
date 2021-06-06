@@ -1,0 +1,35 @@
+#+TITLE: Rhyming
+#+STARTUP: overview
+#+ROAM_ALIAS: "Rhyming"
+#+ROAM_TAGS: memory cognitive-science concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 21:35]
+
+* TL;DR
+** What Is Rhyming?
+Mnemonic which merges two rhyming sentences together and puts *important information* on one of those sentences
+# ** Why Is Rhyming Important?
+# ** When To Use Rhyming?
+# ** How To Use Rhyming?
+** Examples of Rhyming
+- *"When did Colombus sailed the Ocean Blue?, It was in 1492"*
+# ** Founder(s) of Rhyming
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

@@ -11,7 +11,8 @@ It's a mnemonic that *splits the information* to more manageable pieces.
 # ** Why Is Chunking Important?
 # ** When To Use Chunking?
 # ** How To Use Chunking?
-# ** Examples of Chunking
+** Examples of Chunking
+- Phone numbers :: *05331231234* becomes *0533 123 12 34*. We splitted long telephone number into 4 pieces.
 # ** Founder(s) of Chunking
 ** References
 +

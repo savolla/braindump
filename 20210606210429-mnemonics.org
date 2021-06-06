@@ -23,7 +23,15 @@ It's a *memory trick* that helps you *remember long strings of information*
 # ** MOC
 # ** Claim
 ** Concept
-- [[roam:Chunking]]
+:PROPERTIES:
+:ID:       81645c08-3f00-4465-b2b5-3b62207122fd
+:END:
+- [[file:20210606210910-chunking.org][Chunking]]
+- [[file:20210606211512-acronym.org][Acronym]]
+- [[file:20210606212524-acrostic.org][Acrostic]]
+- [[file:20210606213405-memory_palace.org][Memory Palace]]
+- [[file:20210606213525-rhyming.org][Rhyming]]
+- [[file:Music.org][Music]]
 # ** Anecdote
 # *** Story
 # *** Stat

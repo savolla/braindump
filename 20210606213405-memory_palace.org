@@ -1,0 +1,34 @@
+#+TITLE: Memory Palace
+#+STARTUP: overview
+#+ROAM_ALIAS: "Memory Palace"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-06 Paz]
+#+LAST_MODIFIED: [2021-06-06 Paz 21:34]
+
+* TL;DR
+** What Is Memory Palace?
+TODO:
+# ** Why Is Memory Palace Important?
+# ** When To Use Memory Palace?
+# ** How To Use Memory Palace?
+# ** Examples of Memory Palace
+# ** Founder(s) of Memory Palace
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto
