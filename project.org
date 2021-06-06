@@ -23,5 +23,6 @@ The *first* letter of [[file:PARA.org][PARA]] method. A series of *tasks*. Has *
 - [[id:86cb86d3-726f-46bd-bc80-6687cbefb55e][Computer Organization and Design: The Hardware/Software Interface]]
 - [[file:20210603124032-book.org][Calculus: Early Transcendentals]]
 *** Article Reading Projects
+- [[https://quantum.country/qcvc][Learn Quantum Computing]]
 *** Watching Projects
 - [[id:0a957f82-8e35-4bc3-a497-4f5d8a73dd49][Graphs in C]]
