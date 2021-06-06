@@ -20,7 +20,11 @@ It’s a flat object made from a tree with flexible parts on which are imprinted
 - [[file:20210601012219-moc.org][Programming Language Books]]
 - [[file:20210601013444-moc.org][Math Books]]
 - [[file:20210531001227-moc.org][Computer Science Books]]
-# ** Claim
+** Claim
+:PROPERTIES:
+:ID:       ae5b0033-21e0-44b3-b5bd-263e9903cba2
+:END:
+- A book is a warmup for the thinking that happens later. Like [[file:20210603011833-person.org][Note Taking]], writing an [[file:20210606194744-concept.org][Essay]] in response and discuss with others.
 # ** Anecdote
 # *** Story
 # *** Stat
