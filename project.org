@@ -1,4 +1,5 @@
 #+TITLE: Project
+#+STARTUP: overview
 #+roam_tags: productivity concept
 #+STARTUP: overview
 
@@ -15,8 +16,12 @@ The *first* letter of [[file:PARA.org][PARA]] method. A series of *tasks*. Has *
 
 * §
 ** MOC
+*** Book Reading Projects
 :PROPERTIES:
 :ID:       d36c5ec9-6583-434c-b80d-c4ff4a8b1a07
 :END:
-- Read [[id:86cb86d3-726f-46bd-bc80-6687cbefb55e][Computer Organization and Design: The Hardware/Software Interface]]
-- Read [[file:20210603124032-book.org][Calculus: Early Transcendentals]]
+- [[id:86cb86d3-726f-46bd-bc80-6687cbefb55e][Computer Organization and Design: The Hardware/Software Interface]]
+- [[file:20210603124032-book.org][Calculus: Early Transcendentals]]
+*** Article Reading Projects
+*** Watching Projects
+- [[id:0a957f82-8e35-4bc3-a497-4f5d8a73dd49][Graphs in C]]

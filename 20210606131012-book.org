@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       0a957f82-8e35-4bc3-a497-4f5d8a73dd49
-:END:
 #+TITLE: Graphs in C
 #+STARTUP: overview inlineimages
 #+ROAM_TAGS: c graph data-structure video

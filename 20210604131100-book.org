@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       85a26004-7fba-4f06-bb4e-bedf0159b56a
-:END:
 #+TITLE: Introduction to the Theory of Computation
 #+AUTHOR: Michael Sipser
 #+STARTUP: overview inlineimages

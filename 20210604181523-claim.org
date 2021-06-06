@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       37e03e6a-9cd0-4dde-a7a0-006ef456f51e
-:END:
 #+TITLE: problems that cannot be solved by computers
 #+STARTUP: overview
 #+ROAM_TAGS: claim

@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       d9dcec93-ba3e-49b0-ae0c-18c6b7a4eeb6
-:END:
 #+TITLE: Theory Of Computation Books
 #+STARTUP: overview
 #+ROAM_TAGS: moc

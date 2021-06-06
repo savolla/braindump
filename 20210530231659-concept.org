@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       bafea0f8-8780-4f12-9801-cd1937c01b1d
-:END:
 #+TITLE: C
 #+STARTUP: overview
 #+ROAM_TAGS: language programming concept

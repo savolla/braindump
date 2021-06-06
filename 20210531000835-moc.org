@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       ee3b9868-c753-4b24-a2c4-44111a313b09
-:END:
 #+TITLE: Book
 #+STARTUP: overview
 #+ROAM_TAGS: resource concept moc

@@ -14,4 +14,4 @@
 - mail      :: savolla@protonmail.com
 
 * Who Is Oleksiy Nehlyadyuk?
-An [[file:20210531211804-concept.org][Embedded Systems]] [[file:20210531213326-concept.org][Engineer]] who has lots of other interests like [[file:Music.org][Music]], [[id:f3b5e67a-16e0-4383-8ce3-e571bb4fab85][Digital Art]], [[file:20210531214618-concept.org][Productivity]], and [[file:20210601012409-concept.org][Mathematics]].
+An [[file:20210531211804-concept.org][Embedded Systems]] [[file:20210531213326-concept.org][Engineer]] who has lots of other interests like [[file:Music.org][Music]], [[file:20210531214510-concept.org][Digital Art]], [[file:20210531214618-concept.org][Productivity]], and [[file:20210601012409-concept.org][Mathematics]].

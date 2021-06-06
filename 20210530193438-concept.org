@@ -26,6 +26,8 @@ TODO
 - [[file:20210604140820-concept.org][Complexity Theory]]
 - [[file:20210604141054-concept.org][Computability Theory]]
 # ** Claim
+** Concept
+- [[file:20210606131304-concept.org][Data Structure]]
 # ** Anecdote
 # *** Story
 # *** Stat

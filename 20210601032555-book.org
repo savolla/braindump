@@ -1,7 +1,5 @@
-:PROPERTIES:
-:ID:       86cb86d3-726f-46bd-bc80-6687cbefb55e
-:END:
 #+TITLE: Computer Organization and Design: The Hardware/Software Interface
+#+STARTUP: overview inlineimages
 #+AUTHOR: David A. Patterson
 #+AUTHOR: John L. Hennessy
 #+STARTUP: overview

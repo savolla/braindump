@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       1ee40e6d-54dd-473a-b0fb-59fcdf1263d3
-:END:
 #+TITLE: Tools
 #+STARTUP: overview
 #+ROAM_TAGS: moc
