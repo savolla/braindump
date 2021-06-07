@@ -16,7 +16,8 @@
 ** References
 +
 * §
-# ** MOC
+** MOC
+- [[roam:Calculus]]
 # ** Claim
 ** Concept
 :PROPERTIES:
@@ -39,3 +40,4 @@
 :ID:       871718ae-0151-4de1-8351-11b3724978a4
 :END:
 - [[file:20210603205649-howto.org][how to solve equations with Absolute Values]]
+- [[file:20210607005049-howto.org][how to solve inequalities with Absolute Values]]

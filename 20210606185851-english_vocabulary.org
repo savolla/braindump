@@ -99,6 +99,7 @@
 =however=                ancak
 
 =idiom=                  deyim
+=inscribe=               içine çizmek
 =idiosyncrasies=         özel durumlar
 =impending=              yaklaşan
 =inextricable=           içinden çıkılmaz
