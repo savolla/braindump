@@ -1,0 +1,36 @@
+#+TITLE: Templates
+#+STARTUP: overview
+#+ROAM_ALIAS: "Templates"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-08 Sal]
+#+LAST_MODIFIED: [2021-06-08 Sal 12:32]
+
+* TL;DR
+** What Is Templates?
+Things that I can use for future projects
+# ** Why Is Templates Important?
+# ** When To Use Templates?
+# ** How To Use Templates?
+# ** Examples of Templates
+# ** Founder(s) of Templates
+** References
++
+
+* §
+** MOC
+#+ATTR_HTML: :width 1000 :height 1000
+[[./images/web-note-taking-setup.png][Web note taking setup]]
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

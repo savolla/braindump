@@ -1,0 +1,36 @@
+#+TITLE: Bookmark
+#+STARTUP: overview
+#+ROAM_ALIAS: "Bookmark"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-08 Sal]
+#+LAST_MODIFIED: [2021-06-08 Sal 12:43]
+
+* TL;DR
+** What Is Bookmark?
+Links that worth to save
+# ** Why Is Bookmark Important?
+# ** When To Use Bookmark?
+# ** How To Use Bookmark?
+# ** Examples of Bookmark
+# ** Founder(s) of Bookmark
+** References
++
+
+* §
+** MOC
+*** [[file:20210603011833-person.org][Note Taking]] Bookmarks
+[[https://www.greaterwrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1][The Zattelkasten Method: LessWrong 2.0]]
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto
