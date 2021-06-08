@@ -17,7 +17,10 @@
 +
 * §
 ** MOC
-- [[roam:Calculus]]
+:PROPERTIES:
+:ID:       f6d54ece-fc81-40cb-b027-31755cfb4e0c
+:END:
+- [[file:20210607013733-calculus.org][Calculus]]
 # ** Claim
 ** Concept
 :PROPERTIES:
