@@ -1,0 +1,16 @@
+#+TITLE: Ismet Topaloglu
+#+STARTUP: overview inlineimages
+#+ROAM_TAGS: person
+#+CREATED: [2021-06-10 Prş]
+#+LAST_MODIFIED: [2021-06-10 Prş 02:04]
+
+- website   ::
+- blog      ::
+- social    ::
+- lives     ::
+- phone     ::
+- mail      ::
+- reference ::
+
+* Who Is Ismet Topaloglu?
+TODO

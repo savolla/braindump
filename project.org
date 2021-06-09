@@ -26,3 +26,4 @@ The *first* letter of [[file:PARA.org][PARA]] method. A series of *tasks*. Has *
 - [[https://quantum.country/qcvc][Learn Quantum Computing]]
 *** Watching Projects
 - [[id:0a957f82-8e35-4bc3-a497-4f5d8a73dd49][Graphs in C]]
+- [[https://www.youtube.com/watch?v=cFBERZBvLEM][Diksiyon ve Davranış Eğitimi]]

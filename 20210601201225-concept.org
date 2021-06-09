@@ -21,3 +21,5 @@
 - [[file:Linus-Torvalds.org][Linus Torvalds]]
 - [[file:Bill-Gates.org][Bill Gates]]
 - [[file:niklas_luhmann.org][Niklas Luhmann]]
+- [[file:donald_a_norman.org][Donald A. Norman]]
+- [[file:efe_aydal.org][Efe Aydal]]

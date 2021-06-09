@@ -30,6 +30,7 @@ The *fourth* letter of [[file:PARA.org][PARA]] method. *Inactive* items of other
 - [[file:20210601203227-concept.org][Evergreen Notes]]
 - [[file:20210606185851-english_vocabulary.org][English Vocabulary]]
 - [[file:20210608123208-templates.org][Templates]]
+- [[file:20210610013533-quotes.org][Quotes]]
 # ** Claim
 # ** Anecdote
 # *** Story

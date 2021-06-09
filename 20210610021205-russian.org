@@ -1,0 +1,34 @@
+#+TITLE: Russian
+#+STARTUP: overview
+#+ROAM_ALIAS: "Russian"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-10 Prş]
+#+LAST_MODIFIED: [2021-06-10 Prş 02:12]
+
+* TL;DR
+** What Is Russian?
+TODO:
+# ** Why Is Russian Important?
+# ** When To Use Russian?
+# ** How To Use Russian?
+# ** Examples of Russian
+# ** Founder(s) of Russian
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

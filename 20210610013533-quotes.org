@@ -42,10 +42,44 @@ A written or spoken [[roam:Idea]] that gives *inspiration*
 #+end_quote
 
 #+begin_quote
-"When simple things need pictures, labels, or instructions, the design has failed" - [[roam:Donald A. Norman]]
+"When simple things need pictures, labels, or instructions, the design has failed" - [[file:donald_a_norman.org][Donald A. Norman]]
 #+end_quote
 
+#+begin_quote
+"Humanity has evolved in such a way that the wicked are powerful." - [[file:efe_aydal.org][Efe Aydal]]
+#+end_quote
 
+#+begin_quote
+"Is it foolish for a non-stupid person to consider himself a fool?" - [[file:Oleksiy-Nehlyadyuk.org][Oleksiy Nehlyadyuk]]
+#+end_quote
+
+#+begin_quote
+"Anger is the suicide of the righteous." - [[file:ismet_topaloglu.org][Ismet Topaloglu]]
+#+end_quote
+
+#+begin_quote
+"The only free cheese is in the mousetrap" - [[file:20210610021205-russian.org][Russian]] saying
+#+end_quote
+
+#+begin_quote
+"Repetition is mother of learning."
+#+end_quote
+
+#+begin_quote
+"Try not to have a good time, this is supposed to be educational"
+#+end_quote
+
+#+begin_quote
+"Two big dogs will never bite each other" - My Dad
+#+end_quote
+
+#+begin_quote
+"The loudest barking dog is the smallest dog."
+#+end_quote
+
+#+begin_quote
+"The person who cares least about achieving something is usually the person who achieves it."
+#+end_quote
 
 # ** Claim
 # ** Concept
