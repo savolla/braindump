@@ -20,17 +20,5 @@ Links that worth to save
 ** MOC
 *** [[file:20210603011833-person.org][Note Taking]] Bookmarks
 [[https://www.greaterwrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1][The Zattelkasten Method: LessWrong 2.0]]
-# ** Claim
-# ** Concept
-# ** Anecdote
-# *** Story
-# *** Stat
-# *** Study
-# *** Chart
-# ** Name
-# *** Place
-# *** People
-# *** Event
-# *** Date
-# ** Tip
-# ** Howto
+*** Great Blogs to Follow
+- [[https://www.garethrees.co.uk/][Gareth Rees]] :: This guy reads books and puts summaries on his blog!

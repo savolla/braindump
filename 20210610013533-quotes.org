@@ -81,6 +81,14 @@ A written or spoken [[roam:Idea]] that gives *inspiration*
 "The person who cares least about achieving something is usually the person who achieves it."
 #+end_quote
 
+#+begin_quote
+"Our brain is not for storing ideas. It's for creating them"
+#+end_quote
+
+#+begin_quote
+"Good writing is not written. It's assembled"
+#+end_quote
+
 # ** Claim
 # ** Concept
 # ** Anecdote
