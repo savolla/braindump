@@ -1,0 +1,34 @@
+#+TITLE: Zettelkasten Method
+#+STARTUP: overview
+#+ROAM_ALIAS: "Zettelkasten Method"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-10 Prş]
+#+LAST_MODIFIED: [2021-06-10 Prş 01:33]
+
+* TL;DR
+** What Is Zettelkasten Method?
+It is a note taking system that is very effective
+# ** Why Is Zettelkasten Method Important?
+# ** When To Use Zettelkasten Method?
+# ** How To Use Zettelkasten Method?
+# ** Examples of Zettelkasten Method
+# ** Founder(s) of Zettelkasten Method
+** References
++
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto

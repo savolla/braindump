@@ -20,4 +20,4 @@
 - [[file:tiago-forte.org][Tiago Forte]]
 - [[file:Linus-Torvalds.org][Linus Torvalds]]
 - [[file:Bill-Gates.org][Bill Gates]]
-
+- [[file:niklas_luhmann.org][Niklas Luhmann]]

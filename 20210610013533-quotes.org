@@ -1,0 +1,63 @@
+#+TITLE: Quotes
+#+STARTUP: overview
+#+ROAM_ALIAS: "Quotes"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-10 Prş]
+#+LAST_MODIFIED: [2021-06-10 Prş 01:35]
+
+* TL;DR
+** What Is Quote?
+A written or spoken [[roam:Idea]] that gives *inspiration*
+# ** Why Is Quotes Important?
+# ** When To Use Quotes?
+# ** How To Use Quotes?
+# ** Examples of Quotes
+# ** Founder(s) of Quotes
+** References
++
+
+* §
+** MOC
+:PROPERTIES:
+:ID:       f55d3e4a-6945-4ed6-b108-f8b75187e49b
+:END:
+#+begin_quote
+"One cannot think without writing" - [[file:niklas_luhmann.org][Niklas Luhmann]]
+#+end_quote
+
+#+begin_quote
+"If you read a book you haven't learn anything. You have a battle plan" - [[file:tiago-forte.org][Tiago Forte]]
+#+end_quote
+
+#+begin_quote
+"Let the machines have the jobs. At least the easy jobs or jobs that don't need a full fledged human to do. Because it really makes me sad when I see a human, the most precious, complex thing in the universe being dedicated to just being a stationary object" - [[file:tiago-forte.org][Tiago Forte]]
+#+end_quote
+
+#+begin_quote
+"When learning something new, taking shortcuts doesn't help"
+#+end_quote
+
+#+begin_quote
+"The best way to keep a secret is to never have it"
+#+end_quote
+
+#+begin_quote
+"When simple things need pictures, labels, or instructions, the design has failed" - [[roam:Donald A. Norman]]
+#+end_quote
+
+
+
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto
