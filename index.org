@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       1a804d10-9aca-4295-9c3b-db21d14abaae
+:END:
 #+TITLE: braindump
 #+AUTHOR: Oleksiy Nehlyadyuk
 #+STARTUP: overview
