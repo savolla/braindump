@@ -1,0 +1,33 @@
+#+TITLE: test
+#+STARTUP: overview
+#+ROAM_ALIAS: "test" "what is ${title}" "what ${title} is"
+#+ROAM_TAGS: concept
+#+CREATED: [2021-06-11 Cum]
+#+LAST_MODIFIED: [2021-06-11 Cum 17:00]
+
+* TL;DR
+
+# - see also ::
+  # + [[roam:why is ${title} important]]
+  # + [[roam:when to use ${title}]]
+  # + [[roam:how to use ${title}]]
+  # + [[roam:examples of ${title}]]
+  # + [[roam:founder of ${title}]]
+** References
+
+* §
+# ** MOC
+# ** Claim
+# ** Concept
+# ** Anecdote
+# *** Story
+# *** Stat
+# *** Study
+# *** Chart
+# ** Name
+# *** Place
+# *** People
+# *** Event
+# *** Date
+# ** Tip
+# ** Howto
