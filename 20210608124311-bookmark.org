@@ -22,3 +22,8 @@ Links that worth to save
 [[https://www.greaterwrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1][The Zattelkasten Method: LessWrong 2.0]]
 *** Great Blogs to Follow
 - [[https://www.garethrees.co.uk/][Gareth Rees]] :: This guy reads books and puts summaries on his blog!
+*** [[file:Music.org][Music]]
+:PROPERTIES:
+:ID:       b5d20a8b-984b-42de-b167-755bd0dfd0cd
+:END:
+- [[https://www.youtube.com/watch?v=DSGyEsJ17cI][Youtube Jazz Radio]] very sweet [[file:20210611122420-jazz.org][Jazz]] [[file:20210601034150-concept.org][Youtube Channel]]
