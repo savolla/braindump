@@ -19,7 +19,8 @@ Links that worth to save
 * §
 ** MOC
 *** [[file:20210603011833-person.org][Note Taking]] Bookmarks
-[[https://www.greaterwrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1][The Zattelkasten Method: LessWrong 2.0]]
+- [[https://www.greaterwrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1][The Zattelkasten Method: LessWrong 2.0]]
+- [[https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6][The Zettelkasten Method: Examples to help you get started]]
 *** Great Blogs to Follow
 - [[https://www.garethrees.co.uk/][Gareth Rees]] :: This guy reads books and puts summaries on his blog!
 *** [[file:Music.org][Music]]
