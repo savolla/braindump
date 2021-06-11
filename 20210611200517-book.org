@@ -1,0 +1,22 @@
+#+TITLE: some
+#+AUTHOR:
+#+STARTUP: overview inlineimages
+#+ROAM_TAGS: book
+#+CREATED: [2021-06-11 Cum]
+#+LAST_MODIFIED: [2021-06-11 Cum 20:05]
+
+* note
+* concept
+* claim
+* anecdote
+** story
+** stat
+** study
+** chart
+* name
+** place
+** people
+** event
+** date
+* tip
+* howto
