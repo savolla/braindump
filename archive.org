@@ -25,7 +25,7 @@ The *fourth* letter of [[file:PARA.org][PARA]] method. *Inactive* items of other
 :END:
 - [[file:20210601023323-moc.org][Finished Books]]
 - [[file:20210601125121-concept.org][Code Snippets]]
-- [[file:20210608124311-bookmark.org][Bookmark]]
+- [[file:../20210608124311-bookmark.org][Bookmark]]
 - [[file:20210601153709-moc.org][Tools]]
 - [[file:20210601203227-concept.org][Evergreen Notes]]
 - [[file:20210606185851-english_vocabulary.org][English Vocabulary]]
