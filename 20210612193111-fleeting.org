@@ -8,5 +8,7 @@
 
 When two planets crash they create a disc around the largest object (I'm not sure here. Ask it to someone)
 
+- see also ::
+  + [[file:20210614003807-keyword-fleeting_notes.org][Fleeting Notes]]
 - references ::
 https://www.youtube.com/watch?v=svRGxhg_vkU

@@ -13,5 +13,6 @@ It takes a function as argument. When you run the profiling decorator it starts 
 
 - see also ::
 # Continuation or Related notes here
+  + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
 - references ::

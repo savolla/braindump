@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       aa6c3a04-88cf-4747-b5c8-7b1cadffa957
+:END:
 #+TITLE: cProfile
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: optimization profiling library module python tool permanent
@@ -13,7 +16,7 @@ It is *built-in* [[file:20210613164032-concept-code_profiling.org][code profilin
 #  + [[roam:how to use cProfile]]
 #  + [[roam:install cProfile]]
 #  + [[roam:cProfile shortcuts]]
-  + [[roam:Tool]]
+  + [[file:20210614004208-keyword-tool.org][Tool]]
   + [[id:92ee769b-8c4c-403c-92df-731a1dd56367][Python profiling function]]
 
   + references ::

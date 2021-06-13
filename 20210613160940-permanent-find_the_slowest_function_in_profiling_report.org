@@ -22,5 +22,6 @@ The slowest function is =func3=. If you see high =ncalls= that means this is a v
 
 - see also ::
 # Continuation or Related notes here
+  + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
 - references ::

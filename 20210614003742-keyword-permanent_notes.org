@@ -1,0 +1,8 @@
+#+TITLE: Permanent Notes
+#+STARTUP: overview
+#+ROAM_TAGS: keyword
+#+CREATED: [2021-06-14 Pzt]
+#+LAST_MODIFIED: [2021-06-14 Pzt 00:37]
+
+- see also ::
+  [[file:20210613032404-keyword-keyword.org][Keyword]]

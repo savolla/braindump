@@ -19,5 +19,6 @@ def slowFunction():
 
 - see also ::
 # Continuation or Related notes here
+  + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
 - references ::

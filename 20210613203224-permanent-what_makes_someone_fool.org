@@ -14,6 +14,7 @@ the opposite of [[file:20210613201530-permanent-what_makes_someone_fool.org][wha
 
 - see also ::
 # Continuation or Related notes here
+  + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
 - references ::
  [[file:20210613052759-celal_sengor.org][Celal Şengör]]

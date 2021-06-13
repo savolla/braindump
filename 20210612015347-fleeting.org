@@ -7,4 +7,6 @@
 
 don't use tags while taking fleeting notes.
 
+- see also ::
+  + [[file:20210614003807-keyword-fleeting_notes.org][Fleeting Notes]]
 - references ::

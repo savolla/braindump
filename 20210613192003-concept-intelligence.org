@@ -15,6 +15,6 @@ Capacity of *understanding*, *creativity*, *memory* and usage speed of that capa
 #  + [[roam:founder of intelligence]]
   + [[file:20210612025056-keyword-concept.org][Concept]]
 
-+ references ::
-  + [[id:fcf09fe7-8f83-4990-9e3e-4deba2293501][Aptalı Tanımak]]
-  + [[file:20210613052759-celal_sengor.org][Celal Şengör]]
+  + references ::
+    + [[file:20210613052315-aptalı_tanımak.org][Aptalı Tanımak]]
+    + [[file:20210613052759-celal_sengor.org][Celal Şengör]]

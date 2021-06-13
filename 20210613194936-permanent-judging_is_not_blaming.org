@@ -13,6 +13,7 @@
 
 - see also ::
 # Continuation or Related notes here
+  + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
 - references ::
 [[id:fcf09fe7-8f83-4990-9e3e-4deba2293501][Aptalı Tanımak]]

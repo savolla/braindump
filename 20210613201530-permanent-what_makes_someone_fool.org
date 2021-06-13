@@ -21,6 +21,7 @@ A person is intelligent if he/she able to do the following things;
 
 - see also ::
 # Continuation or Related notes here
+  + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
 - references ::
 [[file:20210613052759-celal_sengor.org][Celal Şengör]]

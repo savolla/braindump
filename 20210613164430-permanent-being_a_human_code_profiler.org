@@ -13,5 +13,6 @@ It is a very bad idea. Doing [[file:20210613164032-concept-code_profiling.org][c
 
 - see also ::
 # Continuation or Related notes here
+  + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
 - references ::

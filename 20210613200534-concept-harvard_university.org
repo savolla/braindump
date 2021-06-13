@@ -10,6 +10,6 @@ TODO:
 - see also ::
 #  + [[roam:why is Harvard University important]]
 #  + [[roam:founder of Harvard University]]
-  + [[file:20210612025056-keyword-concept.org][Concept]]
+  + [[file:20210613203919-keyword-location.org][Location]]
 
-- references ::
+  + references ::
