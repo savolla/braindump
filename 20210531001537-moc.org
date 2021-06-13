@@ -1,7 +1,0 @@
-#+TITLE: Computer Organization Books
-#+STARTUP: overview
-#+ROAM_TAGS: moc
-#+CREATED: [2021-05-31 Pzt]
-#+LAST_MODIFIED: [2021-05-31 Pzt 00:15]
-
-- [[id:86cb86d3-726f-46bd-bc80-6687cbefb55e][Computer Organization and Design: The Hardware/Software Interface]]

@@ -1,7 +1,0 @@
-#+TITLE: Theory Of Computation Books
-#+STARTUP: overview
-#+ROAM_TAGS: moc
-#+CREATED: [2021-05-31 Pzt]
-#+LAST_MODIFIED: [2021-05-31 Pzt 00:24]
-
-+ [[file:20210604131100-book.org][Introduction to the Theory of Computation]]

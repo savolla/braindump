@@ -1,8 +1,0 @@
-#+TITLE: Tools
-#+STARTUP: overview
-#+ROAM_TAGS: moc
-#+ROAM_ALIAS: "Tools" "Tool"
-#+CREATED: [2021-06-01 Sal]
-#+LAST_MODIFIED: [2021-06-01 Sal 15:37]
-
-- [[file:20210601153815-concept.org][Krita]]

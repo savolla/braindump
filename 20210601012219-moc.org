@@ -1,5 +1,0 @@
-#+TITLE: Programming Language Books
-#+STARTUP: overview
-#+ROAM_TAGS: book programming moc
-#+CREATED: [2021-06-01 Sal]
-#+LAST_MODIFIED: [2021-06-01 Sal 01:22]
