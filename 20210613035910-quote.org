@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       01b39807-52dd-4435-8c77-08a88b31181f
+:END:
+#+TITLE: 20210613035910-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:59]
+
+#+begin_quote
+"The loudest barking dog is the smallest dog." - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]] in [[file:20210613203753-concept-texas.org][Texas]]
+#+end_quote
+
+- see also ::
+
+- references ::

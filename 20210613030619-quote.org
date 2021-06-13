@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       444d0a38-1da2-465e-845d-007c3ef41f98
+:END:
+#+TITLE: 20210613030619-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:06]
+
+#+begin_quote
+"Is it foolish for a non-stupid person to consider himself a fool?" - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]] by [[file:20210613030644-oleksiy_nehlyadyuk.org][Oleksiy Nehlyadyuk]]
+#+end_quote
+
+- see also ::
+
+- references ::

@@ -1,0 +1,18 @@
+#+TITLE: stupidity
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: concept permanent
+#+ROAM_ALIAS: "stupidity" "what is stupidity" "what stupidity is"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 20:01]
+
+The opposite of [[file:20210613192003-concept-intelligence.org][intelligence]]
+
+- see also ::
+#  + [[roam:why is stupidity important]]
+#  + [[roam:when to use stupidity]]
+#  + [[roam:how to use stupidity]]
+#  + [[roam:examples of stupidity]]
+#  + [[roam:founder of stupidity]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+
+- references ::

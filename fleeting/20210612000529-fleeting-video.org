@@ -1,9 +1,0 @@
-#+TITLE: 20210612000529-fleeting
-#+STARTUP: overview latexpreview inlineimages
-#+ROAM_TAGS: video fleeting
-#+CREATED: [2021-06-12 Cts]
-#+LAST_MODIFIED: [2021-06-12 Cts 00:05]
-
-somehging something is greast gr
-
-- references ::

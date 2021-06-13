@@ -1,0 +1,13 @@
+#+TITLE: 20210612024650-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: advice quote permanent
+#+CREATED: [2021-06-12 Cts]
+#+LAST_MODIFIED: [2021-06-12 Cts 02:46]
+
+#+begin_quote
+"The best way to keep a secret is to never have it" - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]]
+#+end_quote
+
+- see also ::
+
+- references ::

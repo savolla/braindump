@@ -1,0 +1,9 @@
+#+TITLE: Videos to Watch
+#+STARTUP: overview
+#+ROAM_TAGS: watch project index
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 05:32]
+
++ [ ] [[https://www.youtube.com/watch?v=uOCSNgDi694&list=PLmnKof5TajdfSFu75Z1aoGiBPi8Wjzjok][Graphs in C]] : [[file:20210613153621-programming.org][Programming]]
++ [ ] [[https://www.youtube.com/watch?v=cFBERZBvLEM][Diksiyon ve Davranış Eğitimi]] : [[file:20210613033811-diction.org][Diction]]
++ [ ] [[https://www.youtube.com/watch?v=4EBs1BDvuzk][Python Multiprocessing]] : [[file:20210613153621-programming.org][Programming]]

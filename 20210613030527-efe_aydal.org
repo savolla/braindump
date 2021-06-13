@@ -1,0 +1,16 @@
+#+TITLE: Efe Aydal
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: person name permanent resource
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:05]
+
+TODO:
+
+- website ::
+- social ::
+- mail ::
+
+- see also ::
+  + [[file:20210613032337-keyword-person.org][Person]]
+
+- references ::

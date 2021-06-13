@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       005d5e44-8884-46e2-ac10-0bf50d56c4f6
+:END:
+#+TITLE: Pluto
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: astronomy concept permanent
+#+ROAM_ALIAS: "Pluto" "what is Pluto" "what Pluto is"
+#+CREATED: [2021-06-12 Cts]
+#+LAST_MODIFIED: [2021-06-12 Cts 20:28]
+
+9th [[file:20210612202708-keyword-planet.org][planet]] of our solar system.
+
+- see also ::
+  + [[file:20210612203702-permanent-pluto_is_no_longer_a_planet.org][pluto is no longer a planet]]
+#  + [[roam:why is Pluto important]]
+#  + [[roam:when to use Pluto]]
+#  + [[roam:how to use Pluto]]
+#  + [[roam:examples of Pluto]]
+#  + [[roam:founder of Pluto]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+
+- references ::

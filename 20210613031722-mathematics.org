@@ -1,0 +1,8 @@
+#+TITLE: Mathematics
+#+STARTUP: overview
+#+ROAM_TAGS: concept area index
+#+ROAM_ALIAS: "math"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:17]
+
++ [[file:20210613051718-calculus.org][Calculus]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e2154f21-c75e-430c-9732-4c1fac95ded0
+:END:
+#+TITLE: quote
+#+STARTUP: overview
+#+ROAM_TAGS: keyword
+#+CREATED: [2021-06-12 Cts]
+#+LAST_MODIFIED: [2021-06-12 Cts 02:45]

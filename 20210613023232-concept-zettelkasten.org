@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       07040b1b-d676-4d29-a624-7a2e3ebec0a5
+:END:
+#+TITLE: zettelkasten
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: concept permanent
+#+ROAM_ALIAS: "zettelkasten" "what is zettelkasten" "what zettelkasten is" "slip box"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 02:32]
+
+Effective [[file:20210613023308-keyword-note_taking.org][note taking]] and personal knowledge management system. Found by [[id:37b6fb9d-baa3-448d-b906-1d51a21ad2dc][Niklas Luhmann]]. Zettelkasten means "slip-box" in English
+
+- see also ::
+#  + [[roam:why is zettelkasten important]]
+#  + [[roam:when to use zettelkasten]]
+#  + [[roam:how to use zettelkasten]]
+#  + [[roam:examples of zettelkasten]]
+ + [[roam:founder of zettelkasten]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+
+- references ::

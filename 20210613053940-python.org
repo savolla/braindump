@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       af5f039a-d974-424f-be4d-eac872fb4b66
+:END:
+#+TITLE: Python
+#+STARTUP: overview
+#+ROAM_TAGS: index
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 05:39]
+
++ [[file:20210613054410-code_optimization_in_python.org][code optimization in Python]]

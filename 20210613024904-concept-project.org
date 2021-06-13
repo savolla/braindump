@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b44053ec-5fb6-4349-83cb-6482359a4977
+:END:
+#+TITLE: Project
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: index
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 02:49]
+
+Sequence of tasks that depend on some deadline. Has a goal or an outcome when finished.
+
++ [[file:20210613045926-currently_reading_books.org][Currently Reading Books]]
++ [[file:20210613053024-articles_to_read.org][Articles to Read]]
++ [[file:20210613053209-videos_to_watch.org][Videos to Watch]]

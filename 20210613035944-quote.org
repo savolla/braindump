@@ -1,0 +1,13 @@
+#+TITLE: 20210613035944-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: argument quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:59]
+
+#+begin_quote
+"The person who cares least about achieving something is usually the person who achieves it." - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]]
+#+end_quote
+
+- see also ::
+
+- references ::

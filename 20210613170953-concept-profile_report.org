@@ -1,0 +1,18 @@
+#+TITLE: profile report
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: concept permanent
+#+ROAM_ALIAS: "profile report" "what is profile report" "what profile report is"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 17:09]
+
+Result of [[file:20210613164032-concept-code_profiling.org][code profiling]]. Shows names, running time and number of calls of all functions. It's like a map which helps us to optimize our code. The only thing we need to do is [[id:1c6ca6c9-e6d2-475e-b957-006a9a3c90fb][interpret the profiling report]].
+
+- see also ::
+#  + [[roam:why is profile report important]]
+#  + [[roam:when to use profile report]]
+#  + [[roam:how to use profile report]]
+#  + [[roam:examples of profile report]]
+#  + [[roam:founder of profile report]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+
+- references ::

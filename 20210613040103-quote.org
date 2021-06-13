@@ -1,0 +1,13 @@
+#+TITLE: 20210613040103-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 04:01]
+
+#+begin_quote
+"Good writing is not written. It's assembled" - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]]
+#+end_quote
+
+- see also ::
+
+- references ::

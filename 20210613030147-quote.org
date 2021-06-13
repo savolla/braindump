@@ -1,0 +1,13 @@
+#+TITLE: 20210613030147-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: argument quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:01]
+
+#+begin_quote
+"If you read a book you haven't learn anything. You have a battle plan" - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]] by [[id:a036b83e-cd50-44c8-960b-e71f5e5d66ac][Tiago Forte]]
+#+end_quote
+
+- see also ::
+
+- references ::

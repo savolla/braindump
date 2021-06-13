@@ -1,0 +1,8 @@
+#+TITLE: Русский
+#+STARTUP: overview
+#+ROAM_TAGS: language russian vocabulary index
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 04:09]
+
+
+

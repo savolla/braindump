@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a036b83e-cd50-44c8-960b-e71f5e5d66ac
+:END:
+#+TITLE: Tiago Forte
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: person name permanent resource
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 02:42]
+
+Tiago Forte is a writer, speaker and teacher who focuses mostly on [[id:05c272d6-b64d-4ce9-8aff-e89767372877][Productivity]] . He is the founder of [[file:20210613024559-concept-para.org][PARA]] method and has a great course called [[https://www.buildingasecondbrain.com/][Building A Second Brain]]
+
+- website ::
+- social ::
+- mail ::
+
+- see also ::
+  + [[file:20210613032337-keyword-person.org][Person]]
+
+- references ::

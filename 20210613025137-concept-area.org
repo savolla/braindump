@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fe0b46fd-3962-4520-be7d-a322d8821cd2
+:END:
+#+TITLE: Area
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: index
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 02:51]
+
+A field or a topic. Thing that someone spend his/her life on. It is some sort of Project but without a deadline and much much longer. For example "Medicine", "Programming" are Areas.
+
++ [[id:c5a296d6-e491-49db-91cb-e3a2cb508563][Embedded Systems]]
++ [[file:20210613053940-python.org][Python]]
++ [[id:05c272d6-b64d-4ce9-8aff-e89767372877][Productivity]]
++ [[file:20210613031640-music.org][Music]]
++ [[file:20210613031700-digital_art.org][Digital Art]]
++ [[file:20210613031722-mathematics.org][Mathematics]]
++ [[file:20210613033811-diction.org][Diction]]
++ [[file:20210613204240-society.org][Society]]

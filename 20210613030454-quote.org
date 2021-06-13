@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a28b7fe0-36ad-49d3-a49c-4b9f768b828d
+:END:
+#+TITLE: 20210613030454-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: argument quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:04]
+
+#+begin_quote
+"Humanity has evolved in such a way that the wicked are powerful." - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]] by [[file:20210613030527-efe_aydal.org][Efe Aydal]]
+#+end_quote
+
+- see also ::
+
+- references ::

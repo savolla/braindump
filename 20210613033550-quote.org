@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       cf5e7655-a7a1-47e8-b6e1-fdd2a16e9740
+:END:
+#+TITLE: 20210613033550-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:35]
+
+#+begin_quote
+"Anger is the suicide of the righteous." - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]] by [[file:20210613033632-ismet_topaloglu.org][Ismet Topaloglu]]
+#+end_quote
+
+- see also ::
+
+- references ::

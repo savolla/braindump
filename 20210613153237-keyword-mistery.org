@@ -1,0 +1,8 @@
+#+TITLE: Mistery
+#+STARTUP: overview
+#+ROAM_TAGS: keyword
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 15:32]
+
+- see also ::
+  [[file:20210613032404-keyword-keyword.org][Keyword]]

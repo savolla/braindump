@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       fc781503-ac7b-49ae-b319-ff7aea289d04
+:END:
+#+TITLE: Finished Projects
+#+STARTUP: overview
+#+ROAM_TAGS: archive index
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 19:03]
+
+- [X] [[https://www.youtube.com/watch?v=8qEnExGLZfY][Python Profiling]]

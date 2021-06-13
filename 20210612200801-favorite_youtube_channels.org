@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b1e3aa5a-df59-45aa-a479-f3e929e6b0d1
+:END:
+#+TITLE: favorite Youtube channels
+#+STARTUP: overview
+#+ROAM_TAGS: archive youtube procrastination index
+#+CREATED: [2021-06-12 Cts]
+#+LAST_MODIFIED: [2021-06-12 Cts 20:08]
+
+- [[https://www.youtube.com/watch?v=DcqqchtdjGQ][Ayhan Tarakci]]  : [[file:20210613152947-keyword-science.org][Science]], [[file:20210613153126-keyword-astronomy.org][Astronomy]]
+- [[https://www.youtube.com/user/b31416][Baris Ozcan]]  : [[file:20210613152947-keyword-science.org][Science]], [[file:20210613153126-keyword-astronomy.org][Astronomy]], [[file:20210613153009-keyword-art.org][Art]]
+- [[https://www.youtube.com/user/MrRuhicenet][Ruhi Cenet]]  : [[file:20210613152947-keyword-science.org][Science]], [[file:20210613153237-keyword-mistery.org][Mistery]], [[file:20210613153248-keyword-journalism.org][Journalism]]
+- [[https://www.youtube.com/user/MentalOutlawStudios][Mental Outlaw]]  : [[file:20210613153434-linux.org][Linux]], [[file:20210613153501-privacy.org][Privacy]], [[file:20210613153530-keyword-security.org][Security]]
+- [[https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw][ThePrimeagen]]  : vim, [[file:20210613153621-programming.org][Programming]]
+- [[https://www.youtube.com/channel/UCmYTgpKxd-QOJCPDrmaXuqQ][ThePrimeThanatos]] : [[file:20210613031640-music.org][Music]], [[file:20210613153707-concept-synthwave.org][Synthwave]]

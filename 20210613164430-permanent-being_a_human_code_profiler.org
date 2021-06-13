@@ -1,0 +1,17 @@
+# Title must come at the end
+#+TITLE: being a human code profiler
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: permanent
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 16:44]
+
+# You can link multiple Concepts and Permanent Notes!
+It is a very bad idea. Doing [[file:20210613164032-concept-code_profiling.org][code profiling]] by yourself is sometimes acceptable for small projects (and we all did it). But in large-scale project it is almost imposible to do. You should better use profiling tools for that.
+
+- see also ::
+# Continuation or Related notes here
+
+- references ::

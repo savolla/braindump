@@ -1,0 +1,23 @@
+# Title must come at the end
+#+TITLE: use profiling function
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: permanent
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 15:41]
+
+# You can link multiple Concepts and Permanent Notes!
+After we create a [[id:92ee769b-8c4c-403c-92df-731a1dd56367][Python profiling function]] we go to the *definition of the function* we want to profile and put the [[id:96d6accb-3532-46c7-a3a3-ddf96b00871f][Python decorator]] above that function like this;
+
+#+begin_src python
+@profiler
+def slowFunction():
+    # some code
+#+end_src
+
+- see also ::
+# Continuation or Related notes here
+
+- references ::

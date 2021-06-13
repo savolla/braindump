@@ -1,0 +1,18 @@
+#+TITLE: Synthwave
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: synth 80s genre music concept permanent
+#+ROAM_ALIAS: "Synthwave" "what is Synthwave" "what Synthwave is"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 15:37]
+
+80s themed awesome [[file:20210613031640-music.org][Music]] genre
+
+- see also ::
+#  + [[roam:why is Synthwave important]]
+#  + [[roam:when to use Synthwave]]
+#  + [[roam:how to use Synthwave]]
+#  + [[roam:examples of Synthwave]]
+#  + [[roam:founder of Synthwave]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+
+- references ::

@@ -1,0 +1,18 @@
+#+TITLE: System
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: concept permanent
+#+ROAM_ALIAS: "System" "what is System" "what System is"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:19]
+
+TODO:
+
+- see also ::
+#  + [[roam:why is System important]]
+#  + [[roam:when to use System]]
+#  + [[roam:how to use System]]
+#  + [[roam:examples of System]]
+#  + [[roam:founder of System]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+
+- references ::

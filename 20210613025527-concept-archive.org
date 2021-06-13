@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       86189b3e-cfc2-42b9-a202-4eec25efb987
+:END:
+#+TITLE: Archive
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: index
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 02:55]
+
+Finished projects or something you want to save and *reuse* later.
+
++ [[id:6d5ebfa2-b0c2-4903-aced-f5e337ca88e3][Bookmarks]]
++ [[file:20210613040440-vocabulary.org][Vocabulary]]
++ [[file:20210613190332-finished_projects.org][Finished Projects]]

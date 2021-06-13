@@ -1,0 +1,5 @@
+#+TITLE: Linux
+#+STARTUP: overview
+#+ROAM_TAGS: concept index
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 15:34]

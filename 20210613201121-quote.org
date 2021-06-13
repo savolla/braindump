@@ -1,0 +1,14 @@
+#+TITLE: 20210613201121-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 20:11]
+
+#+begin_quote
+The wise man is concerned with the solution of the problem, the fool wants to impose any idea in his head as a solution. - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]] by [[file:20210613052759-celal_sengor.org][Celal Şengör]]
+#+end_quote
+
+- see also ::
+
+- references ::
+[[id:fcf09fe7-8f83-4990-9e3e-4deba2293501][Aptalı Tanımak]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c5a296d6-e491-49db-91cb-e3a2cb508563
+:END:
+#+TITLE: Embedded Systems
+#+STARTUP: overview
+#+ROAM_TAGS: concept area index
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:10]
+
+
+

@@ -1,0 +1,26 @@
+# Title must come at the end
+#+TITLE: find the slowest function in profiling report
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: permanent
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 16:09]
+
+# You can link multiple Concepts and Permanent Notes!
+Say we have the following results inside our profiling report;
+
+| ncalls | cumtime | filename |
+|--------+---------+----------|
+|      1 |       6 | func1    |
+|   5000 |       4 | func2    |
+| 999999 |       2 | func3    |
+|   5000 |    0.02 | func4    |
+
+The slowest function is =func3=. If you see high =ncalls= that means this is a very *busy* function and doing most of the job in our program. =func2= and =func1= might look slow but actually they are *callers* of =func3=. When we fix =func3=, caller functions' performances will increase.
+
+- see also ::
+# Continuation or Related notes here
+
+- references ::

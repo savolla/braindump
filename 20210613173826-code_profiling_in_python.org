@@ -1,0 +1,18 @@
+#+TITLE: code profiling in python
+#+STARTUP: overview
+#+ROAM_TAGS: profiling python archive index
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 17:38]
+
+1. [[file:20210613164032-concept-code_profiling.org][code profiling]]
+2. [[file:20210613164430-permanent-being_a_human_code_profiler.org][being a human code profiler]]
+3. [[file:20210613170025-concept-cprofile.org][cProfile]]
+4. [[file:20210613172608-concept-profiling_decorator.org][profiling decorator]]
+5. [[file:20210613170616-permanent-how_profiling_decorator_works.org][how profiling decorator works]]
+6. [[file:20210613135041-permanent-python_profiling_function.org][Python profiling function]]
+7. [[file:20210613154136-permanent-use_profiling_function.org][use profiling function]]
+8. [[file:20210613155716-permanent-interpret_the_profiling_report.org][interpret the profiling report]]
+9. [[file:20210613160940-permanent-find_the_slowest_function_in_profiling_report.org][find the slowest function in profiling report]]
+
+10. references ::
+    https://www.youtube.com/watch?v=8qEnExGLZfY

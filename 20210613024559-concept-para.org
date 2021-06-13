@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9c0b464b-6de0-4248-96f1-761bfafa58cb
+:END:
+#+TITLE: PARA
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: concept permanent
+#+ROAM_ALIAS: "PARA" "what is PARA" "what PARA is"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 02:45]
+
+Digital information management method that founded by [[id:a036b83e-cd50-44c8-960b-e71f5e5d66ac][Tiago Forte]]. Each letter represents an information type; "P" is [[file:20210613024904-concept-project.org][Project]], "A" is [[file:20210613025137-concept-area.org][Area]], "R" is [[file:20210613025406-concept-resources.org][Resources]] and last "A" means [[file:20210613025527-concept-archive.org][Archive]]
+
+
+- see also ::
+#  + [[roam:why is PARA important]]
+#  + [[roam:when to use PARA]]
+#  + [[roam:how to use PARA]]
+#  + [[roam:examples of PARA]]
+#  + [[roam:founder of PARA]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+
+- references ::

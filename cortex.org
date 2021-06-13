@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       171a3824-8e1d-469a-8df2-e7f89f5aaa66
+:END:
+#+TITLE: Cortex
+#+STARTUP: overview
+#+ROAM_TAGS: keyword
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:14]
+
+This is the entry point of my second brain. This is the index of all indexes, where everything begins.
+
++ [[file:20210613024904-concept-project.org][Project]]
++ [[file:20210613025137-concept-area.org][Area]]
++ [[file:20210613025406-concept-resources.org][Resources]]
++ [[file:20210613025527-concept-archive.org][Archive]]

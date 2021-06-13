@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3acbaa2b-3f79-4c3e-b468-737c2a9e209a
+:END:
+#+TITLE: Texas
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: location permanent
+#+ROAM_ALIAS: "Texas" "what is Texas" "what Texas is"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 20:37]
+
+TODO:
+
+- see also ::
+#  + [[roam:why is Texas important]]
+  + [[file:20210613203919-keyword-location.org][Location]]
+
+- references ::

@@ -1,0 +1,13 @@
+#+TITLE: 20210613035836-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:58]
+
+#+begin_quote
+"Two big dogs will never bite each other" - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]] by My Dad
+#+end_quote
+
+- see also ::
+
+- references ::

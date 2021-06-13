@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8e6e78a4-cfe8-4fa9-9b68-86fd1998cf9f
+:END:
+#+TITLE: 20210612210850-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: quote permanent
+#+CREATED: [2021-06-12 Cts]
+#+LAST_MODIFIED: [2021-06-12 Cts 21:08]
+
+#+begin_quote
+"One cannot think without writing" - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]] by [[file:20210613023039-niklas_luhmann.org][Niklas Luhmann]]
+#+end_quote
+
+- see also ::
+
+- references ::

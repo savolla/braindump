@@ -1,0 +1,20 @@
+# Title must come at the end
+#+TITLE: what makes someone fool
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: argument signs stupidity permanent
+#+ROAM_ALIAS: "signs of stupidity"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 20:32]
+
+# You can link multiple Concepts and Permanent Notes!
+the opposite of [[file:20210613201530-permanent-what_makes_someone_fool.org][what makes someone intelligent]]
+
+- see also ::
+# Continuation or Related notes here
+
+- references ::
+ [[file:20210613052759-celal_sengor.org][Celal Şengör]]
+ [[id:fcf09fe7-8f83-4990-9e3e-4deba2293501][Aptalı Tanımak]]

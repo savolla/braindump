@@ -1,0 +1,9 @@
+#+TITLE: library
+#+STARTUP: overview
+#+ROAM_TAGS: keyword
+#+ROAM_ALIAS: "module"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 17:04]
+
+- see also ::
+  [[file:20210613032404-keyword-keyword.org][Keyword]]

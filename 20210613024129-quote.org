@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d8b2bbb6-82f3-4e2b-a403-652de4decea7
+:END:
+#+TITLE: 20210613024129-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 02:41]
+
+#+begin_quote
+"Let the machines have the jobs. At least the easy jobs or jobs that don't need a full fledged human to do. Because it really makes me sad when I see a human, the most precious, complex thing in the universe being dedicated to just being a stationary object" - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]] by [[file:20210613024221-tiago_forte.org][Tiago Forte]]
+#+end_quote
+
+- see also ::
+
+- references ::

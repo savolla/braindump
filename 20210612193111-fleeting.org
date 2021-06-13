@@ -1,0 +1,12 @@
+# You want to remember this Permanently!
+# You might use it in your Blog, Lectures, Job or even Book!
+#+TITLE: 20210612193111-fleeting
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: fleeting
+#+CREATED: [2021-06-12 Cts]
+#+LAST_MODIFIED: [2021-06-12 Cts 19:31]
+
+When two planets crash they create a disc around the largest object (I'm not sure here. Ask it to someone)
+
+- references ::
+https://www.youtube.com/watch?v=svRGxhg_vkU

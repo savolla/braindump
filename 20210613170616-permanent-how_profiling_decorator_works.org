@@ -1,0 +1,20 @@
+# Title must come at the end
+:PROPERTIES:
+:ID:       7e576d0b-1146-45ac-a45d-50dde322ca55
+:END:
+#+TITLE: how profiling decorator works
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: permanent
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 17:06]
+
+# You can link multiple Concepts and Permanent Notes!
+It takes a function as argument. When you run the profiling decorator it starts the [[file:20210613164032-concept-code_profiling.org][code profiling]] first. Right after that it starts the passed function. When function is finished it stops the code profiling and prints out a [[file:20210613170953-concept-profile_report.org][profile report]]
+
+- see also ::
+# Continuation or Related notes here
+
+- references ::

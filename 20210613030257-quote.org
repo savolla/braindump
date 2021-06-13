@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c4ef9b38-8578-41fd-890c-0fc6f938c3fb
+:END:
+#+TITLE: 20210613030257-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:02]
+
+#+begin_quote
+"When simple things need pictures, labels, or instructions, the design has failed" - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]] by [[file:20210613030419-donald_a_norman.org][Donald A. Norman]]
+#+end_quote
+
+- see also ::
+
+- references ::

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       37b6fb9d-baa3-448d-b906-1d51a21ad2dc
+:END:
+#+TITLE: Niklas Luhmann
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: person name permanent resource
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 02:30]
+
+Very productive German Sociologist who wrote 70 books, 600 articles using a note taking system called [[file:20210613023232-concept-zettelkasten.org][zettelkasten]]
+
+- website ::
+- social ::
+- mail ::
+
+- see also ::
+  + [[file:20210613032337-keyword-person.org][Person]]
+
+- references ::

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       96d6accb-3532-46c7-a3a3-ddf96b00871f
+:END:
+#+TITLE: Python decorator
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: concept permanent
+#+ROAM_ALIAS: "Python decorator" "what is Python decorator" "what Python decorator is"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 14:10]
+
+It is a [[id:af5f039a-d974-424f-be4d-eac872fb4b66][Python]] feature that helps us to *extend* the ability of a function without modifying it. It looks like this =@profiler=
+
+- see also ::
+#  + [[roam:why is Python decorator important]]
+#  + [[roam:when to use Python decorator]]
+#  + [[roam:how to use Python decorator]]
+  + [[file:20210613141605-permanent-example_of_python_decorator.org][example of Python decorator]]
+#  + [[roam:founder of Python decorator]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+
+- references ::

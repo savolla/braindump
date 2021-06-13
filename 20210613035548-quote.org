@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       dd13a2cb-ab1c-4956-8fe6-580a5ee07f5d
+:END:
+#+TITLE: 20210613035548-quote
+#+STARTUP: overview latexpreview
+#+ROAM_TAGS: quote permanent archive
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 03:55]
+
+#+begin_quote
+"Repetition is mother of learning." - [[id:e2154f21-c75e-430c-9732-4c1fac95ded0][quote]] by [[file:20210613035707-matt_dimaio.org][Matt DiMaio]]
+#+end_quote
+
+
+- see also ::
+
+- references ::
+https://www.youtube.com/watch?v=nqYmmZKY4sA

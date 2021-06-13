@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fcf09fe7-8f83-4990-9e3e-4deba2293501
+:END:
+#+TITLE: Aptalı Tanımak
+#+AUTHOR: Celal Şengör
+#+STARTUP: overview
+#+ROAM_TAGS: article non-fiction book index
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 05:23]
+
+[[file:20210613192003-concept-intelligence.org][what is intelligence]]
+[[file:20210613194225-permanent-general_population_is_ignorant.org][general population is ignorant]]
+[[file:20210613194936-permanent-judging_is_not_blaming.org][judging is the key of social development]]
+[[file:20210613195711-permanent-guide_to_not_being_retarded.org][guide to not being retarded]]
+[[file:20210613201530-permanent-what_makes_someone_fool.org][what makes someone intelligent]]
+[[file:20210613203224-permanent-what_makes_someone_fool.org][what makes someone fool]]
+
+- see also ::
+  + [[file:20210613050136-keyword-book.org][Book]]
+  + [[file:20210613052759-celal_sengor.org][Celal Şengör]]

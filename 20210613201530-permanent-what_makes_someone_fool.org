@@ -1,0 +1,27 @@
+# Title must come at the end
+#+TITLE: what makes someone intelligent
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: signs intelligence argument permanent
+#+ROAM_ALIAS: "signs of intelligence"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 20:15]
+
+# You can link multiple Concepts and Permanent Notes!
+A person is intelligent if he/she able to do the following things;
+1. *Understand the causes* of the problem
+2. To *see the whole problem* without getting stuck in any detail
+3. Know the nature of the *data to solve* the problem and where they can be found
+4. To be able to *measure the consistency* of the presentation of the problem and the data that will solve the problem.
+5. Produce fast solutions
+6. If the current solution conflicts with the available data, *abandon it immediately* and create a new solution.
+7. To have actually *solved similar problems* in the past or to be well acquainted with the solving processes of solved problems
+
+- see also ::
+# Continuation or Related notes here
+
+- references ::
+[[file:20210613052759-celal_sengor.org][Celal Şengör]]
+[[id:fcf09fe7-8f83-4990-9e3e-4deba2293501][Aptalı Tanımak]]

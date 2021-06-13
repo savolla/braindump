@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       47b6c572-cb13-4c46-b5c8-b9224075127e
+:END:
+#+TITLE: Sedna
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: concept permanent
+#+ROAM_ALIAS: "Sedna" "what is Sedna" "what Sedna is"
+#+CREATED: [2021-06-12 Cts]
+#+LAST_MODIFIED: [2021-06-12 Cts 19:41]
+
+it is a new dwarf [[file:20210612202708-keyword-planet.org][planet]] that found beyond [[file:20210612202840-concept-pluto.org][Pluto]]
+
+- see also ::
+#  + [[roam:why is Sedna important]]
+#  + [[roam:when to use Sedna]]
+#  + [[roam:how to use Sedna]]
+#  + [[roam:examples of Sedna]]
+#  + [[roam:founder of Sedna]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+
+- references ::

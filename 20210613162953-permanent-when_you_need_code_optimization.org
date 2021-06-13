@@ -1,0 +1,17 @@
+# Title must come at the end
+#+TITLE: when you need code optimization
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: permanent
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 16:29]
+
+# You can link multiple Concepts and Permanent Notes!
+Let's say you wrote a program. Code looks fine and organized and maybe you used bunch of fancy functions that abstract bunch of things for you and code is much shorter now. But when you run it you realize that it runs very slow. For example if your program loops through and does some sort of operations on 5000 elements, it shouldn't take 4 seconds right?. Because we have fast computers these days and even 1.5 seconds considered slow now. If you have a scenario like this then it means that you need to optimize that code.
+
+- see also ::
+# Continuation or Related notes here
+
+- references ::

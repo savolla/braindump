@@ -1,0 +1,19 @@
+#+TITLE: intelligence
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: concept permanent
+#+ROAM_ALIAS: "intelligence" "what is intelligence" "what intelligence is"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 19:20]
+
+Capacity of *understanding*, *creativity*, *memory* and usage speed of that capacity
+
+- see also ::
+#  + [[roam:why is intelligence important]]
+#  + [[roam:when to use intelligence]]
+#  + [[roam:how to use intelligence]]
+#  + [[roam:examples of intelligence]]
+#  + [[roam:founder of intelligence]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+
+- references ::
+[[id:fcf09fe7-8f83-4990-9e3e-4deba2293501][Aptalı Tanımak]] [[file:20210613052759-celal_sengor.org][Celal Şengör]]

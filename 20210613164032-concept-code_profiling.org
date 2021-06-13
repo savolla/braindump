@@ -1,0 +1,18 @@
+#+TITLE: code profiling
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: concept permanent
+#+ROAM_ALIAS: "code profiling" "what is code profiling" "what code profiling is"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 16:40]
+
+A technique to determine which parts of the code absorb most of the execution time.
+
+- see also ::
+#  + [[roam:why is code profiling important]]
+#  + [[roam:when to use code profiling]]
+#  + [[roam:how to use code profiling]]
+#  + [[roam:examples of code profiling]]
+#  + [[roam:founder of code profiling]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+
+- references ::

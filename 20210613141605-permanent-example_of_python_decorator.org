@@ -1,0 +1,41 @@
+# Title must come at the end
+#+TITLE: example of Python decorator
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: decorator snippet python permanent
+#+ROAM_ALIAS: "how to use Python decorator"
+#+CREATED: [2021-06-13 Paz]
+#+LAST_MODIFIED: [2021-06-13 Paz 14:16]
+
+# You can link multiple Concepts and Permanent Notes!
+
+Say we created a function called =divider= and we want to check for *divided by zero* error. We can put an if statement to solve it but we can also solve it by using a decorator.
+
+#+begin_src python :results output
+def check( function ): # <----------- decorator definition
+    def inside(a, b):
+        if b == 0:
+            print("Can't divide by Zero")
+            return
+        function(a, b)
+    return inside
+
+@check # <----------------- Here is the decorator
+def divide(a, b):
+    return a / b
+
+print(divide(10, 0))
+#+end_src
+
+#+RESULTS:
+: Can't divide by Zero
+: None
+
+
+- see also ::
+# Continuation or Related notes here
+
+- references ::
+https://www.youtube.com/watch?v=MYAEv3JoenI
