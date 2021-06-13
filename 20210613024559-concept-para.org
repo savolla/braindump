@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       9c0b464b-6de0-4248-96f1-761bfafa58cb
-:END:
 #+TITLE: PARA
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: concept permanent

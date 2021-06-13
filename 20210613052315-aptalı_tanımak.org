@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       fcf09fe7-8f83-4990-9e3e-4deba2293501
-:END:
 #+TITLE: Aptalı Tanımak
 #+AUTHOR: Celal Şengör
 #+STARTUP: overview

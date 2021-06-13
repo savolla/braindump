@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       9ed738ca-8bb8-484a-8eb2-1bdc3b6bd770
-:END:
 #+TITLE: cProfile
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: optimization profiling library module python tool permanent

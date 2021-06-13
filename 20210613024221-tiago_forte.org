@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       a036b83e-cd50-44c8-960b-e71f5e5d66ac
-:END:
 #+TITLE: Tiago Forte
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: person name permanent resource

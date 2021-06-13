@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       31b7d9af-94e1-4c12-86c8-ffd92d94331e
-:END:
 #+TITLE: Oleksiy Nehlyadyuk
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: person name permanent resource

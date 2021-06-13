@@ -1,7 +1,4 @@
 # Title must come at the end
-:PROPERTIES:
-:ID:       1c6ca6c9-e6d2-475e-b957-006a9a3c90fb
-:END:
 #+TITLE: interpret the profiling report
 #+STARTUP: overview
 # Find tags by asking;

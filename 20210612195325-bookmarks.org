@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       6d5ebfa2-b0c2-4903-aced-f5e337ca88e3
-:END:
 #+TITLE: Bookmarks
 #+STARTUP: overview
 #+ROAM_TAGS: archive index

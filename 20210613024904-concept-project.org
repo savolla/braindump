@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       b44053ec-5fb6-4349-83cb-6482359a4977
-:END:
 #+TITLE: Project
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: index

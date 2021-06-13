@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       37b6fb9d-baa3-448d-b906-1d51a21ad2dc
-:END:
 #+TITLE: Niklas Luhmann
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: person name permanent resource

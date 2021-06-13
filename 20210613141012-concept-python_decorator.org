@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       96d6accb-3532-46c7-a3a3-ddf96b00871f
-:END:
 #+TITLE: Python decorator
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: concept permanent

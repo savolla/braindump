@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       89f4f34a-7d56-461e-8730-c270d09f6ec7
-:END:
 #+TITLE: Computer Organization and Design: The Hardware/Software Interface
 #+STARTUP: overview
 #+ROAM_TAGS: computer-science computer-organization book index

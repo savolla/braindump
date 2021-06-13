@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       b1e3aa5a-df59-45aa-a479-f3e929e6b0d1
-:END:
 #+TITLE: favorite Youtube channels
 #+STARTUP: overview
 #+ROAM_TAGS: archive youtube procrastination index

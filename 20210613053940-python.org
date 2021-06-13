@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       af5f039a-d974-424f-be4d-eac872fb4b66
-:END:
 #+TITLE: Python
 #+STARTUP: overview
 #+ROAM_TAGS: index

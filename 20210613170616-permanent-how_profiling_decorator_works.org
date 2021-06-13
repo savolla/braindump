@@ -1,7 +1,4 @@
 # Title must come at the end
-:PROPERTIES:
-:ID:       7e576d0b-1146-45ac-a45d-50dde322ca55
-:END:
 #+TITLE: how profiling decorator works
 #+STARTUP: overview
 # Find tags by asking;

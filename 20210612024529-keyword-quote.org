@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       e2154f21-c75e-430c-9732-4c1fac95ded0
-:END:
 #+TITLE: quote
 #+STARTUP: overview
 #+ROAM_TAGS: keyword

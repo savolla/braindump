@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       78bd734e-e679-4e63-a05f-0499b39ed07f
-:END:
 #+TITLE: Engineer
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: concept permanent

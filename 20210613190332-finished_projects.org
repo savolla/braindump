@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       fc781503-ac7b-49ae-b319-ff7aea289d04
-:END:
 #+TITLE: Finished Projects
 #+STARTUP: overview
 #+ROAM_TAGS: archive index

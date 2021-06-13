@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       3acbaa2b-3f79-4c3e-b468-737c2a9e209a
-:END:
 #+TITLE: Texas
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: location permanent

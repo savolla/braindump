@@ -1,7 +1,4 @@
 # Title must come at the end
-:PROPERTIES:
-:ID:       2d20329a-9b08-4adf-864e-e5f2f5137232
-:END:
 #+TITLE: guide to not being retarded
 #+STARTUP: overview
 # Find tags by asking;
@@ -18,5 +15,5 @@ Those who want to learn about how environmental factors increase [[file:20210613
 # Continuation or Related notes here
 
 - references ::
-[[file:20210613052759-celal_sengor.org][Celal Şengör]]
-[[id:fcf09fe7-8f83-4990-9e3e-4deba2293501][Aptalı Tanımak]]
+  - [[file:20210613052759-celal_sengor.org][Celal Şengör]]
+  - [[file:20210613052315-aptalı_tanımak.org][Aptalı Tanımak]]

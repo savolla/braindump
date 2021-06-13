@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       32043146-7e2b-4833-be84-c3fd60017954
-:END:
 #+TITLE: Ismet Topaloglu
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: person name permanent resource

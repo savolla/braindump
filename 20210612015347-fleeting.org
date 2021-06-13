@@ -1,7 +1,4 @@
 # Copy before turning into literature note
-:PROPERTIES:
-:ID:       d11723b1-80da-4cd2-9e10-fd75feb97aa6
-:END:
 #+TITLE: 20210612015347-fleeting
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: fleeting

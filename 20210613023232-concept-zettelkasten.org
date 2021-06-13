@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       07040b1b-d676-4d29-a624-7a2e3ebec0a5
-:END:
 #+TITLE: zettelkasten
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: concept permanent

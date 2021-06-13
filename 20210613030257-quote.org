@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       c4ef9b38-8578-41fd-890c-0fc6f938c3fb
-:END:
 #+TITLE: 20210613030257-quote
 #+STARTUP: overview latexpreview
 #+ROAM_TAGS: quote permanent archive

@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       171a3824-8e1d-469a-8df2-e7f89f5aaa66
-:END:
 #+TITLE: Cortex
 #+STARTUP: overview
 #+ROAM_TAGS: keyword

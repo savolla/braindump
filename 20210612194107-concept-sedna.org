@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       47b6c572-cb13-4c46-b5c8-b9224075127e
-:END:
 #+TITLE: Sedna
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: concept permanent

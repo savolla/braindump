@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       fe0b46fd-3962-4520-be7d-a322d8821cd2
-:END:
 #+TITLE: Area
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: index

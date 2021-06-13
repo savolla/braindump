@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       05c272d6-b64d-4ce9-8aff-e89767372877
-:END:
 #+TITLE: Productivity
 #+STARTUP: overview
 #+ROAM_TAGS: concept area index

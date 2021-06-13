@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       005d5e44-8884-46e2-ac10-0bf50d56c4f6
-:END:
 #+TITLE: Pluto
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: astronomy concept permanent

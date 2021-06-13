@@ -5,4 +5,4 @@
 #+LAST_MODIFIED: [2021-06-13 Paz 03:24]
 
 - see also ::
-  [[id:171a3824-8e1d-469a-8df2-e7f89f5aaa66][Cortex]]
+  + [[file:cortex.org][Cortex]]

@@ -1,7 +1,4 @@
 # Title must come at the end
-:PROPERTIES:
-:ID:       92ee769b-8c4c-403c-92df-731a1dd56367
-:END:
 #+TITLE: Python profiling function
 #+STARTUP: overview
 # Find tags by asking;
