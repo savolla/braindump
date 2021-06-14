@@ -1,0 +1,7 @@
+#+TITLE: Internship
+#+STARTUP: overview
+#+ROAM_TAGS: index
+#+CREATED: [2021-06-14 Pzt]
+#+LAST_MODIFIED: [2021-06-14 Pzt 20:20]
+
+* Day 1
