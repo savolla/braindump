@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e2c3e8bd-84e5-4e61-8e6b-46bfafe952ba
+:END:
 #+TITLE: Cortex
 #+STARTUP: overview
 #+ROAM_TAGS: keyword
