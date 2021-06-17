@@ -1,0 +1,19 @@
+# Title must come at the end
+#+TITLE: "ve" ile "ile" aslında aynı şeyler
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: permanent
+#+CREATED: [2021-06-17 Prş]
+#+LAST_MODIFIED: [2021-06-17 Prş 22:53]
+
+# You can link multiple Concepts and Permanent Notes!
+Örnek cümleler ile bunun doğru olduğunu anlayabiliriz; "Deniz ile Kuzey eve geldiler" cümlesindeki "ile"'yi "ve"'ye çevirelim. "Deniz ve Kuzey eve geldiler"
+
+ - see also ::
+# Continuation or Related notes here
+    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+
+- references ::
+https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090?ref_=Oct_s9_apbd_orecs_hd_bw_b3cP&pf_rd_r=VK8S5ZYJXN75B5PCPWE4&pf_rd_p=d8309d46-68bd-5fc9-8666-e10259e4c85e&pf_rd_s=merchandised-search-10&pf_rd_t=BROWSE&pf_rd_i=13913

@@ -9,7 +9,8 @@
 #+LAST_MODIFIED: [2021-06-17 Prş 21:57]
 
 # You can link multiple Concepts and Permanent Notes!
-TODO:
+SR-Latch'in Türkçesi. Temelde *Başlat* (Set) ve *Durdur* (Reset) olacak şekilde iki düğmesi olan bir devredir.
+[[file:./images/screenshot-02.png]]
 
  - see also ::
 # Continuation or Related notes here

@@ -1,17 +1,15 @@
 # Title must come at the end
-#+TITLE: configure the device
+#+TITLE: Kontakları isimlendir
 #+STARTUP: overview
 # Find tags by asking;
 # 1) Topic tag: What are related words to this note?
 # 2) Context tag: What is the main idea of this note?
 #+ROAM_TAGS: permanent
 #+CREATED: [2021-06-17 Prş]
-#+LAST_MODIFIED: [2021-06-17 Prş 22:10]
+#+LAST_MODIFIED: [2021-06-17 Prş 23:08]
 
 # You can link multiple Concepts and Permanent Notes!
-Take your PLC and look at the serial number.
-[[file:./images/screenshot-01.png]]
-Find this ID number in the menu.
+Sembolü sürükleyip bıraktıktan sonra zaten isimlendirmek için yazı moduna geçecek. input olmasını istiyorsan "i0.0", output olmasını istiyorsan "q0.0". Buralardaki 0.0 demek, 0. PLC'den 0. input/output.
 
  - see also ::
 # Continuation or Related notes here
