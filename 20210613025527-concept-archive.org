@@ -9,7 +9,7 @@
 
 Finished projects or something you want to save and *reuse* later.
 
-+ [[id:6d5ebfa2-b0c2-4903-aced-f5e337ca88e3][Bookmarks]]
++ [[file:20210612195325-bookmarks.org][Bookmarks]]
 + [[file:20210613040440-vocabulary.org][Vocabulary]]
 + [[file:20210613190332-finished_projects.org][Finished Projects]]
 + [[file:20210614202035-index-internship.org][Internship]]

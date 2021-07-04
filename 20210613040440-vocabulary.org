@@ -4,5 +4,5 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 04:04]
 
-+ [[id:44d55657-eca0-47de-b7e1-d093a6de7743][English]]
++ [[file:20210613040335-english.org][English]]
 + [[file:20210613040904-русскии.org][Русский]]
