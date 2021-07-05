@@ -14,7 +14,7 @@
  - see also ::
 # Continuation or Related notes here
     + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+    + [[file:20210705100104-permanent-pn_profinet.org][PN -> Profinet]]
 
-    + [[file:20210705095434-index-tia_portal_hardware_configuration.org][TIA Portal Hardware Configuration]]
 
     + references ::

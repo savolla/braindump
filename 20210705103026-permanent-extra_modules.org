@@ -15,4 +15,6 @@ You can always use the "Hardware Catalog" to add extra input of output modules t
 # Continuation or Related notes here
     + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
-- references ::
+    + [[file:20210705103201-permanent-compiling_the_project.org][Compiling the Project]]
+
+    + references ::

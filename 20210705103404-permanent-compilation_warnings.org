@@ -1,0 +1,18 @@
+# Title must come at the end
+#+TITLE: Compilation Warnings
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: tia-portal password plc security permanent
+#+CREATED: [2021-07-05 Pzt]
+#+LAST_MODIFIED: [2021-07-05 Pzt 10:34]
+
+# You can link multiple Concepts and Permanent Notes!
+By default you have the "Full Access" to your PLC. This is not very secure since some one might access it and change settings without your permission. TIA Portal  is smart enough to detect it while compilation. Once you see that warning, simply double click that and adjust access mode. You also might want to add a password.
+
+ - see also ::
+# Continuation or Related notes here
+    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+
+- references ::

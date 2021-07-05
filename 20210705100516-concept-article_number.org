@@ -14,7 +14,6 @@ when you unfold the "CPU 1512C-PN" you'll see some long serial number. hey are c
 #  + [[roam:examples of Article Number]]
 #  + [[roam:founder of Article Number]]
   + [[file:20210612025056-keyword-concept.org][Concept]]
-  + [[file:20210705095434-index-tia_portal_hardware_configuration.org][TIA Portal Hardware Configuration]]
   + [[file:20210705102107-permanent-hardware_version.org][Hardware Version]]
 
   + references ::

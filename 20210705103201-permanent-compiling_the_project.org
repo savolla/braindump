@@ -15,4 +15,6 @@ After you [[file:20210617221011-permanent-configure_the_device.org][configure th
 # Continuation or Related notes here
     + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
-- references ::
+    + [[file:20210705103404-permanent-compilation_warnings.org][Compilation Warnings]]
+
+    + references ::

@@ -1,20 +1,18 @@
 # Title must come at the end
-#+TITLE: Hardware Version
+#+TITLE: add new tag table
 #+STARTUP: overview
 # Find tags by asking;
 # 1) Topic tag: What are related words to this note?
 # 2) Context tag: What is the main idea of this note?
-#+ROAM_TAGS: plc tia-portal permanent
+#+ROAM_TAGS: permanent
 #+CREATED: [2021-07-05 Pzt]
-#+LAST_MODIFIED: [2021-07-05 Pzt 10:21]
+#+LAST_MODIFIED: [2021-07-05 Pzt 10:39]
 
 # You can link multiple Concepts and Permanent Notes!
-When you select one of the article numbers you'll see a dropdown menu called "version". If you are not sure which firmware version your PLC has select the oldest one.
+switch to project view and go under your PLC and unfold "PLC Tags" double click "add new tag table" Here you will define your inputs and outputs with descriptie names
 
  - see also ::
 # Continuation or Related notes here
     + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
-    + [[file:20210705102310-permanent-loosing_features.org][Loosing Features]]
-
-    + references ::
+- references ::

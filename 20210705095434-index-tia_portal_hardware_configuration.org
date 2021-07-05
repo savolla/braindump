@@ -12,4 +12,8 @@
 + [[file:20210705100104-permanent-pn_profinet.org][PN -> Profinet]]
 + [[file:20210705100516-concept-article_number.org][Article Number]]
 + [[file:20210705102107-permanent-hardware_version.org][Hardware Version]]
-+ Loosing Features
++ [[file:20210705102310-permanent-loosing_features.org][Loosing Features]]
++ [[file:20210705102732-permanent-device_view.org][Device View]]
++ [[file:20210705103026-permanent-extra_modules.org][Extra Modules]]
++ [[file:20210705103201-permanent-compiling_the_project.org][Compiling the Project]]
++ [[file:20210705103404-permanent-compilation_warnings.org][Compilation Warnings]]

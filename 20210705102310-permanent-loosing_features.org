@@ -15,4 +15,6 @@ When you use older [[file:20210705102107-permanent-hardware_version.org][Hardwar
 # Continuation or Related notes here
     + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
-- references ::
+    + [[file:20210705102732-permanent-device_view.org][Device View]]
+
+    + references ::
