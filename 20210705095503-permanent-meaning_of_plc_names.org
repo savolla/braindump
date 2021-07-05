@@ -18,6 +18,5 @@ In "add new device" menu you'll see names like "CPU 1512C-1 PN". CPU means PLC. 
 # Continuation or Related notes here
     + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
     + [[file:20210705095855-permanent-compact_plc.org][Compact PLC]]
-    + [[file:20210705100104-permanent-pn_profinet.org][PN -> Profinet]]
 
     + references ::

@@ -15,4 +15,6 @@
 # Continuation or Related notes here
     + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
 
-- references ::
+    + [[file:20210705095434-index-tia_portal_hardware_configuration.org][TIA Portal Hardware Configuration]]
+
+    + references ::

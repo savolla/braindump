@@ -1,19 +1,18 @@
 # Title must come at the end
-#+TITLE: PN -> Profinet
+#+TITLE: Loosing Features
 #+STARTUP: overview
 # Find tags by asking;
 # 1) Topic tag: What are related words to this note?
 # 2) Context tag: What is the main idea of this note?
-#+ROAM_TAGS: s7-1500 profinet plc permanent
+#+ROAM_TAGS: plc tia-portal permanent
 #+CREATED: [2021-07-05 Pzt]
-#+LAST_MODIFIED: [2021-07-05 Pzt 10:01]
+#+LAST_MODIFIED: [2021-07-05 Pzt 10:23]
 
 # You can link multiple Concepts and Permanent Notes!
-"PN" means Profinet. All S7-1500 PLCs come with PN support.
+When you use older [[file:20210705102107-permanent-hardware_version.org][Hardware Version]] on PLC, you'll increase the chances of compatability but loose newer features which come with later versions.
 
  - see also ::
 # Continuation or Related notes here
     + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
-    + [[file:20210705095434-index-tia_portal_hardware_configuration.org][TIA Portal Hardware Configuration]]
 
-    + references ::
+- references ::

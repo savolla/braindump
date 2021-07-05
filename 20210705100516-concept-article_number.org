@@ -1,0 +1,20 @@
+#+TITLE: Article Number
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: concept permanent
+#+ROAM_ALIAS: "Article Number" "what is Article Number" "what Article Number is"
+#+CREATED: [2021-07-05 Pzt]
+#+LAST_MODIFIED: [2021-07-05 Pzt 10:05]
+
+when you unfold the "CPU 1512C-PN" you'll see some long serial number. hey are called Article Numbers. Select one of them. Article numbers usually are written on the PLC hardware itself.
+
+- see also ::
+#  + [[roam:why is Article Number important]]
+#  + [[roam:when to use Article Number]]
+#  + [[roam:how to use Article Number]]
+#  + [[roam:examples of Article Number]]
+#  + [[roam:founder of Article Number]]
+  + [[file:20210612025056-keyword-concept.org][Concept]]
+  + [[file:20210705095434-index-tia_portal_hardware_configuration.org][TIA Portal Hardware Configuration]]
+  + [[file:20210705102107-permanent-hardware_version.org][Hardware Version]]
+
+  + references ::

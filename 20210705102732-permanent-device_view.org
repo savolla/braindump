@@ -1,0 +1,20 @@
+# Title must come at the end
+#+TITLE: Device View
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: HARDWARE-CONFIGURATION plc tia-portal permanent
+#+CREATED: [2021-07-05 Pzt]
+#+LAST_MODIFIED: [2021-07-05 Pzt 10:27]
+
+# You can link multiple Concepts and Permanent Notes!
+Once you configure your PLC, TIA Portal will switch to device view. On the left side you'll see your graphical representation of your PLC and on the right side it's parameters. You can also click on some parts of PLC to see which parameter belongs to which part.
+
+ - see also ::
+# Continuation or Related notes here
+    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+
+    + [[file:20210705103026-permanent-extra_modules.org][Extra Modules]]
+
+    + references ::
