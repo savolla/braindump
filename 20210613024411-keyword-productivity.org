@@ -4,4 +4,4 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 02:44]
 
-[[id:cef9ed90-e5f8-4112-b8be-ec9a9c5cab8c][note taking]]
++ [[file:20210613023308-keyword-note_taking.org][note taking]]

@@ -3,7 +3,7 @@
 :END:
 #+TITLE: TIA Portal Hardware Configuration
 #+STARTUP: overview
-#+ROAM_TAGS: HARDWARE-CONFIGURATION plc tia-portal index
+#+ROAM_TAGS: plc tia-portal index
 #+CREATED: [2021-07-05 Pzt]
 #+LAST_MODIFIED: [2021-07-05 Pzt 09:54]
 

@@ -1,0 +1,427 @@
+#+TITLE: Software Engineering
+#+STARTUP: overview
+#+ROAM_TAGS: area index
+#+CREATED: [2021-07-05 Pzt]
+#+LAST_MODIFIED: [2021-07-05 Pzt 23:33]
+
+* Tips
++ Bir katman, diğer bir katmanı *new*'lememelidir. onun yerine her zaman araya bir *interface* konulmalıdır. Bu sayede SOLID'in DIP ilkesi çalışmış olur
+** Kod yazarken dikkat edilmesi gerekenler
+*** 1. Encapsulation
+**** method encapsulation'ı
+bir method yazarken, if else, ya da switch case silsilesi başladı ise o ifleri ve elseleri başka bir methoda aktar
++ eski kod;
+  #+begin_src cpp
+  class A {
+  public:
+      int method1( int param ) {
+          /*
+             bazı önemli kodlar (10 satır)
+          */
+         if ( param == 12 ) {
+             return 24;
+         }
+         else if ( param == 13 ) {
+             return 25;
+         }
+         else {
+             return 26;
+         }
+      }
+  }
+  #+end_src
++ yeni kod;
+  #+begin_src cpp
+  class A {
+  public:
+      int method1( int value ) {
+          /*
+             bazı önemli kodlar (10 satır)
+          ,*/
+          return getValue( value );
+      }
+
+      int getValue ( int value ) {
+         if ( value == 12 ) {
+             return 24;
+         }
+         else if ( value == 13 ) {
+             return 25;
+         }
+         else {
+             return 26;
+         }
+      }
+  }
+  #+end_src
+**** class encapsulation
+baktın yukarıdaki kod örneğinde, ayrılan method daha çok iş yapmaya başladı, fonksiyonalitesi arttı, o zaman bu mehodu da küçük methodlara ayırıp ayrı bir class aç
+*** 2. Programming to Interface
++ code *reuse* için kullanılan prensiptir. sınıfları birbirine bağımlı hale getirmeden kullanman gerekir. bunu nasıl yaparız? aşağıda birbirine bağımlı sınıflar gösterilmiştir;
+  #+begin_src plantuml :results output
+  @startuml
+  class A {
+      ...
+      method1()
+  }
+  class B {
+      ...
+      method2()
+      method3()
+      method4()
+  }
+  A -> B
+  @enduml
+  #+end_src
+
+  #+RESULTS:
+  : /tmp/babel-65VuvY/plantuml-2Y5KMS.png
++ yukarıdaki UML diyagramının kod karşılığı;
+  - A.cpp
+    #+begin_src cpp
+    #include "B.cpp"
+
+    class A {
+      B b;
+    public:
+      void method1() {
+        b.method2();
+        b.method3();
+      }
+    };
+    #+end_src
+  - B.cpp
+    #+begin_src cpp
+    class B {
+    public:
+      void method2() { /* some code */}
+      void method3() { /* some code */}
+      void method4() { /* some code */}
+    };
+    #+end_src
++ A sınıfı, B'yi import etti ve B'den sadece 2 method kullandı. method4 de B.cpp ile beraber geldi ki A ona ihtiyaç duymuyor. bu senaryoda yarın öbür gün B yerine başka bir sınıf kullanmak istersek, A classında bir çok değişiklik yapmamız gerekir. bunu önlemek için *programming to interface* dizayn prensibini kullanırız. UML diyagramı ve kod örneği aşağıda verilmiştir;
+  #+begin_src plantuml :results output
+  @startuml
+  class A {
+      ...
+      method1()
+  }
+  class B {
+      ...
+      method2()
+      method3()
+      method4()
+  }
+  interface IC {
+      method2()
+      method3()
+  }
+  A -> IC
+  IC <|.. B
+  @enduml
+  #+end_src
+
+  #+RESULTS:
+  [[file:/tmp/babel-OrQQfK/plantuml-BGoqJN.png]]
+
+  yukarıdaki UML diyagramına göre, A class'ı artık direk B'ye bağlı değil. ikisi arasına bir interface koyduk (Abstract class) ve A sınıfı bu interface'i include ediyor. B ise bu interface'i implemente ediyor;
+
+  - A.cpp
+    #+begin_src cpp
+    #include "IC.cpp"
+
+    class A {
+    public:
+        void method1() {
+            method2() {/* some code */}
+            method3() {/* some code */}
+        }
+    };
+    #+end_src
+  - IC.cpp
+    #+begin_src cpp
+    class IC {
+    public:
+        virtual void method2() = 0;
+        virtual void method3() = 0;
+    };
+    #+end_src
+  - B.cpp
+    #+begin_src cpp
+    #include "IC.cpp"
+    class B : public IC {
+        public:
+            void method2() {/* some code */}
+            void method3() {/* some code */}
+            void method4() {/* some code */}
+    };
+    #+end_src
+
+* Concepts
+** UML
+*** arrows and their meanings
+**** inheritance
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    class B{}
+    A -|> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-B49axT.png]]
++ relation
+  A *is a* B
+**** composition
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    class B{}
+    A *-> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-SSWv0Y.png]]
++ relation
+  A *has a* B
+**** aggregation
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    class B{}
+    A o-> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-6uvrGL.png]]
++ relation
+  A *may have a* B
+**** association
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    class B{}
+    A -> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-3DBNuI.png]]
++ relation
+  A *uses* B
+**** implementation
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    interface B{}
+    A .up.|> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-O3lcOD.png]]
++ relation
+  A *implements* B
+**** dependency
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    interface B{}
+    A .up.> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-dWqnIQ.png]]
++ relation
+  A *needs* B *to be able to work*
+** SOLID principles
+*** SRP
++ about sizes of *classes* and *methods*
++ rules;
+  a. every *operation* should be a separate class
+  b. classes should be _small_
+  c. class methods should be max 15-20 lines of code
++ SRP creates bunch of classes but here are the benefits;
+  a. easier to debug
+  b. new developers will adapt faster to codebase
+  c. code is easier to read
+  d. development speed increases
+
+*** OCP
++ about *interfaces*
++ rules;
+  a. we should not modify the existing and already tested and working classes when new scenario comes out
+  b. to extend the functionality use *Startegy Pattern*. it is like *Dependency Injection*
+  c. violate this principle when your code has some bugs. open and modify the existing code to fix the issue
+  d. if switch and case statements started to show up in methods it's time to apply _open close principle_
+
+*** LSP
++ about *subclasses*
+*** ISP
++ about *large interfaces*
+*** DIP
++ about *separating dependencies*
+** Dependency Injection (DI)
+** Hungarian Notation
+
+Variable naming style where the name also contains *type* information. Here are some examples;
+
+#+begin_src c
+byError // byte variable (unsigned char)
+iTank // integer. number of Tanks perhaps
+p_iTank // a pointer to an integer
+a_chPrint // array of characters to be printed
+fDone // a flag (indicating whether a process is done)
+#+end_src
+
+** QA
+Quality Assurance
+** Analysis Pattern
+
+Field specific *Design Pattern*
+
+* Software Architecture
+** notes from armağan amcalar's youtube stream
++ *design* and *architecuture* are different things
++ what is software design?
+  when you design classes, interfaces, controllers etc.
++ what is software architecture
+  when you design how component should communicate, which pattern you will be using
++ every developer should understand and implement software architecture.
++ before attempting to make a software always go through these steps;
+  1. software architecture
+  2. software design
+  3. coding
++ some kinds of software architecture;
+  1. domain driven design
+  2. event sourcing
+  3. event driven architecture
+  4. serverless architecture
+  5. monolith architecture
+  6. microservices architecture
++ *system architecture* and *software architectures* are different things
++ system architecture is not something that has restricted rules or formulas. one developer can;
+  1. combine two or more architectures
+  2. customize existing architectures
++ read Martin Fowler and Bob Martin's books
++ Model View Controller (MVC) is _not an architecture_. it is a _software design technique_
+*** Domain Driven Design (DDD)
++ still arguable if it is a design technique or arthitecture
++ it's intent is to merge business world and software world. it is a translator between business and software
++ if an architect designs a domain driven design architecture and he/she is not familiar with business the final result won't be very accurate
++ it's second intent is to create a software that scalable. so when you add a new feature, the next feature won't be hard to implement with ddd
++ a good example of ddd is an ERP software. it contains some discrete modules and each module is a *domain*;
+  1. invoice module
+  2. purchasing module
+  3. stock management module
+  4. delivery module
++ domain driven design will consider every domain as a different and discrete software. those softwares are called modules in ERP. every module is developed by people who has experience and concrete knowledge with said domain.
++ modules will communicate with some each other by interfaces when added.
++ modules/domains can work on their own since those are concrete softwares
++ the biggest difference of DDD from other architectures is that every module is completely discrete and one module can be glued together with interfaces
+*** Event Driven Design (EDD)
++ every unit of the system communicate with other units via signals. signals are called *events*
++ for example when a user scrolls the page or click on a button, then those buttons or scroll bars send some events to some other units
++ every unit knows which signal it recieves
++ event deiven architecture is more discributed than DDD. because in DDD, there are static interfaces between modules. in event sourcing, modules ara completely discrete
++ in Event Sourcing, modules are *completely unaware* from each other and there is a program called *broker* which handles signals coming from modules and sends those signals to other modules
++ in EDD, one signal can be sent to multiple modlues/services. (sometimes 0 which is bad..)
++ event sourcing is very scalable because you can always add a new modules to the system which listens a specific signal
++ down side of that architecture is those signals are just flying around and you have to log every single signal to a file. it is very complex
++ another complex sides are *naming the servies* and namespaceing services (putting those signals into a category like "purchase events", "user events" etc)
++ event driven design;
+  - increases the freedom of individual modules (zero coupling ?)
+  - increases complexity of signal management
++ one question is very rapid in EDD "I just threw that event but which module recieved?"
+
+*** Microservice Architecture
++ in this architecture *containers* are the key
++ these containers are actually an operating system but very small operatin systems
++ every container contains a separate and standalone application which can run on its own
++ every container service can be written with different programming language. this is really beneficial because we can unplug a container from the system, write it with a new technology/language and then plug it back
++ containers communicate with a program called Rest API. it is really looks like event driven design;
+  - events : containers
+  - broker : Rest API
++ when something goes wrong in a container, all the system continues to work without any problems. developers can easily roll back the problematic container to more stable/working version to bring system back to life, take a copy of buggy container, fix the bug and plug it in again
++ microservice architecture is also very beneficial from social perspective. people simply don't want to depend on each other. every team writes it's own container and ships it
++ also every container has it's own database. there is no centralized database which make it very secure. hacker must hack every container to access all the data
+*** Service Orriented Architecture (SOA)
+*** Event Sourcing
++ this is a solution to EDD's event management
++ basically all sent events are logged into a database with thsese information;
+  1. event name
+  2. event type
+  3. event parameters
+  4. event history
++ event sourcing is useful in *debugging* because all events are stored and with history. developers can pause the application or roll back to more older version etc
+** different styles of architectures
+*** n-tier
+- n layer
+- Higher layer communicates to lower tier
+- Must be independent
+- cosists of *presentation*, *application* and *data* layers (or more)
+ [[file:./images/screenshot-77.png]]
+- application's layers can be operate on different machines
+ [[file:./images/screenshot-78.png]]
+ this provides better *security*
+- application's layers can *scale* independently
+ [[file:./images/screenshot-79.png]]
+- layer's can be modifyes by other developers without touching other leyers
+  [[file:./images/screenshot-80.png]]
+- new layers can be added in parallel
+ [[file:./images/screenshot-81.png]] [[file:./images/screenshot-82.png]] [[file:./images/screenshot-83.png]]
+*** Client-server
+- At least one client component and one server component
+- Commonly used in distributed apps
+- examples of Client-Server architecture applcations;
+  1. E-Mail Application (Protonmail, Gmail)
+  2. Online Banking Applications
+*** Event-driven Style
+- Detect events from emitters and communicating to event consumers
+*** Transaction processing style
+- Divides workload down to a number of transactions which are given
+  to a dispatcher which controls the execution for each transaction
+*** Service-oriented architecture (SOA)
+- Combining functionalities packaged by programmatically accessible
+  services
+- e.g. Creating an SOA app that uses Amazon web services
+*** Pipes and Filters pattern
+- Break down processing tasks by modules (streams) into separate
+  components(filters), each into 1 task
+- Combine them into a pipeline by standardising format of data each
+  component sends and receives
+- Bottleneck - Slowest filter
+- Components can be run independently
+- Used when processing steps by an application have different
+  scalability requirements
+*** Broker pattern
+- Broker component coordinates communication, such as forwarding
+  requests, as well as for transmitting results and exceptions
+- Used to structure distributed software systems with decoupled
+  components interacting by remote service invocations
+*** Peer-to-peer
+- Partitions workload between peers (both 'client' and 'server' to
+  other nodes)
+*** Message-driven processing
+- Client sends service requests in specially-formatted messages to
+  request brokers(programs)
+- Request brokers maintain queues of requests (and maybe replies) to
+  screen their details
+* Software Design
+- thi is goog
+* Design Patterns
+** facts
++ designs usually start with *Factory Method* and then evolves toward;
+  1. Abstract Factory
+  2. Prototype
+  3. Builder
++ more flexibiliry = more complex code
+** concepts
+*** programming to an interface
++ this is a *design principle*
++ the keyword =interface= sometimes confuced with "interface keyword" in Java and C#. but this is not the keyword is discussed here
+** how to

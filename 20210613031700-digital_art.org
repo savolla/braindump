@@ -3,6 +3,3 @@
 #+ROAM_TAGS: concept area index
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 03:17]
-
-
-

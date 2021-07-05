@@ -1,8 +1,1021 @@
 #+TITLE: Embedded Systems
 #+STARTUP: overview
-#+ROAM_TAGS: concept area index
+#+ROAM_TAGS: area index
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 03:10]
 
 
+* TODO Articles
 
+Read and learn things from these. Extract knowledge and store here
+
++ [[https://jaycarlson.net/][jay carlson's entire website]]
++ [[https://www.livecareer.com/resume-search/r/senior-embedded-software-engineer-29aac52d404b476e87fdb747db1370e7][good example CV for embedded systems]]
++ [[https://wiki.archlinux.org/index.php/Udev][what is udev]] useful knowledge for *Embedded Linux applications*
+
+* TODO Books
+
+** An Embedded Software Primer
+[[file:./images/screenshot-09.png]]
+According to the Professor at ODTU who gives courses on embedded systems, he recommended this book as the "best resource"
+
+* TODO shovel :container:
+
+this is my embedded development container project. under this header I collect necessary tools for my container
+
+** capabilities
+*** supported MCUs
+Supported by =sdcc=
+**** Intel MCS51
+- 8031
+- 8032
+- 8051
+- 8052
+**** Zilog Z80
+- z80
+- z180
+- gbz80
+- Rabbit 2000/3000
+- Rabbit 3000A
+- TLCS-90
+**** HC08
+- hc08
+- s08
+**** Padauk
+- pdk14
+- pdk15
+**** Microchip
+- PIC16
+- PIC18
+**** Padauk
+- pdk13
+
+** install these
+*** serial com
+
+#+begin_src sh
+sudo pacman -S minicom
+sudo pacman -S picocom
+sudo pacman -S openocd
+#+end_src
+
+*** debuggers
+
+#+begin_src sh
+sudo pacman -S gnu-arm-eabi-gdb
+#+end_src
+
+*** cross-compilers
+
+#+begin_src sh
+sudo pacman -S gnu-arm-eabi-gcc sdcc
+#+end_src
+
+*** rust
+
+#+begin_src sh
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+cargo install itm
+cargo install cargo-binutils
+#+end_src
+
+*** bluetooth interfacing
+
+#+begin_src sh
+sudo pacman -S bluez bluez-utils rfkill
+#+end_src
+
+*** testing
+
+#+begin_src sh
+git clone https://github.com/ThrowTheSwitch/Unity.git
+git pull
+#+end_src
+
+
+* Tips
+** General
+- if your embedded system will be used in a communication application it is better to use a crystall that is equal or a multiplier of that network
+
+- if you buy a 16MHz CPU you need at most 16MHz Crystall to supply clock signal to it. You can get slower crystall like 8MHz but not faster than 16MHz!
+
+- what you need to know in Turkey
+
+  | Context   | Demand |
+  |-----------+--------|
+  | SPI       | +      |
+  | I2C       | +      |
+  | RS485     | +      |
+  | RS232     | +      |
+  | Ethernet  | +      |
+  | CAN       | +      |
+  |-----------+--------|
+  | Qt        | ++     |
+  | RTOS      | +      |
+  | Python    | +      |
+  | FPGA      | +      |
+  | github    | +      |
+  | C         | +++    |
+  | C++       | +++    |
+  | ARM       | +      |
+  | Englisgh  | ++     |
+  | Arduino   | +      |
+  | Raspberry | +      |
+  | linux     | +      |
+
+- *Reset Handler* ISR function should copy the *.data* section from *code memory* to SRAM
+
+- when an MCU has more than one SRAM don't let this confuse you. This is a totally a marketing technique. It actually have only one SRAM
+
+- don't give the *elf* executable to the customer. because there are tools like elf analizers which can decompile all the code to the C language and customers will know everything about the software implementation. give them .bin or .hex file instead. use tools like *objcopy*
+
+- use *ternary operators* instead of *if-else* in embedded systems. it increases performance
+
+- don't use SPI when distance is more than 1 meter
+
+** State Machines
+
+- *States* should be *Do-ing* something
+
+  - Idling
+  - Waiting to Connect
+  - Connecting
+  - Washing
+  - Off (this is special. initial state for a system)
+
+- States should be *Cohesive*
+
+  - _Do 1 thing_
+  - Should be described with *one sentence* _without logical connectives_
+
+- *Transitions* should be *imperative* and should be one single command (not always)
+
+  - Connect
+  - Stop
+  - Disconnect
+  - Push Button
+
+Example State Diagram
+[[file:./images/screenshot-138.png]]
+
+* Facts
+** general
+
+- the word *Speed* in embedded systems is fuzzy and should not be considered as a metric. The better words are *Throughput* and *Response*. They both mean separate things and once we start improve one of those, the other one decreases.
+
+- Peripherals are momory mapped and peripherals run independant from CPU core
+
+- Usually Embedded Systems teching should be started with *Block Diagramming*
+
+- in STM32F407VGT6 APB bus is slower than AHB bus
+
+- by default the most of the *peripherals* of ST MCUs are not active. we have to activate them in code before using them. To activate a peripheral we only need to enble the *clock* for them
+
+- Memory Map of ARM Cortex Mx processor
+  [[file:./images/screenshot-117.png]]
+
+- Most of the time the *Memory Map* is mentioned in the *Reference Manual* of the MCU
+
+- STM32Fx based MCUs have a concept called *Ports*. Each port has 16 pins where you can connect external peripherals such as LED, Display, button, Bluetotth Transciever, EEPROM, joystick, keypad etc. for example in STM32F407VGT6 there are A,B,C,D,E ports
+
+- in STM32Fx MCUs each I/O Port has it's own CPU peripheral hardware inside the MCU. This hardware has registers which can be read and write into. In this way we can read and write to external peripherals that we connect to GPIOs
+  [[file:./images/screenshot-116.png]]
+
+- Arm Cortex-M4 has *Thumb-2* ISA. Thumb-2 is a collection of 16-bit and 32-bit instructions
+
+- EEPROM and Flash are both *electrically erasable* memories but the fabrication of them are completely different. Flash is *faster* and *cheaper* than EEPROM
+
+- if you see something like "Xtal Ocsillators" in a MCU datasheet as a *peripheral* then it means that you don't need to connect any Cristals to supply timer to this MCU. It can run on its own
+
+- ARM's business model is based on *only designing* chips _does not manufacture_. Intel on the other hand designs and manufactures their chips
+
+- We don't use =main= function with *command line arguments* in embedded. So main function always written with =void= parameter like =int main(void)=
+
+** Why using ~malloc()~ or ~new~ is bad in embedded
+
+1. *Out of memory* problems can occur since Embedded Environments are low memory
+
+2. Slow. Dynamic memory allocation is either relatively slow and gets slower as the memory gets fragmented
+
+3. If you are going to use the same dynamic memory for different threads and interrupts then allocation/freeing routines need to perform locking which can cause problems servicing interrupts fast enough.
+
+4. Dynamic memory allocation makes it very difficult to debug
+
+5. Cause *Memory Leaks*
+
+** Pointer use cases in embedded;
+- configure the peripheral register addresses
+- Read/Write into peripheral data register
+- Read/Write into SRAM/FLASH locations
+
+** what happens before main()
+*** According to Making Embedded Systems book
+0. _start function
+1. Early low-level initialization, such as;
+   a. Configuring processor registers
+   b. Initializing external memory
+   c. Enabling caches
+   d. Configuring the MMU
+2. Stack initialization, making sure that the stack is properly aligned per the ABI requirements
+3. Frame pointer initialization
+4. C/C++ runtime setup
+5. Initializing other scaffolding required by the system
+6. Jumping to main
+7. Exiting the program with the return code from main
+*** According to Programming Embedded Systems book
+** Anatomy of a Typical Small MCU
+
+[[file:./images/screenshot-109.png]]
+
+When we power this MCU;
+1. Clock starts to send digital signals to CPU in very high speed. So CPU will start working
+2. CPU starts to read the *Program Memory* from address 0x00000000 to 0xFFFFFFFF
+3. CPU generates the address like 0x00000000 sends this address to *Address Bus*
+4. Program Memory outputs the instruction at 0x00000000 and sends the instruction through *Data Bus*
+5. CPU has some internal mechanisms to decode the instruction. It decodes and executes.
+6. CPU increments the address and reads the next instruction from the Program Memory
+
+While the read of Program Memory, sometimes CPU needs to store some temporary memory to the RAM which here represented as *Data Memory*. I/O is an interface between various sensors, actuators and CPU.
+
+** Applications of Bitwise Operations
+
+in embedded C program, most of the time you will be doing;
+
+- *testing* of bits (&)
+- *setting* of bits (|)
+- *clearing* of bits (~ and &)
+- *toggling* of bits (^)
+** Operation Modes of GPIOs in STM32F407VGT6
+
+In STM32F407VGT6, GPIO pins have different operation modes. They are not primitive as Arduino GPIOs where you can only set HIGH and LOW..
+
+1. Mode
+2. Output Type
+3. Output Speed
+4. pull-up/pull-down
+5. Input                   : read from external peripheral like sensor data
+6. Output                  : turn on or of a led
+7. Bit Set/Reset
+8. Configuration Lock
+9. Function Low
+10. Function High
+** ~const~ and ~volatile~
+:PROPERTIES:
+:EXPORT_FILE_NAME: const-and-volatile
+:EXPORT_TITLE: =const= & =volatile=
+:HUGO_BASE_DIR: ~/txt/blog/
+:HUGO_SECTION: en/posts
+:EXPORT_AUTHOR: savolla
+:END:
+
+*** Cheat Sheet
+
+[[./images/const-volatile-cheat-sheet.png]]
+
+*** const
+
+1. =const= in the following code indicates that =foo= is *read-only* value. And can't be changed by programmer and other functions or threads
+
+  #+begin_src c
+int const foo;
+  #+end_src
+
+  here is how to read the upper code;
+  #+begin_quote
+foo is a *constant* integer value
+  #+end_quote
+
+2. This is the example of *constant pointer*. This means that the pointed address is fixed and cannot be changed but the value in that address can be changed
+
+  #+begin_src c
+int *const foo;
+  #+end_src
+
+  |                  | Can Be Changed |
+  |------------------+----------------|
+  | Value at Address | Yes            |
+  | Pointed Address  | No             |
+
+  here is how to read the upper code;
+  #+begin_quote
+foo is a *constant* pointer which points to integer value
+  #+end_quote
+
+3. =foo= value is fixed but the *pointed address* can be changed
+
+  #+begin_src c
+int const *foo;
+  #+end_src
+
+  |                  | Can Be Changed |
+  |------------------+----------------|
+  | Value at Address | No             |
+  | Pointed Address  | Yes            |
+
+  here is how to read the upper code;
+  #+begin_quote
+foo is a pointer which points to *constant* integer value
+  #+end_quote
+
+4. Both value and pointer are fixed. Can't be changed by programmer or other sources. This is now truly *read-only* value by address and value
+
+  #+begin_src c
+int const *const foo;
+  #+end_src
+
+  here is how to read the upper code;
+  #+begin_quote
+foo is a *constant* pointer of *constant* integer value
+  #+end_quote
+
+*** volatile
+
+1. No optimization, value inside =foo= can change *unexpectedly* by another sources like other functions, threads or hardware interrupts and by the programmer itself
+
+  #+begin_src c
+int volatile foo;
+  #+end_src
+
+2. Great use case for *Memory Mapped Registers* like GPIO ports, sensors, onboard LEDs etc. Compiler optimization is disabled for =foo=
+
+  #+begin_src c
+int volatile *foo;
+  #+end_src
+
+3. Following code examples have very *rare* use cases. They almost never used
+
+  #+begin_src c
+int *volatile foo;
+  #+end_src
+
+  #+begin_src c
+int volatile *volatile foo;
+  #+end_src
+
+*** const & volatile
+
+1. *pointed address* can't be changed. Value inside that address is *volatile*. That means compiler optimization is not allowed for =foo= and data can be changed by programmer, other functions, other threads and hardware interrupts
+
+#+begin_src c
+int volatile *const foo;
+#+end_src
+
+2. Same as above but this time the data inside address can't be changed by programmer and other software elements like threads, other functions etc. Data can be changed _only by hardware_. This is a perfect case for storing sensor data. Which can only be changed by the sensor itself (like temperature sensor) and programmer is allowed only to read the data
+
+#+begin_src c
+int const volatile *const foo;
+#+end_src
+
+** applications of ~union~ in embedded systems
+1. Bit extraction /(form *network packets* etc)/
+2. Storing distinct data /(to save memory)/
+** ARM Cortex-Mx
+
+- manufacturers love to use Cortex-M processors because;
+  1. low cost
+  2. low power
+  3. low silicon area (smaller)
+** Elements Embedded Systems
+Embedded SYstems consists of some of these concepts
+
+1. Discrete / Continuous Signals
+2. Finite State Machines
+3. Computer Architecture
+4. Debuggers
+5. Software Patterns
+6. Formal Analysis
+** Examples of Embedded Systems
+*** Home
+1. Toasters
+2. Kettles
+3. Washing machines
+4. Dishwashers
+5. Food processors
+6. Televisions
+*** Telecommunications
+1. Network routers
+2. Modems
+3. Low power wide area network enabled sensors
+4. Cell towers
+5. Mobile phone.
+*** Medical
+1. x-ray generators
+2. ECG monitors
+3. MRI scanners
+*** science / technology
+1. Electronic Microscopes
+2. Oscilloscopes
+*** Car
+1. Electronic speedometer
+2. ABS
+3. Power steering
+4. Car alarm
+5. Air conditioning
+6. Heads up display
+** Design Patterns that used in Embedded Systems
+*Observer pattern*
+Also known as the publish-subscribe method. It is a method which allows data to be shared to multiple elements and makes it easy to add more elements to share the data. Thus the system becomes more flexible.
+
+*Hardware proxy pattern*
+Elements specifically responsible for accessing certain hardware. These make it easy to update firmware when changes in the hardware design are made. Again, this increases the flexibility of the design.
+
+*Interrupt pattern*
+Used to pause what its currently processing and handle events as soon as they happen. This in turn increases the Responsiveness.
+
+*Queuing pattern*
+Uses queued messages to share information among multiple processes.
+
+*Rendezvous pattern*
+Synchronises 2 or more separate processes.
+
+*State pattern*
+Implements a state machine inside firmware.
+
+*CRC pattern*
+Verifies data which makes the system more reliable.
+** Memory
+- Flash Memory can be erased 10.000 times (can be more than that but it's still not infinite)
+** Hardware
+- memory mapping is implemented like this;
+  1. determine how many parts will be in the circuit
+  2. if there will be 2 (ROM and RAM) then divide the address space into two
+  3. if the maximum address is 0xFFFF then 0xFFFF / 2 = 0x7FFF
+
+     in this case ROM will use the memory from
+     0x0000 to 0x7FFF
+
+     and RAM will use memory from
+     0x8000 to 0xFFFF
+  4. The important thing to notice is the binary representation of address 0x7FFF is;
+
+     0111 1111 1111 1111
+
+     The MSB contains "0" that means the CE (chip enable) pin will not select RAM.
+
+     Refer to 3rd chapter of "Embedded Software Primer" book if you forgot this topic
+
+- Microprocessors contain 2 most important *busses*;
+  1. Address Bus
+  2. Data Bus
+
+  And if there will be lots of I/O devices, to prevent *busyness* in Address Bus it will also contain
+
+  3. I/O Bus
+
+** UART
+- UART circuit recuires an external *clock circuit* It can't use processor's clock circuit because it must work at a specific speed to be compatible with other communication devices. UART will run at speed of *14.7456 MHz* because it is an even multiple of 28.800 and 28.800 bits per second is a common speed for communication.
+
+* How To
+** run ARM binaries on x86 Linux
+** how to specify a pointer to some address
+
+#+begin_src c
+uint32_t *p = (uint32_t *)0xFFFF0000;
+#+end_src
+** use bitwise operators
+
+#+begin_src c
+// Test
+uint32_t bitwiseTest( uint32_t data, uint32_t bitMask ) {
+    return (data & bitMask);
+}
+
+// Set
+uint32_t bitwiseSet( uint32_t data, uint32_t bitMask ) {
+    return (data | bitMask);
+}
+
+// Clear
+uint32_t bitwiseClear( uint32_t data, uint32_t bitMask ) {
+    return (data & ~(bitMask));
+}
+
+// Toggle
+uint32_t bitwiseToggle( uint32_t data, uint32_t bitMask ) {
+    return (data ^ bitMask);
+}
+#+end_src
+** delay between executions
+
+There are two types of delay mechanisms in Embedded; *Software Delay* and *Hardware Delay*. Software delay is implemented by using empty *loops* and Hardware Delays use hardware peripherals like *timers*. Hardware delays are more accurate and performance efficient while software delays are not accurate and consume too much energy
+
+The example of software delay
+#+begin_src c
+#include <stdint.h>
+
+for ( uintmax_t i = 0; i < 10000000; i++) {}
+#+end_src
+
+To use Hardware delay we need to activate timer peripherals and use them. Which is more work in code
+** choose pull-down resistor value
+#+begin_src quote
+R = 10 * Empedance_of_Pin
+#+end_src
+
+To check the empedance of the pin refer to the TRM
+** find how much bits a number takes
+ $log_{2}{1048576} = 20$
+ So the number 1048576 takes 20 bits (which is 1 MB)
+** implement memory mapping
+
+Refer "Embedded Software Primer" book's 3rd chapter page 52 if you don't understand anything from this screenshot
+
+[[file:./images/screenshot-161.png]]
+
+look how "NOT" gates used with "NAND" gates to determite which device's *CE* signal will be triggered
+
+* Concepts
+** Communication Protocol
+*** I2C
+
+- developed by Philips (now NXP)
+
+- also called *TWI* /"Two Wired Interface/
+
+- serial communication protocol
+
+- I²C enables designers to add more GPIO pins to MCU
+
+- some MCUs have this feature
+
+- I²C bus consists of two data lines;
+  1. SDA (serial data)
+  2. SCL (serial clock)
+
+- with I²C you can add bunch of *slaves* such as;
+  a. SPD EEPROMS
+  b. LED/LCD drivers
+  c. NVRAM CHIPS
+  d. DAC, ADC
+  e. Sound Controller
+  f. sensors
+  g. write/read real time clocks
+
+- slaves are easily replacable
+
+- here is how I²C looks like
+ [[file:./images/screenshot-71.png]]
+
+- If you don't have enough I/O pins, you can use I²C since it's TWI
+
+- I²C requires two *pull up* resistors to let the current flow over *SDA* and *SCL*
+
+ [[file:./images/screenshot-102.png]]
+
+*** SWD
+
+- serial wired debug
+- two-wire protocol for accessing the ARM debug interface
+- alternative to JTAG (just in ARM MPUs)
+- has two wires;
+  1. SWDIO : bidirectional data line
+  2. SWCLK : clock driven by the host
+- capabilities of SWD;
+  a. program MCU's internal flash memory
+  b. access memory regions
+  c. add breakpoints
+  d. stop/run CPU
+  e. printf style debugging
+*** SPI
+
+- Most chips use SPI protocol;
+
+  + Memory Chips /(EEPROMS, SD Cards)/
+  + Display Modules /(OLED, LCD)/
+  + ADCs mostly use SPI
+
+- In SPI there is a notion of *Master* and *Slave*
+
+- Master: Starts the data transaction, sends and recieves the data from Slaves
+
+- Master is mostly a Microcontroller (MCU) or FPGA
+
+- SPI interface has 4 different elements;
+
+ [[file:./images/screenshot-99.png]]
+
+ *SCLK* - Serial Clock
+ *MOSI* - Master Out Slave In
+ *MISO* - Master In Slave Out
+ *SS* - Slave Select
+
+- SPI protocol used the *CLOCK*. So it is a synchronized Protocol
+
+- CONS of this protocol is that it needs a GPIO pin per peripheral. While I²C does not. But since I²C uses adresses, slaves need to do a little bit operation to understand if the incoming data is for them or not. SPI is simpler and uses *SS* slave select
+
+- *SS* will select the slave. Basically it says "hey slave open your ear and listen!" while other slaves are not listening and don't know anything about the incoming data
+
+- Below, there is an example for *multiple slaves*
+
+ [[file:./images/screenshot-100.png]]
+
+- SPI is faster than I²C and UART
+
+- requires more pins than UART and I²C
+
+- used in short distances. don't use SPI when distance is more than 1 meter
+
+** Hardware
+*** DMA
+
+- direct memory access
+- translator between peripherals and the RAM
+
+*** ITM unit
+
+- Instrumentation Trace Macrocell Unit
+
+- a unit inside the *ARM Cortex M4* Processor
+
+- this is the core hardware that provides *printf style* debugging via SWD protocol
+
+- contains a FIFO buffer. Programmer can print to this buffer and ITM will spit out the content
+
+*** MEMS
+
+Micro Electro-Mechanical Systems. see [[https://www.youtube.com/watch?v=i2U49usFo10][this video]]
+
+*** NVRAM
+
+- non volatile RAM
+- data does not go away when power goes off
+- this is a costy component
+ [[file:./images/screenshot-72.png]]
+
+*** RTC
+
+Real Time Clock
+*** OTP
+One time Progammable memory. The actual ROMs
+*** MPU
+- Memory Protection Unit. Provided by many modern Microprocessors.
+- Stack Overflow protection
+- Isolation of discrete tasks
+- if a Processor has it, then it can run RTOS
+*** Accelerometer
+
+[[file:./images/screenshot-89.png]]
+Your phone screen rotates automatically when you rotate the phone. A *sensor* called Accelerometer is used in these applications. It detects 3D planes. This is a MEMS device
+
+*** Magnetometer
+
+[[file:./images/screenshot-90.png]]
+a MEMS device that can be used as a *Compass*. We have it inside our smart phones. All compass apps that you download from app store uses this sensor.
+
+*** Gyroscope
+
+[[file:./images/screenshot-91.png]]
+a MEMS device that can detect *rotation* and *angular velocity*.
+
+*** Carry Flag :TODO:
+*** Zero Flag
+
+set if result is 0. reset if non-zero
+*** Parity Flag
+
+set to 1 if last operation result is *even*. reset if odd
+*** Interrupt Latency
+
+Time passed before CPU reads the interrupt and finally returns
+
+=HW= -[IRQ]-> =ISR= -[IRQ]-> =CPU=
+
+Interrupt Latency happends here
+
+*** Status Register
+
+a.k.a. Flag register. Contains the information about current state of the Processor. Flag register names in different architectures;
+
+- *x86* : FLAGS
+- *AVR* : SREG
+- *ARM* : APSR /(application program status register)/
+*** PIC
+
+- stands for *Peripheral Interface Controller*
+- a microcontroller produced by *Microchip*
+- widely used in 8-bit apllications
+- Here is the Architecture of =PIC16F887=
+
+ [[file:./images/screenshot-110.png]]
+*** MPROM
+Type of ROM. Once you program it you can never erase it
+*** EEPROM
+- You can erase it.
+- Sometimes datasheets indicate EEPROMs as ROMs. They are actually erasable don't worry
+*** Flash
+- Same as EEPROM but faster and cheaper
+- Dominates the Embedded World as *code memory*
+*** FRAM
+- Ferroelectric Random Access Memory
+- Expen$ive
+- _Access speed is higher than Flash_
+- Tipically this kind of Memory is found in Texas Instruments Microcontrollers like ~MSP430FR2422~
+- Can be effective in _ultra low power_ applications
+*** AHB
+"Advanced High Performance Bus" this is a specific Address Bus which used in ARM CPUs. This bus connects CPU, Flash, RAM and other peripherals together
+*** RCC
+=STM32F407VGT6= component. Stands for *Reset Clock Control*. This is an engine that controls clocks of;
+- CPU
+- peripherals
+- different Busses
+- Memories.
+If you want to enable a peripheral then you first need to activate the clock of that peripheral using RCC
+the ~base address~ of RCC is =0x4002 3800= to =0x4002 3BFF=
+*** Active Low
+A hardware component (mostly pins) that outputs *high* while the voltage is *low*. If you see a component with *bars* that means this component is active low. In the pin description, Active Low pins have slashes before their names
+
+For example *MR* and *OE*
+*** Lidar
+This is a sensor that used in Self-driving car applications that Scans the environment by sending many laser beams
+
+[[file:./images/screenshot-90.png]]
+
++ better and faster than cameras. since cameras have blind spots
++ Lidar can scan 300 meter in 360 degrees
+*** Teraranger
+ROS compatible sensor that acts like lidar but for shorter distances. It is not movable.
+*** Xsens
+
+ROS compatible sensor Motion sensor. it is wearable. here is the [[https://www.youtube.com/watch?v=KqKa2Gc7lh8][video]]
+*** PMIC
+Power Management Integrated Circuit.
+
+[[file:./images/screenshot-129.png]]
+*** WDT
+
++ stands for *watchdog timer*
++ WDT is a system guarding system. it sends *reset signal* to the MCU if something goes wrong
++ programmer sets a *treshold*. treshold is a time limit for watchdog. program must send a *pet* signal to WDT before treshold ends. If given treshold is exceeded then watchdog will think that something wrong is going on and it will send reset signal.
++ see [[https://www.youtube.com/watch?v=AOlKBPydyKw][this]] video for better explanation
+*** PoE
+
++ stands for *Power Over Ethernet*
++ this is a special *ethernet connector* that also supplies *power* through ethernet
+*** VCC
++ Voltage Connected to Connector
++ 5 or 3 volts
+*** VDD & VSS
+if the _parts in PCB_ have been built using *Metal Oxide Semiconductor* (MOS) technology, you'll sometimes see *VDD* instead of *VCC* as voltage input and *VSS* instead of *GND*
+*** Decoupling Capacitor
+Also known as *Bypass Capacitor*. it usually placed between VCC and GND to stabilize the voltage. it protects the circuit from *noise* and *shock*
+*** Tri-State Output
+It basically one logic gate with extra pin called *Enable*. It enables the gate first and then allows it to output.
+
+[[file:./images/screenshot-147.png]]
+
+With this technique we can select which part will drive the signal. Therefore it prevents Bus Fight
+
+[[file:./images/screenshot-148.png]]
+*** SR Latch
+
+[[file:./images/screenshot-156.png]]
+*** D Flip Flop
+Used as memory in computers
+
+[[file:./images/screenshot-157.png]]
+*** Address Bus
+- one directional bus. goes from CPU to RAM/ROM/other I/O devices
+- This is the most important bus of the architecture because it helps CPU to specify which Device and which data will be Written or Read
+*** I/O Bus
+selector of I/O devices which connected to CPU. for example if we have 2 I/O pins when we can connect (enable the CE pin) to 4 different device
+
+** Software
+*** Unity
+unit testing for c (especially embedded software)
+
+*** newlib
+
+C standard library implementation intended for use on embedded systems
+
+*** OpenOCD
+
+Open (source) on Circuit Debugger. This is a software tool that helps embedded programmers to debug/flash embedded code to Microcontrollers. Supports JTAG and SWD protocols
+
+*** minicom
+
+serial communication software for linux. (PuTTY equivalent)
+
+*** TensorFlow Light
+
+a version of tensorflow for specifically *microcontrollers*
+
+*** ISR
+
+this is a function that waits interupts from hardware. when it recieves a signal then it sends this signal to the CPU and interupts the already running process. When ISR is complete then the active process continues to proceed
+
+The example of ISR is *keyboard handler* function;
+
+[Key Press] -> [Keyboard] -> [Signal] -> [Keyboard ISR] -> [Signal] -> [CPU]
+*** SysML
+
+system modelling language inherited from UML
+*** ~sbrk~ and ~brk~
+
+- These are *systemcall*
+- Every Heap memory region have a *boundary* called *break*
+- =sbrk= and =brk= adjust this *brake* value by increasing or decreasing
+- =malloc= function is actually using thsese systemcalls to allocate heap memory
+- =sbrk= syscall returns the address of the *brake*
+- =brk= however returns 0 on success and non-zero on failure
+
+ [[file:./images/screenshot-108.png]]
+
+** Jargon
+*** Interrupt Storm
+
+- this event happends when amount of _incoming interrupts_ is an astronomic number
+- ISRs are working constantly and the main system is busy all the time.
+- system is not responsive anymore.
+- requires a reset
+*** Fog Computing
+
+Fog Computing = Cloud + IoT
+
+*** Embedded System
+
+Combination of *Hardware* and *Software* which performs a *Specific Task*
+
+*** WAP
+
+Wireless Application Protocol. It was developed when mobile phones first being connected to the internet. It was difficult to use existing internet protocols on mobile phones. So engineers created a new one
+
+*** M2M
+
+Machine to Machine Communication. IoT and Embedded systems are examples
+
+*** Assembler
+
+translates the assembly language into machine language
+
+*** ISA
+
+The assembly language must support a different set of machine instructions. The design of the machine language *encoding* is called the /instruction set architecture (ISA)/. it's actually can be thought as *the flavor of assembly* like x86, Thumb etc
+
+*** Sensor
+- cameras
+- Depth sensor
+- Buttons
+- switches
+- encoders
+- GPS
+- IMU
+*** Actuator
+
+anything that moves
+
+- Wheels
+- Wings
+- Rotor
+- Motor
+- Arm
+- Servo
+- Step motor
+
+*** Robot
+
+sensors + actuators + control = robot
+
+*** Renesas
+
+Microcontrollers designer just like ARM. check [[https://en.wikipedia.org/wiki/Renesas_Electronics][this]] for more info
+*** Full Duplex
+
+When data is *coming* and *going* _at the same time_ using two caples. This concept is most important in communication protocols. For example SPI is Full Duplex thanks to MISO and MOSI data lines
+
+*** Half Duplex
+
+When data flows in one direction and two devices need to wait each other before sending the data. This can be thought as when two people talk on the phone
+*** Bit Masking
+
+it's a binary manipulation technique where we test some specific bits of a bit stream. To test the specific bits we create a *binary pattern* called *Bit Mask* and then we =&= this pattern with the actual bit stream
+
+[[file:./images/screenshot-115.png]]
+
+We can also do other operations like setting bits, toggling etc
+*** Bit Extraction
+*** Pull Up & Pull Down Resistor
+
+- They are used in *Digital Logic*
+- On every digital circuit when you see a resistor, chances are those resistors are pull up/down resistors
+- *Pull Up* resistor is connected to *Power Supply* and driver signal *High* by default
+
+ [[file:./images/screenshot-150.png]]
+
+- *Pull Down* resistor is connected to *Ground* and driver signal *Low* by default
+
+ [[file:./images/screenshot-149.png]]
+
+- Here is the [[https://www.youtube.com/watch?v=G_i1ZhadTa0][video]] that explains pull up/pull down resistors greatly
+
+*** Micron
+
++ Micron Technology, Inc. is an American *producer of computer memory and computer data storage* including _dynamic random-access memory_, _flash memory_, and _USB flash drives_. It is headquartered in Boise, Idaho. Its consumer products are marketed under the brands Crucial and Ballistix.
+
++ Micron and Intel together created IM Flash Technologies, which produces NAND flash memory. It owned Lexar between 2006 and 2017
+*** Firmware
+Software that specifically written for and Embedded System
+*** Impedance
+Resistance in AC circuits
+*** Bus Fight
+When two electronic parts drive the same signal at the same time and one of them drives *high* and other one drives *low* then it is called *Bus Fight*. it is an *error* in hardware design and can cause one or both parts to be destroyed. Bus fights can also be invisible if the fight last several nanoseconds long. it won't destroy the part(s) immediately but will do it over time.
+
+Techniques to prevent Bus Fight;
+1. Open Collector
+2. Tri-State
+*** Loading Problem
+[[file:./images/screenshot-151.png]]
+
+The signal's current coming from that buffer (at left bottom) will not be enough to feed bunch of circuits. You'll always need to know how much current each part will consume to be active. In the above example.
+
+This problem is solved by adding one *driver* to the signal line. It will strengthed the signal along the line.
+
+[[file:./images/screenshot-152.png]]
+
+But in this solution the added buffer will cause a little bit delay to the circuit. Here is how to solve this problem better. We add another similar buffer *in parallel*
+
+[[file:./images/screenshot-153.png]]
+
+*** Overloaded Circuit
+This is a circuit that has *Loading Problem*
+*** Propagation Delay Transition time between two states (high / low) of an electronic component. It is represented in *Timing Diagrams* like this; [[file:./images/screenshot-159.png]] In example above the the clock goes from HIGH to LOW. At the middle is the *Propagation Delay*
+** Robotics
+*** Mechanum Wheels
+
+[[file:./images/screenshot-118.png]]
+
+with these wheels your vihacle can translate in x and y axises. Here is the [[https://www.youtube.com/watch?v=83tVkgT89dM][video]] that explains *Mechanum Wheels* in action
+
+There are also left and right handed version of those
+*** Mobile Manipulator
+
+It's a moving robotic arm. Here is a mobile manipulator that also uses Mechanum Wheels
+
+[[file:./images/screenshot-119.png]]
+** Electronic Components
+*** Shift Register
+**** What is it
+
+Shift register is a *sequential logic* circuit that can be useful _when we run out digital pins_ on our microcontroller. It multiplies our digital pins
+
+**** Use Cases
+
++ store binary data (memory)
++ transfer data (data communication)
+
+**** Variations
+
+Shift Registers has 4 varians;
+1. SIPO (serial input parallel output)
+2. SISO (serial input serial output)
+3. PISO (parallel input serial output)
+4. PIPO (parallel input parallel output)
+
+**** SIPO and PISO
+
+[[file:./images/screenshot-139.png]]
+
+These are the *most popular*
+
+SIPO
+#+begin_src txt
+          .---.
+          |   |--output1->
+ -input-->|   |--output2->
+          |   |--output3->
+          |   |--output4->
+          '---'
+#+end_src
+
+PISO
+#+begin_src txt
+          .---.
+--input1->|   |
+--input2->|   |-output-->
+--input3->|   |
+--input4->|   |
+          '---'
+#+end_src
+
+**** SISO and PIPO
+
+They can be seen useless but they can be used for *Data Storage*
+**** SIPO 74HC595 Pinout
+
+[[file:./images/screenshot-140.png]]
+*** 7 Segment Display
+
+- There are two configurations
+
+ [[file:./images/screenshot-141.png]]
+
+* Platforms
+ * [[./stm32f407vgt6.org][stm32f407vgt6]]
+ * [[./beagleboneblack.org][BBB]]
+* Bookmarks
+** video
+[[https://www.youtube.com/watch?v=hybyRIhOovU][Software Design Using Hierarchical State Machine]]
+[[https://www.youtube.com/watch?v=pxaIyNbcPrA][How to implement State Machines in C]]
+** article
+[[https://github.com/K3tan/BBB_QT5_guide][Github BBB Qt5 cross compile]]
+[[https://www.interelectronix.com/tr/ubuntu-20-ltsde-raspberry-bilgisayar-modulu-4-icin-qt-515-capraz-derleme.html][Walter Prechtl Cross Compile Qt for RPi]]
+[[https://hackaday.com/2015/08/13/becoming-a-state-machine-design-mastermind/][Becoming a State Machine Design Mastermind]]
