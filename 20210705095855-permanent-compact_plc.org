@@ -1,0 +1,18 @@
+# Title must come at the end
+#+TITLE: Compact PLC
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: permanent
+#+CREATED: [2021-07-05 Pzt]
+#+LAST_MODIFIED: [2021-07-05 Pzt 09:58]
+
+# You can link multiple Concepts and Permanent Notes!
+"C" means "Compact". It means that the PLC comes with some built-in input and output modules. Not every PLC comes with it.
+
+ - see also ::
+# Continuation or Related notes here
+    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+
+- references ::

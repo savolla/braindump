@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       04215b14-46d7-4225-8dde-c8fae6700295
+:END:
+#+TITLE: TIA Portal Hardware Configuration
+#+STARTUP: overview
+#+ROAM_TAGS: HARDWARE-CONFIGURATION plc tia-portal index
+#+CREATED: [2021-07-05 Pzt]
+#+LAST_MODIFIED: [2021-07-05 Pzt 09:54]
+
++ [[file:20210705095503-permanent-meaning_of_plc_names.org][meaning of PLC names]]
++ [[file:20210705095855-permanent-compact_plc.org][Compact PLC]]
++ [[file:20210705100104-permanent-pn_profinet.org][PN -> Profinet]]

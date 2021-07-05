@@ -1,0 +1,18 @@
+# Title must come at the end
+#+TITLE: PN -> Profinet
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: s7-1500 profinet plc permanent
+#+CREATED: [2021-07-05 Pzt]
+#+LAST_MODIFIED: [2021-07-05 Pzt 10:01]
+
+# You can link multiple Concepts and Permanent Notes!
+"PN" means Profinet. All S7-1500 PLCs come with PN support.
+
+ - see also ::
+# Continuation or Related notes here
+    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+
+- references ::
