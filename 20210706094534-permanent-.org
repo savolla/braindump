@@ -1,0 +1,23 @@
+# Title must come at the end
+#+TITLE:
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: literal string c argument permanent
+#+CREATED: [2021-07-06 Sal]
+#+LAST_MODIFIED: [2021-07-06 Sal 09:45]
+
+# You can link multiple Concepts and Permanent Notes!
+There is a thing called *string literal* which is stored in ROM instead of RAM
+
+#+begin_src c
+char msg1[] = "I'm stored in RAM";
+char *msg2 = "I'm stored in ROM";
+#+end_src
+
+ - see also ::
+# Continuation or Related notes here
+    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+
+- references ::

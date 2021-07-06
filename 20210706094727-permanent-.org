@@ -1,0 +1,24 @@
+# Title must come at the end
+#+TITLE: invisible error in C
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: error string literal c argument permanent
+#+CREATED: [2021-07-06 Sal]
+#+LAST_MODIFIED: [2021-07-06 Sal 09:47]
+
+# You can link multiple Concepts and Permanent Notes!
+string literals are constant. cannot be changed!. the following code will not spit any errors! so this is really strict case in C. The code is wrong and no warnings..
+
+#+begin_src c
+char *msg2 = "I'm stored in ROM";
+msg2[15] = 'A'; // trying to change ROM to RAM
+#+end_src
+
+ - see also ::
+# Continuation or Related notes here
+    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+    + [[file:20210706094943-permanent-.org][string literals must be constant]]
+
+- references ::
