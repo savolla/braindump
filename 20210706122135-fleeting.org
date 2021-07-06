@@ -1,0 +1,14 @@
+# You want to remember this Permanently!
+# You might use it in your Blog, Lectures, Job or even Book!
+#+TITLE: 20210706122135-fleeting
+#+STARTUP: overview latexpreview inlineimages
+#+ROAM_TAGS: argument cnn machine-learning image-processing fleeting
+#+CREATED: [2021-07-06 Sal]
+#+LAST_MODIFIED: [2021-07-06 Sal 12:21]
+
+CNN is the strongest Image pattent classification atm.
+
+- see also ::
+    + [[file:20210614003807-keyword-fleeting_notes.org][Fleeting Notes]]
+
+- references ::

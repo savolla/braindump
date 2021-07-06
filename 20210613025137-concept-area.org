@@ -20,3 +20,4 @@ A field or a topic. Thing that someone spend his/her life on. It is some sort of
 + [[file:20210613033811-diction.org][Diction]]
 + [[file:20210613204240-society.org][Society]]
 + [[file:20210705095257-index-plc.org][PLC]]
++ [[file:20210706112127-index-image_processing.org][Image Processing]]
