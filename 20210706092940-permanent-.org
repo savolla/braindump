@@ -1,0 +1,22 @@
+# Title must come at the end
+#+TITLE:
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: argument initialization snippet array c permanent
+#+CREATED: [2021-07-06 Sal]
+#+LAST_MODIFIED: [2021-07-06 Sal 09:29]
+
+# You can link multiple Concepts and Permanent Notes!
+if we initialize arrays like this, the remaining elements will be initiazlized with 0
+
+#+begin_src c
+uint32_t arr[10] = {1,2,3}; // actuall arrays is {1,2,3,0,0,0,0,0,0,0}
+#+end_src
+
+  - see also ::
+# Continuation or Related notes here
+    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+
+- references ::

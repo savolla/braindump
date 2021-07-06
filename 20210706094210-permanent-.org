@@ -1,0 +1,24 @@
+# Title must come at the end
+#+TITLE:
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: snippet string argument c permanent
+#+CREATED: [2021-07-06 Sal]
+#+LAST_MODIFIED: [2021-07-06 Sal 09:42]
+
+# You can link multiple Concepts and Permanent Notes!
+those two are not same
+
+#+begin_src c
+char msg1[] = "A"; // this is a string. size is 2 because has '\0' at the end
+char msg2 = 'A'; // this is a simple character value
+#+end_src
+
+
+ - see also ::
+# Continuation or Related notes here
+    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+
+- references ::

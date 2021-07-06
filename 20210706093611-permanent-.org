@@ -1,0 +1,29 @@
+# Title must come at the end
+#+TITLE:
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: argument initialization array c permanent
+#+CREATED: [2021-07-06 Sal]
+#+LAST_MODIFIED: [2021-07-06 Sal 09:36]
+
+# You can link multiple Concepts and Permanent Notes!
+the following is _legal_ in C;
+
+  #+begin_src c
+  uint32_t arr[] = {1,2,3}; // it's size will be 3
+  uint32_t arr[100]; // all elements will initialized with 0
+  #+end_src
+
+but this is _not legal_
+
+  #+begin_src c
+  uint32_t arr[]; // you must specify the size
+  #+end_src
+
+ - see also ::
+# Continuation or Related notes here
+    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+
+- references ::

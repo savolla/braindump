@@ -1,0 +1,23 @@
+# Title must come at the end
+#+TITLE:
+#+STARTUP: overview
+# Find tags by asking;
+# 1) Topic tag: What are related words to this note?
+# 2) Context tag: What is the main idea of this note?
+#+ROAM_TAGS: argument initialization array c99 c permanent
+#+CREATED: [2021-07-06 Sal]
+#+LAST_MODIFIED: [2021-07-06 Sal 09:38]
+
+# You can link multiple Concepts and Permanent Notes!
+There is a thing called *varible length array* that introduced in C99. (not included in ANSI C (C90))
+
+#+begin_src c
+uint8_t const len = 10;
+uint32_t arr[len];
+#+end_src
+
+ - see also ::
+# Continuation or Related notes here
+    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
+
+- references ::
