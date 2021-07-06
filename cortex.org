@@ -13,3 +13,4 @@ This is the entry point of my second brain. This is the index of all indexes, wh
 + [[file:20210613025137-concept-area.org][Area]]
 + [[file:20210613025406-concept-resources.org][Resources]]
 + [[file:20210613025527-concept-archive.org][Archive]]
++ [[file:20210705233511-index-orphan.org][Orphan]]

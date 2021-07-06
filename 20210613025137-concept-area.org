@@ -10,6 +10,8 @@
 A field or a topic. Thing that someone spend his/her life on. It is some sort of Project but without a deadline and much much longer. For example "Medicine", "Programming" are Areas.
 
 + [[file:20210613031022-embedded_systems.org][Embedded Systems]]
++ [[file:20210613153621-programming.org][Programming]]
++ [[file:20210705233337-index-software_engineering.org][Software Engineering]]
 + [[file:20210613053940-python.org][Python]]
 + [[file:20210613024411-keyword-productivity.org][Productivity]]
 + [[file:20210613031640-music.org][Music]]

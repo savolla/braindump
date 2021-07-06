@@ -1,0 +1,11 @@
+#+TITLE: Databases
+#+STARTUP: overview
+#+ROAM_TAGS: index
+#+CREATED: [2021-07-05 Pzt]
+#+LAST_MODIFIED: [2021-07-05 Pzt 23:46]
+
++ [[./sql.org][sql]]
++ [[./mysql.org][MySQL]]
++ [[./mongodb.org][MongoDB]]
++ [[./postgres.org][PostgreSQL]]
++ [[./mssql.org][MSSQL]]
