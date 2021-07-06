@@ -1,0 +1,5 @@
+#+TITLE: Image Processing Books
+#+STARTUP: overview
+#+ROAM_TAGS: index
+#+CREATED: [2021-07-06 Sal]
+#+LAST_MODIFIED: [2021-07-06 Sal 11:22]

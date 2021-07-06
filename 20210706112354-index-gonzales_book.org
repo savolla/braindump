@@ -1,0 +1,5 @@
+#+TITLE: Gonzales Book
+#+STARTUP: overview
+#+ROAM_TAGS: book image-processing index
+#+CREATED: [2021-07-06 Sal]
+#+LAST_MODIFIED: [2021-07-06 Sal 11:23]
