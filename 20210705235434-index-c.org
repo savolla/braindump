@@ -1,8 +1,13 @@
+:PROPERTIES:
+:ID:       4ff7c40a-1446-44b9-b6d1-cc30501c04e7
+:END:
 #+TITLE: c
 #+STARTUP: overview
 #+ROAM_TAGS: index
 #+CREATED: [2021-07-05 Pzt]
 #+LAST_MODIFIED: [2021-07-05 Pzt 23:54]
+
+
 
 * Facts
 ** general
@@ -109,65 +114,6 @@ void printArray(int *arr, size_t size) {
 
 - ~struct~ deffinitions don't consume memory. Only instances of the struct consume memory
 
-** arrays
-
-- if we initialize arrays like this, the remaining elements will be initiazlized with 0
-
-  #+begin_src c
-  uint32_t arr[10] = {1,2,3}; // actuall arrays is {1,2,3,0,0,0,0,0,0,0}
-  #+end_src
-
-- the following is legal;
-
-  #+begin_src c
-  uint32_t arr[] = {1,2,3}; // it's size will be 3
-  uint32_t arr[100]; // all elements will initialized with 0
-  #+end_src
-
-- but this is not legal
-
-  #+begin_src c
-  uint32_t arr[]; // you must specify the size
-  #+end_src
-
-- There is a thing called *varible length array* that introduced in C99. (not included in ANSI C (C90))
-
-  #+begin_src c
-  uint8_t const len = 10;
-  uint32_t arr[len];
-  #+end_src
-
-** strings
-
-- those two are not same
-
-  #+begin_src c
-  char msg1[] = "A"; // this is a string. size is 2 because has '\0' at the end
-  char msg2 = 'A'; // this is a simple character value
-  #+end_src
-
-- There is a thing called *string literal* which is stored in ROM instead of RAM
-
-  #+begin_src c
-  char msg1[] = "I'm stored in RAM";
-  char *msg2 = "I'm stored in ROM";
-  #+end_src
-
-- string literals are constant. cannot be changed!. the following code will not spit any errors! so this is really strict case in C. The code is wrong and no warnings..
-
-  #+begin_src c
-  char *msg2 = "I'm stored in ROM";
-  msg2[15] = 'A'; // trying to change ROM to RAM
-  #+end_src
-
-- string literals must be always =const= !
-
-  #+begin_src c
-  char const *msg2 = "I'm stored in ROM";
-  msg2[15] = 'A'; // trying to change ROM to RAM
-  #+end_src
-
-- now compiler will shows error
 
 ** scenarios for using inline assembly
 1. *C variable* --> *CPU register*
