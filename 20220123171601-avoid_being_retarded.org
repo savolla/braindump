@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e80f15ee-96d3-49f0-89d5-e40dd888cf99
+:END:
+#+title: avoid being retarded
+#+filetags: :anthropology:how_to:
+
+Those who want to learn about how environmental factors increase [[file:20210613200144-concept-stupidity.org][stupidity]] and how to combat it can refer to the great American anthropologist and social psychologist professor [[file:20210613200252-robert_b_edgerton.org][Robert B. Edgerton]]'s magnificent work [[https://www.amazon.com/Mental-Retardation-Developing-Robert-Edgerton/dp/0674568869][Mental Retardation]], published by [[file:20210613200534-concept-harvard_university.org][Harvard University]] Press in 1979.

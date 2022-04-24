@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       8319e545-9dc2-4a38-ae9b-9ee8d1bf8cb7
+:END:
+#+title: cortex
+#+filetags: :cmap:what_is:
+entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s second brain
+* project
+* area
+1. [[id:d07772aa-e40d-4502-b561-13ae3c568685][rust]]
+2. [[id:4420715b-9509-4d22-bfea-8a95aafb72af][python]]
+3. [[id:3f190252-a13d-494f-a189-aeebd6a3d13f][note taking]]
+4. [[id:c0bc56e6-9711-4c48-a500-a0d8bf26b761][vtk]]
+5. [[id:71bdbf8c-de11-4bbe-b639-111b2d32bdf6][ros]]
+6. [[id:f96c207e-6917-4d8b-9304-faf4b5d9693d][ros2]]
+7. [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]]
+
+* resource
+* archive
+
+* under development
++ [[file:20210613024904-concept-project.org][Project]]
++ [[file:20210613025137-concept-area.org][Area]]
++ [[file:20210613025406-concept-resources.org][Resources]]
++ [[file:20210613025527-concept-archive.org][Archive]]
++ [[file:20210705233511-index-orphan.org][Orphan]]
