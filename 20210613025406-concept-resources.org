@@ -4,6 +4,3 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 02:54]
 
-A _source_ of content which contains valuable and useful information.
-
-+ [[file:20210613050136-keyword-book.org][Book]]

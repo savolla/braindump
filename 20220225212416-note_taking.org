@@ -24,3 +24,4 @@ savolla's guide to take notes
 4. [[id:e7079772-6901-4627-91d5-9163ea593f98][concept]]
 5. [[id:026e1f3f-794e-41cb-839b-ee7c5de78e89][list of]]
 6. [[id:8319e545-9dc2-4a38-ae9b-9ee8d1bf8cb7][cortex]]
+7. [[id:7e439c7a-363a-40d1-92af-2f7cb30eb7a3][PARA method]]

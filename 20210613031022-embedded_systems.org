@@ -1,6 +1,5 @@
 #+TITLE: Embedded Systems
 #+STARTUP: overview
-#+ROAM_TAGS: area index
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 03:10]
 
@@ -1016,6 +1015,7 @@ They can be seen useless but they can be used for *Data Storage*
 [[https://www.youtube.com/watch?v=hybyRIhOovU][Software Design Using Hierarchical State Machine]]
 [[https://www.youtube.com/watch?v=pxaIyNbcPrA][How to implement State Machines in C]]
 ** article
+
 [[https://github.com/K3tan/BBB_QT5_guide][Github BBB Qt5 cross compile]]
 [[https://www.interelectronix.com/tr/ubuntu-20-ltsde-raspberry-bilgisayar-modulu-4-icin-qt-515-capraz-derleme.html][Walter Prechtl Cross Compile Qt for RPi]]
 [[https://hackaday.com/2015/08/13/becoming-a-state-machine-design-mastermind/][Becoming a State Machine Design Mastermind]]

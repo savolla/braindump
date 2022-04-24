@@ -1,5 +1,8 @@
 # Title must come at the end
-#+TITLE: what makes someone fool
+:PROPERTIES:
+:ID:       7e917f01-7cb5-43a1-8ef4-d0eec5febfe7
+:END:
+#+TITLE: things make someone fool
 #+STARTUP: overview
 # Find tags by asking;
 # 1) Topic tag: What are related words to this note?
@@ -10,12 +13,4 @@
 #+LAST_MODIFIED: [2021-06-13 Paz 20:32]
 
 # You can link multiple Concepts and Permanent Notes!
-the opposite of [[file:20210613201530-permanent-what_makes_someone_fool.org][what makes someone intelligent]]
-
-- see also ::
-# Continuation or Related notes here
-  + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
-
-- references ::
- [[file:20210613052759-celal_sengor.org][Celal Şengör]]
- [[id:fcf09fe7-8f83-4990-9e3e-4deba2293501][Aptalı Tanımak]]
+the opposite of [[id:2e2b39dd-eee2-4e9f-8633-edd920cb07a9][things make someone intelligent]]

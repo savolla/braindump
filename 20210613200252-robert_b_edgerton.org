@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       efba1358-99a1-4583-8227-527105188008
+:END:
 #+TITLE: Robert B. Edgerton
+#+filetags: :who_is:
 #+STARTUP: overview latexpreview inlineimages
-#+ROAM_TAGS: person name permanent resource
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 20:02]
 
@@ -10,7 +13,3 @@ TODO:
 - social ::
 - mail ::
 
-- see also ::
-  + [[id:324afa9b-b2b5-42af-9d2b-f4e2a2bb3f33][Person]]
-
-- references ::

@@ -8,4 +8,8 @@ CURRENT_YEAR="$(date | awk '{ print $4 }')"
 BIRTH_DAY="1992"
 #+end_src
 
-the external biologic entity behind this [[id:8319e545-9dc2-4a38-ae9b-9ee8d1bf8cb7][cortex]]. It is $(($CURRENT_YEAR - $BIRTH_DAY)) years old.
+the [[https://www.history-a2z.com/wp-content/uploads/2020/12/180695/cmg-crop-0_0_800_533.shutterstock_1221914224-roman-statues.jpg.pro-cmg.jpg][ancient sculpture]] behind this [[id:8319e545-9dc2-4a38-ae9b-9ee8d1bf8cb7][cortex]].
+
+- website :: https://savolla.github.io
+- social :: https://github.com/savolla
+- mail :: savolla@protonmail.com

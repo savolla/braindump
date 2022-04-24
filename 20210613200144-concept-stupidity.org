@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       75fef10f-dc41-4df8-9ece-8d4c8fb815a3
+:END:
 #+TITLE: stupidity
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: concept permanent
@@ -6,13 +9,3 @@
 #+LAST_MODIFIED: [2021-06-13 Paz 20:01]
 
 The opposite of [[file:20210613192003-concept-intelligence.org][intelligence]]
-
-- see also ::
-#  + [[roam:why is stupidity important]]
-#  + [[roam:when to use stupidity]]
-#  + [[roam:how to use stupidity]]
-#  + [[roam:examples of stupidity]]
-#  + [[roam:founder of stupidity]]
-  + [[file:20210612025056-keyword-concept.org][Concept]]
-
-- references ::

@@ -6,15 +6,3 @@
 #+LAST_MODIFIED: [2021-06-13 Paz 19:20]
 
 Capacity of *understanding*, *creativity*, *memory* and usage speed of that capacity
-
-- see also ::
-#  + [[roam:why is intelligence important]]
-#  + [[roam:when to use intelligence]]
-#  + [[roam:how to use intelligence]]
-#  + [[roam:examples of intelligence]]
-#  + [[roam:founder of intelligence]]
-  + [[file:20210612025056-keyword-concept.org][Concept]]
-
-  + references ::
-    + [[file:20210613052315-aptalı_tanımak.org][Aptalı Tanımak]]
-    + [[file:20210613052759-celal_sengor.org][Celal Şengör]]

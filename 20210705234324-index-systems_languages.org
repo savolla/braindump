@@ -7,7 +7,7 @@
 #+CREATED: [2021-07-05 Pzt]
 #+LAST_MODIFIED: [2021-07-05 Pzt 23:43]
 
-+ [[file:20210705235434-index-c.org][c]]
-+ [[./cpp.org][cpp]]
-+ [[./assembly.org][assembly]]
-+ [[./rust.org][rust]]
+1. [[file:20210705235434-index-c.org][c]]
+2. [[./cpp.org][cpp]]
+3. [[./assembly.org][assembly]]
+4. [[id:d07772aa-e40d-4502-b561-13ae3c568685][rust]]

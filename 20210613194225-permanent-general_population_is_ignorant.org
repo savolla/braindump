@@ -1,7 +1,8 @@
+:PROPERTIES:
+:ID:       fad9cb10-554d-453a-92bb-06a3c6cbbc48
+:END:
 # Title must come at the end
 #+TITLE: general population is ignorant
-#+STARTUP: overview
-# Find tags by asking;
 # 1) Topic tag: What are related words to this note?
 # 2) Context tag: What is the main idea of this note?
 #+ROAM_TAGS: permanent
@@ -10,11 +11,3 @@
 
 # You can link multiple Concepts and Permanent Notes!
 Children of well-educated and well-income families are expected to have higher IQs than other children. Because while growing up, the intelligence impulse coming from the environment is more abundant and they are fed richer and more balanced than other children. In families with the opposite of this situation, children's IQ levels will be lower. As a result, the population in general will remain ignorant, as the number of families with income and well-education is less than others.
-
-- see also ::
-# Continuation or Related notes here
-  + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
-
-- references ::
-[[id:fcf09fe7-8f83-4990-9e3e-4deba2293501][Aptalı Tanımak]]
-[[file:20210613052759-celal_sengor.org][Celal Şengör]]

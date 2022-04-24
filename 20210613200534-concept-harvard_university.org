@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ce086131-d485-4d63-88f0-9b2fc94f6cf8
+:END:
 #+TITLE: Harvard University
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: location permanent
@@ -7,9 +10,3 @@
 
 TODO:
 
-- see also ::
-#  + [[roam:why is Harvard University important]]
-#  + [[roam:founder of Harvard University]]
-  + [[file:20210613203919-keyword-location.org][Location]]
-
-  + references ::

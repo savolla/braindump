@@ -1,7 +1,9 @@
-#+TITLE: Bookmarks
+:PROPERTIES:
+:ID:       486a9873-2ed1-4e60-9476-bc2124741e16
+:END:
+#+TITLE: bookmarks
 #+STARTUP: overview
-#+ROAM_TAGS: archive index
 #+CREATED: [2021-06-12 Cts]
 #+LAST_MODIFIED: [2021-06-12 Cts 19:53]
 
-- [[file:20210612200801-favorite_youtube_channels.org][favorite Youtube channels]]
+1. [[id:b2759764-9625-476e-a663-c8f6924209b4][Youtube channels]]
