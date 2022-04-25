@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9247a0ae-028d-4a78-bc67-f54139704abb
 :END:
-#+TITLE: vocabulary
+#+TITLE: vocabulary to memorize
 #+STARTUP: overview
 #+ROAM_TAGS: index
 #+CREATED: [2021-06-13 Paz]

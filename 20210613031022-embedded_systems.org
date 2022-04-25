@@ -1,22 +1,10 @@
-#+TITLE: Embedded Systems
+:PROPERTIES:
+:ID:       4af165e1-f967-4751-b307-1d13417f1d7d
+:END:
+#+TITLE: embedded systems
 #+STARTUP: overview
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 03:10]
-
-
-* TODO Articles
-
-Read and learn things from these. Extract knowledge and store here
-
-+ [[https://jaycarlson.net/][jay carlson's entire website]]
-+ [[https://www.livecareer.com/resume-search/r/senior-embedded-software-engineer-29aac52d404b476e87fdb747db1370e7][good example CV for embedded systems]]
-+ [[https://wiki.archlinux.org/index.php/Udev][what is udev]] useful knowledge for *Embedded Linux applications*
-
-* TODO Books
-
-** An Embedded Software Primer
-[[file:./images/screenshot-09.png]]
-According to the Professor at ODTU who gives courses on embedded systems, he recommended this book as the "best resource"
 
 * TODO shovel :container:
 
@@ -41,13 +29,12 @@ Supported by =sdcc=
 - hc08
 - s08
 **** Padauk
+- pdk13
 - pdk14
 - pdk15
 **** Microchip
 - PIC16
 - PIC18
-**** Padauk
-- pdk13
 
 ** install these
 *** serial com
@@ -92,7 +79,10 @@ git pull
 #+end_src
 
 
-* Tips
+* tips
+  :PROPERTIES:
+  :ID:       82065203-e302-4eb3-b3f3-d68d3fd49f8c
+  :END:
 ** General
 - if your embedded system will be used in a communication application it is better to use a crystall that is equal or a multiplier of that network
 
@@ -164,7 +154,7 @@ Example State Diagram
 
 - Peripherals are momory mapped and peripherals run independant from CPU core
 
-- Usually Embedded Systems teching should be started with *Block Diagramming*
+- Usually Embedded Systems teaching should be started with *Block Diagramming*
 
 - in STM32F407VGT6 APB bus is slower than AHB bus
 
@@ -1010,12 +1000,3 @@ They can be seen useless but they can be used for *Data Storage*
 * Platforms
  * [[./stm32f407vgt6.org][stm32f407vgt6]]
  * [[./beagleboneblack.org][BBB]]
-* Bookmarks
-** video
-[[https://www.youtube.com/watch?v=hybyRIhOovU][Software Design Using Hierarchical State Machine]]
-[[https://www.youtube.com/watch?v=pxaIyNbcPrA][How to implement State Machines in C]]
-** article
-
-[[https://github.com/K3tan/BBB_QT5_guide][Github BBB Qt5 cross compile]]
-[[https://www.interelectronix.com/tr/ubuntu-20-ltsde-raspberry-bilgisayar-modulu-4-icin-qt-515-capraz-derleme.html][Walter Prechtl Cross Compile Qt for RPi]]
-[[https://hackaday.com/2015/08/13/becoming-a-state-machine-design-mastermind/][Becoming a State Machine Design Mastermind]]

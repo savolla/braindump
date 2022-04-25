@@ -10,11 +10,3 @@
 
 # You can link multiple Concepts and Permanent Notes!
 "C" means "Compact". It means that the PLC comes with some built-in input and output modules. Not every PLC comes with it.
-
- - see also ::
-# Continuation or Related notes here
-    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
-    + [[file:20210705100104-permanent-pn_profinet.org][PN -> Profinet]]
-
-
-    + references ::

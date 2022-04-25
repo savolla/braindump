@@ -3,3 +3,5 @@
 :END:
 #+title: books to read
 #+filetags: :which:
+
+1. [[https://www.amazon.com/Embedded-Software-Primer-David-Simon/dp/020161569X][An Embedded Software Primer]]

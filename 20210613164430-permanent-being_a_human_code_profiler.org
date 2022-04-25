@@ -11,8 +11,3 @@
 # You can link multiple Concepts and Permanent Notes!
 It is a very bad idea. Doing [[file:20210613164032-concept-code_profiling.org][code profiling]] by yourself is sometimes acceptable for small projects (and we all did it). But in large-scale project it is almost imposible to do. You should better use profiling tools for that.
 
-- see also ::
-# Continuation or Related notes here
-  + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
-
-- references ::

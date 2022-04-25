@@ -13,10 +13,3 @@
 
 # You can link multiple Concepts and Permanent Notes!
 In "add new device" menu you'll see names like "CPU 1512C-1 PN". CPU means PLC. First two numbers "15" incidcates the series. 15 means that It is S7-1500 series. Second number is the "12" *type* the higher the number more functionality it has.
-
- - see also ::
-# Continuation or Related notes here
-    + [[file:20210614003742-keyword-permanent_notes.org][Permanent Notes]]
-    + [[file:20210705095855-permanent-compact_plc.org][Compact PLC]]
-
-    + references ::

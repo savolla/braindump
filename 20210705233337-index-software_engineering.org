@@ -1,4 +1,7 @@
-#+TITLE: Software Engineering
+:PROPERTIES:
+:ID:       9596afe2-d277-448c-97f6-673822c05dd7
+:END:
+#+TITLE: software engineering
 #+STARTUP: overview
 #+ROAM_TAGS: area index
 #+CREATED: [2021-07-05 Pzt]

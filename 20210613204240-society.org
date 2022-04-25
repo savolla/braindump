@@ -1,4 +1,7 @@
-#+TITLE: Society
+:PROPERTIES:
+:ID:       3787f6f9-ef8e-4bbd-b510-5b1c2badb1f6
+:END:
+#+TITLE: sociology
 #+STARTUP: overview
 #+ROAM_TAGS: area index
 #+CREATED: [2021-06-13 Paz]

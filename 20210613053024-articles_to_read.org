@@ -7,5 +7,11 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 05:30]
 
-+ [ ] [[https://quantum.country/qcvc][Learn Quantum Computing]]
-+ [ ] [[https://www.garethrees.co.uk/][Read or get all the summaries from here!]]
+1. [ ] [[https://quantum.country/qcvc][Learn Quantum Computing]]
+2. [ ] [[https://www.garethrees.co.uk/][Read or get all the summaries from here!]]
+3. [ ] [[https://github.com/K3tan/BBB_QT5_guide][Github BBB Qt5 cross compile]]
+4. [ ] [[https://www.interelectronix.com/tr/ubuntu-20-ltsde-raspberry-bilgisayar-modulu-4-icin-qt-515-capraz-derleme.html][Walter Prechtl Cross Compile Qt for RPi]]
+5. [ ] [[https://hackaday.com/2015/08/13/becoming-a-state-machine-design-mastermind/][Becoming a State Machine Design Mastermind]]
+6. [ ] [[https://jaycarlson.net/][jay carlson's entire website]]
+7. [ ] [[https://www.livecareer.com/resume-search/r/senior-embedded-software-engineer-29aac52d404b476e87fdb747db1370e7][good example CV for embedded systems]]
+8. [ ] [[https://wiki.archlinux.org/index.php/Udev][what is udev]]

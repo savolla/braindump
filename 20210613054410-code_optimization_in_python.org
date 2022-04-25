@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       50fc677d-a047-4d16-b2a9-39b68f929262
+:END:
 #+TITLE: code optimization in Python
 #+STARTUP: overview
 #+ROAM_TAGS: optimization python index

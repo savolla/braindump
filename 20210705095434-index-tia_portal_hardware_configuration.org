@@ -9,7 +9,7 @@
 
 + [[file:20210705095503-permanent-meaning_of_plc_names.org][meaning of PLC names]]
 + [[file:20210705095855-permanent-compact_plc.org][Compact PLC]]
-+ [[file:20210705100104-permanent-pn_profinet.org][PN -> Profinet]]
++ [[id:61e2200e-f167-451d-83f0-ec53b491ca54][profinet]]
 + [[file:20210705100516-concept-article_number.org][Article Number]]
 + [[file:20210705102107-permanent-hardware_version.org][Hardware Version]]
 + [[file:20210705102310-permanent-loosing_features.org][Loosing Features]]

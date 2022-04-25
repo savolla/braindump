@@ -3,7 +3,23 @@
 :END:
 #+title: git
 #+filetags: :what_is:
+
+#+begin_quote
 version control tool
+#+end_quote
+
 * facts
+:PROPERTIES:
+:ID:       beccfba7-d802-4279-bd81-81e233657db1
+:END:
 * how to
+:PROPERTIES:
+:ID:       6287d5d0-fd79-47f2-8d19-38d143cdeaff
+:END:
+1. [[id:2e205daf-0372-424a-9fce-a38aaf225e0c][revert commit]]
+2. [[id:027be770-257f-4212-af1c-acaf0308bf3b][delete branch]]
+3. [[id:08bf576f-b403-47a7-8cc1-fbfcc6d5fac8][add all changes]]
 * concepts
+:PROPERTIES:
+:ID:       44e95ebd-9e40-4d0d-a626-068f20eea3df
+:END:

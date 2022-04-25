@@ -11,6 +11,8 @@
 these notes are not belong any category (yet).
 #+end_quote
 
+[[id:50fc677d-a047-4d16-b2a9-39b68f929262][code optimization in Python]]
+
 * facts
 :PROPERTIES:
 :ID:       d05efbd1-ef67-41d5-9465-37fa766c958e

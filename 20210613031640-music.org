@@ -1,4 +1,7 @@
-#+TITLE: Music
+:PROPERTIES:
+:ID:       867d220e-78b2-4b85-959b-73d8e1998abe
+:END:
+#+TITLE: music
 #+STARTUP: overview
 #+ROAM_TAGS: concept area index
 #+CREATED: [2021-06-13 Paz]

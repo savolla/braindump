@@ -6,13 +6,3 @@
 #+LAST_MODIFIED: [2021-06-13 Paz 16:40]
 
 A technique to determine which parts of the code absorb most of the execution time.
-
-- see also ::
-#  + [[roam:why is code profiling important]]
-#  + [[roam:when to use code profiling]]
-#  + [[roam:how to use code profiling]]
-#  + [[roam:examples of code profiling]]
-#  + [[roam:founder of code profiling]]
-  + [[file:20210612025056-keyword-concept.org][Concept]]
-
-- references ::

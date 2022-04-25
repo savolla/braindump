@@ -10,3 +10,5 @@
 1. [ ] [[https://www.youtube.com/watch?v=uOCSNgDi694&list=PLmnKof5TajdfSFu75Z1aoGiBPi8Wjzjok][Graphs in C]]
 2. [ ] [[https://www.youtube.com/watch?v=cFBERZBvLEM][Diksiyon ve Davranış Eğitimi]]
 3. [ ] [[https://www.youtube.com/watch?v=4EBs1BDvuzk][Python Multiprocessing]]
+4. [ ] [[https://www.youtube.com/watch?v=hybyRIhOovU][Software Design Using Hierarchical State Machine]]
+5. [ ] [[https://www.youtube.com/watch?v=pxaIyNbcPrA][How to implement State Machines in C]]
