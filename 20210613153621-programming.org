@@ -9,6 +9,3 @@
 
 + [[file:20210705234210-index-languages.org][Languages]]
 + [[file:20210705234642-index-databases.org][Databases]]
-+ [[./snippets.org][Snippets]]
-+ [[./socket-programming.org][Socket Programming]]
-+ [[./algorithms-&-data-structures.org][Algorithms & Data Structures]]

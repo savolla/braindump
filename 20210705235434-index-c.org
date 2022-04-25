@@ -7,8 +7,6 @@
 #+CREATED: [2021-07-05 Pzt]
 #+LAST_MODIFIED: [2021-07-05 Pzt 23:54]
 
-
-
 * Facts
 ** general
 
@@ -897,8 +895,8 @@ while ( piece != NULL ) {
 }
 #+end_src
 
-* How To
-** extract bits easily
+* how to
+** extract bits in C
 
 Use *bit-fields* for this. For example I'm dealing with a TCP packet which bit structure look like;
 
@@ -978,7 +976,7 @@ int main(void) {
 }
 #+end_src
 
-** define a struct
+** define a struct in C
 
 #+begin_src c
 typedef struct A{
@@ -986,7 +984,7 @@ typedef struct A{
     char c;
 } A;
 #+end_src
-** instantiate a struct members
+** instantiate struct members in C
 
 three types of member instantiation are available in C. Consider the following =struct=
 
@@ -1027,14 +1025,14 @@ x.b = 22;
 x.c = 33;
 #+end_src
 
-** print the address of a variable
+** print address of a variable in C
 
 #+begin_src c
 char c = 'a';
 printf( "%p", &c );
 #+end_src
 
-** write inline assembly
+** write inline assembly in C
 *** example code
 the following example work on =gcc= and takes no special parameters while compiling
 
@@ -1131,7 +1129,7 @@ the following example work on =gcc= and takes no special parameters while compil
       return 0;
   }
   #+END_SRC
-** print the actual name of a variable
+** print name of a variable in C
 
 #+begin_src c
 #include <stdio.h>
@@ -1144,7 +1142,7 @@ int main(void) {
 }
 #+end_src
 
-** put terminal in ~non-cononical mode~
+** put terminal in non-cononical mode in C
 
 put this *function* somewhere in your code
 
@@ -1173,7 +1171,7 @@ int main(void) {
     return 0;
 }
 #+end_src
-** set back the terminal into ~cononical mode~
+** set back the terminal into cononical mode in C
 
 #+begin_src c
 void setCononicalMode() {
@@ -1183,7 +1181,7 @@ void setCononicalMode() {
 }
 #+end_src
 
-** ~#error~ macro usage
+** use ~#error~ macro in C
 
 if for exmple =UNIX= variable is not defined, stop the compilation and spit error "Only Unix is supported"
 
@@ -1193,7 +1191,7 @@ if for exmple =UNIX= variable is not defined, stop the compilation and spit erro
 #endif
 #+end_src
 
-** represent too big and too small numbers
+** represent too big and too small numbers in C
 
 too big and too small numbers could take too much memory space. So instead of storing the actual number we store only the _exponent_ and _mantissa_ parts
 
@@ -1203,7 +1201,7 @@ too big and too small numbers could take too much memory space. So instead of st
 double electronCharge = -1.60217662e-19; // charge of an electron
 double distance = 2.3651826e+19; // distance between earth and andromeda galaxy in km
 #+end_src
-** change a ~const~ variable's value
+** change ~const~ variable's value in C
 
 We can only change local =const= values with a pointer
 
@@ -1231,7 +1229,7 @@ int main(void) {
     return 0;
 }
 #+end_src
-** exit program within function
+** terminate program in C
 
 #+begin_src c
 #include <stdlib.h> // don't forget this one
