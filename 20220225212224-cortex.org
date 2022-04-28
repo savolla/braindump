@@ -46,18 +46,24 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 :ID:       8c567e54-b8c1-4332-82c0-b41f5d890ce3
 :END:
 1. [[id:1c2b92b8-7abc-406c-bf41-d2e02aa18f24][git]]
-5. [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]]
+2. [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]]
+3. [[id:08620983-b436-44d8-930e-7b50951c0af4][vscode]]
 ** robotics
 :PROPERTIES:
 :ID:       4b019677-a7fd-4024-bb75-a60f665fd036
 :END:
-*** library/framework
+*** framework
 :PROPERTIES:
 :ID:       8244cd5a-6ca3-4ba1-a420-b0d490fc4cad
 :END:
 1. [[id:71bdbf8c-de11-4bbe-b639-111b2d32bdf6][ros]]
 2. [[id:f96c207e-6917-4d8b-9304-faf4b5d9693d][ros2]]
 3. [[id:2e073578-fc85-468d-af40-238498963e02][tesseract]]
+*** tools
+:PROPERTIES:
+:ID:       f8d7ef8f-d34a-4614-900d-8c10b6f01673
+:END:
+1. [[id:102fff00-e855-4649-a15f-d5e1e9670c27][catkin]]
 ** math
 :PROPERTIES:
 :ID:       87519a4a-848a-4c0e-b5d0-c80cbedf7834
