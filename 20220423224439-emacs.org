@@ -16,21 +16,39 @@
 :PROPERTIES:
 :ID:       bcb77329-b548-487b-bb7f-c304a09beeba
 :END:
-1. [[id:c3b5da9d-9b46-429f-aaee-156f6f3d1729][insert roam notes in doom emacs]]
-2. [[id:9d880a2a-c6c2-43e4-84e3-e0b71711ff96][search roam notes in doom emacs]]
-3. [[id:c279abe8-f435-4f4f-a7eb-78c255566f66][create org header an org-roam node]]
-4. [[id:826acf60-b1ac-4533-9bae-0ba83d51d5f7][open roam backlinks buffer]]
-5. [[id:0dd448d5-c3f1-453a-8ee5-64e708e42ce0][create capture template in roam]]
+*** [[id:c3b5da9d-9b46-429f-aaee-156f6f3d1729][insert roam note]]
+:PROPERTIES:
+:ID:       e8fe05d9-b7f4-4212-a216-d98cae78f70c
+:END:
+*** [[id:9d880a2a-c6c2-43e4-84e3-e0b71711ff96][search roam notes]]
+:PROPERTIES:
+:ID:       08034bdd-40ef-40aa-bfde-b966a7037128
+:END:
+*** [[id:c279abe8-f435-4f4f-a7eb-78c255566f66][create org header as org-roam node]]
+:PROPERTIES:
+:ID:       1fd5e88c-7ccc-4c1d-aef4-614e0cb4bb6b
+:END:
+*** [[id:826acf60-b1ac-4533-9bae-0ba83d51d5f7][open roam backlinks buffer]]
+:PROPERTIES:
+:ID:       6af406f5-aa01-4a8d-bf62-78cb3d41c102
+:END:
+*** [[id:0dd448d5-c3f1-453a-8ee5-64e708e42ce0][create capture template]]
+:PROPERTIES:
+:ID:       e7e15dab-47ff-49ce-ae6b-979692169180
+:END:
+*** [[id:f64016d9-3da2-43ee-9b4f-1509df7f6fe2][create alias of a note title]]
+:PROPERTIES:
+:ID:       db77a4bd-f8a8-4988-8fa5-c920a8947482
+:END:
 ** doom emacs
 :PROPERTIES:
-:ID:       de41742d-6e0f-4644-8efd-5d44702392b0
+:ID:       5253265e-9919-46a8-9dc8-11809b91793d
 :END:
-*** [[id:c3b5da9d-9b46-429f-aaee-156f6f3d1729][insert roam notes in doom emacs]]
-:PROPERTIES:
-:ID:       c6e239ef-dde5-41eb-a823-2a1d5a8cd089
-:END:
-* concepts
+* packages
 :PROPERTIES:
 :ID:       eb339ded-4c7c-4f6d-8da1-42f51a6d1e10
 :END:
-1. [[id:a2b6a085-ac83-4c97-8611-705a4c2d98d9][deft]]
+** [[id:a2b6a085-ac83-4c97-8611-705a4c2d98d9][deft]]
+:PROPERTIES:
+:ID:       a2120a0a-df51-44ba-bc95-c024bebc6949
+:END:
