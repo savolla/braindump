@@ -92,10 +92,10 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 :PROPERTIES:
 :ID:       b5577908-cddc-43cb-a209-833cea433805
 :END:
-1. linux
-2. windows
-3. mac
-4. bsd
+1. [[id:dc704116-8fd7-4969-943d-a783aac1a279][linux]]
+2. [[id:966ee79e-dfb8-4266-9637-26e27e783805][windows]]
+3. [[id:86ae2e73-456e-40b2-8a77-ee868461e410][macos]]
+4. [[id:6dfa96a6-c412-4c70-a1ee-f56ab1bb57d4][bsd]]
 
 * resource
 :PROPERTIES:

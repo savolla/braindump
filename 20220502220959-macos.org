@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       86ae2e73-456e-40b2-8a77-ee868461e410
+:END:
+#+title: macos
+#+filetags: :what_is:
+
+#+begin_quote
+os. but it wants all your money.
+#+end_quote
+
+* facts
+* how to
+* concepts

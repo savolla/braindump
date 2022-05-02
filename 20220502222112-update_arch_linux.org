@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c2bee7e6-1b0d-41a8-b07e-c505dec79849
+:END:
+#+title: update arch linux
+#+filetags: :how_to:
+#+begin_src sh
+sudo pacman -Syu
+#+end_src

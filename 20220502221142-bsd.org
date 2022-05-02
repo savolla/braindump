@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6dfa96a6-c412-4c70-a1ee-f56ab1bb57d4
+:END:
+#+title: bsd
+#+filetags: :what_is:
+
+#+begin_quote
+os which is used by hackermen.
+#+end_quote
+
+* facts
+* how to
+* concepts

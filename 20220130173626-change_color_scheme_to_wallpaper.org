@@ -4,7 +4,7 @@
 #+title: change color scheme to wallpaper colors
 #+filetags: :linux:how_to:
 
-You need to install *pywal* first and then
+You need to install [[id:9ac94be1-f59c-4e4b-b30f-19e125b0ceba][pywal]] first and then
 #+begin_src sh
 wal -i $PATH_TO_WALLPAPER
 #+end_src

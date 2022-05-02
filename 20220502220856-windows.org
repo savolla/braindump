@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       966ee79e-dfb8-4266-9637-26e27e783805
+:END:
+#+title: windows
+#+filetags: :what_is:
+
+* facts
+* how to
+* concepts

@@ -7,4 +7,4 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 20:42]
 
-[[file:20210613052315-aptalı_tanımak.org][Aptalı Tanımak]]
+[[id:fe64dfe8-bb30-48ad-8e27-7b6034dd63d4][Aptalı Tanımak]]
