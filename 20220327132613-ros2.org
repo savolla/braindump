@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f96c207e-6917-4d8b-9304-faf4b5d9693d
+:ROAM_ALIAS: ros
 :END:
 #+title: ros2
 #+filetags: :what_is:

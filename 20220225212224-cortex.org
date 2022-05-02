@@ -25,10 +25,9 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 1. [[id:3f190252-a13d-494f-a189-aeebd6a3d13f][note taking]]
 2. [[file:20210706112127-index-image_processing.org][Image Processing]]
 3. [[id:3787f6f9-ef8e-4bbd-b510-5b1c2badb1f6][sociology]]
-4. [[id:c0bc56e6-9711-4c48-a500-a0d8bf26b761][vtk]]
-5. [[id:4af165e1-f967-4751-b307-1d13417f1d7d][embedded systems]]
-6. [[id:867d220e-78b2-4b85-959b-73d8e1998abe][music]]
-7. [[file:20210705095257-index-plc.org][PLC]]
+4. [[id:4af165e1-f967-4751-b307-1d13417f1d7d][embedded systems]]
+5. [[id:867d220e-78b2-4b85-959b-73d8e1998abe][music]]
+6. [[file:20210705095257-index-plc.org][PLC]]
 ** programming
 :PROPERTIES:
 :ID:       4f238fc3-8773-493d-bcc0-37073331b11c

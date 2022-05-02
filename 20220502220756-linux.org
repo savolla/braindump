@@ -16,14 +16,7 @@ a pinguin.
 :PROPERTIES:
 :ID:       5bf9919c-3fea-4ac1-b659-553f0ed8b909
 :END:
-** [[id:2b350d48-f3bd-4972-836b-37d028ee4597][change color scheme to wallpaper colors]]
-:PROPERTIES:
-:ID:       8e03a059-86a2-413e-9a4d-d0021e5e3c37
-:END:
-** [[id:35b87b25-fbc5-4353-9b49-4f7af448e72d][change system language in linux]]
-:PROPERTIES:
-:ID:       01a9d309-5a8a-4047-93d1-08f71706982e
-:END:
+1. [[id:35b87b25-fbc5-4353-9b49-4f7af448e72d][change system language in linux]]
 ** arch linux
 :PROPERTIES:
 :ID:       44606af5-91d8-4265-8124-973b485bef4d
