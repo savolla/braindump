@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c9b01428-8986-493e-828b-c945066d8620
+:END:
+#+title: debug ros launch files in vscode
+#+filetags: :ros:vscode:how_to:
+
+1. [[id:98c0eff1-f55e-4a74-bc10-f3d3fb22d4b8][configure vscode for ros debugging]]
+2. start roscore from [[id:08620983-b436-44d8-930e-7b50951c0af4][vscode]] by doing ~Ctrl Shift p~ and ~ROS: start~
+3. check [[id:71bdbf8c-de11-4bbe-b639-111b2d32bdf6][ros]] status by ~Ctrl Shift p~ and ~ROS: Status Show~ (optional)
+4. open ~launch.json~ file and add the *absolute path* of your launch file.
+5. open debugger seciton in [[id:08620983-b436-44d8-930e-7b50951c0af4][vscode]] and select ~ROS: Launch~
+6. click debug button or simply press ~F5~

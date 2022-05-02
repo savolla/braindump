@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       a6b13c62-7b2f-403a-858d-619eba2e9658
+:END:
+#+title: software architecture
+#+filetags: :cmap:what_is:
+
+#+BEGIN_QUOTE
+process of designing how [[id:588517e5-d0e8-4560-82ea-cf59a2892f3c][software component]]s should communicate with each other and which [[id:93a0936b-bc38-44e3-aad8-e1ddb6754108][design pattern]] you will be using
+#+END_QUOTE
+
+* fact
+:PROPERTIES:
+:ID:       c8dc4087-de3f-4b4d-bd91-2d1892974426
+:END:
+1. every developer should understand and implement [[id:a6b13c62-7b2f-403a-858d-619eba2e9658][software architecture]].
+2. in software creating process, the first thing to do is [[id:a6b13c62-7b2f-403a-858d-619eba2e9658][software architecture]]. then [[id:fb3bbfae-6961-4477-bd4d-455e9b9cf36a][software design]] and then coding.
+3. [[id:a6b13c62-7b2f-403a-858d-619eba2e9658][software architecture]] and [[id:fb3bbfae-6961-4477-bd4d-455e9b9cf36a][software design]] are different things
+4. Model View Controller (MVC) is _not an architecture_. it is a [[id:fb3bbfae-6961-4477-bd4d-455e9b9cf36a][software design]] technique
+* how to
+:PROPERTIES:
+:ID:       d73ffa48-ca95-4995-b7af-612bf5ee6161
+:END:
+* concept
+:PROPERTIES:
+:ID:       087133de-1b15-41bd-9669-472bbc6ffeb6
+:END:
+[[id:588517e5-d0e8-4560-82ea-cf59a2892f3c][software component]]
+[[id:93a0936b-bc38-44e3-aad8-e1ddb6754108][design pattern]]
+* list of
+:PROPERTIES:
+:ID:       d6859264-8391-43fc-9d4a-68628c9c4615
+:END:
+[[id:8705397b-ba32-41dd-b68d-4f316c6d37f6][types of software architectures]]
+

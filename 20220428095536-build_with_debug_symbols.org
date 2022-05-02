@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b5321b0c-486a-4a0c-bc87-a832aa0b567e
+:END:
+#+title: build with debug symbols in catkin
+#+filetags: :how_to:
+
+#+begin_src shell
+catkin build --cmake-args -DCMAKE_BUILD_TYPE=Debug
+#+end_src

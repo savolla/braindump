@@ -5,7 +5,7 @@
 #+filetags: :cmap:what_is:
 
 #+begin_quote
-entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://www.buildingasecondbrain.com/][second brain]]
+Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up my brain here so I can find it if I lose it!
 #+end_quote
 
 * project
@@ -27,9 +27,8 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 3. [[id:3787f6f9-ef8e-4bbd-b510-5b1c2badb1f6][sociology]]
 4. [[id:c0bc56e6-9711-4c48-a500-a0d8bf26b761][vtk]]
 5. [[id:4af165e1-f967-4751-b307-1d13417f1d7d][embedded systems]]
-6. [[id:9596afe2-d277-448c-97f6-673822c05dd7][software engineering]]
-7. [[id:867d220e-78b2-4b85-959b-73d8e1998abe][music]]
-8. [[file:20210705095257-index-plc.org][PLC]]
+6. [[id:867d220e-78b2-4b85-959b-73d8e1998abe][music]]
+7. [[file:20210705095257-index-plc.org][PLC]]
 ** programming
 :PROPERTIES:
 :ID:       4f238fc3-8773-493d-bcc0-37073331b11c
@@ -48,6 +47,11 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 1. [[id:1c2b92b8-7abc-406c-bf41-d2e02aa18f24][git]]
 2. [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]]
 3. [[id:08620983-b436-44d8-930e-7b50951c0af4][vscode]]
+*** style
+:PROPERTIES:
+:ID:       8dd32dcb-b399-4f13-a24f-161376ad39a6
+:END:
+1. [[id:c8c0a88f-6f74-4ac5-8c64-17cf6c61d873][hungarian notation]]
 ** robotics
 :PROPERTIES:
 :ID:       4b019677-a7fd-4024-bb75-a60f665fd036
@@ -72,6 +76,12 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 :PROPERTIES:
 :ID:       0f87542b-f0fd-486a-b7b5-16579c60c72b
 :END:
+** software engineering
+:PROPERTIES:
+:ID:       ec94d8fb-eca9-4b95-9b82-12d2a4b90261
+:END:
+1. [[id:a6b13c62-7b2f-403a-858d-619eba2e9658][software architecture]]
+2. [[id:fb3bbfae-6961-4477-bd4d-455e9b9cf36a][software design]]
 
 * resource
 :PROPERTIES:

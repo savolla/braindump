@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       17f8826d-d9d0-49aa-86ed-da13bea7efaa
+:END:
+#+title: microservices architecture
+#+filetags: :what_is:
+
+* facts
++ in this architecture *containers* are the key
++ these containers are actually an operating system but very small operatin systems
++ every container contains a separate and standalone application which can run on its own
++ every container service can be written with different programming language. this is really beneficial because we can unplug a container from the system, write it with a new technology/language and then plug it back
++ containers communicate with a program called Rest API. it is really looks like event driven design;
+  - events : containers
+  - broker : Rest API
++ when something goes wrong in a container, all the system continues to work without any problems. developers can easily roll back the problematic container to more stable/working version to bring system back to life, take a copy of buggy container, fix the bug and plug it in again
++ microservice architecture is also very beneficial from social perspective. people simply don't want to depend on each other. every team writes it's own container and ships it
++ also every container has it's own database. there is no centralized database which make it very secure. hacker must hack every container to access all the data
+* how to
+* concepts
+
+

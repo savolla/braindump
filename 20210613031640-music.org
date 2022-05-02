@@ -7,86 +7,33 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 03:16]
 
-* Recommendations :music:
-:PROPERTIES:
-:EXPORT_FILE_NAME: music-recommendations
-:HUGO_BASE_DIR: ~/txt/blog/
-:HUGO_SECTION: en/posts
-:EXPORT_AUTHOR: savolla
-:EXPORT_TITLE: savolla's music recommendations
-:END:
 [[file:./images/screenshot-12.png]]
-Here I made some album recommendations. this is my personal playlist which consists of very "non-normie" stuff. albums in this list will start with the most "normie" music and will incrementally get heavier
-** level 1
-easier to digest and fun
+
+* favorites
+:PROPERTIES:
+:ID:       2419a0bc-2993-475f-9900-f15e70f6d2b0
+:END:
+** synthwave
+:PROPERTIES:
+:ID:       ca8b961e-c2e4-4d23-9e1e-f55a772fa4e8
+:END:
 + [[https://tokyoroseofficial.com/album/chases-2][Tokyo Rose - Chases 2 ]]
 [[file:./images/screenshot-14.png]]
-  great synthwave album.. my favorite song on this is *midnight chase*
 + [[https://dancewiththedead.bandcamp.com/album/loved-to-death][Dance with the Dead - Loved to Death]]
 [[file:./images/screenshot-15.png]]
-  synthwave + some metal elements. great if you like distortion guitar riffs. this one includes *awesome* guitar solos. and the production is just incredible
 + [[https://alix2084.bandcamp.com/album/alix-2084-ep-2][ALIX 2084 (EP)]]
 [[file:./images/screenshot-16.png]]
-  directly jump to *Elevator Dance Party* song. great work and really underrated. those tempo changes will shake your brain inside
 + [[https://megadrive.bandcamp.com/album/hardwired-v14][Mega Drive - Hardwired V1.4]]
 [[file:./images/screenshot-17.png]]
-  *Dataline* *Dataline* *Dataline* !!
-+ [[https://www.youtube.com/watch?v=Xw5AiRVqfqk][Aphex Twin - Selected Ambient Works 85-92]]
-[[file:./images/screenshot-18.png]]
-  legent album from a legend
+** djent
+:PROPERTIES:
+:ID:       7d30acf0-20d6-437d-b83d-69b4aaaec3fb
+:END:
 + [[https://plini.bandcamp.com/album/sweet-nothings][Plini - Sweet Nothings]]
 [[file:./images/screenshot-19.png]]
 I bet this will be the sweetest thing you will ever listened. your ears will overflow with candies
-
-** level 2
-still electronic but with some interesting elements
-+ [[https://www.youtube.com/watch?v=OooYpuBd3gY][Heptaedium - "A M E N"]]
-[[file:./images/screenshot-20.png]]
-  did you ever listened to *break core*? edgy..
-+ [[https://www.youtube.com/watch?v=nzvLiwUK3R8][Aphex Twin Live at Field Day]]
-[[file:./images/screenshot-21.png]]
-  did you ever experienced ear bleeding? just skip to 1:51:00 and wait.
-
-+ [[https://www.youtube.com/watch?v=oWzzNvcxY4w][Machine Girl - WLFGRL]]
-[[file:./images/screenshot-124.png]]
-  This album sounds like when you accidentally hit your nose a bit hard and it feels funny for a moment.
-
-+ [[https://www.youtube.com/watch?v=9yb2l9Th9bs][FILMMAKER - VLAD TAPES]]
-[[file:./images/screenshot-125.png]]
-This is definitely the music that plays on mason parties.. Every work of FILMMAKER is loud, dense and hypnotic.
-
-** level 3
-still electronic but.. this time adding depression
-+ [[https://boardsofcanada.bandcamp.com/album/twoism][Boards of Canada - Twoism]]
-[[file:./images/screenshot-22.png]]
-  this album might look harmless but wait until your soul evaporates completely
-+ [[https://www.youtube.com/watch?v=PkVenDN7Y9A][Hrsta - Ghosts Will Come And Kiss Our Eyes]]
-[[file:./images/screenshot-23.png]]
-  don't listen to this if you lost someone recently
-+ [[https://www.youtube.com/watch?v=szk5vGqPn2U][The LONGING - Original Soundtrack]]
-[[file:./images/screenshot-24.png]]
-  wait 400 days
-
-** level 4
-dark ambient passage. contains some depressive and horror materials. you also might want to stop there and enjoy 1st, 2nd and 3rd levels because things get non-normie here
-+ [[https://www.youtube.com/watch?v=ZKa5LwFgAOA][Gates of Morheim - Omagatoki]]
-[[file:./images/screenshot-25.png]]
-  contains ethnic sounds. it's like a ritual music + dark ambient elements
-+ [[https://www.youtube.com/watch?v=g3xQCMDz5Vs][Kurotokage - Call To The Deep]]
-[[file:./images/screenshot-27.png]]
-  similar to Gates of Morheim but deeper and darker. this album will make you dizzy and tired
-+ [[https://cryochamber.bandcamp.com/album/kapnobatai][Atrium Carceri - Kapnobatai]]
-[[file:./images/screenshot-28.png]]
-  things get serious and deep after this. especialy after the track called "A Stroll Through the Ancient City"
-+ [[https://cryochamber.bandcamp.com/album/dubbed-in-black][Alt3r3d Stat3 - Dubbed in Black]]
-[[file:./images/screenshot-29.png]]
-  paranormal stuff
-
-** level 5
-"guitars and drums" era begins but without vocals. gets heavier and heavier
 + [[https://www.youtube.com/watch?v=4z9X0htC3mg][Modern Day Babylon - Travelers]]
 [[file:./images/screenshot-30.png]]
-  my first djent album. this is the first metal album without vocals on this list
 + [[https://amoghsymphony.bandcamp.com/album/the-quantum-hack-code][Amogh Symphony - The Quantum Hack Code]]
   [[file:./images/screenshot-10.png]]
   awesome concept album. there are some Indian ethnic elements on that one. good one.
@@ -95,40 +42,69 @@ dark ambient passage. contains some depressive and horror materials. you also mi
   underrated stuff. has some djenty elements also inherits from *nintendo core* genre. really interesting album
 + [[https://www.youtube.com/watch?v=QlebB9SlrSs][Heptaedium - Underground Business]]
 [[file:./images/screenshot-32.png]]
-  have some edgy songs. heavier than the first one KAVAII!!
 + [[https://thehelixnebula.bandcamp.com/releases][The Helix Nebula - Meridian]]
 [[file:./images/screenshot-33.png]]
-  now we're talking..
 + [[https://www.youtube.com/watch?v=WngGXkLEJ0Y][Infant Annihilator - The Palpable Leprosy of Pollution]]
 [[file:./images/screenshot-34.png]]
   this will beat the shit out of your ears..
 
-** level 6
-vocals come to play. death metal, technical death metal stuff. list gets *heavier and heavier*.
+** techno
+:PROPERTIES:
+:ID:       5ff95a3e-bd2a-4e6d-b9bd-809303e1b3fe
+:END:
++ [[https://www.youtube.com/watch?v=OooYpuBd3gY][Heptaedium - "A M E N"]]
+[[file:./images/screenshot-20.png]]
++ [[https://www.youtube.com/watch?v=Xw5AiRVqfqk][Aphex Twin - Selected Ambient Works 85-92]]
+[[file:./images/screenshot-18.png]]
+  legent album from a legend
++ [[https://www.youtube.com/watch?v=nzvLiwUK3R8][Aphex Twin Live at Field Day]]
+[[file:./images/screenshot-21.png]]
+  did you ever experienced ear bleeding? just skip to 1:51:00 and wait.
++ [[https://www.youtube.com/watch?v=oWzzNvcxY4w][Machine Girl - WLFGRL]]
+[[file:./images/screenshot-124.png]]
+  This album sounds like when you accidentally hit your nose a bit hard and it feels funny for a moment.
++ [[https://www.youtube.com/watch?v=9yb2l9Th9bs][FILMMAKER - VLAD TAPES]]
+[[file:./images/screenshot-125.png]]
+This is definitely the music that plays on mason parties.. Every work of FILMMAKER is loud, dense and hypnotic.
+** depressive ambient
+:PROPERTIES:
+:ID:       05b4ec30-7751-485c-b21a-325ff97c4a5e
+:END:
++ [[https://boardsofcanada.bandcamp.com/album/twoism][Boards of Canada - Twoism]]
+[[file:./images/screenshot-22.png]]
++ [[https://www.youtube.com/watch?v=PkVenDN7Y9A][Hrsta - Ghosts Will Come And Kiss Our Eyes]]
+[[file:./images/screenshot-23.png]]
++ [[https://www.youtube.com/watch?v=szk5vGqPn2U][The LONGING - Original Soundtrack]]
+[[file:./images/screenshot-24.png]]
+** dark ambient
+:PROPERTIES:
+:ID:       ac71b9a0-b9f6-477e-9487-2a7dac2eba00
+:END:
++ [[https://www.youtube.com/watch?v=ZKa5LwFgAOA][Gates of Morheim - Omagatoki]]
+[[file:./images/screenshot-25.png]]
+  contains ethnic sounds. it's like a ritual music + dark ambient elements
++ [[https://www.youtube.com/watch?v=g3xQCMDz5Vs][Kurotokage - Call To The Deep]]
+[[file:./images/screenshot-27.png]]
+  similar to Gates of Morheim but deeper and darker. this album will make you dizzy and tired
++ [[https://cryochamber.bandcamp.com/album/kapnobatai][Atrium Carceri - Kapnobatai]]
+[[file:./images/screenshot-28.png]]
++ [[https://cryochamber.bandcamp.com/album/dubbed-in-black][Alt3r3d Stat3 - Dubbed in Black]]
+[[file:./images/screenshot-29.png]]
+  paranormal stuff
+
+** technical death
+:PROPERTIES:
+:ID:       0016eb2e-fca8-442d-9e99-ed0838cb0b29
+:END:
 + [[https://www.youtube.com/watch?v=TTs9AUo5R3U][Dissonance In Design - Sentient ]]
 [[file:./images/screenshot-35.png]]
   technical death metal album but without crazy riffs
 + [[https://konkeror.bandcamp.com/][Konkeror - The Abysmal Horizons]]
 [[file:./images/screenshot-37.png]]
   just heavy.. skip to "Towers" song you'll get what i mean
-+ [[https://www.youtube.com/watch?v=RL84JVt6sjs][Bloodbath - Live At Wacken 2005]]
-[[file:./images/screenshot-38.png]]
-  this is the best metal live performance
-+ [[https://www.youtube.com/watch?v=St6lJaiHYIc][Edge of Sanity - Crimson]]
-[[file:./images/screenshot-39.png]]
-  this album contains only one song
-+ [[https://www.youtube.com/watch?v=cOhEgg2jNSw][Bloodbath - Unblessing The Purity]]
-[[file:./images/screenshot-40.png]]
-  blasting the virginborn
 + [[https://www.youtube.com/watch?v=dm3i7fWufrw][Ouroboros - Glorification of a Myth]]
 [[file:./images/screenshot-41.png]]
   fine album. lots of solos and great (hard to play) guitar riffs
-+ [[https://www.youtube.com/watch?v=5-E4ZRZg2bY][Krallice - Diotima]]
-[[file:./images/screenshot-42.png]]
-  actual masterpiece. check *Telluric Rings* song if you still with me
-+ [[https://www.youtube.com/watch?v=9MIHr_Ypql4][Krallice - Dimensional Bleedthrough]]
-[[file:./images/screenshot-43.png]]
-  I like those feedbacks man..
 + [[https://zenithpassage.bandcamp.com/album/cosmic-dissonance-remastered][The Zenith Passage - Cosmic Dissconance]]
 [[file:./images/screenshot-44.png]]
   i don't know in which category should I put this album
@@ -144,18 +120,42 @@ vocals come to play. death metal, technical death metal stuff. list gets *heavie
 + [[https://spawnofpossession.bandcamp.com/album/incurso][Spawn Of Possession - Incurso]]
 [[file:./images/screenshot-48.png]]
   wait until "Bodiless Sleeper" song
-
-** level 7
-deepest depths of hell..
-+ [[https://www.youtube.com/watch?v=uXNHYb14U7U][Vital Remains - Icons of Evil]]
-[[file:./images/screenshot-53.png]]
-  extremely satanic and brutal. those harmonic minor scales will blow your mind. this album is the first one on this list because of it's melodic elements. next ones are not melodic anymore
-+ [[https://severetorture.bandcamp.com/][Severe Torture - Slaughtered]]
-[[file:./images/screenshot-49.png]]
-  brutality takes another form
+** death metal
+:PROPERTIES:
+:ID:       b7c73827-79c9-404d-8965-5ed3719277c9
+:END:
 + [[https://cryptopsyofficial.bandcamp.com/album/none-so-vile][Cryptopsy - None So Vile]]
 [[file:./images/screenshot-50.png]]
   insane vocals and drums
++ [[https://severetorture.bandcamp.com/][Severe Torture - Slaughtered]]
+[[file:./images/screenshot-49.png]]
+  brutality takes another form
++ [[https://www.youtube.com/watch?v=RL84JVt6sjs][Bloodbath - Live At Wacken 2005]]
+[[file:./images/screenshot-38.png]]
+  this is the best metal live performance
++ [[https://www.youtube.com/watch?v=St6lJaiHYIc][Edge of Sanity - Crimson]]
+[[file:./images/screenshot-39.png]]
+  this album contains only one song
++ [[https://www.youtube.com/watch?v=cOhEgg2jNSw][Bloodbath - Unblessing The Purity]]
+[[file:./images/screenshot-40.png]]
+  blasting the virginborn
++ [[https://www.youtube.com/watch?v=uXNHYb14U7U][Vital Remains - Icons of Evil]]
+[[file:./images/screenshot-53.png]]
+  extremely satanic and brutal. those harmonic minor scales will blow your mind. this album is the first one on this list because of it's melodic elements. next ones are not melodic anymore
+** black metal
+:PROPERTIES:
+:ID:       e923aa38-af3a-4db8-98ca-f253914ed357
+:END:
++ [[https://www.youtube.com/watch?v=5-E4ZRZg2bY][Krallice - Diotima]]
+[[file:./images/screenshot-42.png]]
+  actual masterpiece. check *Telluric Rings* song if you still with me
++ [[https://www.youtube.com/watch?v=9MIHr_Ypql4][Krallice - Dimensional Bleedthrough]]
+[[file:./images/screenshot-43.png]]
+  I like those feedbacks man..
+** slam
+:PROPERTIES:
+:ID:       e4c839b8-78af-4ca8-9e57-35214ec6e8bd
+:END:
 + [[https://www.youtube.com/watch?v=xGGK93eqAMo][Abominable Putridity - The Anomalies Of Artificial Origin]]
 [[file:./images/screenshot-51.png]]
   Russians know that stuff.
@@ -163,18 +163,13 @@ deepest depths of hell..
 [[file:./images/screenshot-52.png]]
   heaviest thing i've ever heard
 
-* Tutorials
-** Blast Beats
-1. traditional blast
-   [[file:./images/screenshot-03.png]]
-2. hyper blast
-   [[file:./images/screenshot-04.png]]
-3. bomb blast
-   [[file:./images/screenshot-05.png]]
-4. pussy blast
-   [[file:./images/screenshot-06.png]]
-5. diarrhea blast
-    [[file:./images/screenshot-07.png]]
+** trap
+:PROPERTIES:
+:ID:       e518f4c1-748c-48bf-97b9-9dbd8a856890
+:END:
+only $uicide Boy$ and Bones..
+
+
 * Perfect Equalizer for Metal :music:
 :PROPERTIES:
 :EXPORT_FILE_NAME: perfect-equalizer-for-metal

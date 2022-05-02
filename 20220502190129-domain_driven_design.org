@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       e4a5fef6-df97-465b-b7a8-ed0d94116c12
+:END:
+#+title: domain driven design
+#+filetags: :cmap:what_is:
+
+* facts
+1. still arguable if it is a design technique or arthitecture
+2. it's intent is to merge business world and software world. it is a translator between business and software
+3. if an architect designs a domain driven design architecture and he/she is not familiar with business the final result won't be very accurate
+4. it's second intent is to create a software that scalable. so when you add a new feature, the next feature won't be hard to implement with ddd
+5. a good example of ddd is an ERP software. it contains some discrete modules and each module is a *domain*;
+   1. invoice module
+   2. purchasing module
+   3. stock management module
+   4. delivery module
+6. domain driven design will consider every domain as a different and discrete software. those softwares are called modules in ERP. every module is developed by people who has experience and concrete knowledge with said domain.
+7. modules will communicate with some each other by interfaces when added.
+8. modules/domains can work on their own since those are concrete softwares
+9. the biggest difference of DDD from other architectures is that every module is completely discrete and one module can be glued together with interfaces
+* how to
+* concepts
+
+

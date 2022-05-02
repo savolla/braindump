@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1d0daad9-8746-4b3e-b1e3-68b8e4c93594
+:END:
+#+title: debug ros node in vscode
+#+filetags: :how_to:

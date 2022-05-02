@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       93a0936b-bc38-44e3-aad8-e1ddb6754108
+:END:
+#+title: design patterns
+#+filetags: :what_is:
+
+* fact
+:PROPERTIES:
+:ID:       d2d1cc95-c0b7-45c0-90d1-1ebf092f6a40
+:END:
++ designs usually start with *Factory Method* and then evolves toward;
+  1. Abstract Factory
+  2. Prototype
+  3. Builder
++ more flexibiliry = more complex code
+* how to
+:PROPERTIES:
+:ID:       1e0ae4fd-ca70-4396-b2d3-58b7536040dc
+:END:
+* concept
+:PROPERTIES:
+:ID:       f8be1060-2896-4f9b-a224-7c809d92bcaa
+:END:
+*** programming to an interface
++ this is a *design principle*
++ the keyword =interface= sometimes confuced with "interface keyword" in Java and C#. but this is not the keyword is discussed here
+* list of
+:PROPERTIES:
+:ID:       0188997a-7d0d-403d-94db-da9418c4bc62
+:END:

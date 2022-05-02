@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       98c0eff1-f55e-4a74-bc10-f3d3fb22d4b8
+:END:
+#+title: configure vscode for ros debugging
+#+filetags: :vscode:ros:how_to:
+
+1. [[id:57384568-6e80-46f0-b08b-c5031af763a4][open ros workspace in vscode]]
+2. under ~.vscode~ directory create a file called ~launch.json~
+3. click ~add configuration~ button (down right)
+4. type ~ros~. autocompletion options will pop up. select option called ~ROS: Launch~
+5. you can also add ~ROS: Attach~ to [[id:1d0daad9-8746-4b3e-b1e3-68b8e4c93594][debug ros node in vscode]] (optional)
+6. save ~launch.json~ file.

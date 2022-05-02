@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       08620983-b436-44d8-930e-7b50951c0af4
+:END:
+#+title: vscode
+#+filetags: :what_is:
+
+#+begin_quote
+telemetry hungry text editor/IDE. developed by [[id:01c92a10-8e8a-4ddf-8a5f-9d4adae93086][microsoft]]..
+#+end_quote
+
+* facts
+* how to
+* concepts

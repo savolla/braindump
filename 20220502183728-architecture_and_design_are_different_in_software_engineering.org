@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       023017ca-ab2d-4491-802c-7403694752f1
+:END:
+#+title: #+title: architecture and design are different in software engineering
+#+filetags: :fact:

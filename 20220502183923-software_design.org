@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       fb3bbfae-6961-4477-bd4d-455e9b9cf36a
+:END:
+#+title: software design
+#+filetags: :cmap:what_is:
+
+#+BEGIN_QUOTE
+process of designing classes, interfaces, controllers etc.
+#+END_QUOTE
+
+* facts
+:PROPERTIES:
+:ID:       29075823-e4a8-4e26-b879-668d59404784
+:END:
+* how to
+:PROPERTIES:
+:ID:       f95ecd67-36d5-4b8d-8fca-563b15702448
+:END:
+[[id:20a00fd5-0797-4182-a5bc-76dfad7f4b0b][encapsulate methods]]
+[[id:9a7c5ac4-5b41-4835-9386-db2214871e25][encapsulate classes]]
+[[id:ede52e63-9752-4b8d-b1a8-052b80bfaa69][program to an interface]]
+
+* concepts
+:PROPERTIES:
+:ID:       48f3df1e-6ee5-43b9-a755-ef8a8a0cb3ea
+:END:
+[[id:d1c0b3e4-806a-4bdc-84f8-fdad6e1ff20b][solid principles]]
+[[id:1efcc21e-ac03-41a0-8bbd-f1055dea3fa4][UML]]
+* list of
+:PROPERTIES:
+:ID:       b154ba04-ba2a-405a-b9d6-0fd9e2a7c21e
+:END:

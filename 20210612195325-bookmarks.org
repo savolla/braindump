@@ -6,4 +6,23 @@
 #+CREATED: [2021-06-12 Cts]
 #+LAST_MODIFIED: [2021-06-12 Cts 19:53]
 
-1. [[id:b2759764-9625-476e-a663-c8f6924209b4][Youtube channels]]
+* youtube channels
+:PROPERTIES:
+:ID:       1ee33f62-25b9-40b7-8e31-881c76be6846
+:END:
+1. [[https://www.youtube.com/watch?v=DcqqchtdjGQ][Ayhan Tarakci]] : science
+2. [[https://www.youtube.com/user/b31416][Baris Ozcan]] : BMW commercials
+3. [[https://www.youtube.com/user/MrRuhicenet][Ruhi Cenet]] : good stuff
+4. [[https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw][ThePrimeagen]] : Vim Porn
+5. [[https://www.youtube.com/channel/UCmYTgpKxd-QOJCPDrmaXuqQ][ThePrimeThanatos]] : synthwave wave
+6. [[https://www.youtube.com/c/DiamondTema][Diamond Tema]] : atheism made easy
+7. [[https://www.youtube.com/c/MrBallen][MrBallen]] : strange, dark and misterious stories
+
+* odysee channels
+:PROPERTIES:
+:ID:       fda592bc-4932-44aa-bb28-9911b2be7ae1
+:END:
+1. [[https://odysee.com/@AlphaNerd:8][Mental Outlaw]] : reclaim the desktop
+2. [[https://odysee.com/@sirsudo:8][SirSudo]] : ~sudo $(sudo !!)~
+3. [[https://odysee.com/@DistroTube:2][DistroTube]] : the "Countient"
+4. [[https://odysee.com/@christitustech:5][Chris Titus Tech]] : the guy who hates windows but uses it anyway.

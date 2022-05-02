@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       588517e5-d0e8-4560-82ea-cf59a2892f3c
+:END:
+#+title: software component
+#+filetags: :what_is:
+
+* facts
+* how to
+* concepts
+
+
