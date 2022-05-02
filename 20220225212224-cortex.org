@@ -82,6 +82,20 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 :END:
 1. [[id:a6b13c62-7b2f-403a-858d-619eba2e9658][software architecture]]
 2. [[id:fb3bbfae-6961-4477-bd4d-455e9b9cf36a][software design]]
+** virtualization
+:PROPERTIES:
+:ID:       686006f0-5013-44b1-a3ba-733cf2d362c1
+:END:
+*** tools
+1. [[id:55bd51b4-57e2-49d0-aa4f-a60f877dd402][qemu]]
+** operating systems
+:PROPERTIES:
+:ID:       b5577908-cddc-43cb-a209-833cea433805
+:END:
+1. linux
+2. windows
+3. mac
+4. bsd
 
 * resource
 :PROPERTIES:

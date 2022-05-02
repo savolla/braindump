@@ -1,9 +1,0 @@
-#+TITLE: Web Languages
-#+STARTUP: overview
-#+ROAM_TAGS: index
-#+CREATED: [2021-07-05 Pzt]
-#+LAST_MODIFIED: [2021-07-05 Pzt 23:47]
-
-+ [[./html.org][html]]
-+ [[./css.org][css]]
-+ [[./javascript.org][javascript]]

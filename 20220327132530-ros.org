@@ -16,10 +16,11 @@ set of libraries and tools for developing [[id:4b019677-a7fd-4024-bb75-a60f665fd
 :PROPERTIES:
 :ID:       39204ef7-80bd-4db2-80ff-79485b9349aa
 :END:
-4. [[id:57384568-6e80-46f0-b08b-c5031af763a4][open ros workspace in vscode]]
-1. [[id:98c0eff1-f55e-4a74-bc10-f3d3fb22d4b8][configure vscode for ros debugging]]
-2. [[id:c9b01428-8986-493e-828b-c945066d8620][debug ros launch files in vscode]]
-3. [[id:1d0daad9-8746-4b3e-b1e3-68b8e4c93594][debug ros node in vscode]]
+1. [[id:57384568-6e80-46f0-b08b-c5031af763a4][open ros workspace in vscode]]
+2. [[id:98c0eff1-f55e-4a74-bc10-f3d3fb22d4b8][configure vscode for ros debugging]]
+3. [[id:c9b01428-8986-493e-828b-c945066d8620][debug ros launch files in vscode]]
+4. [[id:1d0daad9-8746-4b3e-b1e3-68b8e4c93594][debug ros node in vscode]]
+5. [[id:1627632a-f79f-408d-ad8a-6aa3867fbe26][load plugins on gazebo]]
 * concepts
 :PROPERTIES:
 :ID:       52a9ac15-05a7-4e8a-add6-e38a620407af

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       55bd51b4-57e2-49d0-aa4f-a60f877dd402
+:END:
+#+title: qemu
+#+filetags: :what_is:
+
+#+begin_quote
+quick emulator. leverages kvm kernel module!
+#+end_quote
+
+* facts
+:PROPERTIES:
+:ID:       f08c3461-0ac1-46a6-8efc-228a5bb5d5dc
+:END:
+* how to
+:PROPERTIES:
+:ID:       b24429f8-8442-4878-889b-bf991592e28c
+:END:
+1. [[id:2a65c1f4-1d1b-497e-8517-9efacc04782c][list all virtual networks in qemu]]
+2. [[id:12507ca8-a9cd-466e-a58a-349a34e0b0e2][start default virtual network in qemu]]
+3. [[id:01c191c1-15fb-4c14-85e7-b7bf1dfda664][convert ova to qcow2]]
+4. [[id:05b30adc-d76a-4de4-bc2f-c1838a494bda][convert physical machine to virtual machine]]
+* concepts
+:PROPERTIES:
+:ID:       fd63f3c7-b268-47ae-a981-23fe1c5def69
+:END:

@@ -16,7 +16,9 @@
 2. [[id:9d880a2a-c6c2-43e4-84e3-e0b71711ff96][search roam notes in doom emacs]]
 3. [[id:c279abe8-f435-4f4f-a7eb-78c255566f66][create org header an org-roam node]]
 4. [[id:826acf60-b1ac-4533-9bae-0ba83d51d5f7][open roam backlinks buffer]]
+5. [[id:0dd448d5-c3f1-453a-8ee5-64e708e42ce0][create capture template in roam]]
 * concepts
 :PROPERTIES:
 :ID:       eb339ded-4c7c-4f6d-8da1-42f51a6d1e10
 :END:
+1. [[id:a2b6a085-ac83-4c97-8611-705a4c2d98d9][deft]]
