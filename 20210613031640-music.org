@@ -18,12 +18,16 @@
 :ID:       ca8b961e-c2e4-4d23-9e1e-f55a772fa4e8
 :END:
 + [[https://tokyoroseofficial.com/album/chases-2][Tokyo Rose - Chases 2 ]]
+#+ATTR_ORG: :width 200
 [[file:./images/screenshot-14.png]]
 + [[https://dancewiththedead.bandcamp.com/album/loved-to-death][Dance with the Dead - Loved to Death]]
+#+ATTR_ORG: :width 200
 [[file:./images/screenshot-15.png]]
 + [[https://alix2084.bandcamp.com/album/alix-2084-ep-2][ALIX 2084 (EP)]]
+#+ATTR_ORG: :width 200
 [[file:./images/screenshot-16.png]]
 + [[https://megadrive.bandcamp.com/album/hardwired-v14][Mega Drive - Hardwired V1.4]]
+#+ATTR_ORG: :width 200
 [[file:./images/screenshot-17.png]]
 ** djent
 :PROPERTIES:
