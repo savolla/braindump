@@ -15,6 +15,9 @@
 8. Domain-Driven Design: Tackling Complexity in the Heart of Software
 9. The DevOps Handbook
 10. Software Engineering at Google: Lessons Learned from Programming Over Time
+11. Engineers Survival Guide: Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft
+12. System Design Interview – An insider's guide
+13. Elements of Programming Interviews: The Insiders' Guide
 
 * embedded systems
 1. An Embedded Software Primer
