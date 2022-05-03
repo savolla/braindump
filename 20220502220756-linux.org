@@ -17,30 +17,22 @@ a pinguin.
 :ID:       5bf9919c-3fea-4ac1-b659-553f0ed8b909
 :END:
 1. [[id:35b87b25-fbc5-4353-9b49-4f7af448e72d][change system language in linux]]
+2. [[id:4e348a7c-620b-4fc3-8b87-a01a32b034c2][preview pdf in ranger]]
 ** arch linux
 :PROPERTIES:
 :ID:       44606af5-91d8-4265-8124-973b485bef4d
 :END:
-*** [[id:c2bee7e6-1b0d-41a8-b07e-c505dec79849][update arch linux]]
-:PROPERTIES:
-:ID:       b7b3db83-98ef-4c06-bd0c-358de6a796a4
-:END:
+1. [[id:c2bee7e6-1b0d-41a8-b07e-c505dec79849][update arch linux]]
 ** fedora
 :PROPERTIES:
 :ID:       e8abb665-979b-4e87-ab69-e8b1726e4369
 :END:
-*** [[id:1579fa09-052b-4fa3-924e-ae86c8e2ee3f][add RPM repos on fedora]]
-:PROPERTIES:
-:ID:       5ef11726-dcdc-45fd-b057-c1bf9480672f
-:END:
+1. [[id:1579fa09-052b-4fa3-924e-ae86c8e2ee3f][add RPM repos on fedora]]
 ** ubuntu
 :PROPERTIES:
 :ID:       12e2e52b-4a24-46b0-8ffb-ab8f315b7c4c
 :END:
-*** [[id:d371afcc-1a66-48e6-9e9c-a9e2517bd31b][update ubuntu]]
-:PROPERTIES:
-:ID:       1ddacaf3-5e9e-493d-af79-069d26f166c5
-:END:
+1. [[id:d371afcc-1a66-48e6-9e9c-a9e2517bd31b][update ubuntu]]
 
 * concepts
 :PROPERTIES:
@@ -54,3 +46,5 @@ a pinguin.
 1. [[id:55bd51b4-57e2-49d0-aa4f-a60f877dd402][qemu]]
 2. [[id:9ac94be1-f59c-4e4b-b30f-19e125b0ceba][pywal]]
 3. [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]]
+4. [[id:2b36f795-ca54-4909-bb9b-3864f4e6d720][ranger]]
+5. [[id:a9b412d1-462f-4e73-a541-574fb65c2bd7][poppler]]
