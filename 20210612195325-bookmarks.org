@@ -53,6 +53,8 @@
 1. [[https://idleendeavor.github.io/gamesearch/index.html#gsc.tab=0][game search]]
 ** software
 1. [[https://ravesoftwaresearch.pages.dev/#gsc.tab=0][software search]]
+** private trackers
+1. [[https://www.myanonamouse.net/login.php?returnto=%2F][myanonamouse]]
 * subreddits
 :PROPERTIES:
 :ID:       063dc5d2-0a86-471b-894f-8b010ee1d6c0
