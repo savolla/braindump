@@ -26,3 +26,14 @@
 2. [[https://odysee.com/@sirsudo:8][SirSudo]] : ~sudo $(sudo !!)~
 3. [[https://odysee.com/@DistroTube:2][DistroTube]] : the "Countient"
 4. [[https://odysee.com/@christitustech:5][Chris Titus Tech]] : the guy who hates windows but uses it anyway.
+* theft
+:PROPERTIES:
+:ID:       018b0dce-451a-4c7d-bfe6-7a62f19ecf46
+:END:
+** papers
+:PROPERTIES:
+:ID:       5ad0e8f9-01cb-4ff6-ac0e-5ee67087c2c2
+:END:
+1. [[https://sci-hub.mksa.top/][sci-hub]]
+2. [[https://booksc.org/][zlibrary-science]]
+3. [[https://libgen.is/scimag/][libgen-articles]]

@@ -44,6 +44,11 @@
 :PROPERTIES:
 :ID:       5253265e-9919-46a8-9dc8-11809b91793d
 :END:
+** org-mode
+:PROPERTIES:
+:ID:       5a72fde2-7ba5-42c6-8840-33fb6835dc28
+:END:
+*** [[id:c4740fa0-decf-4d34-ad48-8ab8c2334d54][capture todo]]
 * packages
 :PROPERTIES:
 :ID:       eb339ded-4c7c-4f6d-8da1-42f51a6d1e10
