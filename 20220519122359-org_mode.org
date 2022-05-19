@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       41b3d73c-fc38-41ef-bded-7c2d75b4c426
+:END:
+#+title: org-mode
+#+filetags: :what_is:
+
+* facts
+* how to
+1. [[id:c4740fa0-decf-4d34-ad48-8ab8c2334d54][capture todo]]
+* concepts

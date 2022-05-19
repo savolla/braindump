@@ -37,3 +37,8 @@
 1. [[https://sci-hub.mksa.top/][sci-hub]]
 2. [[https://booksc.org/][zlibrary-science]]
 3. [[https://libgen.is/scimag/][libgen-articles]]
+** books
+:PROPERTIES:
+:ID:       4d280b39-c817-45c0-bd71-77e53822453e
+:END:
+1. [[xdcc.eu/search.php][xdcc]] : look here if you cannot find your book anywhere
