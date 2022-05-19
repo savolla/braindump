@@ -43,6 +43,7 @@
 :END:
 1. [[xdcc.eu/search.php][xdcc]] : look here if you cannot find your book anywhere
 2. [[cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers][enchanced book search]] : google search that is modified for outputing books
+3. [[https://ravebooksearch.com/#gsc.tab=0][book search]] : pirated book search engine just like torlook
 ** torrent sites
 :PROPERTIES:
 :ID:       3c8e0a94-cee5-4ce7-a8d7-bb275bd47148
