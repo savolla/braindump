@@ -42,3 +42,41 @@
 :ID:       4d280b39-c817-45c0-bd71-77e53822453e
 :END:
 1. [[xdcc.eu/search.php][xdcc]] : look here if you cannot find your book anywhere
+2. [[cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers][enchanced book search]] : google search that is modified for outputing books
+** torrent sites
+:PROPERTIES:
+:ID:       3c8e0a94-cee5-4ce7-a8d7-bb275bd47148
+:END:
+1. [[en.btdig.com/index.htm][btdigg]] : contains old torrents but has a huge collection
+** games
+1. [[https://idleendeavor.github.io/gamesearch/index.html#gsc.tab=0][game search]]
+* subreddits
+:PROPERTIES:
+:ID:       063dc5d2-0a86-471b-894f-8b010ee1d6c0
+:END:
+1. [[https://www.reddit.com/r/artixlinux][artixlinux]]
+2. [[https://www.reddit.com/r/Piracy][Piracy]]
+3. [[https://www.reddit.com/r/cataclysmdda][cataclysmdda]]
+4. [[https://www.reddit.com/r/doomemacs][doomemacs]]
+5. [[https://www.reddit.com/r/drums][drums]]
+6. [[https://www.reddit.com/r/emacs][emacs]]
+7. [[https://www.reddit.com/r/fedora][fedora]]
+8. [[https://www.reddit.com/r/findmeadistro][findmeadistro]]
+9. [[https://www.reddit.com/r/howtohack][howtohack]]
+10. [[https://www.reddit.com/r/linux][linux]]
+11. [[https://www.reddit.com/r/linux_gaming][linux_gaming]]
+12. [[https://www.reddit.com/r/linux_programming][linux_programming]]
+13. [[https://www.reddit.com/r/linuxhardware][linuxhardware]]
+14. [[https://www.reddit.com/r/linuxmasterrace][linuxmasterrace]]
+15. [[https://www.reddit.com/r/metal][metal]]
+16. [[https://www.reddit.com/r/opensource][opensource]]
+17. [[https://www.reddit.com/r/orgmode][orgmode]]
+18. [[https://www.reddit.com/r/pcmasterrace][pcmasterrace]]
+19. [[https://www.reddit.com/r/python][python]]
+20. [[https://www.reddit.com/r/roguelikes][roguelikes]]
+21. [[https://www.reddit.com/r/ros][ros]]
+22. [[https://www.reddit.com/r/rust][rust]]
+23. [[https://www.reddit.com/r/trackmania][trackmania]]
+24. [[https://www.reddit.com/r/unixport][unixport]]
+25. [[https://www.reddit.com/r/vim][vim]]
+26. [[https://www.reddit.com/r/wine_gaming][wine_gaming]]
