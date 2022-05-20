@@ -258,7 +258,7 @@
   :block/updated-at 1653071700899}
  {:block/name "applications of rust",
   :block/created-at 1653071701847,
-  :block/updated-at 1653071701847}
+  :block/updated-at 1653073345933}
  {:block/name "aptalı tanımak",
   :block/created-at 1653071697543,
   :block/updated-at 1653071697543}
@@ -321,7 +321,7 @@
   :block/updated-at 1653071703029}
  {:block/name "book",
   :block/created-at 1653071697423,
-  :block/updated-at 1653071697423}
+  :block/updated-at 1653073068438}
  {:block/name "bookmarks",
   :block/created-at 1653071695318,
   :block/updated-at 1653071695318}
@@ -433,10 +433,10 @@
   :block/updated-at 1653071703520}
  {:block/name "cortex",
   :block/created-at 1653071696928,
-  :block/updated-at 1653071696928}
+  :block/updated-at 1653073185347}
  {:block/name "cpp",
   :block/created-at 1653071704354,
-  :block/updated-at 1653071704354}
+  :block/updated-at 1653072939754}
  {:block/name "cprofile",
   :block/created-at 1653071698191,
   :block/updated-at 1653071698191}
@@ -1070,6 +1070,12 @@
  {:block/name "location",
   :block/created-at 1653071698611,
   :block/updated-at 1653071698611}
+ {:block/name "log",
+  :block/created-at 1653073650055,
+  :block/updated-at 1653073650055}
+ {:block/name "logseq",
+  :block/created-at 1653073541205,
+  :block/updated-at 1653073577879}
  {:block/name "loosing features",
   :block/created-at 1653071699179,
   :block/updated-at 1653071699179}
@@ -1090,7 +1096,7 @@
   :block/updated-at 1653071697071}
  {:block/name "may 20th, 2022",
   :block/created-at 1653071704809,
-  :block/updated-at 1653072261057}
+  :block/updated-at 1653073704679}
  {:block/name "meaning of plc names",
   :block/created-at 1653071699181,
   :block/updated-at 1653071699181}
