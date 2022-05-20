@@ -53,11 +53,12 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 :END:
 *** library/framework
 :PROPERTIES:
-:ID:       8244cd5a-6ca3-4ba1-a420-b0d490fc4cad
+:id: 8244cd5a-6ca3-4ba1-a420-b0d490fc4cad
 :END:
-1. [[id:71bdbf8c-de11-4bbe-b639-111b2d32bdf6][ros]]
-2. [[id:f96c207e-6917-4d8b-9304-faf4b5d9693d][ros2]]
-3. [[id:2e073578-fc85-468d-af40-238498963e02][tesseract]]
+:LOGBOOK:
+CLOCK: [2022-05-20 Fri 21:59:12]--[2022-05-20 Fri 21:59:13] =>  00:00:01
+CLOCK: [2022-05-20 Fri 21:59:15]--[2022-05-20 Fri 21:59:16] =>  00:00:01
+:END:
 ** math
 :PROPERTIES:
 :ID:       87519a4a-848a-4c0e-b5d0-c80cbedf7834
