@@ -20,7 +20,7 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 6. [[id:c4ac8e0e-4c75-4ef0-84b7-19feb7da2d4c][orphan notes]]
 * area
 :PROPERTIES:
-:ID:       659c3620-91b1-422c-af3a-dee88d08714d
+:id: 659c3620-91b1-422c-af3a-dee88d08714d
 :END:
 1. [[id:3f190252-a13d-494f-a189-aeebd6a3d13f][note taking]]
 2. [[file:20210706112127-index-image_processing.org][Image Processing]]
@@ -29,7 +29,7 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 5. [[id:4af165e1-f967-4751-b307-1d13417f1d7d][embedded systems]]
 6. [[id:9596afe2-d277-448c-97f6-673822c05dd7][software engineering]]
 7. [[id:867d220e-78b2-4b85-959b-73d8e1998abe][music]]
-8. [[file:20210705095257-index-plc.org][PLC]]
+8.[[][]] [[file:20210705095257-index-plc.org][PLC]]
 ** programming
 :PROPERTIES:
 :ID:       4f238fc3-8773-493d-bcc0-37073331b11c
@@ -66,14 +66,12 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 :PROPERTIES:
 :ID:       0f87542b-f0fd-486a-b7b5-16579c60c72b
 :END:
-
 * resource
 :PROPERTIES:
 :ID:       10005ac7-41a9-4c8e-8114-1edb6b704184
 :END:
 1. [[id:4a3821a4-1f02-4125-9d49-0be0cef92eda][books]]
 2. [[id:486a9873-2ed1-4e60-9476-bc2124741e16][bookmarks]]
-
 * archive
 :PROPERTIES:
 :ID:       2d34cff4-ea9a-4b82-9fdb-819d9c8cd302
