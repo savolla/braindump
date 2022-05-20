@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       826acf60-b1ac-4533-9bae-0ba83d51d5f7
+:END:
+#+title: open roam backlinks buffer
+#+filetags: :how_to:
+~SPC n r r~

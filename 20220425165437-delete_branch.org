@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       027be770-257f-4212-af1c-acaf0308bf3b
+:END:
+#+title: delete branch
+#+filetags: :how_to:
+~git branch -d BRANCH_NAME~

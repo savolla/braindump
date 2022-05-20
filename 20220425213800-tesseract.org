@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       2e073578-fc85-468d-af40-238498963e02
+:END:
+#+title: tesseract
+#+filetags: :what_is:
+
+awesome robotics library for industrial [[id:4b019677-a7fd-4024-bb75-a60f665fd036][robotics]] applications.
+
+* fact
+* how to
+* snippet
+* concept
+* list of
