@@ -68,10 +68,14 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 :END:
 * resource
 :PROPERTIES:
-:ID:       10005ac7-41a9-4c8e-8114-1edb6b704184
+:id: 10005ac7-41a9-4c8e-8114-1edb6b704184
 :END:
-1. [[id:4a3821a4-1f02-4125-9d49-0be0cef92eda][books]]
+:LOGBOOK:
+CLOCK: [2022-05-20 Fri 22:28:24]
+:END:
+1. 
 2. [[id:486a9873-2ed1-4e60-9476-bc2124741e16][bookmarks]]
+**
 * archive
 :PROPERTIES:
 :ID:       2d34cff4-ea9a-4b82-9fdb-819d9c8cd302
