@@ -96,7 +96,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:editor/new-block "shift+enter", :editor/forward-kill-word "ctrl+d", :go/backward "ctrl+b", :editor/new-line "enter", :editor/forward-word "ctrl+l", :editor/backward-word "ctrl+h", :go/forward "ctrl+f", :editor/insert-link "f1", :editor/escape-editing "ctrl+space", :editor/up "ctrl+k", :editor/down "ctrl+j"}
+ :shortcuts {:editor/new-block "shift+enter", :editor/forward-kill-word "ctrl+d", :go/backward "ctrl+b", :go/search "ctrl+s", :editor/new-line "enter", :editor/forward-word "ctrl+l", :editor/backward-word "ctrl+h", :go/forward "ctrl+f", :editor/insert-link "f1", :editor/escape-editing "ctrl+space", :editor/up "ctrl+k", :editor/down "ctrl+j"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
