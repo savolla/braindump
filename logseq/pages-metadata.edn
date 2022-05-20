@@ -1,0 +1,1477 @@
+[{:block/name "\"ve\" ile \"ile\" aslında aynı şeyler",
+  :block/created-at 1653071698827,
+  :block/updated-at 1653071698827}
+ {:block/name "+begin_quote",
+  :block/created-at 1653071701668,
+  :block/updated-at 1653071701668}
+ {:block/name "+begin_src",
+  :block/created-at 1653071699601,
+  :block/updated-at 1653071699601}
+ {:block/name "+end_quote",
+  :block/created-at 1653071701668,
+  :block/updated-at 1653071701668}
+ {:block/name "+end_src",
+  :block/created-at 1653071699602,
+  :block/updated-at 1653071699602}
+ {:block/name "./images/const-volatile-cheat-sheet.png",
+  :block/created-at 1653071696434,
+  :block/updated-at 1653071696434}
+ {:block/name "./img/org-mode.png",
+  :block/created-at 1653071702508,
+  :block/updated-at 1653071702508}
+ {:block/name "./img/rust-crab.png",
+  :block/created-at 1653071701922,
+  :block/updated-at 1653071701922}
+ {:block/name ".model file",
+  :block/created-at 1653071700655,
+  :block/updated-at 1653071700655}
+ {:block/name ".world file",
+  :block/created-at 1653071700628,
+  :block/updated-at 1653071700628}
+ {:block/name "20210612015347-fleeting",
+  :block/created-at 1653071695084,
+  :block/updated-at 1653071695084}
+ {:block/name "20210612024650-quote",
+  :block/created-at 1653071695173,
+  :block/updated-at 1653071695173}
+ {:block/name "20210612193111-fleeting",
+  :block/created-at 1653071695243,
+  :block/updated-at 1653071695243}
+ {:block/name "20210612203702-permanent-pluto_is_no_longer_a_planet",
+  :block/created-at 1653071695448,
+  :block/updated-at 1653071695448}
+ {:block/name "20210612210850-quote",
+  :block/created-at 1653071695481,
+  :block/updated-at 1653071695481}
+ {:block/name "20210613024129-quote",
+  :block/created-at 1653071695647,
+  :block/updated-at 1653071695647}
+ {:block/name "20210613030003-quote",
+  :block/created-at 1653071695900,
+  :block/updated-at 1653071695900}
+ {:block/name "20210613030147-quote",
+  :block/created-at 1653071695929,
+  :block/updated-at 1653071695929}
+ {:block/name "20210613030257-quote",
+  :block/created-at 1653071695959,
+  :block/updated-at 1653071695959}
+ {:block/name "20210613030454-quote",
+  :block/created-at 1653071696025,
+  :block/updated-at 1653071696025}
+ {:block/name "20210613030619-quote",
+  :block/created-at 1653071696085,
+  :block/updated-at 1653071696085}
+ {:block/name "20210613033550-quote",
+  :block/created-at 1653071696951,
+  :block/updated-at 1653071696951}
+ {:block/name "20210613035501-quote",
+  :block/created-at 1653071697048,
+  :block/updated-at 1653071697048}
+ {:block/name "20210613035548-quote",
+  :block/created-at 1653071697069,
+  :block/updated-at 1653071697069}
+ {:block/name "20210613035750-quote",
+  :block/created-at 1653071697120,
+  :block/updated-at 1653071697120}
+ {:block/name "20210613035836-quote",
+  :block/created-at 1653071697146,
+  :block/updated-at 1653071697146}
+ {:block/name "20210613035910-quote",
+  :block/created-at 1653071697173,
+  :block/updated-at 1653071697173}
+ {:block/name "20210613035944-quote",
+  :block/created-at 1653071697197,
+  :block/updated-at 1653071697197}
+ {:block/name "20210613040033-quote",
+  :block/created-at 1653071697224,
+  :block/updated-at 1653071697224}
+ {:block/name "20210613040103-quote",
+  :block/created-at 1653071697248,
+  :block/updated-at 1653071697248}
+ {:block/name "20210613135041-permanent-python_profiling_function",
+  :block/created-at 1653071697706,
+  :block/updated-at 1653071697706}
+ {:block/name "20210613141605-permanent-example_of_python_decorator",
+  :block/created-at 1653071697759,
+  :block/updated-at 1653071697759}
+ {:block/name "20210613154136-permanent-use_profiling_function",
+  :block/created-at 1653071698040,
+  :block/updated-at 1653071698040}
+ {:block/name
+  "20210613155716-permanent-interpret_the_profiling_report",
+  :block/created-at 1653071698071,
+  :block/updated-at 1653071698071}
+ {:block/name
+  "20210613160940-permanent-find_the_slowest_function_in_profiling_report",
+  :block/created-at 1653071698095,
+  :block/updated-at 1653071698095}
+ {:block/name
+  "20210613162953-permanent-when_you_need_code_optimization",
+  :block/created-at 1653071698114,
+  :block/updated-at 1653071698114}
+ {:block/name "20210613164430-permanent-being_a_human_code_profiler",
+  :block/created-at 1653071698157,
+  :block/updated-at 1653071698157}
+ {:block/name "20210613170616-permanent-how_profiling_decorator_works",
+  :block/created-at 1653071698245,
+  :block/updated-at 1653071698245}
+ {:block/name
+  "20210613194225-permanent-general_population_is_ignorant",
+  :block/created-at 1653071698401,
+  :block/updated-at 1653071698401}
+ {:block/name "20210613195711-permanent-guide_to_not_being_retarded",
+  :block/created-at 1653071698441,
+  :block/updated-at 1653071698441}
+ {:block/name "20210613201121-quote",
+  :block/created-at 1653071698540,
+  :block/updated-at 1653071698540}
+ {:block/name "20210613201530-permanent-what_makes_someone_fool",
+  :block/created-at 1653071698565,
+  :block/updated-at 1653071698565}
+ {:block/name "20210613203224-permanent-what_makes_someone_fool",
+  :block/created-at 1653071698584,
+  :block/updated-at 1653071698584}
+ {:block/name "20210617215629-permanent-bilgisayarı_plc_ye_bagladım",
+  :block/created-at 1653071698802,
+  :block/updated-at 1653071698802}
+ {:block/name "20210617215642-permanent-ilk_plc_uygulamamı_yaptım",
+  :block/created-at 1653071698825,
+  :block/updated-at 1653071698825}
+ {:block/name "20210617215701-permanent-muhurleme_devresi",
+  :block/created-at 1653071698849,
+  :block/updated-at 1653071698849}
+ {:block/name
+  "20210617215725-permanent-motor_surucusunu_kullanmayı_ogrendim",
+  :block/created-at 1653071698876,
+  :block/updated-at 1653071698876}
+ {:block/name "20210617221011-permanent-configure_the_device",
+  :block/created-at 1653071698904,
+  :block/updated-at 1653071698904}
+ {:block/name
+  "20210617225338-permanent-ve_ile_ile_aslında_aynı_seyler",
+  :block/created-at 1653071698932,
+  :block/updated-at 1653071698932}
+ {:block/name "20210617230342-permanent-ledder_diyagramını_cizdim",
+  :block/created-at 1653071698961,
+  :block/updated-at 1653071698961}
+ {:block/name "20210617230834-permanent-kontakları_isimlendir",
+  :block/created-at 1653071698987,
+  :block/updated-at 1653071698987}
+ {:block/name
+  "20210617233549-permanent-mitsubishi_fr_740_hakkında_bir_cok_sey_ogrendim",
+  :block/created-at 1653071699008,
+  :block/updated-at 1653071699008}
+ {:block/name
+  "20210617233914-permanent-bir_cok_motoru_kontrol_edebiliyor",
+  :block/created-at 1653071699031,
+  :block/updated-at 1653071699031}
+ {:block/name
+  "20210617234038-permanent-parametrelerini_surucuye_tanıtmak",
+  :block/created-at 1653071699052,
+  :block/updated-at 1653071699052}
+ {:block/name "20210617234440-permanent-yıldız_baglantı",
+  :block/created-at 1653071699072,
+  :block/updated-at 1653071699072}
+ {:block/name "20210617234450-permanent-ucgen_baglantı",
+  :block/created-at 1653071699093,
+  :block/updated-at 1653071699093}
+ {:block/name "20210705095503-permanent-meaning_of_plc_names",
+  :block/created-at 1653071699205,
+  :block/updated-at 1653071699205}
+ {:block/name "20210705095855-permanent-compact_plc",
+  :block/created-at 1653071699222,
+  :block/updated-at 1653071699222}
+ {:block/name "20210705102107 permanent hardware_verion",
+  :block/created-at 1653071699291,
+  :block/updated-at 1653071699291}
+ {:block/name "20210705102107-permanent-hardware_version",
+  :block/created-at 1653071699312,
+  :block/updated-at 1653071699312}
+ {:block/name "20210705102310-permanent-loosing_features",
+  :block/created-at 1653071699335,
+  :block/updated-at 1653071699335}
+ {:block/name "20210705102732-permanent-device_view",
+  :block/created-at 1653071699355,
+  :block/updated-at 1653071699355}
+ {:block/name "20210705103026-permanent-extra_modules",
+  :block/created-at 1653071699377,
+  :block/updated-at 1653071699377}
+ {:block/name "20210705103201-permanent-compiling_the_project",
+  :block/created-at 1653071699398,
+  :block/updated-at 1653071699398}
+ {:block/name "20210705103404-permanent-compilation_warnings",
+  :block/created-at 1653071699418,
+  :block/updated-at 1653071699418}
+ {:block/name "20210705103947-permanent-add_new_tag_table",
+  :block/created-at 1653071699467,
+  :block/updated-at 1653071699467}
+ {:block/name "20210705104138-permanent-sensors_actuators",
+  :block/created-at 1653071699488,
+  :block/updated-at 1653071699488}
+ {:block/name "20210706092940-permanent-",
+  :block/created-at 1653071700161,
+  :block/updated-at 1653071700161}
+ {:block/name "20210706093611-permanent-",
+  :block/created-at 1653071700180,
+  :block/updated-at 1653071700180}
+ {:block/name "20210706093858-permanent-",
+  :block/created-at 1653071700200,
+  :block/updated-at 1653071700200}
+ {:block/name "20210706094210-permanent-",
+  :block/created-at 1653071700223,
+  :block/updated-at 1653071700223}
+ {:block/name "20210706094534-permanent-",
+  :block/created-at 1653071700243,
+  :block/updated-at 1653071700243}
+ {:block/name "20210706094727-permanent-",
+  :block/created-at 1653071700265,
+  :block/updated-at 1653071700265}
+ {:block/name "20210706094943-permanent-",
+  :block/created-at 1653071700290,
+  :block/updated-at 1653071700290}
+ {:block/name "20210706122135-fleeting",
+  :block/created-at 1653071700406,
+  :block/updated-at 1653071700406}
+ {:block/name "a",
+  :block/created-at 1653071863940,
+  :block/updated-at 1653071863940}
+ {:block/name "add all changes",
+  :block/created-at 1653071704245,
+  :block/updated-at 1653071704245}
+ {:block/name "add new tag table",
+  :block/created-at 1653071699446,
+  :block/updated-at 1653071699446}
+ {:block/name "add rpm repos on fedora",
+  :block/created-at 1653071701644,
+  :block/updated-at 1653071701644}
+ {:block/name "add tags to roam notes",
+  :block/created-at 1653071700542,
+  :block/updated-at 1653071700542}
+ {:block/name "alan kay",
+  :block/created-at 1653071702034,
+  :block/updated-at 1653071702034}
+ {:block/name "algorithms data structures",
+  :block/created-at 1653071704319,
+  :block/updated-at 1653071704319}
+ {:block/name "anthropology",
+  :block/created-at 1653071700899,
+  :block/updated-at 1653071700899}
+ {:block/name "applications of rust",
+  :block/created-at 1653071701847,
+  :block/updated-at 1653071701847}
+ {:block/name "aptalı tanımak",
+  :block/created-at 1653071697543,
+  :block/updated-at 1653071697543}
+ {:block/name "archive",
+  :block/created-at 1653071695756,
+  :block/updated-at 1653071695756}
+ {:block/name "area",
+  :block/created-at 1653071695757,
+  :block/updated-at 1653071695757}
+ {:block/name "art",
+  :block/created-at 1653071697804,
+  :block/updated-at 1653071697804}
+ {:block/name "article number",
+  :block/created-at 1653071699180,
+  :block/updated-at 1653071699180}
+ {:block/name "articles to read",
+  :block/created-at 1653071697599,
+  :block/updated-at 1653071697599}
+ {:block/name "assembly",
+  :block/created-at 1653071704336,
+  :block/updated-at 1653071704336}
+ {:block/name "assign expression results to variables in rust",
+  :block/created-at 1653071703296,
+  :block/updated-at 1653071703296}
+ {:block/name "assign multiple variables at once",
+  :block/created-at 1653071703136,
+  :block/updated-at 1653071703136}
+ {:block/name "astronomy",
+  :block/created-at 1653071697830,
+  :block/updated-at 1653071697830}
+ {:block/name "auto confirm package installations with pacman",
+  :block/created-at 1653071701340,
+  :block/updated-at 1653071701340}
+ {:block/name "automatically say yes to all commands",
+  :block/created-at 1653071701453,
+  :block/updated-at 1653071701453}
+ {:block/name "automation",
+  :block/created-at 1653071701691,
+  :block/updated-at 1653071701691}
+ {:block/name "avoid being retarded",
+  :block/created-at 1653071700923,
+  :block/updated-at 1653071700923}
+ {:block/name "b",
+  :block/created-at 1653071863941,
+  :block/updated-at 1653071863941}
+ {:block/name "being a human code profiler",
+  :block/created-at 1653071698334,
+  :block/updated-at 1653071698334}
+ {:block/name "bilgisayarı plc'ye bağladım",
+  :block/created-at 1653071698779,
+  :block/updated-at 1653071698779}
+ {:block/name "bir çok motoru kontrol edebiliyor",
+  :block/created-at 1653071699009,
+  :block/updated-at 1653071699009}
+ {:block/name "black screen problem in gazebo",
+  :block/created-at 1653071700763,
+  :block/updated-at 1653071700763}
+ {:block/name "block scopped language",
+  :block/created-at 1653071703029,
+  :block/updated-at 1653071703029}
+ {:block/name "book",
+  :block/created-at 1653071697423,
+  :block/updated-at 1653071697423}
+ {:block/name "bookmarks",
+  :block/created-at 1653071695318,
+  :block/updated-at 1653071695318}
+ {:block/name "books",
+  :block/created-at 1653071697450,
+  :block/updated-at 1653071697450}
+ {:block/name "books to read",
+  :block/created-at 1653071701139,
+  :block/updated-at 1653071701139}
+ {:block/name "build rust for production",
+  :block/created-at 1653071702536,
+  :block/updated-at 1653071702536}
+ {:block/name "c",
+  :block/created-at 1653071863941,
+  :block/updated-at 1653071863941}
+ {:block/name "c++",
+  :block/created-at 1653071701980,
+  :block/updated-at 1653071701980}
+ {:block/name "calculus",
+  :block/created-at 1653071696826,
+  :block/updated-at 1653071696826}
+ {:block/name "calculus: early transcendentals",
+  :block/created-at 1653071697478,
+  :block/updated-at 1653071697478}
+ {:block/name "card",
+  :block/created-at 1653071863941,
+  :block/updated-at 1653071863941}
+ {:block/name "cargo",
+  :block/created-at 1653071702219,
+  :block/updated-at 1653071702219}
+ {:block/name "celal şengör",
+  :block/created-at 1653071697574,
+  :block/updated-at 1653071697574}
+ {:block/name "change color scheme to wallpaper colors",
+  :block/created-at 1653071701397,
+  :block/updated-at 1653071701397}
+ {:block/name "change system language in linux",
+  :block/created-at 1653071701259,
+  :block/updated-at 1653071701259}
+ {:block/name "check if your pc has optimus technology",
+  :block/created-at 1653071701621,
+  :block/updated-at 1653071701621}
+ {:block/name "cmap",
+  :block/created-at 1653071697451,
+  :block/updated-at 1653071697451}
+ {:block/name "cmd",
+  :block/created-at 1653071703605,
+  :block/updated-at 1653071703605}
+ {:block/name "code optimization in python",
+  :block/created-at 1653071697653,
+  :block/updated-at 1653071697653}
+ {:block/name "code profiling",
+  :block/created-at 1653071697708,
+  :block/updated-at 1653071697708}
+ {:block/name "code profiling in python",
+  :block/created-at 1653071697682,
+  :block/updated-at 1653071697682}
+ {:block/name "commenting in rust",
+  :block/created-at 1653071702558,
+  :block/updated-at 1653071702558}
+ {:block/name "compact plc",
+  :block/created-at 1653071699180,
+  :block/updated-at 1653071699180}
+ {:block/name "compilation warnings",
+  :block/created-at 1653071699177,
+  :block/updated-at 1653071699177}
+ {:block/name "compile rust program",
+  :block/created-at 1653071702365,
+  :block/updated-at 1653071702365}
+ {:block/name "compiling the project",
+  :block/created-at 1653071699177,
+  :block/updated-at 1653071699177}
+ {:block/name "computer organization and design: the hardware",
+  :block/created-at 1653071697420,
+  :block/updated-at 1653071697420}
+ {:block/name
+  "computer organization and design: the hardware/software interface",
+  :block/created-at 1653071697419,
+  :block/updated-at 1653071697419}
+ {:block/name "computer_science",
+  :block/created-at 1653071697423,
+  :block/updated-at 1653071697423}
+ {:block/name "concat two strings in rust",
+  :block/created-at 1653071703397,
+  :block/updated-at 1653071703397}
+ {:block/name "concept",
+  :block/created-at 1653071695208,
+  :block/updated-at 1653071695208}
+ {:block/name "configure deft",
+  :block/created-at 1653071700517,
+  :block/updated-at 1653071700517}
+ {:block/name "configure the device",
+  :block/created-at 1653071698803,
+  :block/updated-at 1653071698803}
+ {:block/name "container",
+  :block/created-at 1653071696427,
+  :block/updated-at 1653071696427}
+ {:block/name "content map",
+  :block/created-at 1653071702893,
+  :block/updated-at 1653071702893}
+ {:block/name "contents",
+  :block/created-at 1653071863942,
+  :block/updated-at 1653071863942}
+ {:block/name "convert ova to qcow2",
+  :block/created-at 1653071701172,
+  :block/updated-at 1653071701172}
+ {:block/name "convert physical machine to virtual machine",
+  :block/created-at 1653071703520,
+  :block/updated-at 1653071703520}
+ {:block/name "cortex",
+  :block/created-at 1653071696928,
+  :block/updated-at 1653071696928}
+ {:block/name "cpp",
+  :block/created-at 1653071704354,
+  :block/updated-at 1653071704354}
+ {:block/name "cprofile",
+  :block/created-at 1653071698191,
+  :block/updated-at 1653071698191}
+ {:block/name "create capture template in roam",
+  :block/created-at 1653071700587,
+  :block/updated-at 1653071700587}
+ {:block/name "create mutable variables",
+  :block/created-at 1653071703084,
+  :block/updated-at 1653071703084}
+ {:block/name "create org header an org-roam node",
+  :block/created-at 1653071703955,
+  :block/updated-at 1653071703955}
+ {:block/name "create rss feed from youtube channel",
+  :block/created-at 1653071701667,
+  :block/updated-at 1653071701667}
+ {:block/name "create rust project using cargo",
+  :block/created-at 1653071702390,
+  :block/updated-at 1653071702390}
+ {:block/name "currently reading books",
+  :block/created-at 1653071697388,
+  :block/updated-at 1653071697388}
+ {:block/name "databases",
+  :block/created-at 1653071697988,
+  :block/updated-at 1653071697988}
+ {:block/name "deep web search engines",
+  :block/created-at 1653071701233,
+  :block/updated-at 1653071701233}
+ {:block/name "deep_web",
+  :block/created-at 1653071701234,
+  :block/updated-at 1653071701234}
+ {:block/name "define",
+  :block/created-at 1653071700076,
+  :block/updated-at 1653071700076}
+ {:block/name "define a variables in rust",
+  :block/created-at 1653071703054,
+  :block/updated-at 1653071703054}
+ {:block/name "define an immutable string in rust",
+  :block/created-at 1653071703346,
+  :block/updated-at 1653071703346}
+ {:block/name "define constant variables in rust",
+  :block/created-at 1653071703110,
+  :block/updated-at 1653071703110}
+ {:block/name "define mutable string in rust",
+  :block/created-at 1653071703374,
+  :block/updated-at 1653071703374}
+ {:block/name "deft",
+  :block/created-at 1653071700494,
+  :block/updated-at 1653071700494}
+ {:block/name "delete branch",
+  :block/created-at 1653071704221,
+  :block/updated-at 1653071704221}
+ {:block/name "dennis ritchie",
+  :block/created-at 1653071702131,
+  :block/updated-at 1653071702131}
+ {:block/name "device view",
+  :block/created-at 1653071699179,
+  :block/updated-at 1653071699179}
+ {:block/name "diction",
+  :block/created-at 1653071697000,
+  :block/updated-at 1653071697000}
+ {:block/name "digital art",
+  :block/created-at 1653071696128,
+  :block/updated-at 1653071696128}
+ {:block/name "disable table of content toc in org mode",
+  :block/created-at 1653071701781,
+  :block/updated-at 1653071701781}
+ {:block/name "doing",
+  :block/created-at 1653071863941,
+  :block/updated-at 1653071863941}
+ {:block/name "donald a. norman",
+  :block/created-at 1653071695961,
+  :block/updated-at 1653071695961}
+ {:block/name "done",
+  :block/created-at 1653071863941,
+  :block/updated-at 1653071863941}
+ {:block/name "dynamically typed",
+  :block/created-at 1653071703250,
+  :block/updated-at 1653071703250}
+ {:block/name "efe aydal",
+  :block/created-at 1653071696027,
+  :block/updated-at 1653071696027}
+ {:block/name "emacs",
+  :block/created-at 1653071700451,
+  :block/updated-at 1653071700451}
+ {:block/name "embedded systems",
+  :block/created-at 1653071696131,
+  :block/updated-at 1653071696131}
+ {:block/name "endif",
+  :block/created-at 1653071700078,
+  :block/updated-at 1653071700078}
+ {:block/name "engineer",
+  :block/created-at 1653071696129,
+  :block/updated-at 1653071696129}
+ {:block/name "english",
+  :block/created-at 1653071697299,
+  :block/updated-at 1653071697299}
+ {:block/name "error",
+  :block/created-at 1653071700074,
+  :block/updated-at 1653071700074}
+ {:block/name "example of python decorator",
+  :block/created-at 1653071697736,
+  :block/updated-at 1653071697736}
+ {:block/name "extra modules",
+  :block/created-at 1653071699178,
+  :block/updated-at 1653071699178}
+ {:block/name "fact",
+  :block/created-at 1653071701825,
+  :block/updated-at 1653071701825}
+ {:block/name "favorites",
+  :block/created-at 1653071863940,
+  :block/updated-at 1653071863940}
+ {:block/name "file:./images/screenshot-01.png",
+  :block/created-at 1653071698906,
+  :block/updated-at 1653071698906}
+ {:block/name "file:./images/screenshot-02.png",
+  :block/created-at 1653071698853,
+  :block/updated-at 1653071698853}
+ {:block/name "file:./images/screenshot-03.png",
+  :block/created-at 1653071696721,
+  :block/updated-at 1653071696721}
+ {:block/name "file:./images/screenshot-04.png",
+  :block/created-at 1653071696720,
+  :block/updated-at 1653071696720}
+ {:block/name "file:./images/screenshot-05.png",
+  :block/created-at 1653071696720,
+  :block/updated-at 1653071696720}
+ {:block/name "file:./images/screenshot-06.png",
+  :block/created-at 1653071696720,
+  :block/updated-at 1653071696720}
+ {:block/name "file:./images/screenshot-07.png",
+  :block/created-at 1653071696719,
+  :block/updated-at 1653071696719}
+ {:block/name "file:./images/screenshot-10.png",
+  :block/created-at 1653071696707,
+  :block/updated-at 1653071696707}
+ {:block/name "file:./images/screenshot-100.png",
+  :block/created-at 1653071696439,
+  :block/updated-at 1653071696439}
+ {:block/name "file:./images/screenshot-102.png",
+  :block/created-at 1653071696438,
+  :block/updated-at 1653071696438}
+ {:block/name "file:./images/screenshot-108.png",
+  :block/created-at 1653071696452,
+  :block/updated-at 1653071696452}
+ {:block/name "file:./images/screenshot-109.png",
+  :block/created-at 1653071696433,
+  :block/updated-at 1653071696433}
+ {:block/name "file:./images/screenshot-110.png",
+  :block/created-at 1653071696443,
+  :block/updated-at 1653071696443}
+ {:block/name "file:./images/screenshot-111.png",
+  :block/created-at 1653071700082,
+  :block/updated-at 1653071700082}
+ {:block/name "file:./images/screenshot-112.png",
+  :block/created-at 1653071700070,
+  :block/updated-at 1653071700070}
+ {:block/name "file:./images/screenshot-113.png",
+  :block/created-at 1653071700071,
+  :block/updated-at 1653071700071}
+ {:block/name "file:./images/screenshot-115.png",
+  :block/created-at 1653071696454,
+  :block/updated-at 1653071696454}
+ {:block/name "file:./images/screenshot-116.png",
+  :block/created-at 1653071696431,
+  :block/updated-at 1653071696431}
+ {:block/name "file:./images/screenshot-117.png",
+  :block/created-at 1653071696432,
+  :block/updated-at 1653071696432}
+ {:block/name "file:./images/screenshot-118.png",
+  :block/created-at 1653071696458,
+  :block/updated-at 1653071696458}
+ {:block/name "file:./images/screenshot-119.png",
+  :block/created-at 1653071696459,
+  :block/updated-at 1653071696459}
+ {:block/name "file:./images/screenshot-12.png",
+  :block/created-at 1653071696694,
+  :block/updated-at 1653071696694}
+ {:block/name "file:./images/screenshot-120.png",
+  :block/created-at 1653071700080,
+  :block/updated-at 1653071700080}
+ {:block/name "file:./images/screenshot-124.png",
+  :block/created-at 1653071696701,
+  :block/updated-at 1653071696701}
+ {:block/name "file:./images/screenshot-125.png",
+  :block/created-at 1653071696701,
+  :block/updated-at 1653071696701}
+ {:block/name "file:./images/screenshot-129.png",
+  :block/created-at 1653071696446,
+  :block/updated-at 1653071696446}
+ {:block/name "file:./images/screenshot-136.png",
+  :block/created-at 1653071700084,
+  :block/updated-at 1653071700084}
+ {:block/name "file:./images/screenshot-138.png",
+  :block/created-at 1653071696430,
+  :block/updated-at 1653071696430}
+ {:block/name "file:./images/screenshot-139.png",
+  :block/created-at 1653071696460,
+  :block/updated-at 1653071696460}
+ {:block/name "file:./images/screenshot-14.png",
+  :block/created-at 1653071696697,
+  :block/updated-at 1653071696697}
+ {:block/name "file:./images/screenshot-140.png",
+  :block/created-at 1653071696461,
+  :block/updated-at 1653071696461}
+ {:block/name "file:./images/screenshot-141.png",
+  :block/created-at 1653071696462,
+  :block/updated-at 1653071696462}
+ {:block/name "file:./images/screenshot-147.png",
+  :block/created-at 1653071696449,
+  :block/updated-at 1653071696449}
+ {:block/name "file:./images/screenshot-148.png",
+  :block/created-at 1653071696448,
+  :block/updated-at 1653071696448}
+ {:block/name "file:./images/screenshot-149.png",
+  :block/created-at 1653071696455,
+  :block/updated-at 1653071696455}
+ {:block/name "file:./images/screenshot-15.png",
+  :block/created-at 1653071696698,
+  :block/updated-at 1653071696698}
+ {:block/name "file:./images/screenshot-150.png",
+  :block/created-at 1653071696455,
+  :block/updated-at 1653071696455}
+ {:block/name "file:./images/screenshot-151.png",
+  :block/created-at 1653071696457,
+  :block/updated-at 1653071696457}
+ {:block/name "file:./images/screenshot-152.png",
+  :block/created-at 1653071696457,
+  :block/updated-at 1653071696457}
+ {:block/name "file:./images/screenshot-153.png",
+  :block/created-at 1653071696456,
+  :block/updated-at 1653071696456}
+ {:block/name "file:./images/screenshot-156.png",
+  :block/created-at 1653071696449,
+  :block/updated-at 1653071696449}
+ {:block/name "file:./images/screenshot-157.png",
+  :block/created-at 1653071696450,
+  :block/updated-at 1653071696450}
+ {:block/name "file:./images/screenshot-159.png",
+  :block/created-at 1653071696458,
+  :block/updated-at 1653071696458}
+ {:block/name "file:./images/screenshot-16.png",
+  :block/created-at 1653071696698,
+  :block/updated-at 1653071696698}
+ {:block/name "file:./images/screenshot-161.png",
+  :block/created-at 1653071696437,
+  :block/updated-at 1653071696437}
+ {:block/name "file:./images/screenshot-17.png",
+  :block/created-at 1653071696698,
+  :block/updated-at 1653071696698}
+ {:block/name "file:./images/screenshot-18.png",
+  :block/created-at 1653071696699,
+  :block/updated-at 1653071696699}
+ {:block/name "file:./images/screenshot-19.png",
+  :block/created-at 1653071696699,
+  :block/updated-at 1653071696699}
+ {:block/name "file:./images/screenshot-20.png",
+  :block/created-at 1653071696700,
+  :block/updated-at 1653071696700}
+ {:block/name "file:./images/screenshot-21.png",
+  :block/created-at 1653071696700,
+  :block/updated-at 1653071696700}
+ {:block/name "file:./images/screenshot-22.png",
+  :block/created-at 1653071696702,
+  :block/updated-at 1653071696702}
+ {:block/name "file:./images/screenshot-23.png",
+  :block/created-at 1653071696702,
+  :block/updated-at 1653071696702}
+ {:block/name "file:./images/screenshot-24.png",
+  :block/created-at 1653071696702,
+  :block/updated-at 1653071696702}
+ {:block/name "file:./images/screenshot-25.png",
+  :block/created-at 1653071696704,
+  :block/updated-at 1653071696704}
+ {:block/name "file:./images/screenshot-27.png",
+  :block/created-at 1653071696705,
+  :block/updated-at 1653071696705}
+ {:block/name "file:./images/screenshot-28.png",
+  :block/created-at 1653071696705,
+  :block/updated-at 1653071696705}
+ {:block/name "file:./images/screenshot-29.png",
+  :block/created-at 1653071696705,
+  :block/updated-at 1653071696705}
+ {:block/name "file:./images/screenshot-30.png",
+  :block/created-at 1653071696706,
+  :block/updated-at 1653071696706}
+ {:block/name "file:./images/screenshot-31.png",
+  :block/created-at 1653071696707,
+  :block/updated-at 1653071696707}
+ {:block/name "file:./images/screenshot-32.png",
+  :block/created-at 1653071696708,
+  :block/updated-at 1653071696708}
+ {:block/name "file:./images/screenshot-33.png",
+  :block/created-at 1653071696708,
+  :block/updated-at 1653071696708}
+ {:block/name "file:./images/screenshot-34.png",
+  :block/created-at 1653071696709,
+  :block/updated-at 1653071696709}
+ {:block/name "file:./images/screenshot-35.png",
+  :block/created-at 1653071696709,
+  :block/updated-at 1653071696709}
+ {:block/name "file:./images/screenshot-37.png",
+  :block/created-at 1653071696709,
+  :block/updated-at 1653071696709}
+ {:block/name "file:./images/screenshot-38.png",
+  :block/created-at 1653071696710,
+  :block/updated-at 1653071696710}
+ {:block/name "file:./images/screenshot-39.png",
+  :block/created-at 1653071696712,
+  :block/updated-at 1653071696712}
+ {:block/name "file:./images/screenshot-40.png",
+  :block/created-at 1653071696712,
+  :block/updated-at 1653071696712}
+ {:block/name "file:./images/screenshot-41.png",
+  :block/created-at 1653071696712,
+  :block/updated-at 1653071696712}
+ {:block/name "file:./images/screenshot-42.png",
+  :block/created-at 1653071696713,
+  :block/updated-at 1653071696713}
+ {:block/name "file:./images/screenshot-43.png",
+  :block/created-at 1653071696713,
+  :block/updated-at 1653071696713}
+ {:block/name "file:./images/screenshot-44.png",
+  :block/created-at 1653071696713,
+  :block/updated-at 1653071696713}
+ {:block/name "file:./images/screenshot-45.png",
+  :block/created-at 1653071696714,
+  :block/updated-at 1653071696714}
+ {:block/name "file:./images/screenshot-46.png",
+  :block/created-at 1653071696714,
+  :block/updated-at 1653071696714}
+ {:block/name "file:./images/screenshot-47.png",
+  :block/created-at 1653071696715,
+  :block/updated-at 1653071696715}
+ {:block/name "file:./images/screenshot-48.png",
+  :block/created-at 1653071696715,
+  :block/updated-at 1653071696715}
+ {:block/name "file:./images/screenshot-49.png",
+  :block/created-at 1653071696716,
+  :block/updated-at 1653071696716}
+ {:block/name "file:./images/screenshot-50.png",
+  :block/created-at 1653071696717,
+  :block/updated-at 1653071696717}
+ {:block/name "file:./images/screenshot-51.png",
+  :block/created-at 1653071696717,
+  :block/updated-at 1653071696717}
+ {:block/name "file:./images/screenshot-52.png",
+  :block/created-at 1653071696718,
+  :block/updated-at 1653071696718}
+ {:block/name "file:./images/screenshot-53.png",
+  :block/created-at 1653071696716,
+  :block/updated-at 1653071696716}
+ {:block/name "file:./images/screenshot-71.png",
+  :block/created-at 1653071696437,
+  :block/updated-at 1653071696437}
+ {:block/name "file:./images/screenshot-72.png",
+  :block/created-at 1653071696440,
+  :block/updated-at 1653071696440}
+ {:block/name "file:./images/screenshot-77.png",
+  :block/created-at 1653071699610,
+  :block/updated-at 1653071699610}
+ {:block/name "file:./images/screenshot-78.png",
+  :block/created-at 1653071699610,
+  :block/updated-at 1653071699610}
+ {:block/name "file:./images/screenshot-79.png",
+  :block/created-at 1653071699610,
+  :block/updated-at 1653071699610}
+ {:block/name "file:./images/screenshot-80.png",
+  :block/created-at 1653071699609,
+  :block/updated-at 1653071699609}
+ {:block/name "file:./images/screenshot-81.png",
+  :block/created-at 1653071699609,
+  :block/updated-at 1653071699609}
+ {:block/name "file:./images/screenshot-82.png",
+  :block/created-at 1653071699609,
+  :block/updated-at 1653071699609}
+ {:block/name "file:./images/screenshot-83.png",
+  :block/created-at 1653071699608,
+  :block/updated-at 1653071699608}
+ {:block/name "file:./images/screenshot-89.png",
+  :block/created-at 1653071696441,
+  :block/updated-at 1653071696441}
+ {:block/name "file:./images/screenshot-90.png",
+  :block/created-at 1653071696446,
+  :block/updated-at 1653071696446}
+ {:block/name "file:./images/screenshot-91.png",
+  :block/created-at 1653071696442,
+  :block/updated-at 1653071696442}
+ {:block/name "file:./images/screenshot-92.png",
+  :block/created-at 1653071696721,
+  :block/updated-at 1653071696721}
+ {:block/name "file:./images/screenshot-99.png",
+  :block/created-at 1653071696438,
+  :block/updated-at 1653071696438}
+ {:block/name "file:/tmp/babel-akvkvd/plantuml-3dbnui.png",
+  :block/created-at 1653071699606,
+  :block/updated-at 1653071699606}
+ {:block/name "file:/tmp/babel-akvkvd/plantuml-6uvrgl.png",
+  :block/created-at 1653071699605,
+  :block/updated-at 1653071699605}
+ {:block/name "file:/tmp/babel-akvkvd/plantuml-b49axt.png",
+  :block/created-at 1653071699604,
+  :block/updated-at 1653071699604}
+ {:block/name "file:/tmp/babel-akvkvd/plantuml-dwqniq.png",
+  :block/created-at 1653071699607,
+  :block/updated-at 1653071699607}
+ {:block/name "file:/tmp/babel-akvkvd/plantuml-o3lcod.png",
+  :block/created-at 1653071699606,
+  :block/updated-at 1653071699606}
+ {:block/name "file:/tmp/babel-akvkvd/plantuml-sswv0y.png",
+  :block/created-at 1653071699605,
+  :block/updated-at 1653071699605}
+ {:block/name "file:/tmp/babel-orqqfk/plantuml-bgoqjn.png",
+  :block/created-at 1653071699602,
+  :block/updated-at 1653071699602}
+ {:block/name "find the slowest function in profiling report",
+  :block/created-at 1653071698073,
+  :block/updated-at 1653071698073}
+ {:block/name "find your location's latitude and longitude",
+  :block/created-at 1653071701570,
+  :block/updated-at 1653071701570}
+ {:block/name "finished books",
+  :block/created-at 1653071704159,
+  :block/updated-at 1653071704159}
+ {:block/name "finished projects",
+  :block/created-at 1653071698359,
+  :block/updated-at 1653071698359}
+ {:block/name "fix high dpi issue on qt applications",
+  :block/created-at 1653071701482,
+  :block/updated-at 1653071701482}
+ {:block/name "fix low resolution issue on android-x86",
+  :block/created-at 1653071701203,
+  :block/updated-at 1653071701203}
+ {:block/name "fleeting notes",
+  :block/created-at 1653071695089,
+  :block/updated-at 1653071695089}
+ {:block/name "format strings in python",
+  :block/created-at 1653071702607,
+  :block/updated-at 1653071702607}
+ {:block/name "fundamental steps in image processing",
+  :block/created-at 1653071700366,
+  :block/updated-at 1653071700366}
+ {:block/name "garbage collector",
+  :block/created-at 1653071702178,
+  :block/updated-at 1653071702178}
+ {:block/name "gazebo uses model:",
+  :block/created-at 1653071700788,
+  :block/updated-at 1653071700788}
+ {:block/name "gazebo uses model:// syntax when importing models",
+  :block/created-at 1653071700787,
+  :block/updated-at 1653071700787}
+ {:block/name "gazebo world files",
+  :block/created-at 1653071700810,
+  :block/updated-at 1653071700810}
+ {:block/name "gazebo_master_uri environment variable",
+  :block/created-at 1653071700678,
+  :block/updated-at 1653071700678}
+ {:block/name "general population is ignorant 3",
+  :block/created-at 1653071700853,
+  :block/updated-at 1653071700853}
+ {:block/name "get information about ros topic",
+  :block/created-at 1653071703833,
+  :block/updated-at 1653071703833}
+ {:block/name "get information about running ros node",
+  :block/created-at 1653071703738,
+  :block/updated-at 1653071703738}
+ {:block/name "get message type",
+  :block/created-at 1653071703856,
+  :block/updated-at 1653071703856}
+ {:block/name "get the length of a string in rust",
+  :block/created-at 1653071703423,
+  :block/updated-at 1653071703423}
+ {:block/name "git",
+  :block/created-at 1653071702427,
+  :block/updated-at 1653071702427}
+ {:block/name "gonzales book",
+  :block/created-at 1653071700339,
+  :block/updated-at 1653071700339}
+ {:block/name "hardware description languages",
+  :block/created-at 1653071699719,
+  :block/updated-at 1653071699719}
+ {:block/name "hardware version",
+  :block/created-at 1653071699179,
+  :block/updated-at 1653071699179}
+ {:block/name "harvard university",
+  :block/created-at 1653071698442,
+  :block/updated-at 1653071698442}
+ {:block/name "hello world in rust",
+  :block/created-at 1653071702340,
+  :block/updated-at 1653071702340}
+ {:block/name "hide slide numbers in reveal.js",
+  :block/created-at 1653071701802,
+  :block/updated-at 1653071701802}
+ {:block/name "how profiling decorator works",
+  :block/created-at 1653071698333,
+  :block/updated-at 1653071698333}
+ {:block/name "how to",
+  :block/created-at 1653071702822,
+  :block/updated-at 1653071702822}
+ {:block/name "how_to",
+  :block/created-at 1653071700429,
+  :block/updated-at 1653071700429}
+ {:block/name "if",
+  :block/created-at 1653071700075,
+  :block/updated-at 1653071700075}
+ {:block/name "ifdef",
+  :block/created-at 1653071700075,
+  :block/updated-at 1653071700075}
+ {:block/name "ifndef",
+  :block/created-at 1653071700078,
+  :block/updated-at 1653071700078}
+ {:block/name "ilk plc uygulamamı yaptım",
+  :block/created-at 1653071698779,
+  :block/updated-at 1653071698779}
+ {:block/name "image processing",
+  :block/created-at 1653071700316,
+  :block/updated-at 1653071700316}
+ {:block/name "image processing books",
+  :block/created-at 1653071700317,
+  :block/updated-at 1653071700317}
+ {:block/name "immutable",
+  :block/created-at 1653071703003,
+  :block/updated-at 1653071703003}
+ {:block/name "in-progress",
+  :block/created-at 1653071863942,
+  :block/updated-at 1653071863942}
+ {:block/name "include models in sdf files",
+  :block/created-at 1653071700742,
+  :block/updated-at 1653071700742}
+ {:block/name "include rust files as modules",
+  :block/created-at 1653071702975,
+  :block/updated-at 1653071702975}
+ {:block/name "insert roam notes in doom emacs",
+  :block/created-at 1653071700450,
+  :block/updated-at 1653071700450}
+ {:block/name "insert url link in markdown",
+  :block/created-at 1653071701421,
+  :block/updated-at 1653071701421}
+ {:block/name "insert url link in org mode",
+  :block/created-at 1653071700607,
+  :block/updated-at 1653071700607}
+ {:block/name "install different version of python in pyenv",
+  :block/created-at 1653071701736,
+  :block/updated-at 1653071701736}
+ {:block/name "install rust",
+  :block/created-at 1653071702240,
+  :block/updated-at 1653071702240}
+ {:block/name "install silversearcher on arch linux",
+  :block/created-at 1653071701509,
+  :block/updated-at 1653071701509}
+ {:block/name "intelligence",
+  :block/created-at 1653071698381,
+  :block/updated-at 1653071698381}
+ {:block/name "internship",
+  :block/created-at 1653071698780,
+  :block/updated-at 1653071698780}
+ {:block/name "interpret the profiling report",
+  :block/created-at 1653071698332,
+  :block/updated-at 1653071698332}
+ {:block/name "invisible error in c",
+  :block/created-at 1653071700291,
+  :block/updated-at 1653071700291}
+ {:block/name "ismet topaloglu",
+  :block/created-at 1653071696953,
+  :block/updated-at 1653071696953}
+ {:block/name "journalism",
+  :block/created-at 1653071697880,
+  :block/updated-at 1653071697880}
+ {:block/name "judging is the key of social development",
+  :block/created-at 1653071698419,
+  :block/updated-at 1653071698419}
+ {:block/name "judging is the key of social development 3",
+  :block/created-at 1653071700876,
+  :block/updated-at 1653071700876}
+ {:block/name "keyword",
+  :block/created-at 1653071696906,
+  :block/updated-at 1653071696906}
+ {:block/name "kontakları isimlendir",
+  :block/created-at 1653071698965,
+  :block/updated-at 1653071698965}
+ {:block/name "languages",
+  :block/created-at 1653071697989,
+  :block/updated-at 1653071697989}
+ {:block/name "later",
+  :block/created-at 1653071863941,
+  :block/updated-at 1653071863941}
+ {:block/name "launch redshift",
+  :block/created-at 1653071701540,
+  :block/updated-at 1653071701540}
+ {:block/name "ledder diyagramını çizdim",
+  :block/created-at 1653071698826,
+  :block/updated-at 1653071698826}
+ {:block/name "library",
+  :block/created-at 1653071698192,
+  :block/updated-at 1653071698192}
+ {:block/name "linux",
+  :block/created-at 1653071697910,
+  :block/updated-at 1653071697910}
+ {:block/name "list active ros nodes",
+  :block/created-at 1653071703716,
+  :block/updated-at 1653071703716}
+ {:block/name "list active ros topics",
+  :block/created-at 1653071703786,
+  :block/updated-at 1653071703786}
+ {:block/name "list all virtual networks in qemu",
+  :block/created-at 1653071701316,
+  :block/updated-at 1653071701316}
+ {:block/name "list available python versions in pyenv",
+  :block/created-at 1653071701757,
+  :block/updated-at 1653071701757}
+ {:block/name "list installed ros packages",
+  :block/created-at 1653071703604,
+  :block/updated-at 1653071703604}
+ {:block/name "list of",
+  :block/created-at 1653071703187,
+  :block/updated-at 1653071703187}
+ {:block/name "list ros2 executables",
+  :block/created-at 1653071703626,
+  :block/updated-at 1653071703626}
+ {:block/name "list_of",
+  :block/created-at 1653071703163,
+  :block/updated-at 1653071703163}
+ {:block/name "listen a ros topic",
+  :block/created-at 1653071703810,
+  :block/updated-at 1653071703810}
+ {:block/name "literature notes",
+  :block/created-at 1653071698698,
+  :block/updated-at 1653071698698}
+ {:block/name "load plugins on gazebo",
+  :block/created-at 1653071700699,
+  :block/updated-at 1653071700699}
+ {:block/name "location",
+  :block/created-at 1653071698611,
+  :block/updated-at 1653071698611}
+ {:block/name "loosing features",
+  :block/created-at 1653071699179,
+  :block/updated-at 1653071699179}
+ {:block/name "major note types",
+  :block/created-at 1653071702766,
+  :block/updated-at 1653071702766}
+ {:block/name "markdown",
+  :block/created-at 1653071701422,
+  :block/updated-at 1653071701422}
+ {:block/name "math",
+  :block/created-at 1653071697480,
+  :block/updated-at 1653071697480}
+ {:block/name "mathematics",
+  :block/created-at 1653071696128,
+  :block/updated-at 1653071696128}
+ {:block/name "matt dimaio",
+  :block/created-at 1653071697071,
+  :block/updated-at 1653071697071}
+ {:block/name "may 20th, 2022",
+  :block/created-at 1653071704809,
+  :block/updated-at 1653071704809}
+ {:block/name "meaning of plc names",
+  :block/created-at 1653071699181,
+  :block/updated-at 1653071699181}
+ {:block/name "memory heap",
+  :block/created-at 1653071702199,
+  :block/updated-at 1653071702199}
+ {:block/name "memory management",
+  :block/created-at 1653071702155,
+  :block/updated-at 1653071702155}
+ {:block/name "mistery",
+  :block/created-at 1653071697855,
+  :block/updated-at 1653071697855}
+ {:block/name "mitsubishi fr-740 hakkında bir çok şey öğrendim",
+  :block/created-at 1653071698878,
+  :block/updated-at 1653071698878}
+ {:block/name "motor sürücüsünü kullanmayı öğrendim",
+  :block/created-at 1653071698778,
+  :block/updated-at 1653071698778}
+ {:block/name "multi line comment in rust",
+  :block/created-at 1653071702585,
+  :block/updated-at 1653071702585}
+ {:block/name "music",
+  :block/created-at 1653071696129,
+  :block/updated-at 1653071696129}
+ {:block/name "mühürleme devresi",
+  :block/created-at 1653071698778,
+  :block/updated-at 1653071698778}
+ {:block/name "named arguments in rust",
+  :block/created-at 1653071702662,
+  :block/updated-at 1653071702662}
+ {:block/name "niklas luhmann",
+  :block/created-at 1653071695482,
+  :block/updated-at 1653071695482}
+ {:block/name "note taking",
+  :block/created-at 1653071695557,
+  :block/updated-at 1653071695557}
+ {:block/name "note_taking",
+  :block/created-at 1653071702793,
+  :block/updated-at 1653071702793}
+ {:block/name "now",
+  :block/created-at 1653071863942,
+  :block/updated-at 1653071863942}
+ {:block/name "object-oriented programming",
+  :block/created-at 1653071702008,
+  :block/updated-at 1653071702008}
+ {:block/name "oleksiy nehlyadyuk",
+  :block/created-at 1653071696088,
+  :block/updated-at 1653071696088}
+ {:block/name "oop languages",
+  :block/created-at 1653071699718,
+  :block/updated-at 1653071699718}
+ {:block/name "open a robot in gazebo",
+  :block/created-at 1653071700720,
+  :block/updated-at 1653071700720}
+ {:block/name "open roam backlinks buffer",
+  :block/created-at 1653071704269,
+  :block/updated-at 1653071704269}
+ {:block/name "org",
+  :block/created-at 1653071701782,
+  :block/updated-at 1653071701782}
+ {:block/name "org mode",
+  :block/created-at 1653071702506,
+  :block/updated-at 1653071702506}
+ {:block/name "org-roam",
+  :block/created-at 1653071700451,
+  :block/updated-at 1653071700451}
+ {:block/name "orphan notes",
+  :block/created-at 1653071699687,
+  :block/updated-at 1653071699687}
+ {:block/name "para",
+  :block/created-at 1653071695693,
+  :block/updated-at 1653071695693}
+ {:block/name "para method",
+  :block/created-at 1653071703981,
+  :block/updated-at 1653071703981}
+ {:block/name "parametrelerini sürücüye tanıtmak",
+  :block/created-at 1653071699032,
+  :block/updated-at 1653071699032}
+ {:block/name "permanent notes",
+  :block/created-at 1653071698042,
+  :block/updated-at 1653071698042}
+ {:block/name "person",
+  :block/created-at 1653071695518,
+  :block/updated-at 1653071695518}
+ {:block/name "planet",
+  :block/created-at 1653071695282,
+  :block/updated-at 1653071695282}
+ {:block/name "plc",
+  :block/created-at 1653071699118,
+  :block/updated-at 1653071699118}
+ {:block/name "plc lectures with hagemurl",
+  :block/created-at 1653071699121,
+  :block/updated-at 1653071699121}
+ {:block/name "plc tags",
+  :block/created-at 1653071699148,
+  :block/updated-at 1653071699148}
+ {:block/name "pluto",
+  :block/created-at 1653071695282,
+  :block/updated-at 1653071695282}
+ {:block/name "pluto is no longer a planet",
+  :block/created-at 1653071695414,
+  :block/updated-at 1653071695414}
+ {:block/name "positional arguments in rust",
+  :block/created-at 1653071702630,
+  :block/updated-at 1653071702630}
+ {:block/name "primitive types in rust",
+  :block/created-at 1653071703162,
+  :block/updated-at 1653071703162}
+ {:block/name "print number bases of a value in rust",
+  :block/created-at 1653071702945,
+  :block/updated-at 1653071702945}
+ {:block/name "print unicode characters in rust",
+  :block/created-at 1653071703322,
+  :block/updated-at 1653071703322}
+ {:block/name "print words of a string",
+  :block/created-at 1653071703469,
+  :block/updated-at 1653071703469}
+ {:block/name "privacy",
+  :block/created-at 1653071697936,
+  :block/updated-at 1653071697936}
+ {:block/name "productivity",
+  :block/created-at 1653071695722,
+  :block/updated-at 1653071695722}
+ {:block/name "profile report",
+  :block/created-at 1653071698246,
+  :block/updated-at 1653071698246}
+ {:block/name "profiling decorator",
+  :block/created-at 1653071697707,
+  :block/updated-at 1653071697707}
+ {:block/name "profinet",
+  :block/created-at 1653071699245,
+  :block/updated-at 1653071699245}
+ {:block/name "programming",
+  :block/created-at 1653071697985,
+  :block/updated-at 1653071697985}
+ {:block/name "project",
+  :block/created-at 1653071695758,
+  :block/updated-at 1653071695758}
+ {:block/name "publish a message to a ros topic",
+  :block/created-at 1653071703880,
+  :block/updated-at 1653071703880}
+ {:block/name "publisher",
+  :block/created-at 1653071703671,
+  :block/updated-at 1653071703671}
+ {:block/name "python",
+  :block/created-at 1653071697649,
+  :block/updated-at 1653071697649}
+ {:block/name "python decorator",
+  :block/created-at 1653071697733,
+  :block/updated-at 1653071697733}
+ {:block/name "python profiling function",
+  :block/created-at 1653071698333,
+  :block/updated-at 1653071698333}
+ {:block/name "quote",
+  :block/created-at 1653071695131,
+  :block/updated-at 1653071695131}
+ {:block/name "recursively search files in doom emacs",
+  :block/created-at 1653071700428,
+  :block/updated-at 1653071700428}
+ {:block/name "redshift",
+  :block/created-at 1653071701545,
+  :block/updated-at 1653071701545}
+ {:block/name "reduce image in org mode",
+  :block/created-at 1653071702477,
+  :block/updated-at 1653071702477}
+ {:block/name "remove tags from roam notes",
+  :block/created-at 1653071700563,
+  :block/updated-at 1653071700563}
+ {:block/name "replace strings in rust",
+  :block/created-at 1653071703447,
+  :block/updated-at 1653071703447}
+ {:block/name "resource",
+  :block/created-at 1653071704085,
+  :block/updated-at 1653071704085}
+ {:block/name "resources",
+  :block/created-at 1653071695757,
+  :block/updated-at 1653071695757}
+ {:block/name "revert commit",
+  :block/created-at 1653071704188,
+  :block/updated-at 1653071704188}
+ {:block/name "roam:founder of zettelkasten",
+  :block/created-at 1653071695559,
+  :block/updated-at 1653071695559}
+ {:block/name "robert b. edgerton",
+  :block/created-at 1653071698443,
+  :block/updated-at 1653071698443}
+ {:block/name "ros",
+  :block/created-at 1653071700629,
+  :block/updated-at 1653071700629}
+ {:block/name "ros2",
+  :block/created-at 1653071703580,
+  :block/updated-at 1653071703580}
+ {:block/name "rqt_graph",
+  :block/created-at 1653071703760,
+  :block/updated-at 1653071703760}
+ {:block/name "run cargo project",
+  :block/created-at 1653071702455,
+  :block/updated-at 1653071702455}
+ {:block/name "russian",
+  :block/created-at 1653071697362,
+  :block/updated-at 1653071697362}
+ {:block/name "rust",
+  :block/created-at 1653071701848,
+  :block/updated-at 1653071701848}
+ {:block/name "rustc",
+  :block/created-at 1653071702288,
+  :block/updated-at 1653071702288}
+ {:block/name "rustup",
+  :block/created-at 1653071702266,
+  :block/updated-at 1653071702266}
+ {:block/name "savolla",
+  :block/created-at 1653071702920,
+  :block/updated-at 1653071702920}
+ {:block/name "science",
+  :block/created-at 1653071697779,
+  :block/updated-at 1653071697779}
+ {:block/name "scripting languages",
+  :block/created-at 1653071699719,
+  :block/updated-at 1653071699719}
+ {:block/name "search roam notes in doom emacs",
+  :block/created-at 1653071700472,
+  :block/updated-at 1653071700472}
+ {:block/name "search string in a project",
+  :block/created-at 1653071701370,
+  :block/updated-at 1653071701370}
+ {:block/name "security",
+  :block/created-at 1653071697961,
+  :block/updated-at 1653071697961}
+ {:block/name "sedna",
+  :block/created-at 1653071695279,
+  :block/updated-at 1653071695279}
+ {:block/name "sensors & actuators",
+  :block/created-at 1653071699446,
+  :block/updated-at 1653071699446}
+ {:block/name "set light intensity manually in redshift",
+  :block/created-at 1653071701596,
+  :block/updated-at 1653071701596}
+ {:block/name "snake case",
+  :block/created-at 1653071703275,
+  :block/updated-at 1653071703275}
+ {:block/name "snippet",
+  :block/created-at 1653071702341,
+  :block/updated-at 1653071702341}
+ {:block/name "snippets",
+  :block/created-at 1653071704395,
+  :block/updated-at 1653071704395}
+ {:block/name "sociology",
+  :block/created-at 1653071697544,
+  :block/updated-at 1653071697544}
+ {:block/name "software engineering",
+  :block/created-at 1653071699612,
+  :block/updated-at 1653071699612}
+ {:block/name "spinning",
+  :block/created-at 1653071703649,
+  :block/updated-at 1653071703649}
+ {:block/name "start default virtual network in qemu",
+  :block/created-at 1653071701287,
+  :block/updated-at 1653071701287}
+ {:block/name "statically typed",
+  :block/created-at 1653071703222,
+  :block/updated-at 1653071703222}
+ {:block/name "string literals must be constant",
+  :block/created-at 1653071700267,
+  :block/updated-at 1653071700267}
+ {:block/name "stupidity",
+  :block/created-at 1653071698444,
+  :block/updated-at 1653071698444}
+ {:block/name "subscriber",
+  :block/created-at 1653071703693,
+  :block/updated-at 1653071703693}
+ {:block/name "synthwave",
+  :block/created-at 1653071698016,
+  :block/updated-at 1653071698016}
+ {:block/name "system",
+  :block/created-at 1653071696859,
+  :block/updated-at 1653071696859}
+ {:block/name "systems languages",
+  :block/created-at 1653071699719,
+  :block/updated-at 1653071699719}
+ {:block/name "systems programming",
+  :block/created-at 1653071701957,
+  :block/updated-at 1653071701957}
+ {:block/name "systems_languages",
+  :block/created-at 1653071701825,
+  :block/updated-at 1653071701825}
+ {:block/name "tesseract",
+  :block/created-at 1653071704294,
+  :block/updated-at 1653071704294}
+ {:block/name "texas",
+  :block/created-at 1653071697175,
+  :block/updated-at 1653071697175}
+ {:block/name "the things make someone fool",
+  :block/created-at 1653071700972,
+  :block/updated-at 1653071700972}
+ {:block/name "the things make someone intelligent",
+  :block/created-at 1653071700949,
+  :block/updated-at 1653071700949}
+ {:block/name "theano forte",
+  :block/created-at 1653071704004,
+  :block/updated-at 1653071704004}
+ {:block/name "things can be built with systems languages",
+  :block/created-at 1653071701823,
+  :block/updated-at 1653071701823}
+ {:block/name "tia portal hardware configuration",
+  :block/created-at 1653071699149,
+  :block/updated-at 1653071699149}
+ {:block/name "tiago forte",
+  :block/created-at 1653071695648,
+  :block/updated-at 1653071695648}
+ {:block/name "todo",
+  :block/created-at 1653071863941,
+  :block/updated-at 1653071863941}
+ {:block/name "tool",
+  :block/created-at 1653071698743,
+  :block/updated-at 1653071698743}
+ {:block/name "undef",
+  :block/created-at 1653071700074,
+  :block/updated-at 1653071700074}
+ {:block/name "update rust",
+  :block/created-at 1653071702315,
+  :block/updated-at 1653071702315}
+ {:block/name "use profiling function",
+  :block/created-at 1653071697708,
+  :block/updated-at 1653071697708}
+ {:block/name "videos to watch",
+  :block/created-at 1653071697626,
+  :block/updated-at 1653071697626}
+ {:block/name "virtualization",
+  :block/created-at 1653071701174,
+  :block/updated-at 1653071701174}
+ {:block/name "vocabulary to memorize",
+  :block/created-at 1653071697339,
+  :block/updated-at 1653071697339}
+ {:block/name "vtk",
+  :block/created-at 1653071703493,
+  :block/updated-at 1653071703493}
+ {:block/name "wait",
+  :block/created-at 1653071863942,
+  :block/updated-at 1653071863942}
+ {:block/name "waiting",
+  :block/created-at 1653071863940,
+  :block/updated-at 1653071863940}
+ {:block/name "warning",
+  :block/created-at 1653071700073,
+  :block/updated-at 1653071700073}
+ {:block/name "web assembly",
+  :block/created-at 1653071701868,
+  :block/updated-at 1653071701868}
+ {:block/name "web languages",
+  :block/created-at 1653071699718,
+  :block/updated-at 1653071699718}
+ {:block/name "what_is",
+  :block/created-at 1653071700496,
+  :block/updated-at 1653071700496}
+ {:block/name "when you need code optimization",
+  :block/created-at 1653071697682,
+  :block/updated-at 1653071697682}
+ {:block/name "where",
+  :block/created-at 1653071700811,
+  :block/updated-at 1653071700811}
+ {:block/name "which",
+  :block/created-at 1653071701142,
+  :block/updated-at 1653071701142}
+ {:block/name "who_is",
+  :block/created-at 1653071698497,
+  :block/updated-at 1653071698497}
+ {:block/name "why",
+  :block/created-at 1653071700790,
+  :block/updated-at 1653071700790}
+ {:block/name "xonsh",
+  :block/created-at 1653071701712,
+  :block/updated-at 1653071701712}
+ {:block/name "youtube channels",
+  :block/created-at 1653071695351,
+  :block/updated-at 1653071695351}
+ {:block/name "yıldız bağlantı",
+  :block/created-at 1653071698878,
+  :block/updated-at 1653071698878}
+ {:block/name "zettelkasten",
+  :block/created-at 1653071695518,
+  :block/updated-at 1653071695518}
+ {:block/name "üçgen bağlantı",
+  :block/created-at 1653071698877, 
+  :block/updated-at 1653071698877}]
