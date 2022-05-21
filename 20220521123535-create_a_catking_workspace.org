@@ -3,3 +3,9 @@
 :END:
 #+title: create a catkin workspace
 #+filetags: :ros:how_to:
+#+begin_src sh
+source /opt/ros/noetic/setup.bash
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/
+catkin_make
+#+end_src
