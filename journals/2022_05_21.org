@@ -1,2 +1,2 @@
 * TODO how to enable *transparency* in [[logseq]]
-*
+* TODO how to autocomplete while you type in [[logseq]]
