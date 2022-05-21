@@ -10,3 +10,4 @@
 1. [[id:5dbf1fea-dcb1-4d47-9e1f-4da7f91161da][Computer Organization and Design: The Hardware/Software Interface]]
 2. [[id:1217b720-c720-42b1-83ba-103f69516f2c][Calculus: Early Transcendentals]]
 3. [[id:fe64dfe8-bb30-48ad-8e27-7b6034dd63d4][Aptalı Tanımak]]
+4. [[id:cf2264f5-45b9-4fe8-86a1-dd4a5dcdc7fb][Clean Code]]
