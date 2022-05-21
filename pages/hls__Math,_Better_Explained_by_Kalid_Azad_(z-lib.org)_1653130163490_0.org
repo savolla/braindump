@@ -1,2 +1,8 @@
 * #+title: "hls__Math,_Better_Explained_by_Kalid_Azad_(z-lib.org)_1653130163490_0"
-*
+* Yes, every triangle follows the rulear ea=12base·hei g ht. But the relation-ship between base and height depends on the type of triangle (base=2·hei g ht,base=3·hei g ht, etc.), so even then the area factor will be different.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 6288c4e7-fa52-446a-8fe3-3e5a5244a7f8
+:END:
+** this is very true. especially when you write some test annotation
