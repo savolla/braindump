@@ -10,14 +10,14 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 
 * project
 :PROPERTIES:
-:ID:       a747dfb1-ecfe-464d-a8e1-910cce046446
+:id: a747dfb1-ecfe-464d-a8e1-910cce046446
 :END:
-1. [[id:15cef94f-c12e-4531-b5dd-d2ca6ca4a1d6][currently reading books]]
-2. [[id:28f1ce3a-1854-40e1-bfa1-55adc27a34b0][articles to read]]
-3. [[id:e877b9f4-38b5-49db-90d8-03398cb0c66d][books to read]]
-4. [[id:f997711b-064d-4c21-9132-3ab6f389f40a][videos to watch]]
-5. [[id:9247a0ae-028d-4a78-bc67-f54139704abb][vocabulary to memorize]]
-6. [[id:c4ac8e0e-4c75-4ef0-84b7-19feb7da2d4c][orphan notes]]
+** [[id:15cef94f-c12e-4531-b5dd-d2ca6ca4a1d6][currently reading books]]
+** [[id:28f1ce3a-1854-40e1-bfa1-55adc27a34b0][articles to read]]
+** [[id:e877b9f4-38b5-49db-90d8-03398cb0c66d][books to read]]
+** [[id:f997711b-064d-4c21-9132-3ab6f389f40a][videos to watch]]
+** [[id:9247a0ae-028d-4a78-bc67-f54139704abb][vocabulary to memorize]]
+** [[id:c4ac8e0e-4c75-4ef0-84b7-19feb7da2d4c][orphan notes]]
 * area
 :PROPERTIES:
 :ID:       659c3620-91b1-422c-af3a-dee88d08714d
