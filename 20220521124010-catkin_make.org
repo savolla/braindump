@@ -5,5 +5,6 @@
 #+filetags: :ros:what_is:
 it's a [[id:71bdbf8c-de11-4bbe-b639-111b2d32bdf6][ros]] command which should be run to [[id:b2e2fcb8-6831-470e-9c80-27a2e339cd66][create a catkin workspace]]
 * facts
+1. [[id:aceb29d6-9242-497f-bf88-d34fb8cdb83e][catkin_make]] creates a CMakeList.txt file on the root of your catkin workspace
 * how to
 * concepts
