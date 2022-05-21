@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b2e2fcb8-6831-470e-9c80-27a2e339cd66
+:END:
+#+title: create a catkin workspace
+#+filetags: :ros:how_to:

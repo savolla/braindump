@@ -35,6 +35,7 @@ notes taken from [[http://wiki.ros.org/ROS/Tutorials][ROS Wiki]]
 :PROPERTIES:
 :ID:       f11ab0ca-408e-44fc-af95-47edc89a2391
 :END:
+[[id:b2e2fcb8-6831-470e-9c80-27a2e339cd66][create a catkin workspace]]
 * concept
 :PROPERTIES:
 :ID:       f94b46a3-dd2c-4e1a-93e4-484cf741ce32
