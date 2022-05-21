@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       01c92a10-8e8a-4ddf-8a5f-9d4adae93086
+:END:
+#+title: microsoft
+#+filetags: :what_is:
+#+begin_quote
+evil company found by Bill Gates
+#+end_quote
+
+* facts
+* how to
+* concepts

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9a7c5ac4-5b41-4835-9386-db2214871e25
+:END:
+#+title: encapsulate classes
+#+filetags: :how_to:
+when you [[id:20a00fd5-0797-4182-a5bc-76dfad7f4b0b][encapsulate methods]], thsese methods can grow over time. once the method got bigger and its functionality increases then we can create a new class from this method.

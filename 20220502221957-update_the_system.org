@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d371afcc-1a66-48e6-9e9c-a9e2517bd31b
+:END:
+#+title: update ubuntu
+#+filetags: :how_to:
+#+begin_src sh
+sudo apt-get update
+sudo apt-get upgrade
+#+end_src

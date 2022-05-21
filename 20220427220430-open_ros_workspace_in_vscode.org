@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       57384568-6e80-46f0-b08b-c5031af763a4
+:END:
+#+title: open ros workspace in vscode
+#+filetags: :how_to:
+1. open [[id:08620983-b436-44d8-930e-7b50951c0af4][vscode]]
+2. install ROS extension on [[id:08620983-b436-44d8-930e-7b50951c0af4][vscode]]
+3. ~open folder~
+4. select your workspace
+5. click ok

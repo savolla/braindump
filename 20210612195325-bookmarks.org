@@ -6,4 +6,86 @@
 #+CREATED: [2021-06-12 Cts]
 #+LAST_MODIFIED: [2021-06-12 Cts 19:53]
 
+<<<<<<< HEAD
 * [[id:b2759764-9625-476e-a663-c8f6924209**b4][Youtube channels]]
+=======
+* youtube channels
+:PROPERTIES:
+:ID:       1ee33f62-25b9-40b7-8e31-881c76be6846
+:END:
+1. [[https://www.youtube.com/watch?v=DcqqchtdjGQ][Ayhan Tarakci]] : science
+2. [[https://www.youtube.com/user/b31416][Baris Ozcan]] : BMW commercials
+3. [[https://www.youtube.com/user/MrRuhicenet][Ruhi Cenet]] : good stuff
+4. [[https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw][ThePrimeagen]] : Vim Porn
+5. [[https://www.youtube.com/channel/UCmYTgpKxd-QOJCPDrmaXuqQ][ThePrimeThanatos]] : synthwave wave
+6. [[https://www.youtube.com/c/DiamondTema][Diamond Tema]] : atheism made easy
+7. [[https://www.youtube.com/c/MrBallen][MrBallen]] : strange, dark and misterious stories
+
+* odysee channels
+:PROPERTIES:
+:ID:       fda592bc-4932-44aa-bb28-9911b2be7ae1
+:END:
+1. [[https://odysee.com/@AlphaNerd:8][Mental Outlaw]] : reclaim the desktop
+2. [[https://odysee.com/@sirsudo:8][SirSudo]] : ~sudo $(sudo !!)~
+3. [[https://odysee.com/@DistroTube:2][DistroTube]] : the "Countient"
+4. [[https://odysee.com/@christitustech:5][Chris Titus Tech]] : the guy who hates windows but uses it anyway.
+* theft
+:PROPERTIES:
+:ID:       018b0dce-451a-4c7d-bfe6-7a62f19ecf46
+:END:
+** papers
+:PROPERTIES:
+:ID:       5ad0e8f9-01cb-4ff6-ac0e-5ee67087c2c2
+:END:
+1. [[https://sci-hub.mksa.top/][sci-hub]]
+2. [[https://booksc.org/][zlibrary-science]]
+3. [[https://libgen.is/scimag/][libgen-articles]]
+** books
+:PROPERTIES:
+:ID:       4d280b39-c817-45c0-bd71-77e53822453e
+:END:
+1. [[xdcc.eu/search.php][xdcc]] : look here if you cannot find your book anywhere
+2. [[cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers][enchanced book search]] : google search that is modified for outputing books
+3. [[https://ravebooksearch.com/#gsc.tab=0][book search]] : pirated book search engine just like torlook
+** torrent sites
+:PROPERTIES:
+:ID:       3c8e0a94-cee5-4ce7-a8d7-bb275bd47148
+:END:
+1. [[en.btdig.com/index.htm][btdigg]] : contains old torrents but has a huge collection
+** games
+1. [[https://idleendeavor.github.io/gamesearch/index.html#gsc.tab=0][game search]]
+** software
+1. [[https://ravesoftwaresearch.pages.dev/#gsc.tab=0][software search]]
+** private trackers
+1. [[https://www.myanonamouse.net/login.php?returnto=%2F][myanonamouse]]
+* subreddits
+:PROPERTIES:
+:ID:       063dc5d2-0a86-471b-894f-8b010ee1d6c0
+:END:
+1. [[https://www.reddit.com/r/artixlinux][artixlinux]]
+2. [[https://www.reddit.com/r/Piracy][Piracy]]
+3. [[https://www.reddit.com/r/cataclysmdda][cataclysmdda]]
+4. [[https://www.reddit.com/r/doomemacs][doomemacs]]
+5. [[https://www.reddit.com/r/drums][drums]]
+6. [[https://www.reddit.com/r/emacs][emacs]]
+7. [[https://www.reddit.com/r/fedora][fedora]]
+8. [[https://www.reddit.com/r/findmeadistro][findmeadistro]]
+9. [[https://www.reddit.com/r/howtohack][howtohack]]
+10. [[https://www.reddit.com/r/linux][linux]]
+11. [[https://www.reddit.com/r/linux_gaming][linux_gaming]]
+12. [[https://www.reddit.com/r/linux_programming][linux_programming]]
+13. [[https://www.reddit.com/r/linuxhardware][linuxhardware]]
+14. [[https://www.reddit.com/r/linuxmasterrace][linuxmasterrace]]
+15. [[https://www.reddit.com/r/metal][metal]]
+16. [[https://www.reddit.com/r/opensource][opensource]]
+17. [[https://www.reddit.com/r/orgmode][orgmode]]
+18. [[https://www.reddit.com/r/pcmasterrace][pcmasterrace]]
+19. [[https://www.reddit.com/r/python][python]]
+20. [[https://www.reddit.com/r/roguelikes][roguelikes]]
+21. [[https://www.reddit.com/r/ros][ros]]
+22. [[https://www.reddit.com/r/rust][rust]]
+23. [[https://www.reddit.com/r/trackmania][trackmania]]
+24. [[https://www.reddit.com/r/unixport][unixport]]
+25. [[https://www.reddit.com/r/vim][vim]]
+26. [[https://www.reddit.com/r/wine_gaming][wine_gaming]]
+>>>>>>> ca2b4ab5a96e7decd677d0be34913c4d5c8b6bb4

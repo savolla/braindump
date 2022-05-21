@@ -1,0 +1,105 @@
+:PROPERTIES:
+:ID:       ede52e63-9752-4b8d-b1a8-052b80bfaa69
+:END:
+#+title: program to an interface
+#+filetags: :how_to:
+
++ code *reuse* için kullanılan prensiptir. sınıfları birbirine bağımlı hale getirmeden kullanman gerekir. bunu nasıl yaparız? aşağıda birbirine bağımlı sınıflar gösterilmiştir;
+  #+begin_src plantuml :results output
+  @startuml
+  class A {
+      ...
+      method1()
+  }
+  class B {
+      ...
+      method2()
+      method3()
+      method4()
+  }
+  A -> B
+  @enduml
+  #+end_src
+
+  #+RESULTS:
+  : /tmp/babel-65VuvY/plantuml-2Y5KMS.png
++ yukarıdaki UML diyagramının kod karşılığı;
+  - A.cpp
+    #+begin_src cpp
+    #include "B.cpp"
+
+    class A {
+      B b;
+    public:
+      void method1() {
+        b.method2();
+        b.method3();
+      }
+    };
+    #+end_src
+  - B.cpp
+    #+begin_src cpp
+    class B {
+    public:
+      void method2() { /* some code */}
+      void method3() { /* some code */}
+      void method4() { /* some code */}
+    };
+    #+end_src
++ A sınıfı, B'yi import etti ve B'den sadece 2 method kullandı. method4 de B.cpp ile beraber geldi ki A ona ihtiyaç duymuyor. bu senaryoda yarın öbür gün B yerine başka bir sınıf kullanmak istersek, A classında bir çok değişiklik yapmamız gerekir. bunu önlemek için *programming to interface* dizayn prensibini kullanırız. UML diyagramı ve kod örneği aşağıda verilmiştir;
+  #+begin_src plantuml :results output
+  @startuml
+  class A {
+      ...
+      method1()
+  }
+  class B {
+      ...
+      method2()
+      method3()
+      method4()
+  }
+  interface IC {
+      method2()
+      method3()
+  }
+  A -> IC
+  IC <|.. B
+  @enduml
+  #+end_src
+
+  #+RESULTS:
+  [[file:/tmp/babel-OrQQfK/plantuml-BGoqJN.png]]
+
+  yukarıdaki UML diyagramına göre, A class'ı artık direk B'ye bağlı değil. ikisi arasına bir interface koyduk (Abstract class) ve A sınıfı bu interface'i include ediyor. B ise bu interface'i implemente ediyor;
+
+  - A.cpp
+    #+begin_src cpp
+    #include "IC.cpp"
+
+    class A {
+    public:
+        void method1() {
+            method2() {/* some code */}
+            method3() {/* some code */}
+        }
+    };
+    #+end_src
+  - IC.cpp
+    #+begin_src cpp
+    class IC {
+    public:
+        virtual void method2() = 0;
+        virtual void method3() = 0;
+    };
+    #+end_src
+  - B.cpp
+    #+begin_src cpp
+    #include "IC.cpp"
+    class B : public IC {
+        public:
+            void method2() {/* some code */}
+            void method3() {/* some code */}
+            void method4() {/* some code */}
+    };
+    #+end_src

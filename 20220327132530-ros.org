@@ -2,7 +2,11 @@
 :ID:       71bdbf8c-de11-4bbe-b639-111b2d32bdf6
 :END:
 #+title: ros
-#+filetags: :what_is:
+#+filetags: :cmap:what_is:
+
+#+begin_quote
+set of libraries and tools for developing [[id:4b019677-a7fd-4024-bb75-a60f665fd036][robotics]] applications. there is also a newer version on it called [[id:f96c207e-6917-4d8b-9304-faf4b5d9693d][ros2]]
+#+end_quote
 
 * facts
 :PROPERTIES:
@@ -12,6 +16,11 @@
 :PROPERTIES:
 :ID:       39204ef7-80bd-4db2-80ff-79485b9349aa
 :END:
+1. [[id:57384568-6e80-46f0-b08b-c5031af763a4][open ros workspace in vscode]]
+2. [[id:98c0eff1-f55e-4a74-bc10-f3d3fb22d4b8][configure vscode for ros debugging]]
+3. [[id:c9b01428-8986-493e-828b-c945066d8620][debug ros launch files in vscode]]
+4. [[id:1d0daad9-8746-4b3e-b1e3-68b8e4c93594][debug ros node in vscode]]
+5. [[id:1627632a-f79f-408d-ad8a-6aa3867fbe26][load plugins on gazebo]]
 * concepts
 :PROPERTIES:
 :ID:       52a9ac15-05a7-4e8a-add6-e38a620407af

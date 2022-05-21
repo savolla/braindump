@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       8705397b-ba32-41dd-b68d-4f316c6d37f6
+:END:
+#+title: types of software architectures
+1. [[id:e4a5fef6-df97-465b-b7a8-ed0d94116c12][domain driven design]]
+2. [[id:94999222-4db9-4a46-89da-f1df237f6d4a][event sourcing]]
+3. [[id:183b2b0f-976f-4574-b562-22723bd87392][event driven architecture]]
+4. serverless architecture
+5. monolith architecture
+6. [[id:17f8826d-d9d0-49aa-86ed-da13bea7efaa][microservices architecture]]
+
+* different styles of architectures
+** n-tier
+- n layer
+- Higher layer communicates to lower tier
+- Must be independent
+- cosists of *presentation*, *application* and *data* layers (or more)
+ [[file:./images/screenshot-77.png]]
+- application's layers can be operate on different machines
+ [[file:./images/screenshot-78.png]]
+ this provides better *security*
+- application's layers can *scale* independently
+ [[file:./images/screenshot-79.png]]
+- layer's can be modifyes by other developers without touching other leyers
+  [[file:./images/screenshot-80.png]]
+- new layers can be added in parallel
+ [[file:./images/screenshot-81.png]] [[file:./images/screenshot-82.png]] [[file:./images/screenshot-83.png]]
+** Client-server
+- At least one client component and one server component
+- Commonly used in distributed apps
+- examples of Client-Server architecture applcations;
+  1. E-Mail Application (Protonmail, Gmail)
+  2. Online Banking Applications
+** Event-driven Style
+- Detect events from emitters and communicating to event consumers
+** Transaction processing style
+- Divides workload down to a number of transactions which are given
+  to a dispatcher which controls the execution for each transaction
+** Service-oriented architecture (SOA)
+- Combining functionalities packaged by programmatically accessible
+  services
+- e.g. Creating an SOA app that uses Amazon web services
+** Pipes and Filters pattern
+- Break down processing tasks by modules (streams) into separate
+  components(filters), each into 1 task
+- Combine them into a pipeline by standardising format of data each
+  component sends and receives
+- Bottleneck - Slowest filter
+- Components can be run independently
+- Used when processing steps by an application have different
+  scalability requirements
+** Broker pattern
+- Broker component coordinates communication, such as forwarding
+  requests, as well as for transmitting results and exceptions
+- Used to structure distributed software systems with decoupled
+  components interacting by remote service invocations
+** Peer-to-peer
+- Partitions workload between peers (both 'client' and 'server' to
+  other nodes)
+** Message-driven processing
+- Client sends service requests in specially-formatted messages to
+  request brokers(programs)
+- Request brokers maintain queues of requests (and maybe replies) to
+  screen their details

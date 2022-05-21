@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       242c1023-5282-428b-946a-98685fd99f0d
+:END:
+#+title: system architecture
+#+filetags: :what_is:
+
+* facts
+* how to
+* concepts
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c8c0a88f-6f74-4ac5-8c64-17cf6c61d873
+:END:
+#+title: hungarian notation
+#+filetags: :what_is:
+
+#+begin_quote
+Variable naming style where the name also contains *type* information. Here are some examples;
+#+end_quote
+
+* facts
+* how to
+* concepts
+
+#+begin_src c
+byError // byte variable (unsigned char)
+iTank // integer. number of Tanks perhaps
+p_iTank // a pointer to an integer
+a_chPrint // array of characters to be printed
+fDone // a flag (indicating whether a process is done)
+#+end_src

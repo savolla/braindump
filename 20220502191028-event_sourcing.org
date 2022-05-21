@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       94999222-4db9-4a46-89da-f1df237f6d4a
+:END:
+#+title: event sourcing
+#+filetags: :what_is:
+
+* facts
++ this is a solution to EDD's event management
++ basically all sent events are logged into a database with thsese information;
+  1. event name
+  2. event type
+  3. event parameters
+  4. event history
++ event sourcing is useful in *debugging* because all events are stored and with history. developers can pause the application or roll back to more older version etc
+* how to
+* concepts
+
+

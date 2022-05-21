@@ -1,7 +1,7 @@
 :PROPERTIES:
-:ID:       a2678e77-1d8e-4882-9993-f1f565cf7661
+:ID:       0dd448d5-c3f1-453a-8ee5-64e708e42ce0
 :END:
-#+title: create capture template in roam
+#+title: create capture template
 #+filetags: :how_to:
 
 Here is the neat example that you can go from

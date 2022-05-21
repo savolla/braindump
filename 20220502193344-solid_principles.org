@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       d1c0b3e4-806a-4bdc-84f8-fdad6e1ff20b
+:END:
+#+title: solid principles
+#+filetags: :what_is:
+
+* facts
+* how to
+* concepts
+** SRP
++ about sizes of *classes* and *methods*
++ rules;
+  a. every *operation* should be a separate class
+  b. classes should be _small_
+  c. class methods should be max 15-20 lines of code
++ SRP creates bunch of classes but here are the benefits;
+  a. easier to debug
+  b. new developers will adapt faster to codebase
+  c. code is easier to read
+  d. development speed increases
+
+** OCP
++ about *interfaces*
++ rules;
+  a. we should not modify the existing and already tested and working classes when new scenario comes out
+  b. to extend the functionality use *Startegy Pattern*. it is like *Dependency Injection*
+  c. violate this principle when your code has some bugs. open and modify the existing code to fix the issue
+  d. if switch and case statements started to show up in methods it's time to apply _open close principle_
+
+** LSP
++ about *subclasses*
+** ISP
++ about *large interfaces*
+** DIP
++ about *separating dependencies*

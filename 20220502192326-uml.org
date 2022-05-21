@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       1efcc21e-ac03-41a0-8bbd-f1055dea3fa4
+:END:
+#+title: UML
+#+filetags: :what_is:
+
+* facts
+* how to
+* concepts
+** inheritance
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    class B{}
+    A -|> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-B49axT.png]]
++ relation
+  A *is a* B
+** composition
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    class B{}
+    A *-> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-SSWv0Y.png]]
++ relation
+  A *has a* B
+** aggregation
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    class B{}
+    A o-> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-6uvrGL.png]]
++ relation
+  A *may have a* B
+** association
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    class B{}
+    A -> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-3DBNuI.png]]
++ relation
+  A *uses* B
+** implementation
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    interface B{}
+    A .up.|> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-O3lcOD.png]]
++ relation
+  A *implements* B
+** dependency
++ UML representation
+  #+begin_src plantuml :results output
+    @startuml
+    class A{}
+    interface B{}
+    A .up.> B
+    @enduml
+    #+end_src
+  #+RESULTS:
+  [[file:/tmp/babel-AKVKVd/plantuml-dWqnIQ.png]]
++ relation
+  A *needs* B *to be able to work*

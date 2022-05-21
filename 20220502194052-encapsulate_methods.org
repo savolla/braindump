@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       20a00fd5-0797-4182-a5bc-76dfad7f4b0b
+:END:
+#+title: encapsulate methods
+#+filetags: :how_to:
+bir method yazarken, if else, ya da switch case silsilesi başladı ise o ifleri ve elseleri başka bir methoda aktar
++ eski kod;
+  #+begin_src cpp
+  class A {
+  public:
+      int method1( int param ) {
+          /*
+             bazı önemli kodlar (10 satır)
+          */
+         if ( param == 12 ) {
+             return 24;
+         }
+         else if ( param == 13 ) {
+             return 25;
+         }
+         else {
+             return 26;
+         }
+      }
+  }
+  #+end_src
++ yeni kod;
+  #+begin_src cpp
+  class A {
+  public:
+      int method1( int value ) {
+          /*
+             bazı önemli kodlar (10 satır)
+          ,*/
+          return getValue( value );
+      }
+
+      int getValue ( int value ) {
+         if ( value == 12 ) {
+             return 24;
+         }
+         else if ( value == 13 ) {
+             return 25;
+         }
+         else {
+             return 26;
+         }
+      }
+  }
+  #+end_src

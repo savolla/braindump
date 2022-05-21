@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       102fff00-e855-4649-a15f-d5e1e9670c27
+:END:
+#+title: catkin
+#+filetags: :ros:cpp:cmap:what_is:
+
+#+begin_quote
+build system that uses cmake files. used for building [[id:71bdbf8c-de11-4bbe-b639-111b2d32bdf6][ros]] packages.
+#+end_quote
+
+* facts
+* how to
+:PROPERTIES:
+:ID:       c715d59c-ba9e-48f0-af67-8440335ee0ed
+:END:
+1. [[id:b5321b0c-486a-4a0c-bc87-a832aa0b567e][build with debug symbols in catkin]]
+* concepts

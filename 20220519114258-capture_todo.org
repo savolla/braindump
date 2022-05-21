@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c4740fa0-decf-4d34-ad48-8ab8c2334d54
+:END:
+#+title: capture todo
+#+filetags: :doom-emacs:org-mode:emacs:how_to:
+~SPC X t~

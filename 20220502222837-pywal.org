@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9ac94be1-f59c-4e4b-b30f-19e125b0ceba
+:END:
+#+title: pywal
+#+filetags: :what_is:
+#+begin_quote
+wallpaper colors to terminal colors
+#+end_quote
+
+* facts
+* how to
+* concepts

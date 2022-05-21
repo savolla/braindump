@@ -4,4 +4,20 @@
 #+title: books to read
 #+filetags: :which:
 
-1. [[https://www.amazon.com/Embedded-Software-Primer-David-Simon/dp/020161569X][An Embedded Software Primer]]
+* software engineering
+1. Working Effectively with Legacy Code
+2. Refactoring: Improving the Design of Existing Code
+3. Clean Code: A Handbook of Agile Software Craftsmanship
+4. Clean Architecture: A Craftsman's Guide to Software Structure and Design
+5. Design Patterns: Elements of Reusable Object-Oriented Software
+6. The Pragmatic Programmer: your journey to mastery
+7. Test Driven Development: By Example
+8. Domain-Driven Design: Tackling Complexity in the Heart of Software
+9. The DevOps Handbook
+10. Software Engineering at Google: Lessons Learned from Programming Over Time
+11. Engineers Survival Guide: Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft
+12. System Design Interview – An insider's guide
+13. Elements of Programming Interviews: The Insiders' Guide
+
+* embedded systems
+1. An Embedded Software Primer

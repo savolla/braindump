@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       05b30adc-d76a-4de4-bc2f-c1838a494bda
 :END:
-#+title: convert physical machine to virtual machine
+#+title: convert physical machine to qemu virtual machine
 #+filetags: :virtualization:how_to:
 
 1. plug live usb
@@ -18,4 +18,4 @@ sudo dd bs=8K count=9768843 if=/dev/$TARGET of=/dev/$RAW_FILE.img
    #+begin_src sh
 qemu-img convert -f raw -O qcow2 $RAW_FILE $NEW_QCOW_FILE.qcow2
    #+end_src
-6. import $NEW_QCOW_FILE to virt-manager and use it
+6. import ~$NEW_QCOW_FILE~ to virt-manager and use it

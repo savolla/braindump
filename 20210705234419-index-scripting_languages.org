@@ -1,9 +1,1 @@
-#+TITLE: Scripting Languages
-#+STARTUP: overview
-#+ROAM_TAGS: index
-#+CREATED: [2021-07-05 Pzt]
-#+LAST_MODIFIED: [2021-07-05 Pzt 23:44]
-
-+ [[./perl.org][perl]]
-+ [[./python.org][python]]
-+ [[./bash.org][bash]]
+#+title: 20210705234419 Index Scripting_languages

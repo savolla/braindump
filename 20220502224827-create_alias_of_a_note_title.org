@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f64016d9-3da2-43ee-9b4f-1509df7f6fe2
+:END:
+#+title: create alias of a note title
+#+filetags: :how_to:
+#+begin_src sh
+title: tools
+:PROPERTIES:
+:ROAM_ALIASES: programs tools software
+:END:
+#+end_src

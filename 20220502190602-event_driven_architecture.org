@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       183b2b0f-976f-4574-b562-22723bd87392
+:END:
+#+title: event driven architecture
+#+filetags: :cmap:what_is:
+
+* fact
+1. every unit of the system communicate with other units via signals. signals are called *events*
+2. for example when a user scrolls the page or click on a button, then those buttons or scroll bars send some events to some other units
+3. every unit knows which signal it recieves
+4. event deiven architecture is more discributed than DDD. because in DDD, there are static interfaces between modules. in event sourcing, modules ara completely discrete
+5. in Event Sourcing, modules are *completely unaware* from each other and there is a program called *broker* which handles signals coming from modules and sends those signals to other modules
+6. in EDD, one signal can be sent to multiple modlues/services. (sometimes 0 which is bad..)
+7. event sourcing is very scalable because you can always add a new modules to the system which listens a specific signal
+8. down side of that architecture is those signals are just flying around and you have to log every single signal to a file. it is very complex
+9. another complex sides are *naming the servies* and namespaceing services (putting those signals into a category like "purchase events", "user events" etc)
+10. event driven design;
+    - increases the freedom of individual modules (zero coupling ?)
+    - increases complexity of signal management
+11. one question is very rapid in EDD "I just threw that event but which module recieved?"
+* how to
+* concept

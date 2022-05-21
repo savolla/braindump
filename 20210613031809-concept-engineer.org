@@ -1,4 +1,7 @@
-#+TITLE: Engineer
+:PROPERTIES:
+:ID:       62a470ba-dc07-46d8-9021-589bcb9b97b4
+:END:
+#+TITLE: engineer
 #+STARTUP: overview latexpreview inlineimages
 #+ROAM_TAGS: concept permanent
 #+ROAM_ALIAS: "Engineer" "what is Engineer" "what Engineer is"
@@ -6,13 +9,3 @@
 #+LAST_MODIFIED: [2021-06-13 Paz 03:18]
 
 People who invent, design, analyze, build and test [[file:20210613031928-concept-system.org][System]]s to fulfill functional objectives while considering cost, limitations and safety.
-
-- see also ::
-#  + [[roam:why is Engineer important]]
-#  + [[roam:when to use Engineer]]
-#  + [[roam:how to use Engineer]]
-#  + [[roam:examples of Engineer]]
-#  + [[roam:founder of Engineer]]
-  + [[file:20210612025056-keyword-concept.org][Concept]]
-
-- references ::

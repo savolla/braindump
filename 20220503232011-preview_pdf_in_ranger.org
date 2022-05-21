@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4e348a7c-620b-4fc3-8b87-a01a32b034c2
+:END:
+#+title: preview pdf in ranger
+#+filetags: :linux:how_to:
+1. install [[id:a9b412d1-462f-4e73-a541-574fb65c2bd7][poppler]]
