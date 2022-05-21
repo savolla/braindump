@@ -5,8 +5,26 @@
 #+filetags: :book:
 
 * fact
+:PROPERTIES:
+:ID:       a5026848-5b4b-49b0-9ebd-eaf3522917a5
+:END:
 * tip
+:PROPERTIES:
+:ID:       8ef81260-d5b2-4202-8d92-eef077e516a0
+:END:
 * how to
+:PROPERTIES:
+:ID:       af424b2e-3d45-44aa-8f1e-1d1c850d65c3
+:END:
 * concept
+:PROPERTIES:
+:ID:       d4fc7648-3e5c-4fd8-8aeb-451ad197f029
+:END:
 * snippet
+:PROPERTIES:
+:ID:       2401cffb-4177-4388-a2fc-d44822773143
+:END:
 * list of
+:PROPERTIES:
+:ID:       4bcdfef6-e2de-47e0-9ff4-56cbd1fc2329
+:END:
