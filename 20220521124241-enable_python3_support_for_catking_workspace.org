@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       113ed017-2f14-4cee-bb9b-afc0ea3b2a61
+:END:
+#+title: enable python3 support for catking workspace
+#+filetags: :how_to:
+#+begin_src sh
+source /opt/ros/noetic/setup.bash
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/
+catkin_make -DPYTHON_EXECUTABLE=/usr/bin/python3
+#+end_src
