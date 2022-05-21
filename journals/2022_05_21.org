@@ -20,3 +20,4 @@ CLOCK: [2022-05-21 Sat 11:22:08]--[2022-05-21 Sat 11:49:31] =>  00:27:23
 :LOGBOOK:
 CLOCK: [2022-05-21 Sat 13:56:26]--[2022-05-21 Sat 13:56:27] =>  00:00:01
 :END:
+* [[../assets/The_C++_Programming_Language_1653130638209_0.pdf][The C++ Programming Language.pdf]]
