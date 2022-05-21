@@ -22,6 +22,7 @@ notes taken from [[http://wiki.ros.org/ROS/Tutorials][ROS Wiki]]
       CMakeLists.txt     // CMakeLists.txt file for package_n
       package.xml        // Package manifest for package_n
   #+end_src
+-
 
 * fact
 :PROPERTIES:
@@ -36,10 +37,13 @@ notes taken from [[http://wiki.ros.org/ROS/Tutorials][ROS Wiki]]
 :ID:       f11ab0ca-408e-44fc-af95-47edc89a2391
 :END:
 [[id:b2e2fcb8-6831-470e-9c80-27a2e339cd66][create a catkin workspace]]
+[[id:113ed017-2f14-4cee-bb9b-afc0ea3b2a61][enable python3 support for catking workspace]]
+[[id:6e907e60-f43d-41f6-830c-3e3286f68d2e][create a ros package]]
 * concept
 :PROPERTIES:
 :ID:       f94b46a3-dd2c-4e1a-93e4-484cf741ce32
 :END:
+[[id:aceb29d6-9242-497f-bf88-d34fb8cdb83e][catkin_make]]
 * snippet
 :PROPERTIES:
 :ID:       f6c208f0-ec9d-4cc8-a4c7-7244ff707c91
