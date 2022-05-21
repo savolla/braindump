@@ -7,6 +7,9 @@
 notes taken from [[http://wiki.ros.org/ROS/Tutorials][ROS Wiki]]
 #+end_quote
 
+- catking package consists of two essential elements. *CMakeList.txt* and *package.xml* file.
+- catking packages cannot be stored in *nested folders*
+
 * fact
 :PROPERTIES:
 :ID:       3abc6f6a-abad-4013-84d1-77a53db69df9
