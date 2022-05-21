@@ -3,7 +3,8 @@
 :END:
 #+title: ROS Wiki
 #+filetags: :book:
-read it from [[http://wiki.ros.org/ROS/Tutorials][ROS Wiki]]
+
+[[http://wiki.ros.org/ROS/Tutorials][ROS Wiki]]
 
 * fact
 :PROPERTIES:
