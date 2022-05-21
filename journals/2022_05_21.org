@@ -7,7 +7,7 @@ CLOCK: [2022-05-21 Sat 11:16:09]
 :LOGBOOK:
 CLOCK: [2022-05-21 Sat 11:17:00]--[2022-05-21 Sat 11:59:04] =>  00:42:04
 :END:
-** commented out necessary lines inside ~repair-keys.sh~ which runs on every boot
+** commented out necessary lines inside ~repair-keys.sh~ which runs on every
 * DONE breakfast
 :LOGBOOK:
 CLOCK: [2022-05-21 Sat 11:22:04]
