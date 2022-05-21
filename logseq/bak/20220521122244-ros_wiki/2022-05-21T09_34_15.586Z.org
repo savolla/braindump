@@ -11,16 +11,16 @@ notes taken from [[http://wiki.ros.org/ROS/Tutorials][ROS Wiki]]
 - catking packages cannot be stored in *nested folders*
 - basic structure of a catking workspace;
   #+begin_src cpp
-  workspace_folder/        // WORKSPACE
-  src/                   // SOURCE SPACE
-      CMakeLists.txt       // 'Toplevel' CMake file, provided by catkin
-      package_1/
-      CMakeLists.txt     // CMakeLists.txt file for package_1
-      package.xml        // Package manifest for package_1
-      ...
-      package_n/
-      CMakeLists.txt     // CMakeLists.txt file for package_n
-      package.xml        // Package manifest for package_n
+    workspace_folder/        // WORKSPACE
+    src/                   // SOURCE SPACE
+        CMakeLists.txt       // 'Toplevel' CMake file, provided by catkin
+        package_1/
+        CMakeLists.txt     // CMakeLists.txt file for package_1
+        package.xml        // Package manifest for package_1
+        ...
+        package_n/
+        CMakeLists.txt     // CMakeLists.txt file for package_n
+        package.xml        // Package manifest for package_n
   #+end_src
 
 * fact
