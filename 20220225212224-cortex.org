@@ -67,6 +67,7 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 :ID:       f8d7ef8f-d34a-4614-900d-8c10b6f01673
 :END:
 1. [[id:102fff00-e855-4649-a15f-d5e1e9670c27][catkin]]
+2. [[id:e9789ff6-6013-4782-9bd0-6a7ff921837b][rviz]]
 ** math
 :PROPERTIES:
 :ID:       87519a4a-848a-4c0e-b5d0-c80cbedf7834
@@ -75,8 +76,6 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 :PROPERTIES:
 :ID:       0f87542b-f0fd-486a-b7b5-16579c60c72b
 :END:
-<<<<<<< HEAD
-=======
 ** software engineering
 :PROPERTIES:
 :ID:       ec94d8fb-eca9-4b95-9b82-12d2a4b90261
@@ -97,8 +96,6 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 2. [[id:966ee79e-dfb8-4266-9637-26e27e783805][windows]]
 3. [[id:86ae2e73-456e-40b2-8a77-ee868461e410][macos]]
 4. [[id:6dfa96a6-c412-4c70-a1ee-f56ab1bb57d4][bsd]]
-
->>>>>>> ca2b4ab5a96e7decd677d0be34913c4d5c8b6bb4
 * resource
 :PROPERTIES:
 :id: 10005ac7-41a9-4c8e-8114-1edb6b704184

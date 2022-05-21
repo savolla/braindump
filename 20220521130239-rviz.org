@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e9789ff6-6013-4782-9bd0-6a7ff921837b
+:END:
+#+title: rviz
+#+filetags: :what_is:
+robot visualization interface which is widely used with [[id:71bdbf8c-de11-4bbe-b639-111b2d32bdf6][ros]] projects
+* facts
+* how to
+* concepts

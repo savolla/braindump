@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       efe82a18-6fa2-4bfa-82b1-bcb0a6123a2e
+:END:
+#+title: write simple ros publisher in c++
+#+filetags: :how_to:

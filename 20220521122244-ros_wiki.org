@@ -39,6 +39,8 @@ notes taken from [[http://wiki.ros.org/ROS/Tutorials][ROS Wiki]]
 [[id:b2e2fcb8-6831-470e-9c80-27a2e339cd66][create a catkin workspace]]
 [[id:113ed017-2f14-4cee-bb9b-afc0ea3b2a61][enable python3 support for catking workspace]]
 [[id:6e907e60-f43d-41f6-830c-3e3286f68d2e][create a ros package]]
+[[id:ff9d3256-1b95-4f7b-aea9-247243320fcb][write simple ros subscriber in c++]]
+[[id:efe82a18-6fa2-4bfa-82b1-bcb0a6123a2e][write simple ros publisher in c++]]
 * concept
 :PROPERTIES:
 :ID:       f94b46a3-dd2c-4e1a-93e4-484cf741ce32

@@ -1,6 +1,10 @@
 [{:block/name "\"ve\" ile \"ile\" aslında aynı şeyler",
   :block/created-at 1653071698827,
   :block/updated-at 1653071698827}
+ {:block/name
+  "#+title: architecture and design are different in software engineering",
+  :block/created-at 1653126563608,
+  :block/updated-at 1653126563608}
  {:block/name "+begin_quote",
   :block/created-at 1653071701668,
   :block/updated-at 1653071701668}
@@ -161,10 +165,6 @@
   :block/created-at 1653071698987,
   :block/updated-at 1653071698987}
  {:block/name
-  "20210617233549-permanent-mitsubishi_fr_740_hakkında_bir_cok_sey_ogrendim",
-  :block/created-at 1653071699008,
-  :block/updated-at 1653071699008}
- {:block/name
   "20210617233914-permanent-bir_cok_motoru_kontrol_edebiliyor",
   :block/created-at 1653071699031,
   :block/updated-at 1653071699031}
@@ -211,6 +211,24 @@
  {:block/name "20210705104138-permanent-sensors_actuators",
   :block/created-at 1653071699488,
   :block/updated-at 1653071699488}
+ {:block/name "20210705234210 index languages",
+  :block/created-at 1653126564542,
+  :block/updated-at 1653126564542}
+ {:block/name "20210705234324 index systems_languages",
+  :block/created-at 1653126564363,
+  :block/updated-at 1653126564363}
+ {:block/name "20210705234419 index scripting_languages",
+  :block/created-at 1653126564729,
+  :block/updated-at 1653126564729}
+ {:block/name "20210705234513 index hardware_description_languages",
+  :block/created-at 1653126564564,
+  :block/updated-at 1653126564564}
+ {:block/name "20210705234609 index oop_languages",
+  :block/created-at 1653126564616,
+  :block/updated-at 1653126564616}
+ {:block/name "20210705234701 index web_languages",
+  :block/created-at 1653126564881,
+  :block/updated-at 1653126564881}
  {:block/name "20210706092940-permanent-",
   :block/created-at 1653071700161,
   :block/updated-at 1653071700161}
@@ -240,7 +258,7 @@
   :block/updated-at 1653074698535}
  {:block/name "2022-05-21",
   :block/created-at 1653130670006,
-  :block/updated-at 1653120346894}
+  :block/updated-at 1653123601234}
  {:block/name "a",
   :block/created-at 1653071863940,
   :block/updated-at 1653071863940}
@@ -262,9 +280,6 @@
  {:block/name "algorithms data structures",
   :block/created-at 1653071704319,
   :block/updated-at 1653071704319}
- {:block/name "anthropology",
-  :block/created-at 1653071700899,
-  :block/updated-at 1653071700899}
  {:block/name "applications of rust",
   :block/created-at 1653071701847,
   :block/updated-at 1653073345933}
@@ -313,6 +328,9 @@
  {:block/name "b",
   :block/created-at 1653071863941,
   :block/updated-at 1653071863941}
+ {:block/name "bash",
+  :block/created-at 1653126564270,
+  :block/updated-at 1653126564270}
  {:block/name "being a human code profiler",
   :block/created-at 1653071698334,
   :block/updated-at 1653071698334}
@@ -340,9 +358,15 @@
  {:block/name "books to read",
   :block/created-at 1653071701139,
   :block/updated-at 1653071701139}
+ {:block/name "bsd",
+  :block/created-at 1653126564000,
+  :block/updated-at 1653126564000}
  {:block/name "build rust for production",
   :block/created-at 1653071702536,
   :block/updated-at 1653071702536}
+ {:block/name "build with debug symbols in catkin",
+  :block/created-at 1653126563518,
+  :block/updated-at 1653126563518}
  {:block/name "c",
   :block/created-at 1653071863941,
   :block/updated-at 1653071863941}
@@ -355,12 +379,21 @@
  {:block/name "calculus: early transcendentals",
   :block/created-at 1653071697478,
   :block/updated-at 1653071697478}
+ {:block/name "capture todo",
+  :block/created-at 1653126564200,
+  :block/updated-at 1653126564200}
  {:block/name "card",
   :block/created-at 1653071863941,
   :block/updated-at 1653071863941}
  {:block/name "cargo",
   :block/created-at 1653071702219,
   :block/updated-at 1653071702219}
+ {:block/name "catkin",
+  :block/created-at 1653126563623,
+  :block/updated-at 1653126563623}
+ {:block/name "catkin_make",
+  :block/created-at 1653126020989,
+  :block/updated-at 1653126020989}
  {:block/name "celal şengör",
   :block/created-at 1653071697574,
   :block/updated-at 1653071697574}
@@ -373,6 +406,9 @@
  {:block/name "check if your pc has optimus technology",
   :block/created-at 1653071701621,
   :block/updated-at 1653071701621}
+ {:block/name "clean code",
+  :block/created-at 1653124630589,
+  :block/updated-at 1653124630589}
  {:block/name "cmap",
   :block/created-at 1653071697451,
   :block/updated-at 1653071697451}
@@ -425,6 +461,9 @@
  {:block/name "configure the device",
   :block/created-at 1653071698803,
   :block/updated-at 1653071698803}
+ {:block/name "configure vscode for ros debugging",
+  :block/created-at 1653126563594,
+  :block/updated-at 1653126563594}
  {:block/name "container",
   :block/created-at 1653071696427,
   :block/updated-at 1653071696427}
@@ -437,18 +476,33 @@
  {:block/name "convert ova to qcow2",
   :block/created-at 1653071701172,
   :block/updated-at 1653071701172}
+ {:block/name "convert physical machine to qemu virtual machine",
+  :block/created-at 1653126564868,
+  :block/updated-at 1653126564868}
  {:block/name "convert physical machine to virtual machine",
   :block/created-at 1653071703520,
   :block/updated-at 1653071703520}
  {:block/name "cortex",
   :block/created-at 1653071696928,
-  :block/updated-at 1653074989114}
+  :block/updated-at 1653123966858}
  {:block/name "cpp",
   :block/created-at 1653071704354,
   :block/updated-at 1653072939754}
  {:block/name "cprofile",
   :block/created-at 1653071698191,
   :block/updated-at 1653071698191}
+ {:block/name "create a catkin workspace",
+  :block/created-at 1653125754925,
+  :block/updated-at 1653125754925}
+ {:block/name "create a ros package",
+  :block/created-at 1653126441788,
+  :block/updated-at 1653126441788}
+ {:block/name "create alias of a note title",
+  :block/created-at 1653126564170,
+  :block/updated-at 1653126564170}
+ {:block/name "create capture template",
+  :block/created-at 1653126564699,
+  :block/updated-at 1653126564699}
  {:block/name "create capture template in roam",
   :block/created-at 1653071700587,
   :block/updated-at 1653071700587}
@@ -458,6 +512,9 @@
  {:block/name "create org header an org-roam node",
   :block/created-at 1653071703955,
   :block/updated-at 1653071703955}
+ {:block/name "create org header as org-roam node",
+  :block/created-at 1653126565008,
+  :block/updated-at 1653126565008}
  {:block/name "create rss feed from youtube channel",
   :block/created-at 1653071701667,
   :block/updated-at 1653071701667}
@@ -470,9 +527,12 @@
  {:block/name "databases",
   :block/created-at 1653071697988,
   :block/updated-at 1653071697988}
- {:block/name "deep web search engines",
-  :block/created-at 1653071701233,
-  :block/updated-at 1653071701233}
+ {:block/name "debug ros launch files in vscode",
+  :block/created-at 1653126563471,
+  :block/updated-at 1653126563471}
+ {:block/name "debug ros node in vscode",
+  :block/created-at 1653126563454,
+  :block/updated-at 1653126563454}
  {:block/name "deep_web",
   :block/created-at 1653071701234,
   :block/updated-at 1653071701234}
@@ -500,6 +560,9 @@
  {:block/name "dennis ritchie",
   :block/created-at 1653071702131,
   :block/updated-at 1653071702131}
+ {:block/name "design patterns",
+  :block/created-at 1653126563649,
+  :block/updated-at 1653126563649}
  {:block/name "device view",
   :block/created-at 1653071699179,
   :block/updated-at 1653071699179}
@@ -515,12 +578,18 @@
  {:block/name "doing",
   :block/created-at 1653071863941,
   :block/updated-at 1653071863941}
+ {:block/name "domain driven design",
+  :block/created-at 1653126563779,
+  :block/updated-at 1653126563779}
  {:block/name "donald a. norman",
   :block/created-at 1653071695961,
   :block/updated-at 1653071695961}
  {:block/name "done",
   :block/created-at 1653071863941,
   :block/updated-at 1653071863941}
+ {:block/name "doom-emacs",
+  :block/created-at 1653126564202,
+  :block/updated-at 1653126564202}
  {:block/name "dynamically typed",
   :block/created-at 1653071703250,
   :block/updated-at 1653071703250}
@@ -533,6 +602,21 @@
  {:block/name "embedded systems",
   :block/created-at 1653071696131,
   :block/updated-at 1653071696131}
+ {:block/name "en.btdig.com",
+  :block/created-at 1653126563389,
+  :block/updated-at 1653126563389}
+ {:block/name "en.btdig.com/index.htm",
+  :block/created-at 1653126563389,
+  :block/updated-at 1653126563389}
+ {:block/name "enable python3 support for catking workspace",
+  :block/created-at 1653126182305,
+  :block/updated-at 1653126182305}
+ {:block/name "encapsulate classes",
+  :block/created-at 1653126563911,
+  :block/updated-at 1653126563911}
+ {:block/name "encapsulate methods",
+  :block/created-at 1653126563927,
+  :block/updated-at 1653126563927}
  {:block/name "endif",
   :block/created-at 1653071700078,
   :block/updated-at 1653071700078}
@@ -545,6 +629,12 @@
  {:block/name "error",
   :block/created-at 1653071700074,
   :block/updated-at 1653071700074}
+ {:block/name "event driven architecture",
+  :block/created-at 1653126563797,
+  :block/updated-at 1653126563797}
+ {:block/name "event sourcing",
+  :block/created-at 1653126564032,
+  :block/updated-at 1653126564032}
  {:block/name "example of python decorator",
   :block/created-at 1653071697736,
   :block/updated-at 1653071697736}
@@ -552,8 +642,8 @@
   :block/created-at 1653071699178,
   :block/updated-at 1653071699178}
  {:block/name "fact",
-  :block/created-at 1653071701825,
-  :block/updated-at 1653071701825}
+  :block/created-at 1653126563610,
+  :block/updated-at 1653126563610}
  {:block/name "favorites",
   :block/created-at 1653071863940,
   :block/updated-at 1653071863940}
@@ -947,6 +1037,9 @@
  {:block/name "how_to",
   :block/created-at 1653071700429,
   :block/updated-at 1653071700429}
+ {:block/name "hungarian notation",
+  :block/created-at 1653126563976,
+  :block/updated-at 1653126563976}
  {:block/name "if",
   :block/created-at 1653071700075,
   :block/updated-at 1653071700075}
@@ -977,6 +1070,9 @@
  {:block/name "include rust files as modules",
   :block/created-at 1653071702975,
   :block/updated-at 1653071702975}
+ {:block/name "insert roam note",
+  :block/created-at 1653126564629,
+  :block/updated-at 1653126564629}
  {:block/name "insert roam notes in doom emacs",
   :block/created-at 1653071700450,
   :block/updated-at 1653071700450}
@@ -1010,6 +1106,9 @@
  {:block/name "ismet topaloglu",
   :block/created-at 1653071696953,
   :block/updated-at 1653071696953}
+ {:block/name "javascript",
+  :block/created-at 1653126564258,
+  :block/updated-at 1653126564258}
  {:block/name "journalism",
   :block/created-at 1653071697880,
   :block/updated-at 1653071697880}
@@ -1025,9 +1124,6 @@
  {:block/name "kontakları isimlendir",
   :block/created-at 1653071698965,
   :block/updated-at 1653071698965}
- {:block/name "languages",
-  :block/created-at 1653071697989,
-  :block/updated-at 1653071697989}
  {:block/name "later",
   :block/created-at 1653071863941,
   :block/updated-at 1653071863941}
@@ -1088,6 +1184,9 @@
  {:block/name "loosing features",
   :block/created-at 1653071699179,
   :block/updated-at 1653071699179}
+ {:block/name "macos",
+  :block/created-at 1653126564284,
+  :block/updated-at 1653126564284}
  {:block/name "major note types",
   :block/created-at 1653071702766,
   :block/updated-at 1653071702766}
@@ -1115,6 +1214,12 @@
  {:block/name "memory management",
   :block/created-at 1653071702155,
   :block/updated-at 1653071702155}
+ {:block/name "microservices architecture",
+  :block/created-at 1653126563872,
+  :block/updated-at 1653126563872}
+ {:block/name "microsoft",
+  :block/created-at 1653126563505,
+  :block/updated-at 1653126563505}
  {:block/name "mistery",
   :block/created-at 1653071697855,
   :block/updated-at 1653071697855}
@@ -1163,12 +1268,18 @@
  {:block/name "open roam backlinks buffer",
   :block/created-at 1653071704269,
   :block/updated-at 1653071704269}
+ {:block/name "open ros workspace in vscode",
+  :block/created-at 1653126563445,
+  :block/updated-at 1653126563445}
  {:block/name "org",
   :block/created-at 1653071701782,
   :block/updated-at 1653071701782}
  {:block/name "org mode",
   :block/created-at 1653071702506,
   :block/updated-at 1653071702506}
+ {:block/name "org-mode",
+  :block/created-at 1653126564203,
+  :block/updated-at 1653126564203}
  {:block/name "org-roam",
   :block/created-at 1653071700451,
   :block/updated-at 1653071700451}
@@ -1184,6 +1295,9 @@
  {:block/name "parametrelerini sürücüye tanıtmak",
   :block/created-at 1653071699032,
   :block/updated-at 1653071699032}
+ {:block/name "perl",
+  :block/created-at 1653126564264,
+  :block/updated-at 1653126564264}
  {:block/name "permanent notes",
   :block/created-at 1653071698042,
   :block/updated-at 1653071698042}
@@ -1208,9 +1322,15 @@
  {:block/name "pluto is no longer a planet",
   :block/created-at 1653071695414,
   :block/updated-at 1653071695414}
+ {:block/name "poppler",
+  :block/created-at 1653126564160,
+  :block/updated-at 1653126564160}
  {:block/name "positional arguments in rust",
   :block/created-at 1653071702630,
   :block/updated-at 1653071702630}
+ {:block/name "preview pdf in ranger",
+  :block/created-at 1653126564118,
+  :block/updated-at 1653126564118}
  {:block/name "primitive types in rust",
   :block/created-at 1653071703162,
   :block/updated-at 1653071703162}
@@ -1238,6 +1358,9 @@
  {:block/name "profinet",
   :block/created-at 1653071699245,
   :block/updated-at 1653071699245}
+ {:block/name "program to an interface",
+  :block/created-at 1653126563964,
+  :block/updated-at 1653126563964}
  {:block/name "programming",
   :block/created-at 1653071697985,
   :block/updated-at 1653071697985}
@@ -1259,9 +1382,18 @@
  {:block/name "python profiling function",
   :block/created-at 1653071698333,
   :block/updated-at 1653071698333}
+ {:block/name "pywal",
+  :block/created-at 1653126564096,
+  :block/updated-at 1653126564096}
+ {:block/name "qemu",
+  :block/created-at 1653126564048,
+  :block/updated-at 1653126564048}
  {:block/name "quote",
   :block/created-at 1653071695131,
   :block/updated-at 1653071695131}
+ {:block/name "ranger",
+  :block/created-at 1653126564107,
+  :block/updated-at 1653126564107}
  {:block/name "recursively search files in doom emacs",
   :block/created-at 1653071700428,
   :block/updated-at 1653071700428}
@@ -1295,6 +1427,9 @@
  {:block/name "ros",
   :block/created-at 1653071700629,
   :block/updated-at 1653071700629}
+ {:block/name "ros wiki",
+  :block/created-at 1653124969803,
+  :block/updated-at 1653124969803}
  {:block/name "ros2",
   :block/created-at 1653071703580,
   :block/updated-at 1653071703580}
@@ -1325,6 +1460,9 @@
  {:block/name "scripting languages",
   :block/created-at 1653071699719,
   :block/updated-at 1653071699719}
+ {:block/name "search roam notes",
+  :block/created-at 1653126564926,
+  :block/updated-at 1653126564926}
  {:block/name "search roam notes in doom emacs",
   :block/created-at 1653071700472,
   :block/updated-at 1653071700472}
@@ -1355,9 +1493,24 @@
  {:block/name "sociology",
   :block/created-at 1653071697544,
   :block/updated-at 1653071697544}
+ {:block/name "software architecture",
+  :block/created-at 1653126563540,
+  :block/updated-at 1653126563540}
+ {:block/name "software component",
+  :block/created-at 1653126563578,
+  :block/updated-at 1653126563578}
+ {:block/name "software design",
+  :block/created-at 1653126563754,
+  :block/updated-at 1653126563754}
  {:block/name "software engineering",
   :block/created-at 1653071699612,
   :block/updated-at 1653071699612}
+ {:block/name "software engineering-old",
+  :block/created-at 1653126564576,
+  :block/updated-at 1653126564576}
+ {:block/name "solid principles",
+  :block/created-at 1653126563896,
+  :block/updated-at 1653126563896}
  {:block/name "spinning",
   :block/created-at 1653071703649,
   :block/updated-at 1653071703649}
@@ -1382,6 +1535,9 @@
  {:block/name "system",
   :block/created-at 1653071696859,
   :block/updated-at 1653071696859}
+ {:block/name "system architecture",
+  :block/created-at 1653126564083,
+  :block/updated-at 1653126564083}
  {:block/name "systems languages",
   :block/created-at 1653071699719,
   :block/updated-at 1653071699719}
@@ -1421,15 +1577,33 @@
  {:block/name "tool",
   :block/created-at 1653071698743,
   :block/updated-at 1653071698743}
+ {:block/name "types of software architectures",
+  :block/created-at 1653126563730,
+  :block/updated-at 1653126563730}
+ {:block/name "uml",
+  :block/created-at 1653126563846,
+  :block/updated-at 1653126563846}
  {:block/name "undef",
   :block/created-at 1653071700074,
   :block/updated-at 1653071700074}
+ {:block/name "update arch linux",
+  :block/created-at 1653126564021,
+  :block/updated-at 1653126564021}
  {:block/name "update rust",
   :block/created-at 1653071702315,
   :block/updated-at 1653071702315}
+ {:block/name "update ubuntu",
+  :block/created-at 1653126564011,
+  :block/updated-at 1653126564011}
  {:block/name "use profiling function",
   :block/created-at 1653071697708,
   :block/updated-at 1653071697708}
+ {:block/name "verilog",
+  :block/created-at 1653126564275,
+  :block/updated-at 1653126564275}
+ {:block/name "vhdl",
+  :block/created-at 1653126564334,
+  :block/updated-at 1653126564334}
  {:block/name "videos to watch",
   :block/created-at 1653071697626,
   :block/updated-at 1653071697626}
@@ -1439,6 +1613,9 @@
  {:block/name "vocabulary to memorize",
   :block/created-at 1653071697339,
   :block/updated-at 1653071697339}
+ {:block/name "vscode",
+  :block/created-at 1653126563475,
+  :block/updated-at 1653126563475}
  {:block/name "vtk",
   :block/created-at 1653071703493,
   :block/updated-at 1653071703493}
@@ -1475,6 +1652,12 @@
  {:block/name "why",
   :block/created-at 1653071700790,
   :block/updated-at 1653071700790}
+ {:block/name "windows",
+  :block/created-at 1653126563988,
+  :block/updated-at 1653126563988}
+ {:block/name "working effectively with legacy code",
+  :block/created-at 1653126563669,
+  :block/updated-at 1653126563669}
  {:block/name "xonsh",
   :block/created-at 1653071701712,
   :block/updated-at 1653071701712}

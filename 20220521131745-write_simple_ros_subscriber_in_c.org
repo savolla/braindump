@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ff9d3256-1b95-4f7b-aea9-247243320fcb
+:END:
+#+title: write simple ros subscriber in c++
+#+filetags: :how_to:
