@@ -3,9 +3,9 @@
 :LOGBOOK:
 CLOCK: [2022-05-21 Sat 11:16:09]
 :END:
-* DOING disable fast typing settings in **xkarna**
+* DONE disable fast typing settings in **xkarna**
 :LOGBOOK:
-CLOCK: [2022-05-21 Sat 11:17:00]
+CLOCK: [2022-05-21 Sat 11:17:00]--[2022-05-21 Sat 11:59:04] =>  00:42:04
 :END:
 * DONE breakfast
 :LOGBOOK:
