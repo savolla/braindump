@@ -6,3 +6,9 @@
 :id: 6288c4e7-fa52-446a-8fe3-3e5a5244a7f8
 :END:
 ** this is very true. especially when you write some test annotation
+* •  Each line segment has a different “area factor”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 6288c538-9bcb-42ef-9339-c7f4acf5ef70
+:END:
