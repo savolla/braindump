@@ -1451,6 +1451,9 @@
  {:block/name "rustup",
   :block/created-at 1653071702266,
   :block/updated-at 1653071702266}
+ {:block/name "rviz",
+  :block/created-at 1653130065634,
+  :block/updated-at 1653130065634}
  {:block/name "savolla",
   :block/created-at 1653071702920,
   :block/updated-at 1653071702920}
@@ -1658,6 +1661,12 @@
  {:block/name "working effectively with legacy code",
   :block/created-at 1653126563669,
   :block/updated-at 1653126563669}
+ {:block/name "write simple ros publisher in c++",
+  :block/created-at 1653130065787,
+  :block/updated-at 1653130065787}
+ {:block/name "write simple ros subscriber in c++",
+  :block/created-at 1653130065761,
+  :block/updated-at 1653130065761}
  {:block/name "xonsh",
   :block/created-at 1653071701712,
   :block/updated-at 1653071701712}
