@@ -5,7 +5,7 @@
 #+filetags: :cmap:what_is:
 
 #+begin_quote
-entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://www.buildingasecondbrain.com/][second brain]]
+Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up my brain here so I can find it if I lose it!
 #+end_quote
 
 * project
@@ -18,7 +18,6 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 ** [[id:f997711b-064d-4c21-9132-3ab6f389f40a][videos to watch]]
 ** [[id:9247a0ae-028d-4a78-bc67-f54139704abb][vocabulary to memorize]]
 ** [[id:c4ac8e0e-4c75-4ef0-84b7-19feb7da2d4c][orphan notes]]
-**
 * area
 :PROPERTIES:
 :ID:       659c3620-91b1-422c-af3a-dee88d08714d
@@ -26,11 +25,9 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 1. [[id:3f190252-a13d-494f-a189-aeebd6a3d13f][note taking]]
 2. [[file:20210706112127-index-image_processing.org][Image Processing]]
 3. [[id:3787f6f9-ef8e-4bbd-b510-5b1c2badb1f6][sociology]]
-4. [[id:c0bc56e6-9711-4c48-a500-a0d8bf26b761][vtk]]
-5. [[id:4af165e1-f967-4751-b307-1d13417f1d7d][embedded systems]]
-6. [[id:9596afe2-d277-448c-97f6-673822c05dd7][software engineering]]
-7. [[id:867d220e-78b2-4b85-959b-73d8e1998abe][music]]
-8. [[file:20210705095257-index-plc.org][PLC]]
+4. [[id:4af165e1-f967-4751-b307-1d13417f1d7d][embedded systems]]
+5. [[id:867d220e-78b2-4b85-959b-73d8e1998abe][music]]
+6. [[file:20210705095257-index-plc.org][PLC]]
 ** programming
 :PROPERTIES:
 :ID:       4f238fc3-8773-493d-bcc0-37073331b11c
@@ -47,18 +44,29 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 :ID:       8c567e54-b8c1-4332-82c0-b41f5d890ce3
 :END:
 1. [[id:1c2b92b8-7abc-406c-bf41-d2e02aa18f24][git]]
-5. [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]]
+2. [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]]
+3. [[id:08620983-b436-44d8-930e-7b50951c0af4][vscode]]
+*** style
+:PROPERTIES:
+:ID:       8dd32dcb-b399-4f13-a24f-161376ad39a6
+:END:
+1. [[id:c8c0a88f-6f74-4ac5-8c64-17cf6c61d873][hungarian notation]]
 ** robotics
 :PROPERTIES:
 :ID:       4b019677-a7fd-4024-bb75-a60f665fd036
 :END:
-*** library/framework
+*** framework
 :PROPERTIES:
 :id: 8244cd5a-6ca3-4ba1-a420-b0d490fc4cad
 :END:
 1. [[id:71bdbf8c-de11-4bbe-b639-111b2d32bdf6][ros]]
 2. [[id:f96c207e-6917-4d8b-9304-faf4b5d9693d][ros2]]
 3. [[id:2e073578-fc85-468d-af40-238498963e02][tesseract]]
+*** tools
+:PROPERTIES:
+:ID:       f8d7ef8f-d34a-4614-900d-8c10b6f01673
+:END:
+1. [[id:102fff00-e855-4649-a15f-d5e1e9670c27][catkin]]
 ** math
 :PROPERTIES:
 :ID:       87519a4a-848a-4c0e-b5d0-c80cbedf7834
@@ -67,6 +75,30 @@ entry point of [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]]'s [[https://
 :PROPERTIES:
 :ID:       0f87542b-f0fd-486a-b7b5-16579c60c72b
 :END:
+<<<<<<< HEAD
+=======
+** software engineering
+:PROPERTIES:
+:ID:       ec94d8fb-eca9-4b95-9b82-12d2a4b90261
+:END:
+1. [[id:a6b13c62-7b2f-403a-858d-619eba2e9658][software architecture]]
+2. [[id:fb3bbfae-6961-4477-bd4d-455e9b9cf36a][software design]]
+** virtualization
+:PROPERTIES:
+:ID:       686006f0-5013-44b1-a3ba-733cf2d362c1
+:END:
+*** tools
+1. [[id:55bd51b4-57e2-49d0-aa4f-a60f877dd402][qemu]]
+** operating systems
+:PROPERTIES:
+:ID:       b5577908-cddc-43cb-a209-833cea433805
+:END:
+1. [[id:dc704116-8fd7-4969-943d-a783aac1a279][linux]]
+2. [[id:966ee79e-dfb8-4266-9637-26e27e783805][windows]]
+3. [[id:86ae2e73-456e-40b2-8a77-ee868461e410][macos]]
+4. [[id:6dfa96a6-c412-4c70-a1ee-f56ab1bb57d4][bsd]]
+
+>>>>>>> ca2b4ab5a96e7decd677d0be34913c4d5c8b6bb4
 * resource
 :PROPERTIES:
 :id: 10005ac7-41a9-4c8e-8114-1edb6b704184
