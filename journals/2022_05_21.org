@@ -4,6 +4,9 @@
 CLOCK: [2022-05-21 Sat 11:16:09]
 :END:
 * DONE disable fast typing settings in **xkarna**
+:PROPERTIES:
+:collapsed: true
+:END:
 :LOGBOOK:
 CLOCK: [2022-05-21 Sat 11:17:00]--[2022-05-21 Sat 11:59:04] =>  00:42:04
 :END:
