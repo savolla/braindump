@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       ada54f7c-4618-4178-be71-8ee95c5d45d3
+:END:
+#+title: plantuml
+#+filetags: :what_is:
+great package to generate uml/flowcharts inside [[id:ee90221c-a63d-4937-9549-6e4bdb548778][org mode]]
+* fact
+* tip
+:PROPERTIES:
+:ID:       b4072464-ba0d-467a-b66b-a44b9b572593
+:END:
++ always *start* and *end* your flowcharts in plantuml
+* how to
+:PROPERTIES:
+:ID:       cae517f5-44c6-4b7c-bb48-6a422c8ff497
+:END:
+** create org block
+:PROPERTIES:
+:ID:       bfb8ca84-c0f4-4dbb-8afe-df1394417487
+:END:
+1. always provide ~:file~ attribute otherwise it won't work
+:PROPERTIES:
+:ID:       62f701ac-1c53-4331-b7fb-186dcef65d98
+:END:
+#+begin_src plantuml :file test.png
+
+#+end_src
+** setup
+:PROPERTIES:
+:ID:       82b39d54-58c4-48d4-ad2a-6cdd04ef449c
+:END:
+1. download *plantuml.jar* file from [[https://github.com/plantuml/plantuml/releases/tag/v1.2022.5][here]]
+2. set ~org-plantuml-jar-path~ variable inside your ~config.el~ file
+3. [[id:603a21d5-8ecc-46d8-9b0b-74a97e0d0d4e][refresh doom emacs]]
+** increase dpi of generated images
+:PROPERTIES:
+:ID:       b7c6e153-846e-4bb2-8769-720a405ef62f
+:END:
+1. edit plantuml config file ~plantuml.conf~
+2. add the following lines and save
+   #+begin_src sh
+''' setting dpi
+'' small   96 dpi (default, preview)
+'' medium 120 dpi
+'' big    144 dpi
+''
+'' image printing 300 dpi (hd)
+skinparam dpi 300
+   #+end_src
+** create if block in flowchart
+:PROPERTIES:
+:ID:       0113a86d-d5a5-4b3d-8f15-18a3f243d7ac
+:END:
+#+begin_src plantuml :file output.png
+start
+if (work day?) then (yes)
+   :go to work;
+else (no)
+   :stay home;
+endif
+end
+#+end_src
+
+#+RESULTS:
+[[file:output.png]]
+
+* concept
+:PROPERTIES:
+:ID:       8cf2ea64-7bb0-4b7d-8181-b0cd29100668
+:END:
+* snippet
+:PROPERTIES:
+:ID:       66c076cf-0bf4-4eab-920e-a74ed7266719
+:END:

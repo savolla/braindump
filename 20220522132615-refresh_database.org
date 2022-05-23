@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4ab19018-01d2-40dd-81cf-2840f5110f3f
+:END:
+#+title: refresh database
+#+filetags: :how_to:
+~SPC n r s~

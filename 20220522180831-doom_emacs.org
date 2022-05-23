@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       abe81200-b785-47fb-9e84-8a3f617800e1
+:END:
+#+title: doom emacs
+#+filetags: :what_is:
+great [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]] configuration
+* facts
+* how to
+[[id:603a21d5-8ecc-46d8-9b0b-74a97e0d0d4e][refresh doom emacs]]
+* concepts

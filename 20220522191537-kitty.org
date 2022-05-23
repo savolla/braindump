@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       07f4a32b-0d3a-43f0-8f56-38f0f376483e
+:END:
+#+title: kitty
+#+filetags: :what_is:
+very good terminal emulator for [[id:dc704116-8fd7-4969-943d-a783aac1a279][linux]]
+* facts
+* how to
+* concepts

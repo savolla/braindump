@@ -18,6 +18,7 @@ a pinguin.
 :END:
 1. [[id:35b87b25-fbc5-4353-9b49-4f7af448e72d][change system language in linux]]
 2. [[id:4e348a7c-620b-4fc3-8b87-a01a32b034c2][preview pdf in ranger]]
+3. [[id:8a713353-1c51-446a-8e55-e438dea63160][create hard links]]
 ** arch linux
 :PROPERTIES:
 :ID:       44606af5-91d8-4265-8124-973b485bef4d
@@ -38,13 +39,51 @@ a pinguin.
 :PROPERTIES:
 :ID:       1160c252-7a86-4089-b484-87379df7c736
 :END:
-* software
+* tools
 :PROPERTIES:
 :ID:       71ca3fcd-1ae8-4182-aeb3-1b4b347b6b52
-:ROAM_ALIASES: tools packages programs
 :END:
-1. [[id:55bd51b4-57e2-49d0-aa4f-a60f877dd402][qemu]]
-2. [[id:9ac94be1-f59c-4e4b-b30f-19e125b0ceba][pywal]]
-3. [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]]
-4. [[id:2b36f795-ca54-4909-bb9b-3864f4e6d720][ranger]]
-5. [[id:a9b412d1-462f-4e73-a541-574fb65c2bd7][poppler]]
+** [[id:55bd51b4-57e2-49d0-aa4f-a60f877dd402][qemu]]
+:PROPERTIES:
+:ID:       8e50e9cd-05d2-4830-b401-ff1250bb3df5
+:END:
+** [[id:9ac94be1-f59c-4e4b-b30f-19e125b0ceba][pywal]]
+:PROPERTIES:
+:ID:       46a9fddb-3940-4be8-a3f0-519e03d83d52
+:END:
+** [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]]
+:PROPERTIES:
+:ID:       d3d45e23-82b2-40f9-a44d-a140c4ba169e
+:END:
+** ranger
+:PROPERTIES:
+:ID:       42223d59-d496-4841-9533-68173ad32084
+:END:
+*** fact
+:PROPERTIES:
+:ID:       a1bb7c8d-8b01-46b3-a0ce-5049e25802e3
+:END:
+*** tip
+:PROPERTIES:
+:ID:       2b662532-f013-4c66-b5aa-7798a42373ed
+:END:
+*** howto
+:PROPERTIES:
+:ID:       2a6c6c0e-ec85-4804-8e2b-8020c67fcb83
+:END:
+**** [[id:cd61254e-f734-45b9-9fec-61e1d92c791c][enable image preview support]]
+:PROPERTIES:
+:ID:       250123fe-1cb1-4507-8a66-0892c1c64691
+:END:
+*** snippet
+:PROPERTIES:
+:ID:       f5995ad5-1676-4834-a30c-2d1d88ae8a33
+:END:
+*** list of
+:PROPERTIES:
+:ID:       5277a261-e405-44fc-bbec-c87cc4c16e17
+:END:
+** [[id:a9b412d1-462f-4e73-a541-574fb65c2bd7][poppler]]
+:PROPERTIES:
+:ID:       edb2e87f-2723-427d-8c94-3fb75701b15e
+:END:

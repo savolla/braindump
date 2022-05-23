@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       45fe4321-1d37-4f5c-91b3-cb43524a8a0e
+:END:
+#+title: create emacs theme from wallpaper colors
+#+filetags: :emacs:how_to:
+TODO

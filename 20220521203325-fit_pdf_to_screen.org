@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f23afc78-c4e0-4fde-9db3-d44a0edf393c
+:END:
+#+title: fit pdf to screen
+#+filetags: :how_to:
+while in *document viewer* press ~shift+w~

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c2a9ff4f-d6bb-4d1f-af81-5017db9af90a
+:END:
+#+title: annotate pdfs in emacs
+#+filetags: :how_to:
+1. install ~org-noter-pdftools~ from melpa
+2. open a pdf file your want to annotate and your pdf will be displayed inside emacs
+3. use your mouse like in other pdf programs to highlight, annotate etc
+4. extract your annotations with ~org-noter-create-skeleton~ command
+5. when asked, select only *highlights* and all your annotations will be displayed on the org file

@@ -12,17 +12,73 @@
 :PROPERTIES:
 :ID:       10a28d0f-5680-45ca-b645-cc0bb6d98c0d
 :END:
+** [[id:45fe4321-1d37-4f5c-91b3-cb43524a8a0e][create emacs theme from wallpaper colors]]
+:PROPERTIES:
+:ID:       d39e81ae-c68d-4b44-af67-7e8fe0d8b476
+:END:
+** [[id:c2a9ff4f-d6bb-4d1f-af81-5017db9af90a][annotate pdfs in emacs]]
+:PROPERTIES:
+:ID:       a39fd758-4cbd-46a7-a73b-a590ab050edb
+:END:
 * packages
 :PROPERTIES:
 :ID:       eb339ded-4c7c-4f6d-8da1-42f51a6d1e10
 :END:
-** [[id:a2b6a085-ac83-4c97-8611-705a4c2d98d9][deft]]
-:PROPERTIES:
-:ID:       a2120a0a-df51-44ba-bc95-c024bebc6949
-:END:
 ** [[id:a9232860-fdc2-4c6a-a159-451708db0572][org-roam]]
-** doom emacs
 :PROPERTIES:
-:ID:       5253265e-9919-46a8-9dc8-11809b91793d
+:ID:       d67c0639-1ec3-41e6-a989-8d8c6367b35f
 :END:
 ** [[id:41b3d73c-fc38-41ef-bded-7c2d75b4c426][org-mode]]
+:PROPERTIES:
+:ID:       68c48199-6119-420c-9ef3-4560415d7566
+:END:
+** [[id:d3af8861-75ef-4ce1-b07a-47792a0bec43][org-noter]]
+:PROPERTIES:
+:ID:       99764dd9-fbba-4360-a6b4-40aa93278ec1
+:END:
+*** facts
+:PROPERTIES:
+:ID:       2e80f2a8-e93b-433b-b09b-76e340cdad6c
+:END:
+*** how to
+:PROPERTIES:
+:ID:       498f030c-1d1c-46e0-892c-0b6c8f273036
+:END:
+**** [[id:f23afc78-c4e0-4fde-9db3-d44a0edf393c][fit pdf to screen]]
+:PROPERTIES:
+:ID:       c64fa021-dc12-487d-9647-79960f2c0793
+:END:
+*** concepts
+:PROPERTIES:
+:ID:       c1db215e-278f-488e-a835-b5006e6f3be8
+:END:
+** [[id:5ab57865-45b1-4c4e-a122-5fc59107cf85][pdf-tools]]
+:PROPERTIES:
+:ID:       011bc82c-3b2c-4f1d-9d78-4966d7fffb0f
+:END:
+** [[id:b531acfa-7397-4184-bd9f-62207e5b0021][org-agenda]]
+:PROPERTIES:
+:ID:       0ca80f98-ff3e-42fd-903b-0a27972aece9
+:END:
+** [[id:df0004e9-60bb-49e7-bfaf-70bb86f65a26][org-roam-ui]]
+:PROPERTIES:
+:ID:       89f0dd1a-ce5d-4eb9-8ade-0deafe442a43
+:END:
+** [[id:c02e6311-e72f-42d6-b54c-6b1883d4bbc4][org-reveal]]
+:PROPERTIES:
+:ID:       2124fec2-244b-4f5f-acb6-636492f52bdb
+:END:
+
+** [[id:159ac86f-3397-4cbb-bf67-edab43a9f1d2][anki-editor]]
+:PROPERTIES:
+:ID:       7c0f4312-4825-4d66-8945-d086ac21117d
+:END:
+** [[id:abe81200-b785-47fb-9e84-8a3f617800e1][doom emacs]]
+:PROPERTIES:
+:ID:       c905c8f8-78d0-45ba-9b64-14e01edba8da
+:END:
+** [[id:a2b6a085-ac83-4c97-8611-705a4c2d98d9][deft]]
+:PROPERTIES:
+:ID:       6f606bd4-8690-41bb-9563-60068ef8b347
+:END:
+** [[id:ada54f7c-4618-4178-be71-8ee95c5d45d3][plantuml]]

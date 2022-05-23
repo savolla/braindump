@@ -1,8 +1,0 @@
-#+TITLE: OOP Languages
-#+STARTUP: overview
-#+ROAM_TAGS: index
-#+CREATED: [2021-07-05 Pzt]
-#+LAST_MODIFIED: [2021-07-05 Pzt 23:46]
-
-+ [[./java.org][java]]
-+ [[./csharp.org][c#]]

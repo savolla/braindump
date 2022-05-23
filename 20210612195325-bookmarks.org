@@ -6,10 +6,11 @@
 #+CREATED: [2021-06-12 Cts]
 #+LAST_MODIFIED: [2021-06-12 Cts 19:53]
 
-<<<<<<< HEAD
-* [[id:b2759764-9625-476e-a663-c8f6924209**b4][Youtube channels]]
-=======
-* youtube channels
+* social
+:PROPERTIES:
+:ID:       62bb84b6-0348-4fe0-bc6f-a876d3604c87
+:END:
+** youtube channels
 :PROPERTIES:
 :ID:       1ee33f62-25b9-40b7-8e31-881c76be6846
 :END:
@@ -21,7 +22,7 @@
 6. [[https://www.youtube.com/c/DiamondTema][Diamond Tema]] : atheism made easy
 7. [[https://www.youtube.com/c/MrBallen][MrBallen]] : strange, dark and misterious stories
 
-* odysee channels
+** odysee channels
 :PROPERTIES:
 :ID:       fda592bc-4932-44aa-bb28-9911b2be7ae1
 :END:
@@ -29,36 +30,8 @@
 2. [[https://odysee.com/@sirsudo:8][SirSudo]] : ~sudo $(sudo !!)~
 3. [[https://odysee.com/@DistroTube:2][DistroTube]] : the "Countient"
 4. [[https://odysee.com/@christitustech:5][Chris Titus Tech]] : the guy who hates windows but uses it anyway.
-* theft
-:PROPERTIES:
-:ID:       018b0dce-451a-4c7d-bfe6-7a62f19ecf46
-:END:
-** papers
-:PROPERTIES:
-:ID:       5ad0e8f9-01cb-4ff6-ac0e-5ee67087c2c2
-:END:
-1. [[https://sci-hub.mksa.top/][sci-hub]]
-2. [[https://booksc.org/][zlibrary-science]]
-3. [[https://libgen.is/scimag/][libgen-articles]]
-** books
-:PROPERTIES:
-:ID:       4d280b39-c817-45c0-bd71-77e53822453e
-:END:
-1. [[xdcc.eu/search.php][xdcc]] : look here if you cannot find your book anywhere
-2. [[cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers][enchanced book search]] : google search that is modified for outputing books
-3. [[https://ravebooksearch.com/#gsc.tab=0][book search]] : pirated book search engine just like torlook
-** torrent sites
-:PROPERTIES:
-:ID:       3c8e0a94-cee5-4ce7-a8d7-bb275bd47148
-:END:
-1. [[en.btdig.com/index.htm][btdigg]] : contains old torrents but has a huge collection
-** games
-1. [[https://idleendeavor.github.io/gamesearch/index.html#gsc.tab=0][game search]]
-** software
-1. [[https://ravesoftwaresearch.pages.dev/#gsc.tab=0][software search]]
-** private trackers
-1. [[https://www.myanonamouse.net/login.php?returnto=%2F][myanonamouse]]
-* subreddits
+
+** subreddits
 :PROPERTIES:
 :ID:       063dc5d2-0a86-471b-894f-8b010ee1d6c0
 :END:
@@ -88,4 +61,43 @@
 24. [[https://www.reddit.com/r/unixport][unixport]]
 25. [[https://www.reddit.com/r/vim][vim]]
 26. [[https://www.reddit.com/r/wine_gaming][wine_gaming]]
->>>>>>> ca2b4ab5a96e7decd677d0be34913c4d5c8b6bb4
+* theft
+:PROPERTIES:
+:ID:       018b0dce-451a-4c7d-bfe6-7a62f19ecf46
+:END:
+** papers
+:PROPERTIES:
+:ID:       5ad0e8f9-01cb-4ff6-ac0e-5ee67087c2c2
+:END:
+1. [[https://sci-hub.mksa.top/][sci-hub]]
+2. [[https://booksc.org/][zlibrary-science]]
+3. [[https://libgen.is/scimag/][libgen-articles]]
+** books
+:PROPERTIES:
+:ID:       4d280b39-c817-45c0-bd71-77e53822453e
+:END:
+1. [[xdcc.eu/search.php][xdcc]] : look here if you cannot find your book anywhere
+2. [[cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers][enchanced book search]] : google search that is modified for outputing books
+3. [[https://ravebooksearch.com/#gsc.tab=0][book search]] : pirated book search engine just like torlook
+** torrent sites
+:PROPERTIES:
+:ID:       3c8e0a94-cee5-4ce7-a8d7-bb275bd47148
+:END:
+1. [[en.btdig.com/index.htm][btdigg]] : contains old torrents but has a huge collection
+** games
+1. [[https://idleendeavor.github.io/gamesearch/index.html#gsc.tab=0][game search]]
+** software
+1. [[https://ravesoftwaresearch.pages.dev/#gsc.tab=0][software search]]
+** private trackers
+1. [[https://www.myanonamouse.net/login.php?returnto=%2F][myanonamouse]]
+* privacy
+:PROPERTIES:
+:ID:       ebf92eb3-42a6-4444-a319-59447be06e2b
+:END:
++ [[https://user-content.gitlab-static.net/37cfea2cee75ee2862ec5d2d18a803949477adbf/68747470733a2f2f692e6962622e636f2f64424a384859742f32313131343536322d312d322e706e67][FBI messaging apps access]]
++ [[https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn#instant-messaging][privacy tools list]]
+* other
+:PROPERTIES:
+:ID:       c80c3335-260d-452c-92c4-73e928de892d
+:END:
++ [[https://www.huertatipografica.com/en/fonts/alegreya-ht-pro][Alegreya font for emacs??]]

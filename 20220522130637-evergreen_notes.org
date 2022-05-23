@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a408c12c-7adc-4e8d-ab8c-af5f03b13dc5
+:END:
+#+title: evergreen notes
+#+filetags: :what_is:
+My articles
+
+[[id:16f454a8-2b55-44ec-bb3f-f8b8a21d19f2][how I live inside emacs]]
+[[id:c151c66b-6344-4dcf-a1dc-15094bb4fbc3][my learning framework]]

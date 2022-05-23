@@ -1,8 +1,7 @@
-:PROPERTIES:
-:ID:       cf2264f5-45b9-4fe8-86a1-dd4a5dcdc7fb
-:END:
 #+title: Clean Code
 #+filetags: :book:
+
+* noter
 
 * fact
 :PROPERTIES:

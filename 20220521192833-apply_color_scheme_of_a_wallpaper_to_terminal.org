@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5cf60f1e-636b-4ec6-9489-2b6b2317b57b
+:END:
+#+title: apply color scheme of a wallpaper to terminal
+#+filetags: :how_to:
+
+you'll need to [[id:74345d5d-3150-4200-b74f-7772fb8b3118][install pywall]] first.
+#+begin_src sh
+wal -i $PATH_TO_WALLPAPER
+#+end_src

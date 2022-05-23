@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       394e8257-afcc-4ea7-8279-9df13ff77dc7
+:END:
+#+title: Clean Code
+#+filetags: :book:
+
+* clean code book notes
+:PROPERTIES:
+:NOTER_DOCUMENT: ../../resource/library/software-shelf/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship-Prentice Hall (2008).pdf
+:END:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8319e545-9dc2-4a38-ae9b-9ee8d1bf8cb7
+:ROAM_ALIASES: braindump
 :END:
 #+title: cortex
 #+filetags: :cmap:what_is:
@@ -13,21 +14,58 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 :id: a747dfb1-ecfe-464d-a8e1-910cce046446
 :END:
 ** [[id:15cef94f-c12e-4531-b5dd-d2ca6ca4a1d6][currently reading books]]
+:PROPERTIES:
+:ID:       8d98b9e4-be0f-49bf-89b6-236bdea5dc9d
+:END:
 ** [[id:28f1ce3a-1854-40e1-bfa1-55adc27a34b0][articles to read]]
+:PROPERTIES:
+:ID:       ee7bd8db-c061-41df-8d6b-85afa7ae1fa3
+:END:
 ** [[id:e877b9f4-38b5-49db-90d8-03398cb0c66d][books to read]]
+:PROPERTIES:
+:ID:       004f48b3-52cb-426d-89a3-1e280607fa57
+:END:
 ** [[id:f997711b-064d-4c21-9132-3ab6f389f40a][videos to watch]]
+:PROPERTIES:
+:ID:       2b8261b6-6838-4ddc-bded-de78e34d5399
+:END:
 ** [[id:9247a0ae-028d-4a78-bc67-f54139704abb][vocabulary to memorize]]
+:PROPERTIES:
+:ID:       166b9fef-73fc-4e44-80d9-5c5638f15d99
+:END:
+** [[id:a408c12c-7adc-4e8d-ab8c-af5f03b13dc5][evergreen notes]]
 ** [[id:c4ac8e0e-4c75-4ef0-84b7-19feb7da2d4c][orphan notes]]
+:PROPERTIES:
+:ID:       ef8ffc2e-0aad-47ee-a3c6-296eb5b422b4
+:END:
 * area
 :PROPERTIES:
 :ID:       659c3620-91b1-422c-af3a-dee88d08714d
 :END:
-1. [[id:3f190252-a13d-494f-a189-aeebd6a3d13f][note taking]]
-2. [[file:20210706112127-index-image_processing.org][Image Processing]]
-3. [[id:3787f6f9-ef8e-4bbd-b510-5b1c2badb1f6][sociology]]
-4. [[id:4af165e1-f967-4751-b307-1d13417f1d7d][embedded systems]]
-5. [[id:867d220e-78b2-4b85-959b-73d8e1998abe][music]]
-6. [[file:20210705095257-index-plc.org][PLC]]
+** [[id:3f190252-a13d-494f-a189-aeebd6a3d13f][note taking]]
+:PROPERTIES:
+:ID:       382ff349-f526-47c5-adac-c4fa62c5e4fb
+:END:
+** [[file:20210706112127-index-image_processing.org][Image Processing]]
+:PROPERTIES:
+:ID:       b3f18dd3-9d38-44d6-a232-0c4d01d52515
+:END:
+** [[id:3787f6f9-ef8e-4bbd-b510-5b1c2badb1f6][sociology]]
+:PROPERTIES:
+:ID:       b67b9117-7096-40e6-aee1-638d8fe30be5
+:END:
+** [[id:4af165e1-f967-4751-b307-1d13417f1d7d][embedded systems]]
+:PROPERTIES:
+:ID:       08820396-f606-45f2-91fd-391b805d079d
+:END:
+** [[id:867d220e-78b2-4b85-959b-73d8e1998abe][music]]
+:PROPERTIES:
+:ID:       302ac496-d86e-4e58-b765-e52de4c27d21
+:END:
+** [[file:20210705095257-index-plc.org][PLC]]
+:PROPERTIES:
+:ID:       308ef2eb-112b-47f9-834a-3065f3278e8d
+:END:
 ** programming
 :PROPERTIES:
 :ID:       4f238fc3-8773-493d-bcc0-37073331b11c
@@ -100,12 +138,8 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 :PROPERTIES:
 :id: 10005ac7-41a9-4c8e-8114-1edb6b704184
 :END:
-:LOGBOOK:
-CLOCK: [2022-05-20 Fri 22:28:24]
-:END:
 ** [[Internship]]
 ** [[id:486a9873-2ed1-4e60-9476-bc2124741e16][bookmarks]]
-**
 * archive
 :PROPERTIES:
 :ID:       2d34cff4-ea9a-4b82-9fdb-819d9c8cd302

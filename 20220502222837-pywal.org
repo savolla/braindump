@@ -9,4 +9,6 @@ wallpaper colors to terminal colors
 
 * facts
 * how to
+[[id:5cf60f1e-636b-4ec6-9489-2b6b2317b57b][apply color scheme of a wallpaper to terminal]]
+[[id:74345d5d-3150-4200-b74f-7772fb8b3118][install pywal]]
 * concepts

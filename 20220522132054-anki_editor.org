@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       159ac86f-3397-4cbb-bf67-edab43a9f1d2
+:END:
+#+title: anki-editor
+#+filetags: :what_is:
+
+* facts
+* how to
+* concepts

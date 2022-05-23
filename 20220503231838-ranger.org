@@ -1,5 +1,1 @@
-:PROPERTIES:
-:ID:       2b36f795-ca54-4909-bb9b-3864f4e6d720
-:END:
-#+title: ranger
-#+filetags: :what_is:
+

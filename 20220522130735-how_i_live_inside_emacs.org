@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       16f454a8-2b55-44ec-bb3f-f8b8a21d19f2
+:END:
+#+title: how I live inside emacs
+
+* how emacs can do everything the logseq does
+
+| logseq feature  | emacs alternative    |
+|-----------------+----------------------|
+| flashcards      | anki-editor          |
+| pdf support     | org-noter, pdf-tools |
+| task management | org-agenda           |
+| backlinks       | org-roam             |
+| knowledge graph | org-roam-ui          |
+| presentation    | org-reveal           |

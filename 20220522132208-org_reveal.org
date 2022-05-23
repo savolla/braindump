@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c02e6311-e72f-42d6-b54c-6b1883d4bbc4
+:END:
+#+title: org-reveal
+#+filetags: :what_is:
+
+* facts
+* how to
+* concepts

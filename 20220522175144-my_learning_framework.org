@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       c151c66b-6344-4dcf-a1dc-15094bb4fbc3
+:END:
+#+title: my learning framework
+
+* My Learning Framework
+
+#+begin_src plantuml :file output.png
+@startuml
+start
+:wake up;
+if (work day?) then (yes)
+    repeat
+    :read book;
+    if (arrived at work?) then (yes)
+    :fillme
+    else (no)
+    while (arrived at work?) is (no)
+endif
+else (no)
+   :don't process;
+endif
+end
+@enduml
+#+end_src
+
+#+RESULTS:
+[[file:output.png]]

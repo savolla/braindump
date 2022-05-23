@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       603a21d5-8ecc-46d8-9b0b-74a97e0d0d4e
+:END:
+#+title: refresh doom emacs
+#+filetags: :how_to:
+~SPC h r r~

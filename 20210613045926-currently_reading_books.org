@@ -7,9 +7,27 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 04:59]
 
-1. [[id:5dbf1fea-dcb1-4d47-9e1f-4da7f91161da][Computer Organization and Design: The Hardware/Software Interface]]
-2. [[id:1217b720-c720-42b1-83ba-103f69516f2c][Calculus: Early Transcendentals]]
-3. [[id:fe64dfe8-bb30-48ad-8e27-7b6034dd63d4][Aptalı Tanımak]]
-4. [[id:cf2264f5-45b9-4fe8-86a1-dd4a5dcdc7fb][Clean Code]]
-5. [[id:b3ef2f9f-e15d-450f-a84d-0d12365ce0de][ROS Wiki]]
-6. [[id:1fb23746-86be-4927-a97f-10be59d87193][Working Effectively with Legacy Code]]
+* [[id:5dbf1fea-dcb1-4d47-9e1f-4da7f91161da][Computer Organization and Design: The Hardware/Software Interface]]
+:PROPERTIES:
+:ID:       b56bc5ab-c209-4dc7-a6a3-810d674c3834
+:END:
+* [[id:1217b720-c720-42b1-83ba-103f69516f2c][Calculus: Early Transcendentals]]
+:PROPERTIES:
+:ID:       08b8749f-788a-4c34-8ec9-59c4f937096f
+:END:
+* [[id:fe64dfe8-bb30-48ad-8e27-7b6034dd63d4][Aptalı Tanımak]]
+:PROPERTIES:
+:ID:       0606b142-09f9-424b-b8bc-87d7a58e9aa0
+:END:
+* [[id:394e8257-afcc-4ea7-8279-9df13ff77dc7][Clean Code]]
+:PROPERTIES:
+:ID:       c9543244-60ce-4425-abef-c7da3ccc7c14
+:END:
+* [[id:b3ef2f9f-e15d-450f-a84d-0d12365ce0de][ROS Wiki]]
+:PROPERTIES:
+:ID:       b71f22ac-6202-46ae-8ba2-9430c43c5735
+:END:
+* [[id:1fb23746-86be-4927-a97f-10be59d87193][Working Effectively with Legacy Code]]
+:PROPERTIES:
+:ID:       2dbc40f9-1368-4f48-91a0-07cf19e87389
+:END:

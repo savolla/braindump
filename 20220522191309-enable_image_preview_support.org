@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       cd61254e-f734-45b9-9fec-61e1d92c791c
+:END:
+#+title: enable image preview support
+#+filetags: :how_to:
+1. if you have a terminal different than [[id:07f4a32b-0d3a-43f0-8f56-38f0f376483e][kitty]] then you need to modify ~rc.conf~ file which is the one of the configuration files of ranger. find the line like this;
+   #+begin_src sh
+set preview_images_method w3m
+   #+end_src
+2. replace ~w3m~ with ~kitty~ and you're done.
+3. if you have other terminal emulator then install ~w3m~ package 
+   #+begin_src sh
+sudo pacman -S w3m
+   #+end_src

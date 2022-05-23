@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       74345d5d-3150-4200-b74f-7772fb8b3118
+:END:
+#+title: install pywal
+#+filetags: :how_to:
+#+begin_src sh
+sudo pip3 install pywal
+#+end_src

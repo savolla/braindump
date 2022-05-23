@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8a713353-1c51-446a-8e55-e438dea63160
+:END:
+#+title: create hard links
+#+filetags: :how_to:
+#+BEGIN_SRC sh
+cp -lRf $SOURCE_FILE $DESTINATION
+#+END_SRC

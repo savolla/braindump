@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       aceb29d6-9242-497f-bf88-d34fb8cdb83e
-:END:
-#+title: catkin_make
-#+filetags: :what_is:
-it's a [[id:71bdbf8c-de11-4bbe-b639-111b2d32bdf6][ros]] command which should be run for [[id:b2e2fcb8-6831-470e-9c80-27a2e339cd66][create a catkin workspace]]
-* facts
-* how to
-* concepts
