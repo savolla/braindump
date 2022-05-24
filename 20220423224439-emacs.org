@@ -32,10 +32,11 @@
 :PROPERTIES:
 :ID:       68c48199-6119-420c-9ef3-4560415d7566
 :END:
-** [[id:d3af8861-75ef-4ce1-b07a-47792a0bec43][org-noter]]
+** org-noter
 :PROPERTIES:
-:ID:       99764dd9-fbba-4360-a6b4-40aa93278ec1
+:ID:       4304eb52-8da6-4ea0-a03e-29008658b813
 :END:
+nice pdf highlighting and annotator package for [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]]. org-noter can *sync* notes between documents such as *pdf*, *ebook*
 *** facts
 :PROPERTIES:
 :ID:       2e80f2a8-e93b-433b-b09b-76e340cdad6c
@@ -47,6 +48,10 @@
 **** [[id:f23afc78-c4e0-4fde-9db3-d44a0edf393c][fit pdf to screen]]
 :PROPERTIES:
 :ID:       c64fa021-dc12-487d-9647-79960f2c0793
+:END:
+**** [[id:1612954b-6c35-4adf-a004-7adc5b2807b5][use]]
+:PROPERTIES:
+:ID:       c15874e8-d15e-4aa3-9c6e-cacac32c0503
 :END:
 *** concepts
 :PROPERTIES:

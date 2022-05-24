@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1612954b-6c35-4adf-a004-7adc5b2807b5
+:END:
+#+title: use
+#+filetags: :how_to:
+1. open an org file
+2. run ~org-noter~
+3. it will ask for document
+4. select either *pdf* or *epub*

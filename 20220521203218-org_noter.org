@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       d3af8861-75ef-4ce1-b07a-47792a0bec43
-:END:
-#+title: org-noter
-#+filetags: :what_is:
-nice pdf highlighting and annotator package for [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]]
