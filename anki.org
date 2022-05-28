@@ -1,3 +1,33 @@
 #+title: Anki
 #+startup: content
 * notitia
+** 20:17
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653758959208
+:END:
+*** Front
+if a *name* of a variable, class or function _needs a comment_ then the name does not reveal its ...
+*** Back
+intent
+** 20:25
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653758959306
+:END:
+*** Front
+why including the word "list" in a variable name is a bad thing?
+*** Back
+because people might assume that this is actually a *list* or *array* object.
+** 20:27
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653758959405
+:END:
+*** Front
+which alternative word should be used instead *list* in an object name?
+*** Back
+if it's not actually a list or array, use *group* or use "s" to represent quantity
