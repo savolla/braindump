@@ -4,6 +4,7 @@
 :END:
 #+title: cortex
 #+filetags: :cmap:what_is:
+#+startup: content
 
 #+begin_quote
 Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up my brain here so I can find it if I lose it!
