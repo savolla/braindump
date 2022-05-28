@@ -65,10 +65,90 @@ because it add a *metal load* to the code. programmer will need to _decipher_ ev
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 how to reference class properties in java?
 *** Back
 #+begin_src java
-this.yout_property
+this.your_property
 #+end_src
+** 22:19 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653766195648
+:END:
+*** Front
+is including *verb* words inside *class names* good idea?
+*** Back
+No. It should be *noun*
+** 22:23 :programming:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653766195749
+:END:
+*** Front
+what *predicate method* means in programming?
+*** Back
+methods that return *boolean* like ~true~ or ~false~
+** 22:27 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653766195823
+:END:
+*** Front
+how *predicate methods* should be named?
+*** Back
+~isEven()~, ~isEmpty()~ and so on.
+** 22:32 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653766561148
+:END:
+*** Front
+what is *accessor method* means?
+*** Back
+it accesses a *property* of a class
+** 22:33 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653766561223
+:END:
+*** Front
+what *mutator method* means?
+*** Back
+it mutates (changes) a *property or a class*
+** 22:34 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653766561323
+:END:
+*** Front
+how *mutator methods* should be names?
+*** Back
+use ~set~ prefix. like ~setName("savolla")~
+** 22:35 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653766561398
+:END:
+*** Front
+how *accessor methods* should be names?
+*** Back
+use ~get~ prefix. like ~getName()~
+** 22:37 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is *static factory* methods?
+*** Back
+TODO
