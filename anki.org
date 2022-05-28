@@ -31,3 +31,44 @@ because people might assume that this is actually a *list* or *array* object.
 which alternative word should be used instead *list* in an object name?
 *** Back
 if it's not actually a list or array, use *group* or use "s" to represent quantity
+** 20:48 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653760554056
+:END:
+*** Front
+which 2 words should be used when we use variables for *copying* or *moving* from one directoion to another
+*** Back
+*source* and *destination*
+** 20:54 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653760554161
+:END:
+*** Front
+why using *pronounceable* names important?
+*** Back
+because *pronouncing*, *discussing* about this variable will be easier. also *searching* is easier.
+** 21:02 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653761082931
+:END:
+*** Front
+why using *encodings* like *Hungarian Notation* is a bad idea?
+*** Back
+because it add a *metal load* to the code. programmer will need to _decipher_ every variable name. also *searching* is *hard*. and *miss spelling* them is easy!
+** 21:07 :java:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how to reference class properties in java?
+*** Back
+#+begin_src java
+this.yout_property
+#+end_src
