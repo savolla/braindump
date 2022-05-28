@@ -39,6 +39,10 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 :PROPERTIES:
 :ID:       ef8ffc2e-0aad-47ee-a3c6-296eb5b422b4
 :END:
+** [[./anki.org][flashcards]]
+:PROPERTIES:
+:ID:       aa5efb5b-1645-4cca-b37d-a05c82ef7459
+:END:
 * area
 :PROPERTIES:
 :ID:       659c3620-91b1-422c-af3a-dee88d08714d
