@@ -733,3 +733,21 @@ what are the steps for refining a function? (massaging the code)
 3. shorten *argument list*
 4. find *better names*
 5. remove *duplicated code*
+** 2022.05.29-18:23:21 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+why *comments* are liers?
+*** Back
+because programmers update the code below and usually forget to update the comments above
+** 2022.05.29-18:25:08 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+instead of writing *comments* you better express yourself better in the ...
+*** Back
+1. code
