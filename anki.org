@@ -527,3 +527,62 @@ you should avoid more than ... function arguments
 what is the biggest reason why we have to avoid too much function arguments ?
 *** Back
 *testing* becomes harder when arguments increase
+** 2022.05.29-15:15:35 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what are the 3 forms of *monadic functions*?
+*** Back
+1. question monads
+2. operator monads
+3. event monads
+** 2022.05.29-15:16:41 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*question monadic functions* include ... word as prefix and returns a ... value. they ... mutate the argument
+*** Back
+1. "is"
+2. boolean
+3. do not
+** 2022.05.29-15:18:18 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*operator monadic functions* ... the input argument and returns the ... version
+*** Back
+1. transforms
+2. modified
+** 2022.05.29-15:21:13 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is *event monadic function* ?
+*** Back
+alters the *state of the system* and does not return anything
+** 2022.05.29-15:24:54 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+why passing *booleans* as parameters to a function is a *bad idea*?
+*** Back
+because it's clear that this function *does more than one thing*. one for ~true~ value and one for ~false~ value.
+** 2022.05.29-15:27:01 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how to heal functions that take *booleans* as parameter?
+*** Back
+create two separate functions. one for ~true~ value and another for ~false~ value
