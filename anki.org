@@ -671,6 +671,7 @@ try / catch blocks
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653835264438
 :END:
 *** Front
 how many lines should *try/catch* blocks contain?
@@ -680,6 +681,7 @@ only 1
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653835264513
 :END:
 *** Front
 what *catch* blocks should contain?
@@ -689,6 +691,7 @@ function call
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653835264588
 :END:
 *** Front
 which *postfix* should be used for the function that is being called inside a *catch* block?
@@ -698,6 +701,7 @@ which *postfix* should be used for the function that is being called inside a *c
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653835264688
 :END:
 *** Front
 what are the rules of *structured programming*?
@@ -705,3 +709,27 @@ what are the rules of *structured programming*?
 1. functions contain only one ~return~ statement
 2. no ~break~ or ~continue~ statements in a loop
 3. never use ~goto~ statements
+** 2022.05.29-17:32:06 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653835264763
+:END:
+*** Front
+how to write functions like Uncle Bob suggests in his *Clean Code* book?
+*** Back
+1. write the function without any prettifying
+** 2022.05.29-17:35:57 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653835264838
+:END:
+*** Front
+what are the steps for refining a function? (massaging the code)
+*** Back
+1. reduce number of *indenting*
+2. fix *nested loops*
+3. shorten *argument list*
+4. find *better names*
+5. remove *duplicated code*
