@@ -647,6 +647,7 @@ give examples of *side effects* of functions
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653830475287
 :END:
 *** Front
 what can we do to avoid *output function arguments*?
@@ -660,8 +661,47 @@ number.negate() # do this!
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653830475363
 :END:
 *** Front
 use ... instead of using *error codes in if statements*
 *** Back
 try / catch blocks
+** 2022.05.29-17:16:16 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how many lines should *try/catch* blocks contain?
+*** Back
+only 1
+** 2022.05.29-17:17:03 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what *catch* blocks should contain?
+*** Back
+function call
+** 2022.05.29-17:17:49 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+which *postfix* should be used for the function that is being called inside a *catch* block?
+*** Back
+~Error~
+** 2022.05.29-17:28:21 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what are the rules of *structured programming*?
+*** Back
+1. functions contain only one ~return~ statement
+2. no ~break~ or ~continue~ statements in a loop
+3. never use ~goto~ statements
