@@ -147,6 +147,7 @@ use ~get~ prefix. like ~getName()~
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653769018124
 :END:
 *** Front
 what is *static factory* methods?
@@ -156,6 +157,7 @@ TODO
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653769018199
 :END:
 *** Front
 what is *punning* in coding?
@@ -165,6 +167,7 @@ it's where you use words which has *multiple meanings*. like ~add()~. where it c
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653769018273
 :END:
 *** Front
 what is the better word alternative than *add* when you adding some element to an *array* or *list*?
@@ -174,6 +177,7 @@ what is the better word alternative than *add* when you adding some element to a
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653769018349
 :END:
 *** Front
 what is the better word alternative than *add* when you _summing values_?
@@ -183,6 +187,7 @@ what is the better word alternative than *add* when you _summing values_?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653769018423
 :END:
 *** Front
 what is *visitor pattern*?
@@ -192,6 +197,7 @@ TODO
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653769018499
 :END:
 *** Front
 is using *problem domain concept names* as variable,class names a good idea?
