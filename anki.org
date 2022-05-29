@@ -513,6 +513,7 @@ function with *more than three parameters*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828708537
 :END:
 *** Front
 you should avoid more than ... function arguments
@@ -522,6 +523,7 @@ you should avoid more than ... function arguments
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828708612
 :END:
 *** Front
 what is the biggest reason why we have to avoid too much function arguments ?
@@ -531,6 +533,7 @@ what is the biggest reason why we have to avoid too much function arguments ?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828708688
 :END:
 *** Front
 what are the 3 forms of *monadic functions*?
@@ -542,6 +545,7 @@ what are the 3 forms of *monadic functions*?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828708763
 :END:
 *** Front
 *question monadic functions* include ... word as prefix and returns a ... value. they ... mutate the argument
@@ -553,6 +557,7 @@ what are the 3 forms of *monadic functions*?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828708838
 :END:
 *** Front
 *operator monadic functions* ... the input argument and returns the ... version
@@ -563,6 +568,7 @@ what are the 3 forms of *monadic functions*?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828708912
 :END:
 *** Front
 what is *event monadic function* ?
@@ -572,6 +578,7 @@ alters the *state of the system* and does not return anything
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828708987
 :END:
 *** Front
 why passing *booleans* as parameters to a function is a *bad idea*?
@@ -581,6 +588,7 @@ because it's clear that this function *does more than one thing*. one for ~true~
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828709062
 :END:
 *** Front
 how to heal functions that take *booleans* as parameter?
@@ -590,6 +598,7 @@ create two separate functions. one for ~true~ value and another for ~false~ valu
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828709138
 :END:
 *** Front
 what should we do if function has to take more than 2 arguments and arguments inside are a part of concept (like x,y,z values of a 3D point)?
@@ -599,6 +608,7 @@ create a special *struct* or *class* for these arguments (like class Point) and 
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828709238
 :END:
 *** Front
 *dyadic functions* require us to remember *the order of arguments*. how can we solve this small issue?
@@ -615,6 +625,7 @@ assertExpectedEqualsActual(expected, actual)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828709313
 :END:
 *** Front
 what is *side effects* of a function?
@@ -624,6 +635,7 @@ when function modifies things that are not inside its scope.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653828709388
 :END:
 *** Front
 give examples of *side effects* of functions
@@ -631,3 +643,25 @@ give examples of *side effects* of functions
 1. global variable modification
 2. class attribute modification
 3. initializing and using other classes
+** 2022.05.29-16:08:27 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what can we do to avoid *output function arguments*?
+*** Back
+use OO. output arguments can be used as class objects
+#+begin_src python
+negate(number) # don't do this
+number.negate() # do this!
+#+end_src
+** 2022.05.29-16:20:22 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+use ... instead of using *error codes in if statements*
+*** Back
+try / catch blocks
