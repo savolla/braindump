@@ -207,6 +207,7 @@ yes.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653818626939
 :END:
 *** Front
 what is the smallest thing of organization in programs?
@@ -216,6 +217,7 @@ functions
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653818627039
 :END:
 *** Front
 how boolean type is represented in java?
@@ -225,8 +227,95 @@ how boolean type is represented in java?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653818627138
 :END:
 *** Front
 what is *JUnit*?
 *** Back
 it's a *testing framework* for *Java*
+** 2022.05.29-13:02:45 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653818627238
+:END:
+*** Front
+the first rule of functions is that *they should be small* the second rule of functions is that ...
+*** Back
+they should be smaller that that!
+** 2022.05.29-13:08:59 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how many *lines* should ~if~, ~else~, ~else if~, ~for~ or ~while~ blocks contain?
+*** Back
+just 1 line!
+** 2022.05.29-13:11:38 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+why code blocks (if, else, for, while) should contain just 1 line?
+*** Back
+1. they add *documentational* value
+2. it makes code very *readable*
+** 2022.05.29-13:13:35 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+code block should only contain 1 line of code. what that one line would be?
+*** Back
+it's a function call!
+** 2022.05.29-13:16:31 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is the maximum *indent level* of a function?
+*** Back
+just one!! (or maybe 2)
+** 2022.05.29-13:17:27 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+why maximum indentation level of function blocks should be only 1?
+*** Back
+it makes code very easy to read and understand
+** 2022.05.29-13:20:02 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+functions should do ... and they should do it ...
+*** Back
+1. one thing
+2. well
+** 2022.05.29-13:24:47 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how to write a *docstring* for a function?
+*** Back
+1. use the word "TO" as a prefix to the *function name*
+2. if function name is in a *verbal* form then it will be more easier to describe it
+3. for example "To renderPageWithSetups we first create page and then add setups" is a very nice example of a docstring
+** 2022.05.29-13:29:56 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how to understand if a function is doing *more than one thing*?
+*** Back
+we write a *docstring* using *TO* prefix and see if we have multiple tasks inside a function
