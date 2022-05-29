@@ -431,9 +431,99 @@ you know you are working on ... when each routine turns out to be pretty much wh
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653824598198
 :END:
 *** Front
 a *long* descriptive name is better than a ... . a long descriptive name is better than a ...
 *** Back
 1. *short cryptic* name
 2. long descriptive *comment*
+** 2022.05.29-14:33:04 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653824598293
+:END:
+*** Front
+is spending time to find a good variable, class or function name a good idea?
+*** Back
+definitely yes!
+** 2022.05.29-14:34:40 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653824598471
+:END:
+*** Front
+what benefit can *choosing descriptive names* bring to your module, class or function?
+*** Back
+1. better understanding of the module
+2. can help to *improve* the module by *favorable redesigning*
+** 2022.05.29-14:39:00 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653824598590
+:END:
+*** Front
+what *niladic* function means?
+*** Back
+function with *zero arguments*
+** 2022.05.29-14:40:12 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653824598799
+:END:
+*** Front
+what *monadic function* means?
+*** Back
+function with *only one* parameter
+** 2022.05.29-14:40:48 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653824598894
+:END:
+*** Front
+what *dyadic function* means?
+*** Back
+function with *two parameters*
+** 2022.05.29-14:41:20 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653824598966
+:END:
+*** Front
+what *triadic function* means?
+*** Back
+function with *three arguments*
+** 2022.05.29-14:41:58 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653824599043
+:END:
+*** Front
+what *polyadic function* means?
+*** Back
+function with *more than three parameters*
+** 2022.05.29-14:54:17 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+you should avoid more than ... function arguments
+*** Back
+2
+** 2022.05.29-14:57:52 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is the biggest reason why we have to avoid too much function arguments ?
+*** Back
+*testing* becomes harder when arguments increase
