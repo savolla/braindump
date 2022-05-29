@@ -1,5 +1,7 @@
 #+title: Anki
 #+startup: content
+
+left at page 77, "the newspaper metaphor"
 * notitia
 ** 20:17
 :PROPERTIES:
@@ -737,6 +739,7 @@ what are the steps for refining a function? (massaging the code)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653839189463
 :END:
 *** Front
 why *comments* are liers?
@@ -746,8 +749,31 @@ because programmers update the code below and usually forget to update the comme
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653839189538
 :END:
 *** Front
 instead of writing *comments* you better express yourself better in the ...
 *** Back
 1. code
+** 2022.05.29-18:35:32 :java:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653839189638
+:END:
+*** Front
+what is the java statement for testing an object if it's an instance of a particular class
+*** Back
+~instanceof~
+** 2022.05.29-18:36:59 :java:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653839189738
+:END:
+*** Front
+how to user ~instanceof~ statement in java?
+*** Back
+#+begin_src java
+if ( number instanceof Int )
+#+end_src
