@@ -331,6 +331,7 @@ we write a *docstring* using *TO* prefix and see if we have multiple tasks insid
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653823119013
 :END:
 *** Front
 what is *stepdown rule*?
@@ -340,8 +341,99 @@ reading the program by *descending* one level of abstraction at a time
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653823119088
 :END:
 *** Front
 how do we make applying *stepdown rule* more easily?
 *** Back
 by using *TO* paragraphs as *docstrings*.
+** 2022.05.29-14:05:06 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653823119188
+:END:
+*** Front
+what is *abstract factory*?
+*** Back
+TODO
+** 2022.05.29-14:06:11 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653823119287
+:END:
+*** Front
+which SOLID principle does *switch* statements brake?
+*** Back
+1. SRP (single responsibility principle)
+2. OCP (open close principle)
+** 2022.05.29-14:07:15 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653823119362
+:END:
+*** Front
+how to deal with *switch statements* in terms of *clean code*?
+*** Back
+put it behind an *Abstract Factory*
+** 2022.05.29-14:09:06 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653823119437
+:END:
+*** Front
+when *switch statements* can be tolerated and not creating an *abstract factory* for them?
+*** Back
+if they appear *only once* in the code.
+** 2022.05.29-14:11:25 :java:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653823119538
+:END:
+*** Front
+write a code example of *implementing* an *interface* in java
+*** Back
+#+begin_src java
+public class A implements B {
+    ...
+}
+#+end_src
+** 2022.05.29-14:14:17 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653823119612
+:END:
+*** Front
+which *postfix* should be used in the name of class if it *implements* some interface?
+*** Back
+~Impl~.
+Example: ~public class EmployeeFactoryImpl implements EmployeeFactory {~
+** 2022.05.29-14:17:24 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653823119687
+:END:
+*** Front
+#+begin_quote
+you know you are working on ... when each routine turns out to be pretty much what you ...
+#+end_quote
+
+*** Back
+1. clena code
+2. expected
+** 2022.05.29-14:29:08 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+a *long* descriptive name is better than a ... . a long descriptive name is better than a ...
+*** Back
+1. *short cryptic* name
+2. long descriptive *comment*
