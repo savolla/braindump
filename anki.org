@@ -203,3 +203,30 @@ TODO
 is using *problem domain concept names* as variable,class names a good idea?
 *** Back
 yes.
+** 2022.05.29-12:50:25 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is the smallest thing of organization in programs?
+*** Back
+functions
+** 2022.05.29-12:52:52 :java:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how boolean type is represented in java?
+*** Back
+~boolean~
+** 2022.05.29-12:59:16 :java:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is *JUnit*?
+*** Back
+it's a *testing framework* for *Java*
