@@ -247,6 +247,7 @@ they should be smaller that that!
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653820773362
 :END:
 *** Front
 how many *lines* should ~if~, ~else~, ~else if~, ~for~ or ~while~ blocks contain?
@@ -256,6 +257,7 @@ just 1 line!
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653820773462
 :END:
 *** Front
 why code blocks (if, else, for, while) should contain just 1 line?
@@ -266,6 +268,7 @@ why code blocks (if, else, for, while) should contain just 1 line?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653820773565
 :END:
 *** Front
 code block should only contain 1 line of code. what that one line would be?
@@ -275,6 +278,7 @@ it's a function call!
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653820773663
 :END:
 *** Front
 what is the maximum *indent level* of a function?
@@ -284,6 +288,7 @@ just one!! (or maybe 2)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653820773762
 :END:
 *** Front
 why maximum indentation level of function blocks should be only 1?
@@ -293,6 +298,7 @@ it makes code very easy to read and understand
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653820773862
 :END:
 *** Front
 functions should do ... and they should do it ...
@@ -303,6 +309,7 @@ functions should do ... and they should do it ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653820773938
 :END:
 *** Front
 how to write a *docstring* for a function?
@@ -314,8 +321,27 @@ how to write a *docstring* for a function?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653820774012
 :END:
 *** Front
 how to understand if a function is doing *more than one thing*?
 *** Back
 we write a *docstring* using *TO* prefix and see if we have multiple tasks inside a function
+** 2022.05.29-13:47:36 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is *stepdown rule*?
+*** Back
+reading the program by *descending* one level of abstraction at a time
+** 2022.05.29-13:55:10 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how do we make applying *stepdown rule* more easily?
+*** Back
+by using *TO* paragraphs as *docstrings*.
