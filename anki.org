@@ -586,3 +586,48 @@ because it's clear that this function *does more than one thing*. one for ~true~
 how to heal functions that take *booleans* as parameter?
 *** Back
 create two separate functions. one for ~true~ value and another for ~false~ value
+** 2022.05.29-15:35:07 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what should we do if function has to take more than 2 arguments and arguments inside are a part of concept (like x,y,z values of a 3D point)?
+*** Back
+create a special *struct* or *class* for these arguments (like class Point) and pass the new *class object* instead
+** 2022.05.29-15:40:55 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*dyadic functions* require us to remember *the order of arguments*. how can we solve this small issue?
+*** Back
+by putting the order inside the name of the function.
+#+begin_src java
+assert(expected, actual)
+#+end_src
+becomes
+#+begin_src java
+assertExpectedEqualsActual(expected, actual)
+#+end_src
+** 2022.05.29-15:48:19 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is *side effects* of a function?
+*** Back
+when function modifies things that are not inside its scope.
+** 2022.05.29-15:50:13 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+give examples of *side effects* of functions
+*** Back
+1. global variable modification
+2. class attribute modification
+3. initializing and using other classes
