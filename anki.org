@@ -777,4 +777,55 @@ how to user ~instanceof~ statement in java?
 #+begin_src java
 if ( number instanceof Int )
 #+end_src
+** 2022.05.30-12:00:59 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+between each concept like
+1. function
+2. import group
+3. class
+4. loop
+5. condition
+should be one ...
+*** Back
+blank line
+** 2022.05.30-12:03:49 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is *vertical openness* ?
+*** Back
+it's where *blank lines* separate *group of lines* like functions, classes, loops or if statements etc.
+** 2022.05.30-12:13:37 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+concepts that are closely related should be kept ... to each other
+*** Back
+vertically close
+** 2022.05.30-12:14:51 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+closely related concepts should not be separated into ...
+*** Back
+different files
+** 2022.05.30-12:15:38 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*protected variables* should be ...
+*** Back
+avoided
 * ros1 flashcards
