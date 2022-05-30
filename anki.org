@@ -828,4 +828,33 @@ different files
 *protected variables* should be ...
 *** Back
 avoided
+** 2022.05.30-12:22:12 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+variables should be declared as close to their ... as possible
+*** Back
+usage
+** 2022.05.30-12:23:15 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+where *loop counters* should be declared?
+*** Back
+*inside* the loop itself!
+** 2022.05.30-12:31:49 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+If one function calls another, they should be ...,
+and the caller should be ... the callee, if at all possible.
+*** Back
+1. vertically close
+2. above
 * ros1 flashcards
