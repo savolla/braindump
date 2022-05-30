@@ -865,4 +865,34 @@ and the caller should be ... the callee, if it's not C, C++.
 *** Back
 1. vertically close
 2. above
+** 2022.05.30-21:18:15 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is the *maximum limit of character per line* should be?
+*** Back
+120 (Uncle Bob does like that)
+** 2022.05.30-21:23:34 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+assignments operator (=) should contain ... at both sides
+*** Back
+white spaces
+** 2022.05.30-21:26:34 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how to emphasize *operator precendence* in the code?
+*** Back
+use white spaces for *lower precencede* operators
+#+begin_src python
+b*b - 4*a*c # factors have no white space because they are high precencede
+#+end_src
 * ros1 flashcards
