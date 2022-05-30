@@ -895,4 +895,17 @@ use white spaces for *lower precencede* operators
 #+begin_src python
 b*b - 4*a*c # factors have no white space because they are high precencede
 #+end_src
+** 2022.05.30-21:39:40 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how *curly braces* should be expanded?
+*** Back
+#+begin_src c
+void like {
+    this;
+}
+#+end_src
 * ros1 flashcards
