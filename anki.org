@@ -781,6 +781,7 @@ if ( number instanceof Int )
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653905952912
 :END:
 *** Front
 between each concept like
@@ -796,6 +797,7 @@ blank line
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653905952988
 :END:
 *** Front
 what is *vertical openness* ?
@@ -805,6 +807,7 @@ it's where *blank lines* separate *group of lines* like functions, classes, loop
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653905953062
 :END:
 *** Front
 concepts that are closely related should be kept ... to each other
@@ -814,6 +817,7 @@ vertically close
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653905953138
 :END:
 *** Front
 closely related concepts should not be separated into ...
@@ -823,6 +827,7 @@ different files
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653905953212
 :END:
 *** Front
 *protected variables* should be ...
@@ -832,6 +837,7 @@ avoided
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653905953287
 :END:
 *** Front
 variables should be declared as close to their ... as possible
@@ -841,6 +847,7 @@ usage
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653905953362
 :END:
 *** Front
 where *loop counters* should be declared?
@@ -850,6 +857,7 @@ where *loop counters* should be declared?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653905953438
 :END:
 *** Front
 If one function calls another, they should be ...,
