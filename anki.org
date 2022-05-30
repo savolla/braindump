@@ -853,7 +853,7 @@ where *loop counters* should be declared?
 :END:
 *** Front
 If one function calls another, they should be ...,
-and the caller should be ... the callee, if at all possible.
+and the caller should be ... the callee, if it's not C, C++.
 *** Back
 1. vertically close
 2. above
