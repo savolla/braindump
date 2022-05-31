@@ -716,6 +716,7 @@ what are the rules of *structured programming*?
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
 :ANKI_NOTE_ID: 1653835264763
+:ANKI_FAILURE_REASON: Note was not found: 1653835264763
 :END:
 *** Front
 how to write functions like Uncle Bob suggests in his *Clean Code* book?
@@ -936,6 +937,7 @@ No. white spaces should only be between methods
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654000911881
 :END:
 *** Front
 Objects hide their ... behind ... and expose ... that operate on that ... . Data structure expose their ... and have no meaningful ...
@@ -950,6 +952,7 @@ Objects hide their ... behind ... and expose ... that operate on that ... . Data
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654000911981
 :END:
 *** Front
 where ~final~ keyword should be placed? *before* the type name or *after* the type name?
@@ -962,6 +965,7 @@ public final double PI = 3.1415;
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654000912055
 :END:
 *** Front
 what's the main reason that *error codes* exist?
@@ -971,6 +975,7 @@ because in the past, there was no languages that support *exceptions* like C
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654000912130
 :END:
 *** Front
 it is better to ... the *logic* and *exceptions* in different ...
@@ -981,6 +986,7 @@ it is better to ... the *logic* and *exceptions* in different ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654000912205
 :END:
 *** Front
 when you write functions/methods write ... first
