@@ -933,3 +933,13 @@ should *variable declerations* and *for*, *if* blocks contain *white spaces* in 
 *** Back
 No. white spaces should only be between methods
 * ros1 flashcards
+* java
+** 2022.05.31-09:39:08 :java:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what ~final~ keyword represents when using with *variables*?
+*** Back
+constant variable
