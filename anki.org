@@ -967,6 +967,25 @@ public final double PI = 3.1415;
 what's the main reason that *error codes* exist?
 *** Back
 because in the past, there was no languages that support *exceptions* like C
+** 2022.05.31-13:12:56 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+it is better to ... the *logic* and *exceptions* in different ...
+*** Back
+1. separate
+2. functions
+** 2022.05.31-13:15:03 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+when you write functions/methods write ... first
+*** Back
+1. try/catch
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
