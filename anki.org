@@ -946,6 +946,18 @@ Objects hide their ... behind ... and expose ... that operate on that ... . Data
 4. data
 5. data
 6. functions
+** 2022.05.31-11:50:48 :java:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+where ~final~ keyword should be placed? *before* the type name or *after* the type name?
+*** Back
+behind.
+#+begin_src java
+public final double PI = 3.1415;
+#+end_src
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
