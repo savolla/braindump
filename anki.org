@@ -992,6 +992,43 @@ it is better to ... the *logic* and *exceptions* in different ...
 when you write functions/methods write ... first
 *** Back
 1. try/catch
+** 2022.05.31-21:44:01 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what TDD wants us to do first?
+*** Back
+write *tests* first. before *production code*
+** 2022.05.31-21:52:55 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+old tests can ... once the production code evolves. thus you also need to ... tests
+*** Back
+1. fail
+2. maintain
+** 2022.05.31-21:54:45 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+if you have *tests* you do not fear making ... to the code!
+*** Back
+1. changes
+** 2022.05.31-21:58:00 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what makes code *flexible*, *maintainable* and *reusable*?
+*** Back
+unit tests
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
