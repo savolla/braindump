@@ -958,6 +958,15 @@ behind.
 #+begin_src java
 public final double PI = 3.1415;
 #+end_src
+** 2022.05.31-12:12:08 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what's the main reason that *error codes* exist?
+*** Back
+because in the past, there was no languages that support *exceptions* like C
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
