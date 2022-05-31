@@ -932,12 +932,27 @@ I put them under ~private~ scope
 should *variable declerations* and *for*, *if* blocks contain *white spaces* in between?
 *** Back
 No. white spaces should only be between methods
+** 2022.05.31-10:21:11 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+Objects hide their ... behind ... and expose ... that operate on that ... . Data structure expose their ... and have no meaningful ...
+*** Back
+1. data
+2. abstractions
+3. functions
+4. data
+5. data
+6. functions
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653979212835
 :END:
 *** Front
 what ~final~ keyword represents when using with *variables*?
