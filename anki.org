@@ -869,6 +869,7 @@ and the caller should be ... the callee, if it's not C, C++.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653937651794
 :END:
 *** Front
 what is the *maximum limit of character per line* should be?
@@ -878,6 +879,7 @@ what is the *maximum limit of character per line* should be?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653937651871
 :END:
 *** Front
 assignments operator (=) should contain ... at both sides
@@ -887,6 +889,7 @@ white spaces
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653937651944
 :END:
 *** Front
 how to emphasize *operator precendence* in the code?
@@ -899,6 +902,7 @@ b*b - 4*a*c # factors have no white space because they are high precencede
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653937652044
 :END:
 *** Front
 how *curly braces* should be expanded?
@@ -908,4 +912,24 @@ void like {
     this;
 }
 #+end_src
+** 2022.05.30-22:04:00 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653937652119
+:END:
+*** Front
+what do you do if you create class methods just for *increase readability* and *do not want to provide* these methods to the users of this class?
+*** Back
+I put them under ~private~ scope
+** 2022.05.30-22:09:31 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653938382220
+:END:
+*** Front
+should *variable declerations* and *for*, *if* blocks contain *white spaces* in between?
+*** Back
+No. white spaces should only be between methods
 * ros1 flashcards
