@@ -1346,6 +1346,7 @@ a class should begin with a list of ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654089339668
 :END:
 *** Front
 what is the *order of list of variables* should be when creating classes?
@@ -1357,6 +1358,7 @@ what is the *order of list of variables* should be when creating classes?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654089339913
 :END:
 *** Front
 avoid public ... properties!
@@ -1366,6 +1368,7 @@ avoid public ... properties!
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654089340087
 :END:
 *** Front
 why do we need to avoid ~public~ variables in classes?
@@ -1375,6 +1378,7 @@ because only class itself have to have *the right* to modify it's properties.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654089340255
 :END:
 *** Front
 when creating classes what shold follow after *list of variables*?
@@ -1384,6 +1388,7 @@ public functions/methods
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654089340486
 :END:
 *** Front
 how *clean classes* should look? (declaration order)
@@ -1400,6 +1405,7 @@ public class MeaningfulNounName() {
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654089340667
 :END:
 *** Front
 what *encapsulation* means for classes?
@@ -1409,12 +1415,24 @@ classes should not expose their *properties* and *utility functions* to the ousi
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654089340869
 :END:
 *** Front
 The ﬁfirst rule of classes is that they should be ... . The second rule of classes is that they should be .... .
 *** Back
 1. small
 2. smaller than that
+** 2022.06.01-16:37:03 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654090983555
+:END:
+*** Front
+With functions we measured size by counting physical lines. With classes we use a
+different measure. We count ...
+*** Back
+1. responsibilities
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
