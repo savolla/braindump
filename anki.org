@@ -1362,6 +1362,24 @@ what is the *order of list of variables* should be when creating classes?
 avoid public ... properties!
 *** Back
 1. class
+** 2022.06.01-14:42:28 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+why do we need to avoid ~public~ variables in classes?
+*** Back
+because only class itself have to have *the right* to modify it's properties.
+** 2022.06.01-15:00:16 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+when creating classes what shold follow after *list of variables*?
+*** Back
+public functions/methods
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
