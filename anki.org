@@ -1291,6 +1291,21 @@ riding home on the train without a network.
 4. fail
 5. subjective
 6. manual
+** 2022.06.01-13:33:25 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*T* in FIRST princible:
+... The tests need to be written in a ... fashion. Unit tests should be written just before the ... that makes them pass. If you write tests after the production code, then you may find the production code to be ... . You may decide that some production code is too ... to test. You may not design the production code to be ... .
+*** Back
+1. timely
+2. timely
+3. production code
+4. hard to test
+5. hard
+6. testable
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
