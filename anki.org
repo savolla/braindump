@@ -1214,6 +1214,83 @@ multiple assertions inside a test is ...
 what *prefix* word all test functions must contain?
 *** Back
 ~test~
+** 2022.06.01-12:48:39 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+for which area in software engineering the *F.I.R.S.T.* princible is used?
+*** Back
+testing
+** 2022.06.01-12:49:44 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*F* in FIRST princible:
+Tests should be .... They should ... quickly. When tests run slow, you won’t want to run them .... If you don’t run them ..., you won’t find ... early enough to fix them easily. You won’t feel as free to clean up the code. Eventually the code will begin to ....
+*** Back
+1. fast
+2. run
+3. frequently
+4. frequently
+5. problems
+6. rot
+** 2022.06.01-12:56:35 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*I* in FIRST princible:
+... Tests should not depend on .... . One test should not set up the conditions for the .... . You should be able to run each test ... and run the tests in any order you like.
+*** Back
+1. independent
+2. each other
+3. next test
+4. independently
+** 2022.06.01-13:01:17 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*R* in FIRST princible:
+... Tests should be ... in any environment. You should be able to run the
+tests in the .... , in the .... , and on your laptop while
+riding home on the train without a network.
+*** Back
+1. repeatable
+2. production environment
+3. QA environment
+** 2022.06.01-13:09:00 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*unit tests* provide 3 ability for the production code. what are they?
+*** Back
+1. flexibility
+2. reusability
+3. maintainability
+** 2022.06.01-13:11:05 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*S* in FIRST princible:
+... The tests should have a ... output. Either they ... or ... . You should not have to read through a log file to tell whether the tests pass. You should not have to manually compare two different text files to see whether the tests pass. If the tests aren’t self-validating, then failure can become ... and running the tests can require a long ... evaluation.
+*** Back
+1. self-validating
+2. boolean
+3. pass
+4. fail
+5. subjective
+6. manual
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
