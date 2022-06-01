@@ -1218,6 +1218,7 @@ what *prefix* word all test functions must contain?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654080190631
 :END:
 *** Front
 for which area in software engineering the *F.I.R.S.T.* princible is used?
@@ -1227,6 +1228,7 @@ testing
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654080190772
 :END:
 *** Front
 *F* in FIRST princible:
@@ -1242,6 +1244,7 @@ Tests should be .... They should ... quickly. When tests run slow, you won’t w
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654080190933
 :END:
 *** Front
 *I* in FIRST princible:
@@ -1255,6 +1258,7 @@ Tests should be .... They should ... quickly. When tests run slow, you won’t w
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654080191063
 :END:
 *** Front
 *R* in FIRST princible:
@@ -1269,6 +1273,7 @@ riding home on the train without a network.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654080191218
 :END:
 *** Front
 *unit tests* provide 3 ability for the production code. what are they?
@@ -1280,6 +1285,7 @@ riding home on the train without a network.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654080191403
 :END:
 *** Front
 *S* in FIRST princible:
@@ -1295,6 +1301,7 @@ riding home on the train without a network.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654080191628
 :END:
 *** Front
 *T* in FIRST princible:
@@ -1306,6 +1313,33 @@ riding home on the train without a network.
 4. hard to test
 5. hard
 6. testable
+** 2022.06.01-13:50:35 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what should come first in the *class*?
+*** Back
+list of variables
+** 2022.06.01-13:52:03 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+a class should begin with a list of ...
+*** Back
+1. variables
+** 2022.06.01-13:52:35 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+~public static~ constatnts should come ... when declaring list of variables inside a class
+*** Back
+1. first
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
