@@ -1,7 +1,6 @@
 #+title: Anki
 #+startup: content
 
-left at page 77, "the newspaper metaphor"
 * notitia :clean_code:
 ** 20:48
 :PROPERTIES:
@@ -1317,6 +1316,7 @@ riding home on the train without a network.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654082376980
 :END:
 *** Front
 what should come first in the *class*?
@@ -1326,6 +1326,7 @@ list of variables
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654082377056
 :END:
 *** Front
 a class should begin with a list of ...
@@ -1335,11 +1336,32 @@ a class should begin with a list of ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654082377130
 :END:
 *** Front
 ~public static~ constatnts should come ... when declaring list of variables inside a class
 *** Back
 1. first
+** 2022.06.01-14:30:03 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is the *order of list of variables* should be when creating classes?
+*** Back
+1. ~public static~ *constants* variables
+2. ~private static~ variables
+3. ~private~ *instance* (class) variables
+** 2022.06.01-14:38:23 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+avoid public ... properties!
+*** Back
+1. class
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
