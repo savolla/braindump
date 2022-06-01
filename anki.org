@@ -2,7 +2,8 @@
 #+startup: content
 
 left at page 77, "the newspaper metaphor"
-* notiti** 20:48 :clean_code:
+* notitia :clean_code:
+** 20:48
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
@@ -1053,23 +1054,11 @@ if you don't *maintain* your tests, they get ... and one day you might ... all y
 what makes tests *clean*?
 *** Back
 readability, readability and readability
-* ros1 flashcards
-* java
-** 2022.05.31-09:39:08 :java:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1653979212835
-:END:
-*** Front
-what ~final~ keyword represents when using with *variables*?
-*** Back
-constant variable
-* notitia
 ** 2022.06.01-09:06:48 :clean_code:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070111654
 :END:
 *** Front
 which software pattern is used for writing *tests*?
@@ -1079,6 +1068,7 @@ BUILD-OPERATE-CHECK pattern
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070111780
 :END:
 *** Front
 explain 3 steps of *Build-Operate-Check* pattern
@@ -1088,6 +1078,7 @@ The first part *builds up the test data*, the second part *operates on that test
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070111904
 :END:
 *** Front
 how to tell java that the following method is a *test*?
@@ -1097,6 +1088,7 @@ put ~@Test~ above the method
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070112028
 :END:
 *** Front
 what the following code represents?
@@ -1113,6 +1105,7 @@ this is a *test* code written for java using JUnit
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070112153
 :END:
 *** Front
 tell me which phase the ~tooCold()~ function in *build-operate-check* pattern?
@@ -1129,6 +1122,7 @@ build
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070112279
 :END:
 *** Front
 which phase the ~assertEquals~ method is inside *build-operate-check* pattern?
@@ -1145,6 +1139,7 @@ check
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070112403
 :END:
 *** Front
 which phase ~hs.getState()~ function is inside *build-operate-check* pattern?
@@ -1161,6 +1156,7 @@ operate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070112552
 :END:
 *** Front
 remember this code from *clean code*? what it represents?
@@ -1181,6 +1177,7 @@ it's the code behind ~getState()~ function that is used in tests.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070112653
 :END:
 *** Front
 production code might run in a very constrained environment where resources are limited. however the test environment is ... that ... at all.
@@ -1191,6 +1188,7 @@ production code might run in a very constrained environment where resources are 
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070112778
 :END:
 *** Front
 what *Dual Standard* means in software engineering?
@@ -1200,6 +1198,7 @@ it's where production and test environments are different. we can do more resour
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070112903
 :END:
 *** Front
 multiple assertions inside a test is ...
@@ -1209,8 +1208,21 @@ multiple assertions inside a test is ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654070113029
 :END:
 *** Front
 what *prefix* word all test functions must contain?
 *** Back
 ~test~
+* ros1 flashcards
+* java
+** 2022.05.31-09:39:08 :java:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653979212835
+:END:
+*** Front
+what ~final~ keyword represents when using with *variables*?
+*** Back
+constant variable
