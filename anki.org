@@ -2,38 +2,7 @@
 #+startup: content
 
 left at page 77, "the newspaper metaphor"
-* notitia
-** 20:17
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1653758959208
-:END:
-*** Front
-if a *name* of a variable, class or function _needs a comment_ then the name does not reveal its ...
-*** Back
-intent
-** 20:25
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1653758959306
-:END:
-*** Front
-why including the word "list" in a variable name is a bad thing?
-*** Back
-because people might assume that this is actually a *list* or *array* object.
-** 20:27
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1653758959405
-:END:
-*** Front
-which alternative word should be used instead *list* in an object name?
-*** Back
-if it's not actually a list or array, use *group* or use "s" to represent quantity
-** 20:48 :clean_code:
+* notiti** 20:48 :clean_code:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
@@ -996,6 +965,7 @@ when you write functions/methods write ... first
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654024635123
 :END:
 *** Front
 what TDD wants us to do first?
@@ -1005,6 +975,7 @@ write *tests* first. before *production code*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654024635199
 :END:
 *** Front
 old tests can ... once the production code evolves. thus you also need to ... tests
@@ -1015,6 +986,7 @@ old tests can ... once the production code evolves. thus you also need to ... te
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654024635274
 :END:
 *** Front
 if you have *tests* you do not fear making ... to the code!
@@ -1024,11 +996,63 @@ if you have *tests* you do not fear making ... to the code!
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654024635348
 :END:
 *** Front
 what makes code *flexible*, *maintainable* and *reusable*?
 *** Back
 unit tests
+** 2022.05.31-21:59:23 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654024635423
+:END:
+*** Front
+without *tests* every *change* is a potential ...
+*** Back
+1. bug
+** 2022.05.31-22:01:26 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654024635498
+:END:
+*** Front
+the higher your ..., the less you fear.
+*** Back
+1. test coverage
+** 2022.05.31-22:02:43 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654024635573
+:END:
+*** Front
+tests enable ...
+*** Back
+1. change
+** 2022.05.31-22:08:44 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654024635648
+:END:
+*** Front
+if you don't *maintain* your tests, they get ... and one day you might ... all your tests.
+*** Back
+1. old
+2. lose
+** 2022.05.31-22:10:56 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654024635724
+:END:
+*** Front
+what makes tests *clean*?
+*** Back
+readability, readability and readability
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
@@ -1041,3 +1065,152 @@ unit tests
 what ~final~ keyword represents when using with *variables*?
 *** Back
 constant variable
+* notitia
+** 2022.06.01-09:06:48 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+which software pattern is used for writing *tests*?
+*** Back
+BUILD-OPERATE-CHECK pattern
+** 2022.06.01-09:08:54 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+explain 3 steps of *Build-Operate-Check* pattern
+*** Back
+The first part *builds up the test data*, the second part *operates on that test data*, and the third part *checks* that the operation yielded the expected results.
+** 2022.06.01-09:34:41 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how to tell java that the following method is a *test*?
+*** Back
+put ~@Test~ above the method
+** 2022.06.01-09:45:16 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what the following code represents?
+#+begin_src java
+@Test
+public void turnOnHeaterAndBlowerIfTooCold() throws Exception {
+    tooCold();
+    assertEquals("HBchl", hw.getState());
+}
+#+end_src
+*** Back
+this is a *test* code written for java using JUnit
+** 2022.06.01-09:49:02 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+tell me which phase the ~tooCold()~ function in *build-operate-check* pattern?
+#+begin_src java
+@Test
+public void turnOnHeaterAndBlowerIfTooCold() throws Exception {
+    tooCold();
+    assertEquals("HBchl", hw.getState());
+}
+#+end_src
+*** Back
+build
+** 2022.06.01-09:51:20 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+which phase the ~assertEquals~ method is inside *build-operate-check* pattern?
+#+begin_src java
+@Test
+public void turnOnHeaterAndBlowerIfTooCold() throws Exception {
+    tooCold();
+    assertEquals("HBchl", hw.getState());
+}
+#+end_src
+*** Back
+check
+** 2022.06.01-09:55:13 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+which phase ~hs.getState()~ function is inside *build-operate-check* pattern?
+#+begin_src java
+@Test
+public void turnOnHeaterAndBlowerIfTooCold() throws Exception {
+    tooCold();
+    assertEquals("HBchl", hw.getState());
+}
+#+end_src
+*** Back
+operate
+** 2022.06.01-09:57:53 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+remember this code from *clean code*? what it represents?
+#+begin_src java
+public String getState() {
+String state = "";
+state += heater ? "H" : "h";
+state += blower ? "B" : "b";
+state += cooler ? "C" : "c";
+state += hiTempAlarm ? "H" : "h";
+state += loTempAlarm ? "L" : "l";
+return state;
+}
+#+end_src
+*** Back
+it's the code behind ~getState()~ function that is used in tests.
+** 2022.06.01-09:59:57 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+production code might run in a very constrained environment where resources are limited. however the test environment is ... that ... at all.
+*** Back
+1. not
+2. constrained
+** 2022.06.01-10:02:06 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what *Dual Standard* means in software engineering?
+*** Back
+it's where production and test environments are different. we can do more resource intensive things in test environments while can't in production code.
+** 2022.06.01-10:13:54 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+multiple assertions inside a test is ...
+*** Back
+1. allowed. but try to minimize
+** 2022.06.01-10:16:59 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what *prefix* word all test functions must contain?
+*** Back
+~test~
