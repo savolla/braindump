@@ -1380,6 +1380,41 @@ because only class itself have to have *the right* to modify it's properties.
 when creating classes what shold follow after *list of variables*?
 *** Back
 public functions/methods
+** 2022.06.01-15:53:36 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how *clean classes* should look? (declaration order)
+*** Back
+#+begin_src java
+public class MeaningfulNounName() {
+    /* public static constants */
+    /* private static variables */
+    /* private variables */
+    /* public methods that follows step down rule */
+}
+#+end_src
+** 2022.06.01-16:12:06 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what *encapsulation* means for classes?
+*** Back
+classes should not expose their *properties* and *utility functions* to the ouside world.
+** 2022.06.01-16:14:20 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+The ﬁfirst rule of classes is that they should be ... . The second rule of classes is that they should be .... .
+*** Back
+1. small
+2. smaller than that
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
