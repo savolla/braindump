@@ -1437,6 +1437,7 @@ different measure. We count ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156124723
 :END:
 *** Front
 what *utility functions* do in terms of OO?
@@ -1446,6 +1447,7 @@ help to increase *readability* of *public functions*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156124797
 :END:
 *** Front
 why *utility methods* shold be *private*?
@@ -1455,6 +1457,7 @@ because they only *provide readability of public functions* and users of the cla
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156124871
 :END:
 *** Front
 what *utility methods* hide from the user?
@@ -1464,6 +1467,7 @@ implementation that makes code *hard to read*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156124947
 :END:
 *** Front
 "ambiguous" in Turkish?
@@ -1473,6 +1477,7 @@ belirsiz
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156125021
 :END:
 *** Front
 if you can't find a *simple name* for a *class* then which problem the class has?
@@ -1482,6 +1487,7 @@ class is *too large*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156125097
 :END:
 *** Front
 finding a *descriptive name* for a class becomes easier for ... classes
@@ -1491,6 +1497,7 @@ smaller
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156125171
 :END:
 *** Front
 how can you tell if the class violates *SRP* just *by looking*?
@@ -1500,6 +1507,7 @@ if class is *vertically long* then it violates
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156125247
 :END:
 *** Front
 the name of a class shold describe what ... if fulfills
@@ -1509,6 +1517,7 @@ the name of a class shold describe what ... if fulfills
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156125322
 :END:
 *** Front
 which *words* in class names are *heralds of SRP violating classes*?
@@ -1518,6 +1527,7 @@ weasel words like *Processor*, *Manager*, *Super*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156125396
 :END:
 *** Front
 when writing *briefs* or *TO* strings what words should we avoid?
@@ -1527,6 +1537,7 @@ when writing *briefs* or *TO* strings what words should we avoid?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156125473
 :END:
 *** Front
 what SOLID principle the class violates if it has words like *if*, *and*, *or* in its *brief*?
@@ -1536,6 +1547,7 @@ it violates SRP
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654156125571
 :END:
 *** Front
 how can we heal *classes which violate SRP*? (step by step)
@@ -1544,6 +1556,15 @@ how can we heal *classes which violate SRP*? (step by step)
 2. see if it contains ~special words~ like *and*, *or*, *if* in the *brief*
 3. *divide the class* for every special word and *create new classes*
 4. *populate newly created class briefs* with sub sentences between special words
+** 2022.06.02-11:26:38 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+why having *lots of small classes* in the system is a good idea?
+*** Back
+because it lets the system to be *organized* and *flexible*
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
