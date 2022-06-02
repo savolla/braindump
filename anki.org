@@ -1565,6 +1565,17 @@ how can we heal *classes which violate SRP*? (step by step)
 why having *lots of small classes* in the system is a good idea?
 *** Back
 because it lets the system to be *organized* and *flexible*
+** 2022.06.02-14:32:01 :java:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+write an example code which defines *linked list* in java
+*** Back
+#+begin_src java
+List<Integer> elements = new LinkedList<Integer>();
+#+end_src
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
