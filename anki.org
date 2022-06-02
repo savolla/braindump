@@ -1433,6 +1433,33 @@ With functions we measured size by counting physical lines. With classes we use 
 different measure. We count ...
 *** Back
 1. responsibilities
+** 2022.06.02-09:50:05 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what *utility functions* do in terms of OO?
+*** Back
+help to increase *readability* of *public functions*
+** 2022.06.02-09:53:19 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+why *utility methods* shold be *private*?
+*** Back
+because they only *provide readability of public functions* and users of the class *are not suppose to see them*
+** 2022.06.02-09:56:02 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what *utility methods* hide from the user?
+*** Back
+implementation that makes code *hard to read*
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
