@@ -1460,6 +1460,60 @@ because they only *provide readability of public functions* and users of the cla
 what *utility methods* hide from the user?
 *** Back
 implementation that makes code *hard to read*
+** 2022.06.02-10:12:09 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+"ambiguous" in Turkish?
+*** Back
+belirsiz
+** 2022.06.02-10:14:43 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+if you can't find a *simple name* for a *class* then which problem the class has?
+*** Back
+class is *too large*
+** 2022.06.02-10:17:27 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+finding a *descriptive name* for a class becomes easier for ... classes
+*** Back
+smaller
+** 2022.06.02-10:23:22 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how can you tell if the class violates *SRP* just *by looking*?
+*** Back
+if class is *vertically long* then it violates
+** 2022.06.02-10:27:08 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+the name of a class shold describe what ... if fulfills
+*** Back
+1. resposibilities
+** 2022.06.02-10:29:40 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+which *words* in class names are *heralds of SRP violating classes*?
+*** Back
+weasel words like *Processor*, *Manager*, *Super*
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
@@ -1472,3 +1526,4 @@ implementation that makes code *hard to read*
 what ~final~ keyword represents when using with *variables*?
 *** Back
 constant variable
+* vocabulary
