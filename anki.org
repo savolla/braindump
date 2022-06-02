@@ -1514,6 +1514,36 @@ the name of a class shold describe what ... if fulfills
 which *words* in class names are *heralds of SRP violating classes*?
 *** Back
 weasel words like *Processor*, *Manager*, *Super*
+** 2022.06.02-10:36:59 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+when writing *briefs* or *TO* strings what words should we avoid?
+*** Back
+*if*, *or*, *and*
+** 2022.06.02-10:38:31 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what SOLID principle the class violates if it has words like *if*, *and*, *or* in its *brief*?
+*** Back
+it violates SRP
+** 2022.06.02-10:40:44 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how can we heal *classes which violate SRP*? (step by step)
+*** Back
+1. read or rewrite the *brief* for the class
+2. see if it contains ~special words~ like *and*, *or*, *if* in the *brief*
+3. *divide the class* for every special word and *create new classes*
+4. *populate newly created class briefs* with sub sentences between special words
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
