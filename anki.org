@@ -1560,6 +1560,7 @@ how can we heal *classes which violate SRP*? (step by step)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654197131380
 :END:
 *** Front
 why having *lots of small classes* in the system is a good idea?
@@ -1569,6 +1570,7 @@ because it lets the system to be *organized* and *flexible*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654197131578
 :END:
 *** Front
 write an example code which defines *linked list* in java
