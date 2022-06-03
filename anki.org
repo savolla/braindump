@@ -1655,6 +1655,7 @@ değer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654258364713
 :END:
 *** Front
 3 types of *design patterns*?
@@ -1666,6 +1667,7 @@ değer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654258364799
 :END:
 *** Front
 what *creational design patterns* is all about?
@@ -1675,6 +1677,7 @@ it's about *creating* instances of class objects
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654258364886
 :END:
 *** Front
 count all *creational design patterns*
@@ -1688,6 +1691,7 @@ count all *creational design patterns*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654258364960
 :END:
 *** Front
 count all *structural design patterns*
@@ -1703,6 +1707,7 @@ count all *structural design patterns*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654258365036
 :END:
 *** Front
 count all *befavioral design patterns*
@@ -1718,6 +1723,26 @@ count all *befavioral design patterns*
 9. strategy
 10. template method
 11. visitor
+** 2022.06.03-15:37:35 :design_patterns:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*factory design pattern* is more _proffesional_ way of creating ... than ... operator.
+*** Back
+1. class objects
+2. ~new()~
+** 2022.06.03-15:42:07 :design_patterns:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in *factory pattern* you provide ... or ... to create objects
+*** Back
+1. interface
+2. abstract class
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
