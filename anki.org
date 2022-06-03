@@ -1578,6 +1578,45 @@ write an example code which defines *linked list* in java
 #+begin_src java
 List<Integer> elements = new LinkedList<Integer>();
 #+end_src
+** 2022.06.03-11:08:11 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+class is ... cohesive when all of its methods ... all of it's ...
+*** Back
+1. fully
+2. manipulate
+3. properties
+** 2022.06.03-11:09:03 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+class does not have *cohesion* when any of its methods ... any of its ...
+*** Back
+1. manipulate
+2. properties
+** 2022.06.03-11:11:00 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+we always want to ... *cohesion* in Object Oriented programming.
+*** Back
+1. maximize
+** 2022.06.03-11:18:42 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how to heal classes with *low cohesion*?
+*** Back
+try to separate *variables* and *methods* into _new smaller classes_ that are *more cohesive*
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
