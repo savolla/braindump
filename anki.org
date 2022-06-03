@@ -1635,6 +1635,7 @@ yalnızca
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 breaking a *large function* into *many smaller functions* often gives us the opportunity to split several smaller ... as well
@@ -1644,6 +1645,7 @@ breaking a *large function* into *many smaller functions* often gives us the opp
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 *merit* in Turkish?
