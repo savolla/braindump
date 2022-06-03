@@ -1651,6 +1651,73 @@ breaking a *large function* into *many smaller functions* often gives us the opp
 *merit* in Turkish?
 *** Back
 değer
+** 2022.06.03-14:58:04 :design_patterns:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+3 types of *design patterns*?
+*** Back
+1. creational
+2. structural
+3. behavioral
+** 2022.06.03-15:00:16 :design_patterns:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what *creational design patterns* is all about?
+*** Back
+it's about *creating* instances of class objects
+** 2022.06.03-15:07:46 :design_patterns:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+count all *creational design patterns*
+*** Back
+1. factory
+2. abstract factory
+3. builder
+4. prototype
+5. singleton
+** 2022.06.03-15:09:04 :design_patterns:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+count all *structural design patterns*
+*** Back
+1. adapter
+2. bridge
+3. composite
+4. decorator
+5. facade
+6. flyweight
+7. proxy
+** 2022.06.03-15:10:46 :design_patterns:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+count all *befavioral design patterns*
+*** Back
+1. chain of responsibility
+2. command
+3. interpreter
+4. iterator
+5. mediator
+6. memento
+7. observer
+8. state
+9. strategy
+10. template method
+11. visitor
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
