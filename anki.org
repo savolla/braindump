@@ -1582,6 +1582,7 @@ List<Integer> elements = new LinkedList<Integer>();
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654245459587
 :END:
 *** Front
 class is ... cohesive when all of its methods ... all of it's ...
@@ -1593,6 +1594,7 @@ class is ... cohesive when all of its methods ... all of it's ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654245459661
 :END:
 *** Front
 class does not have *cohesion* when any of its methods ... any of its ...
@@ -1603,6 +1605,7 @@ class does not have *cohesion* when any of its methods ... any of its ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654245459736
 :END:
 *** Front
 we always want to ... *cohesion* in Object Oriented programming.
@@ -1612,11 +1615,31 @@ we always want to ... *cohesion* in Object Oriented programming.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654245459811
 :END:
 *** Front
 how to heal classes with *low cohesion*?
 *** Back
 try to separate *variables* and *methods* into _new smaller classes_ that are *more cohesive*
+** 2022.06.03-11:36:58 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654245459885
+:END:
+*** Front
+*solely* in Turkish?
+*** Back
+yalnızca
+** 2022.06.03-11:39:24 :clean_code:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+breaking a *large function* into *many smaller functions* often gives us the opportunity to split several smaller ... as well
+*** Back
+1. classes
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
