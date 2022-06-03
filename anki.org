@@ -1640,6 +1640,15 @@ yalnızca
 breaking a *large function* into *many smaller functions* often gives us the opportunity to split several smaller ... as well
 *** Back
 1. classes
+** 2022.06.03-13:51:16 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*merit* in Turkish?
+*** Back
+değer
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
