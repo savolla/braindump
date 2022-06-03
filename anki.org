@@ -1398,7 +1398,8 @@ public class MeaningfulNounName() {
     /* public static constants */
     /* private static variables */
     /* private variables */
-    /* public methods that follows step down rule */
+    /* public methods (stepdown rule) */
+    /* private utility functions */
 }
 #+end_src
 ** 2022.06.01-16:12:06 :clean_code:
@@ -1710,7 +1711,7 @@ count all *structural design patterns*
 :ANKI_NOTE_ID: 1654258365036
 :END:
 *** Front
-count all *befavioral design patterns*
+count all *behavioral design patterns*
 *** Back
 1. chain of responsibility
 2. command
@@ -1727,6 +1728,7 @@ count all *befavioral design patterns*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654260553486
 :END:
 *** Front
 *factory design pattern* is more _proffesional_ way of creating ... than ... operator.
@@ -1737,6 +1739,7 @@ count all *befavioral design patterns*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654260553561
 :END:
 *** Front
 in *factory pattern* you provide ... or ... to create objects
