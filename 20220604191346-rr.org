@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       72a1f67e-02b1-4858-962a-9142fc7711ea
+:END:
+#+title: rr
+#+filetags: :what_is:
+replayable and reverse debugger for linux
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof
