@@ -1755,6 +1755,22 @@ in *factory pattern* you provide ... or ... to create objects
 *conveying* in Turkish?
 *** Back
 taşımak
+** 2022.06.04-21:53:37 :linux:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+structure of *while loop* in *bash*?
+*** Back
+#+begin_src sh
+while [ condition ]
+do
+   command1
+   command2
+   command3
+done
+#+end_src
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
