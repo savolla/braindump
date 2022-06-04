@@ -1746,6 +1746,15 @@ in *factory pattern* you provide ... or ... to create objects
 *** Back
 1. interface
 2. abstract class
+** 2022.06.04-20:40:32 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*conveying* in Turkish?
+*** Back
+taşımak
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
