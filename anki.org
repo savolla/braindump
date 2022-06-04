@@ -1780,6 +1780,17 @@ done
 *pursule* in Turkish?
 *** Back
 izlemek
+** 2022.06.04-23:02:02 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what are the 3 main branches of AI?
+*** Back
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
