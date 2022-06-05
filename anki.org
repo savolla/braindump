@@ -86,6 +86,7 @@ DRL agents can learn only ... task well
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654433025184
 :END:
 *** Front
 ... allows the agent to explore new actions just for the sake of it, out of curiosity. Agents that use ... show improved learning performance in environments with sparse rewards
