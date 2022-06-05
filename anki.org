@@ -92,6 +92,65 @@ DRL agents can learn only ... task well
 ... allows the agent to explore new actions just for the sake of it, out of curiosity. Agents that use ... show improved learning performance in environments with sparse rewards
 *** Back
 Intrinsic motivation
+** 2022.06.05-17:31:04 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+The two core components in RL are the ... and the ...
+*** Back
+1. agent
+2. environment
+** 2022.06.05-17:31:37 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL the agent is the ... maker. and is the ... to a problem
+*** Back
+1. decision
+2. solution
+** 2022.06.05-17:32:30 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL the *environment* is the representation of a ...
+*** Back
+1. problem
+** 2022.06.05-17:33:13 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL the agent attempts to ... the environment through ..., and the environment ... to the agent's ...
+*** Back
+1. influence
+2. actions
+3. reacts
+4. actions
+** 2022.06.05-17:43:42 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*parable* in Turkish?
+*** Back
+benzetme
+** 2022.06.05-17:49:00 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*abbreviated* in Turkish?
+*** Back
+kısaltımış
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
