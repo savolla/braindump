@@ -46,6 +46,7 @@ CNN (Convolutional Neural Networks)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654431150420
 :END:
 *** Front
 *abundance* in Turkish?
@@ -55,11 +56,41 @@ bolluk
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654431150524
 :END:
 *** Front
 *prudent* in Turkish?
 *** Back
 tedbirli
+** 2022.06.05-15:08:03 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654431150609
+:END:
+*** Front
+when you try to teach more than one tasks that are completely different to a DRL agent, the agent will ...
+*** Back
+1. not learn them well
+** 2022.06.05-15:10:55 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654431150684
+:END:
+*** Front
+DRL agents can learn only ... task well
+*** Back
+1. one
+** 2022.06.05-15:19:28 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+... allows the agent to explore new actions just for the sake of it, out of curiosity. Agents that use ... show improved learning performance in environments with sparse rewards
+*** Back
+Intrinsic motivation
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
