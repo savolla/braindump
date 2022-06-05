@@ -1866,6 +1866,60 @@ complex sequential decision-making problems under uncertainty
 in *deep reinforcement learning* an *agent* has a single role: ...
 *** Back
 decision making
+** 2022.06.05-10:31:51 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+which variables represent *state space* in RL?
+*** Back
+all variables that related to *environment*
+** 2022.06.05-10:32:39 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL, all environment variables form ... space
+*** Back
+1. state
+** 2022.06.05-10:36:51 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL agents don’t have access to the actual full state of the environment. The part of a state that the agent can observe is called an ...
+*** Back
+observation space
+** 2022.06.05-10:45:57 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL the *agent*'s actions may change the *state* of the ...
+*** Back
+environment
+** 2022.06.05-10:47:54 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+the *function* that maps agent's actions to environment states is called ...
+*** Back
+transition function
+** 2022.06.05-10:49:17 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL the environment may also provide a reward signal as a response to agent's behaviour. The function responsible for this mapping is called the ...
+*** Back
+revard function
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
