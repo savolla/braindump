@@ -1920,6 +1920,35 @@ transition function
 in RL the environment may also provide a reward signal as a response to agent's behaviour. The function responsible for this mapping is called the ...
 *** Back
 revard function
+** 2022.06.05-11:00:56 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL transition and rewarf function create ...
+*** Back
+environment model
+** 2022.06.05-11:08:03 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL the *agent* has a *three-step* process
+*** Back
+1. interaction with environment
+2. evaluates environment behaviour
+3. improves depending on rewards
+** 2022.06.05-11:15:09 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+The interactions between the agent and the environment go on for several cycles. Each cycle is called a ...
+*** Back
+time step
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
