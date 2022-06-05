@@ -6,11 +6,39 @@
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654419741406
 :END:
 *** Front
 in RL tasks that don't have a *natural ending* are called ...
 *** Back
 continuing tasks
+** 2022.06.05-13:19:25 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+DQN is a ... algorithm
+*** Back
+Deep Reinforcement Learning
+** 2022.06.05-13:20:35 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+DQN came out in year ...
+*** Back
+2015
+** 2022.06.05-13:21:30 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+DQN uses ... to learn to play Atari games from raw pixels
+*** Back
+CNN (Convolutional Neural Networks)
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
