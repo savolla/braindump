@@ -16,6 +16,7 @@ continuing tasks
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654424551200
 :END:
 *** Front
 DQN is a ... algorithm
@@ -25,6 +26,7 @@ Deep Reinforcement Learning
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654424551300
 :END:
 *** Front
 DQN came out in year ...
@@ -34,6 +36,7 @@ DQN came out in year ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654424551374
 :END:
 *** Front
 DQN uses ... to learn to play Atari games from raw pixels
