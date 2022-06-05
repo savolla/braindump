@@ -1750,6 +1750,7 @@ in *factory pattern* you provide ... or ... to create objects
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654374745753
 :END:
 *** Front
 *conveying* in Turkish?
@@ -1759,6 +1760,7 @@ taşımak
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654374745884
 :END:
 *** Front
 structure of *while loop* in *bash*?
@@ -1775,6 +1777,7 @@ done
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654374745976
 :END:
 *** Front
 *pursule* in Turkish?
@@ -1784,6 +1787,7 @@ izlemek
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654374746076
 :END:
 *** Front
 what are the 3 main branches of AI?
@@ -1791,6 +1795,77 @@ what are the 3 main branches of AI?
 1. Supervised Learning
 2. Unsupervised Learning
 3. Reinforcement Learning
+** 2022.06.04-23:05:48 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654374746176
+:END:
+*** Front
+*supervised learning* is the tast of learning from ... data.
+*** Back
+labeled
+** 2022.06.04-23:07:55 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654374746276
+:END:
+*** Front
+in *supervised learning* labeling the data is decided by ... itself
+*** Back
+human
+** 2022.06.04-23:08:58 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654374746376
+:END:
+*** Front
+in *supervised learning* the main goal is to ...
+*** Back
+generalize
+** 2022.06.04-23:10:54 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654374746476
+:END:
+*** Front
+*unsupervised learning* is the task of learning from ... data
+*** Back
+unlabeled
+** 2022.06.04-23:13:57 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654374746576
+:END:
+*** Front
+*reinforcement learning* is the task of learning through ... and ...
+*** Back
+1. trial
+2. error
+** 2022.06.04-23:24:52 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654374746676
+:END:
+*** Front
+what *type* of problems *deep reinforcement learning* solves?
+*** Back
+complex sequential decision-making problems under uncertainty
+** 2022.06.04-23:29:33 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654374746777
+:END:
+*** Front
+in *deep reinforcement learning* an *agent* has a single role: ...
+*** Back
+decision making
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
