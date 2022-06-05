@@ -96,6 +96,7 @@ Intrinsic motivation
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443587709
 :END:
 *** Front
 The two core components in RL are the ... and the ...
@@ -106,6 +107,7 @@ The two core components in RL are the ... and the ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443587785
 :END:
 *** Front
 in RL the agent is the ... maker. and is the ... to a problem
@@ -116,6 +118,7 @@ in RL the agent is the ... maker. and is the ... to a problem
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443587859
 :END:
 *** Front
 in RL the *environment* is the representation of a ...
@@ -125,6 +128,7 @@ in RL the *environment* is the representation of a ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443587934
 :END:
 *** Front
 in RL the agent attempts to ... the environment through ..., and the environment ... to the agent's ...
@@ -137,6 +141,7 @@ in RL the agent attempts to ... the environment through ..., and the environment
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443588010
 :END:
 *** Front
 *parable* in Turkish?
@@ -146,6 +151,7 @@ benzetme
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443588084
 :END:
 *** Front
 *abbreviated* in Turkish?
