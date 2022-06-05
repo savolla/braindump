@@ -1,8 +1,31 @@
 #+title: Anki
 #+startup: content
 
-* notitia :clean_code:
-** 20:48
+* notitia
+** 2022.06.05-12:01:04 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL tasks that don't have a *natural ending* are called ...
+*** Back
+continuing tasks
+* ros1 flashcards
+* java
+** 2022.05.31-09:39:08 :java:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1653979212835
+:END:
+*** Front
+what ~final~ keyword represents when using with *variables*?
+*** Back
+constant variable
+* vocabulary
+* uploaded
+** 20:48 :clean_code:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
@@ -1870,6 +1893,7 @@ decision making
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 which variables represent *state space* in RL?
@@ -1879,6 +1903,7 @@ all variables that related to *environment*
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 in RL, all environment variables form ... space
@@ -1888,6 +1913,7 @@ in RL, all environment variables form ... space
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 in RL agents don’t have access to the actual full state of the environment. The part of a state that the agent can observe is called an ...
@@ -1897,6 +1923,7 @@ observation space
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 in RL the *agent*'s actions may change the *state* of the ...
@@ -1906,6 +1933,7 @@ environment
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 the *function* that maps agent's actions to environment states is called ...
@@ -1915,6 +1943,7 @@ transition function
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 in RL the environment may also provide a reward signal as a response to agent's behaviour. The function responsible for this mapping is called the ...
@@ -1924,6 +1953,7 @@ revard function
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 in RL transition and rewarf function create ...
@@ -1933,6 +1963,7 @@ environment model
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 in RL the *agent* has a *three-step* process
@@ -1944,6 +1975,7 @@ in RL the *agent* has a *three-step* process
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 The interactions between the agent and the environment go on for several cycles. Each cycle is called a ...
@@ -1953,21 +1985,9 @@ time step
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 *** Front
 in RL the task the agent is trying to solve may or may not have a natural ending. Tasks that have a natural ending, such as a game, are called ...
 *** Back
 episodic tasks
-* ros1 flashcards
-* java
-** 2022.05.31-09:39:08 :java:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1653979212835
-:END:
-*** Front
-what ~final~ keyword represents when using with *variables*?
-*** Back
-constant variable
-* vocabulary
