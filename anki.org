@@ -1949,6 +1949,15 @@ in RL the *agent* has a *three-step* process
 The interactions between the agent and the environment go on for several cycles. Each cycle is called a ...
 *** Back
 time step
+** 2022.06.05-11:51:48 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL the task the agent is trying to solve may or may not have a natural ending. Tasks that have a natural ending, such as a game, are called ...
+*** Back
+episodic tasks
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
