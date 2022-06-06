@@ -175,6 +175,33 @@ Most *real-world decision-making* problems can be expressed as ...
 *gait* in Turkish?
 *** Back
 yürüyüş
+** 2022.06.06-16:57:39 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL the environment is represented by a set of variables related to the problem. The combination of all the possible values this set of variables can take is referred to as the ...
+*** Back
+state space
+** 2022.06.06-16:59:04 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+RL agents can observe something from the environment. The set of variables the agent perceives at any given time is called an ...
+*** Back
+observation
+** 2022.06.06-17:00:22 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL community, two terms are used interchangeably. what are they?
+*** Back
+state and observation
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
