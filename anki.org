@@ -157,6 +157,15 @@ benzetme
 *abbreviated* in Turkish?
 *** Back
 kısaltımış
+** 2022.06.06-11:47:51 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+Most *real-world decision-making* problems can be expressed as ...
+*** Back
+1. RL environments
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
