@@ -102,6 +102,15 @@ longer
 in RL the fewer variables you give to environment, the higher the chance the information fed to the agent is ...
 *** Back
 not sufficient
+** 2022.06.07-19:57:36 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in MDP *terminal states* are defined as states with all actions with *deterministic transitions* to ...
+*** Back
+themselves
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
