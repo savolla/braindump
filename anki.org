@@ -6,6 +6,7 @@
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254214
 :END:
 *** Front
 the *sum of rewards* collected in *single episode* is called a ...
@@ -15,6 +16,7 @@ return
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254510
 :END:
 *** Front
 in RL which property the agent tries to *maximize*?
@@ -24,6 +26,7 @@ return
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254581
 :END:
 *** Front
 in RL if the task is *continuing* then we add ... limit to make it *eposodic task*
@@ -33,6 +36,7 @@ time step
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254683
 :END:
 *** Front
 in RL to make the agent to maximize the return, task needs to be ...
@@ -42,6 +46,7 @@ episodic
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254775
 :END:
 *** Front
 in RL *the engine* of the environment is ...
@@ -51,6 +56,7 @@ MDP (Markov Decision Processes)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254849
 :END:
 *** Front
 *devise* in Turkish?
@@ -60,11 +66,42 @@ tasarlamak
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254925
 :END:
 *** Front
 *adequate* in Turkish?
 *** Back
 yeterli
+** 2022.06.07-17:34:57 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654613948700
+:END:
+*** Front
+in RL The *probability of the next state*, given the current state and action, is *independent of the history* of interactions. This *memoryless property* of MDPs is known as the ...
+*** Back
+Markov ­property
+** 2022.06.07-17:38:28 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654613948776
+:END:
+*** Front
+the *more variables* you add to the environment the ... will be the learning process for the agent
+*** Back
+longer
+** 2022.06.07-17:39:28 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654613948850
+:END:
+*** Front
+in RL the fewer variables you give to environment, the higher the chance the information fed to the agent is ...
+*** Back
+not sufficient
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
