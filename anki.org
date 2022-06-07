@@ -56,7 +56,15 @@ MDP (Markov Decision Processes)
 *devise* in Turkish?
 *** Back
 tasarlamak
-
+** 2022.06.07-17:13:52 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+*adequate* in Turkish?
+*** Back
+yeterli
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
