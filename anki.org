@@ -2,206 +2,6 @@
 #+startup: content
 
 * notitia
-** 2022.06.05-12:01:04 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654419741406
-:END:
-*** Front
-in RL tasks that don't have a *natural ending* are called ...
-*** Back
-continuing tasks
-** 2022.06.05-13:19:25 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654424551200
-:END:
-*** Front
-DQN is a ... algorithm
-*** Back
-Deep Reinforcement Learning
-** 2022.06.05-13:20:35 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654424551300
-:END:
-*** Front
-DQN came out in year ...
-*** Back
-2015
-** 2022.06.05-13:21:30 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654424551374
-:END:
-*** Front
-DQN uses ... to learn to play Atari games from raw pixels
-*** Back
-CNN (Convolutional Neural Networks)
-** 2022.06.05-14:13:13 :vocabulary:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654431150420
-:END:
-*** Front
-*abundance* in Turkish?
-*** Back
-bolluk
-** 2022.06.05-14:17:37 :vocabulary:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654431150524
-:END:
-*** Front
-*prudent* in Turkish?
-*** Back
-tedbirli
-** 2022.06.05-15:08:03 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654431150609
-:END:
-*** Front
-when you try to teach more than one tasks that are completely different to a DRL agent, the agent will ...
-*** Back
-1. not learn them well
-** 2022.06.05-15:10:55 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654431150684
-:END:
-*** Front
-DRL agents can learn only ... task well
-*** Back
-1. one
-** 2022.06.05-15:19:28 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654433025184
-:END:
-*** Front
-... allows the agent to explore new actions just for the sake of it, out of curiosity. Agents that use ... show improved learning performance in environments with sparse rewards
-*** Back
-Intrinsic motivation
-** 2022.06.05-17:31:04 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654443587709
-:END:
-*** Front
-The two core components in RL are the ... and the ...
-*** Back
-1. agent
-2. environment
-** 2022.06.05-17:31:37 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654443587785
-:END:
-*** Front
-in RL the agent is the ... maker. and is the ... to a problem
-*** Back
-1. decision
-2. solution
-** 2022.06.05-17:32:30 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654443587859
-:END:
-*** Front
-in RL the *environment* is the representation of a ...
-*** Back
-1. problem
-** 2022.06.05-17:33:13 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654443587934
-:END:
-*** Front
-in RL the agent attempts to ... the environment through ..., and the environment ... to the agent's ...
-*** Back
-1. influence
-2. actions
-3. reacts
-4. actions
-** 2022.06.05-17:43:42 :vocabulary:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654443588010
-:END:
-*** Front
-*parable* in Turkish?
-*** Back
-benzetme
-** 2022.06.05-17:49:00 :vocabulary:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654443588084
-:END:
-*** Front
-*abbreviated* in Turkish?
-*** Back
-kısaltımış
-** 2022.06.06-11:47:51 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-Most *real-world decision-making* problems can be expressed as ...
-*** Back
-1. RL environments
-** 2022.06.06-16:33:16 :vocabulary:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-*gait* in Turkish?
-*** Back
-yürüyüş
-** 2022.06.06-16:57:39 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL the environment is represented by a set of variables related to the problem. The combination of all the possible values this set of variables can take is referred to as the ...
-*** Back
-state space
-** 2022.06.06-16:59:04 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-RL agents can observe something from the environment. The set of variables the agent perceives at any given time is called an ...
-*** Back
-observation
-** 2022.06.06-17:00:22 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL community, two terms are used interchangeably. what are they?
-*** Back
-state and observation
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
@@ -2182,3 +1982,230 @@ time step
 in RL the task the agent is trying to solve may or may not have a natural ending. Tasks that have a natural ending, such as a game, are called ...
 *** Back
 episodic tasks
+
+** 2022.06.05-12:01:04 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654419741406
+:END:
+*** Front
+in RL tasks that don't have a *natural ending* are called ...
+*** Back
+continuing tasks
+** 2022.06.05-13:19:25 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654424551200
+:END:
+*** Front
+DQN is a ... algorithm
+*** Back
+Deep Reinforcement Learning
+** 2022.06.05-13:20:35 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654424551300
+:END:
+*** Front
+DQN came out in year ...
+*** Back
+2015
+** 2022.06.05-13:21:30 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654424551374
+:END:
+*** Front
+DQN uses ... to learn to play Atari games from raw pixels
+*** Back
+CNN (Convolutional Neural Networks)
+** 2022.06.05-14:13:13 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654431150420
+:END:
+*** Front
+*abundance* in Turkish?
+*** Back
+bolluk
+** 2022.06.05-14:17:37 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654431150524
+:END:
+*** Front
+*prudent* in Turkish?
+*** Back
+tedbirli
+** 2022.06.05-15:08:03 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654431150609
+:END:
+*** Front
+when you try to teach more than one tasks that are completely different to a DRL agent, the agent will ...
+*** Back
+1. not learn them well
+** 2022.06.05-15:10:55 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654431150684
+:END:
+*** Front
+DRL agents can learn only ... task well
+*** Back
+1. one
+** 2022.06.05-15:19:28 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654433025184
+:END:
+*** Front
+... allows the agent to explore new actions just for the sake of it, out of curiosity. Agents that use ... show improved learning performance in environments with sparse rewards
+*** Back
+Intrinsic motivation
+** 2022.06.05-17:31:04 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443587709
+:END:
+*** Front
+The two core components in RL are the ... and the ...
+*** Back
+1. agent
+2. environment
+** 2022.06.05-17:31:37 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443587785
+:END:
+*** Front
+in RL the agent is the ... maker. and is the ... to a problem
+*** Back
+1. decision
+2. solution
+** 2022.06.05-17:32:30 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443587859
+:END:
+*** Front
+in RL the *environment* is the representation of a ...
+*** Back
+1. problem
+** 2022.06.05-17:33:13 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443587934
+:END:
+*** Front
+in RL the agent attempts to ... the environment through ..., and the environment ... to the agent's ...
+*** Back
+1. influence
+2. actions
+3. reacts
+4. actions
+** 2022.06.05-17:43:42 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443588010
+:END:
+*** Front
+*parable* in Turkish?
+*** Back
+benzetme
+** 2022.06.05-17:49:00 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654443588084
+:END:
+*** Front
+*abbreviated* in Turkish?
+*** Back
+kısaltımış
+** 2022.06.06-11:47:51 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654525071209
+:END:
+*** Front
+Most *real-world decision-making* problems can be expressed as ...
+*** Back
+1. RL environments
+** 2022.06.06-16:33:16 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654525071283
+:END:
+*** Front
+*gait* in Turkish?
+*** Back
+yürüyüş
+** 2022.06.06-16:57:39 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654525071359
+:END:
+*** Front
+in RL the environment is represented by a set of variables related to the problem. The combination of all the possible values this set of variables can take is referred to as the ...
+*** Back
+state space
+** 2022.06.06-16:59:04 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654525071433
+:END:
+*** Front
+RL agents can observe something from the environment. The set of variables the agent perceives at any given time is called an ...
+*** Back
+observation
+** 2022.06.06-17:00:22 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654525071508
+:END:
+*** Front
+in RL community, two terms are used interchangeably. what are they?
+*** Back
+state and observation
+** 2022.06.06-17:09:09 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654525071584
+:END:
+*** Front
+in RL the interactions between the agent and the environment go on for several cycles. Each
+cycle is called a ...
+*** Back
+1. time step.
+** 2022.06.06-17:17:56 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654525476534
+:END:
+*** Front
+in RL the combination of *set of observation*, *the action*, *reward* and *new observation* is called ...
+*** Back
+experience tuple
