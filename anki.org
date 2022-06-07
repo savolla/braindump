@@ -2,6 +2,51 @@
 #+startup: content
 
 * notitia
+** 2022.06.07-16:24:17 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+the *sum of rewards* collected in *single episode* is called a ...
+*** Back
+return
+** 2022.06.07-16:25:59 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL which property the agent tries to *maximize*?
+*** Back
+return
+** 2022.06.07-16:27:41 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL if the task is *continuing* then we add ... limit to make it *eposodic task*
+*** Back
+time step
+** 2022.06.07-16:29:32 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL to make the agent to maximize the return, task needs to be ...
+*** Back
+episodic
+** 2022.06.07-16:34:03 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL *the engine* of the environment is ...
+*** Back
+MDP (Markov Decision Processes)
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
