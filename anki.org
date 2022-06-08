@@ -2,6 +2,15 @@
 #+startup: content
 
 * notitia
+** 2022.06.08-15:23:52 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL *epoch* is also referred to?
+*** Back
+time step
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
