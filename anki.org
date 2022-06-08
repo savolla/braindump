@@ -11,6 +11,33 @@
 in RL *epoch* is also referred to?
 *** Back
 time step
+** 2022.06.08-16:12:20 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL we need to aknowledge the agent that *getting the reward as soon as possible* is better. we do it with ...
+*** Back
+discount factor / gamma
+** 2022.06.08-16:14:24 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what's the *discount factor*'s second name?
+*** Back
+gamma
+** 2022.06.08-16:15:00 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is *gamma* in RL?
+*** Back
+discount factor that makes rewards more valuable at starting phase
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
