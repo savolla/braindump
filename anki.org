@@ -2,115 +2,6 @@
 #+startup: content
 
 * notitia
-** 2022.06.07-16:24:17 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654611254214
-:END:
-*** Front
-the *sum of rewards* collected in *single episode* is called a ...
-*** Back
-return
-** 2022.06.07-16:25:59 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654611254510
-:END:
-*** Front
-in RL which property the agent tries to *maximize*?
-*** Back
-return
-** 2022.06.07-16:27:41 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654611254581
-:END:
-*** Front
-in RL if the task is *continuing* then we add ... limit to make it *eposodic task*
-*** Back
-time step
-** 2022.06.07-16:29:32 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654611254683
-:END:
-*** Front
-in RL to make the agent to maximize the return, task needs to be ...
-*** Back
-episodic
-** 2022.06.07-16:34:03 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654611254775
-:END:
-*** Front
-in RL *the engine* of the environment is ...
-*** Back
-MDP (Markov Decision Processes)
-** 2022.06.07-16:42:31 :vocabulary:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654611254849
-:END:
-*** Front
-*devise* in Turkish?
-*** Back
-tasarlamak
-** 2022.06.07-17:13:52 :vocabulary:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654611254925
-:END:
-*** Front
-*adequate* in Turkish?
-*** Back
-yeterli
-** 2022.06.07-17:34:57 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654613948700
-:END:
-*** Front
-in RL The *probability of the next state*, given the current state and action, is *independent of the history* of interactions. This *memoryless property* of MDPs is known as the ...
-*** Back
-Markov ­property
-** 2022.06.07-17:38:28 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654613948776
-:END:
-*** Front
-the *more variables* you add to the environment the ... will be the learning process for the agent
-*** Back
-longer
-** 2022.06.07-17:39:28 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1654613948850
-:END:
-*** Front
-in RL the fewer variables you give to environment, the higher the chance the information fed to the agent is ...
-*** Back
-not sufficient
-** 2022.06.07-19:57:36 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in MDP *terminal states* are defined as states with all actions with *deterministic transitions* to ...
-*** Back
-themselves
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
@@ -2318,3 +2209,139 @@ cycle is called a ...
 in RL the combination of *set of observation*, *the action*, *reward* and *new observation* is called ...
 *** Back
 experience tuple
+
+** 2022.06.07-16:24:17 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254214
+:END:
+*** Front
+the *sum of rewards* collected in *single episode* is called a ...
+*** Back
+return
+** 2022.06.07-16:25:59 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254510
+:END:
+*** Front
+in RL which property the agent tries to *maximize*?
+*** Back
+return
+** 2022.06.07-16:27:41 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254581
+:END:
+*** Front
+in RL if the task is *continuing* then we add ... limit to make it *eposodic task*
+*** Back
+time step
+** 2022.06.07-16:29:32 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254683
+:END:
+*** Front
+in RL to make the agent to maximize the return, task needs to be ...
+*** Back
+episodic
+** 2022.06.07-16:34:03 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254775
+:END:
+*** Front
+in RL *the engine* of the environment is ...
+*** Back
+MDP (Markov Decision Processes)
+** 2022.06.07-16:42:31 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254849
+:END:
+*** Front
+*devise* in Turkish?
+*** Back
+tasarlamak
+** 2022.06.07-17:13:52 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654611254925
+:END:
+*** Front
+*adequate* in Turkish?
+*** Back
+yeterli
+** 2022.06.07-17:34:57 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654613948700
+:END:
+*** Front
+in RL The *probability of the next state*, given the current state and action, is *independent of the history* of interactions. This *memoryless property* of MDPs is known as the ...
+*** Back
+Markov ­property
+** 2022.06.07-17:38:28 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654613948776
+:END:
+*** Front
+the *more variables* you add to the environment the ... will be the learning process for the agent
+*** Back
+longer
+** 2022.06.07-17:39:28 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654613948850
+:END:
+*** Front
+in RL the fewer variables you give to environment, the higher the chance the information fed to the agent is ...
+*** Back
+not sufficient
+** 2022.06.07-19:57:36 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in MDP *terminal states* are defined as states with all actions with *deterministic transitions* to ...
+*** Back
+themselves
+** 2022.06.07-20:35:40 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL when modeling a problem we use MDPs. what columns should we used (in order) to model our problem using a table format?
+*** Back
+| state | action | next state | transition prob | reward signal |
+|-------+--------+------------+-----------------+---------------|
+|       |        |            |                 |               |
+** 2022.06.07-20:39:50 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL An *episodic task* is a task in which there’s a ... number of time steps, either because the ... stops or because the agent reaches a ... . There are also *continuing tasks*, which are tasks that go on ...; there are no ... states, so there’s an ... number of time steps. In this type of task, the agent must be stopped ... .
+*** Back
+1. finite
+2. clock
+3. terminal
+4. forever
+5. terminal
+6. infinite
+7. manually
