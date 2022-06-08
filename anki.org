@@ -38,6 +38,15 @@ gamma
 what is *gamma* in RL?
 *** Back
 discount factor that makes rewards more valuable at starting phase
+** 2022.06.08-16:28:57 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL the gamma (reward discount) multiplies with ... for each *time step*
+*** Back
+$gamma^n$
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
