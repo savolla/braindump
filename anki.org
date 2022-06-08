@@ -47,6 +47,26 @@ discount factor that makes rewards more valuable at starting phase
 in RL the gamma (reward discount) multiplies with ... for each *time step*
 *** Back
 $gamma^n$
+** 2022.06.08-22:13:46 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+[[file:./images/screenshot-146.png]]
+tell me which function is it in RL world and try to assess it.
+*** Back
+    return function
+** 2022.06.08-22:24:52 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+    what type of MDP is it when the *agent cannot fully observe the environment*?
+*** Back
+    POMDP (partially observable markov decision processes)
+
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
