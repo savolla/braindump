@@ -92,7 +92,25 @@ MDP = {
     2. full state
     3. noisy state
     4. observation
-
+** 2022.06.09-22:13:08 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+    ... and ... are the foundations from which virtually every other RL (and DRL) algorithm originates
+*** Back
+    1. VI
+    2. PI
+** 2022.06.09-22:15:51 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+    in RL when an *agent* has *full access to an MDP*, there’s no ... because you can look at the *dynamics* and *rewards* and *calculate expectations directly*
+*** Back
+    uncertainty
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
