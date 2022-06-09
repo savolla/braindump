@@ -55,6 +55,44 @@ MDP = {
     Moreover, certain sources describe ... and refer to them as MDPs without full disclosure.
 *** Back
     POMDP
+** 2022.06.09-21:44:27 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+    define every set in $MDP(S, A, T, R, S_0, y, H)$
+*** Back
+    1. S: state space
+    2. A: action space
+    3. T: transition function
+    4. R: reward function
+    5. S0: initial distribution state set
+    6. y: gamma (discount factor)
+    7. H: horizon
+** 2022.06.09-21:50:58 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+    meaning of 'O' and 'E' in $POMDP(S, A, T, R, S0, y, H, O, E)
+*** Back
+    1. O: observation space
+    2. E: emission probability
+** 2022.06.09-21:58:31 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+    in RL the *POMDP*, the states are ... . This means the agent can’t observe the ... of the system, but can observe a ... instead, called an ... .
+*** Back
+    1. partially observable
+    2. full state
+    3. noisy state
+    4. observation
+
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
