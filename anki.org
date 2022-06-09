@@ -2,6 +2,47 @@
 #+startup: content
 
 * notitia
+** 2022.06.09-15:33:40 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+    describe the *structure* of *python dictionary* for *MDP*. (from outside to inside)
+*** Back
+    #+begin_src python
+MDP = {
+    state0: {
+        action0: [
+            (
+                transition_probability,
+                state1, # next state
+                reward_after_transition,
+                is_next_state_terminal
+            )
+        ]
+    }
+}
+    #+end_src
+** 2022.06.09-15:51:14 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+ how to build a *stochastic transition* in MDP (python snippet)
+*** Back
+    put other variations as *extra tupple* inside *action transition array*
+#+begin_src python
+MDP = {
+    state0: {
+        action0: [
+            (transition_prob, next_state, reward_after_transition, is_next_state_terminal),
+            (transition_prob, next_state, reward_after_transition, is_next_state_terminal)
+        ]
+    }
+}
+#+end_src
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
