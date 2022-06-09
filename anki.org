@@ -49,6 +49,7 @@ MDP = {
    :PROPERTIES:
    :ANKI_NOTE_TYPE: Basic
    :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654786255406
    :END:
 *** Front
     Moreover, certain sources describe ... and refer to them as MDPs without full disclosure.
