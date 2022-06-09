@@ -2,71 +2,6 @@
 #+startup: content
 
 * notitia
-** 2022.06.08-15:23:52 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL *epoch* is also referred to?
-*** Back
-time step
-** 2022.06.08-16:12:20 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL we need to aknowledge the agent that *getting the reward as soon as possible* is better. we do it with ...
-*** Back
-discount factor / gamma
-** 2022.06.08-16:14:24 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-what's the *discount factor*'s second name?
-*** Back
-gamma
-** 2022.06.08-16:15:00 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-what is *gamma* in RL?
-*** Back
-discount factor that makes rewards more valuable at starting phase
-** 2022.06.08-16:28:57 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL the gamma (reward discount) multiplies with ... for each *time step*
-*** Back
-$gamma^n$
-** 2022.06.08-22:13:46 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :END:
-*** Front
-[[file:./images/screenshot-146.png]]
-tell me which function is it in RL world and try to assess it.
-*** Back
-    return function
-** 2022.06.08-22:24:52 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :END:
-*** Front
-    what type of MDP is it when the *agent cannot fully observe the environment*?
-*** Back
-    POMDP (partially observable markov decision processes)
-
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
@@ -2410,3 +2345,117 @@ in RL An *episodic task* is a task in which there’s a ... number of time steps
 5. terminal
 6. infinite
 7. manually
+
+** 2022.06.08-15:23:52 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654718079677
+:END:
+*** Front
+in RL *epoch* is also referred to?
+*** Back
+time step
+** 2022.06.08-16:12:20 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654718079771
+:END:
+*** Front
+in RL we need to aknowledge the agent that *getting the reward as soon as possible* is better. we do it with ...
+*** Back
+discount factor / gamma
+** 2022.06.08-16:14:24 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654718079847
+:END:
+*** Front
+what's the *discount factor*'s second name?
+*** Back
+gamma
+** 2022.06.08-16:15:00 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654718079922
+:END:
+*** Front
+what is *gamma* in RL?
+*** Back
+discount factor that makes rewards more valuable at starting phase
+** 2022.06.08-16:28:57 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1654718079996
+:END:
+*** Front
+in RL the gamma (reward discount) multiplies with ... for each *time step*
+*** Back
+$gamma^n$
+** 2022.06.08-22:13:46 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654718080172
+   :END:
+*** Front
+[[file:./images/screenshot-146.png]]
+tell me which function is it in RL world and try to assess it.
+*** Back
+    return function
+** 2022.06.08-22:24:52 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654718080247
+   :END:
+*** Front
+    what type of MDP is it when the *agent cannot fully observe the environment*?
+*** Back
+    POMDP (partially observable markov decision processes)
+** 2022.06.08-22:28:25 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654718080322
+   :END:
+*** Front
+ in RL which MDP type can be used to *represent large MDPs with compact transition and reward functions*?
+*** Back
+    FMDP (Factored markov decision processes)
+** 2022.06.08-22:32:53 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654718080397
+   :END:
+*** Front
+ in RL which MDP type is used when *either time, action or state or any combination of the are continuous*?
+*** Back
+    CTMDP (Continuous *Time* Markov Decision Processes)
+    CAMDP (Continuous *Action* Markov Decision Processes)
+    CSMDP (Continuous *State* Markov Decision Processes)
+** 2022.06.08-22:36:16 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654718080472
+   :END:
+*** Front
+ in RL which MDP type is used to *allow the inclusion of multiple agents in the same environment*?
+*** Back
+    MMDP (Multi-agent Markov Decision Processes)
+** 2022.06.08-22:40:31 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654718080547
+   :END:
+*** Front
+ in RL which type of MDP is used to *allow for multiple agents to collaborate and maximize a common reward*?
+*** Back
+    Dec-MDP (Decentralized Markov Decision Processes)
