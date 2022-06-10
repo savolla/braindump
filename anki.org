@@ -2,214 +2,6 @@
 #+startup: content
 
 * notitia
-** 2022.06.09-15:33:40 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654779340036
-   :END:
-*** Front
-    describe the *structure* of *python dictionary* for *MDP*. (from outside to inside)
-*** Back
-    #+begin_src python
-MDP = {
-    state0: {
-        action0: [
-            (
-                transition_probability,
-                state1, # next state
-                reward_after_transition,
-                is_next_state_terminal
-            )
-        ]
-    }
-}
-    #+end_src
-** 2022.06.09-15:51:14 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654779340155
-   :END:
-*** Front
- how to build a *stochastic transition* in MDP (python snippet)
-*** Back
-    put other variations as *extra tupple* inside *action transition array*
-#+begin_src python
-MDP = {
-    state0: {
-        action0: [
-            (transition_prob, next_state, reward_after_transition, is_next_state_terminal),
-            (transition_prob, next_state, reward_after_transition, is_next_state_terminal)
-        ]
-    }
-}
-#+end_src
-** 2022.06.09-16:17:25 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654786255406
-   :END:
-*** Front
-    Moreover, certain sources describe ... and refer to them as MDPs without full disclosure.
-*** Back
-    POMDP
-** 2022.06.09-21:44:27 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654804669825
-   :END:
-*** Front
-    define every set in $MDP(S, A, T, R, S_0, y, H)$
-*** Back
-    1. S: state space
-    2. A: action space
-    3. T: transition function
-    4. R: reward function
-    5. S0: initial distribution state set
-    6. y: gamma (discount factor)
-    7. H: horizon
-** 2022.06.09-21:50:58 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654804669924
-   :END:
-*** Front
-    meaning of 'O' and 'E' in $POMDP(S, A, T, R, S0, y, H, O, E)
-*** Back
-    1. O: observation space
-    2. E: emission probability
-** 2022.06.09-21:58:31 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654804669999
-   :END:
-*** Front
-    in RL the *POMDP*, the states are ... . This means the agent can’t observe the ... of the system, but can observe a ... instead, called an ... .
-*** Back
-    1. partially observable
-    2. full state
-    3. noisy state
-    4. observation
-** 2022.06.09-22:13:08 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654804670073
-   :END:
-*** Front
-    ... and ... are the foundations from which virtually every other RL (and DRL) algorithm originates
-*** Back
-    1. VI
-    2. PI
-** 2022.06.09-22:15:51 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654804670148
-   :END:
-*** Front
-    in RL when an *agent* has *full access to an MDP*, there’s no ... because you can look at the *dynamics* and *rewards* and *calculate expectations directly*
-*** Back
-    uncertainty
-** 2022.06.09-22:48:01 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654804670223
-   :END:
-*** Front
- in RL *plans* aren't enough in ... environments
-*** Back
-    stochastic
-** 2022.06.09-22:49:56 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654804670298
-   :END:
-*** Front
- in RL the agent needs to come up with a ... not with a *plan*
-*** Back
-    policy
-** 2022.06.09-22:53:18 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654804670373
-   :END:
-*** Front
- in RL policies are ... plans. policies cover all possible ...
-*** Back
-    1. universal
-    2. states
-** 2022.06.10-10:28:18 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654852582337
-   :END:
-*** Front
- in RL, *policies* prescribe action only for ... states
-*** Back
-    non-terminal
-** 2022.06.10-10:37:08 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654852582411
-   :END:
-*** Front
- in RL, which *symbol* is used to denote *policy*?
-*** Back
-    pi
-** 2022.06.10-11:19:22 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654852582610
-   :END:
-*** Front
-    what's the name of this equation
-[[file:./images/screenshot-162.png]]
-*** Back
-    Bellman equation
-** 2022.06.10-11:20:50 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654852582685
-   :END:
-*** Front
- in RL the *Bellman equation* tells us how to find the ... of states acording to a particular ...
-*** Back
-    1. value
-    2. policy
-** 2022.06.10-12:13:53 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :ANKI_NOTE_ID: 1654852582760
-   :END:
-*** Front
- in RL, *advantage function* is the difference between ... and ... under a particular *policy*
-*** Back
-    1. action value
-    2. state value
-** 2022.06.10-12:17:22 :ai:
-   :PROPERTIES:
-   :ANKI_NOTE_TYPE: Basic
-   :ANKI_DECK: notitia
-   :END:
-*** Front
-in RL, The *advantage function* describes how much better it is to take action a instead of following ...: the advantage of choosing action a over the ... action.
-*** Back
-    1. policy π
-    2. default
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
@@ -2667,3 +2459,240 @@ tell me which function is it in RL world and try to assess it.
  in RL which type of MDP is used to *allow for multiple agents to collaborate and maximize a common reward*?
 *** Back
     Dec-MDP (Decentralized Markov Decision Processes)
+
+** 2022.06.09-15:33:40 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654779340036
+   :END:
+*** Front
+    describe the *structure* of *python dictionary* for *MDP*. (from outside to inside)
+*** Back
+    #+begin_src python
+MDP = {
+    state0: {
+        action0: [
+            (
+                transition_probability,
+                state1, # next state
+                reward_after_transition,
+                is_next_state_terminal
+            )
+        ]
+    }
+}
+    #+end_src
+** 2022.06.09-15:51:14 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654779340155
+   :END:
+*** Front
+ how to build a *stochastic transition* in MDP (python snippet)
+*** Back
+    put other variations as *extra tupple* inside *action transition array*
+#+begin_src python
+MDP = {
+    state0: {
+        action0: [
+            (transition_prob, next_state, reward_after_transition, is_next_state_terminal),
+            (transition_prob, next_state, reward_after_transition, is_next_state_terminal)
+        ]
+    }
+}
+#+end_src
+** 2022.06.09-16:17:25 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654786255406
+   :END:
+*** Front
+    Moreover, certain sources describe ... and refer to them as MDPs without full disclosure.
+*** Back
+    POMDP
+** 2022.06.09-21:44:27 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804669825
+   :END:
+*** Front
+    define every set in $MDP(S, A, T, R, S_0, y, H)$
+*** Back
+    1. S: state space
+    2. A: action space
+    3. T: transition function
+    4. R: reward function
+    5. S0: initial distribution state set
+    6. y: gamma (discount factor)
+    7. H: horizon
+** 2022.06.09-21:50:58 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804669924
+   :END:
+*** Front
+    meaning of 'O' and 'E' in $POMDP(S, A, T, R, S0, y, H, O, E)
+*** Back
+    1. O: observation space
+    2. E: emission probability
+** 2022.06.09-21:58:31 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804669999
+   :END:
+*** Front
+    in RL the *POMDP*, the states are ... . This means the agent can’t observe the ... of the system, but can observe a ... instead, called an ... .
+*** Back
+    1. partially observable
+    2. full state
+    3. noisy state
+    4. observation
+** 2022.06.09-22:13:08 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804670073
+   :END:
+*** Front
+    ... and ... are the foundations from which virtually every other RL (and DRL) algorithm originates
+*** Back
+    1. VI
+    2. PI
+** 2022.06.09-22:15:51 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804670148
+   :END:
+*** Front
+    in RL when an *agent* has *full access to an MDP*, there’s no ... because you can look at the *dynamics* and *rewards* and *calculate expectations directly*
+*** Back
+    uncertainty
+** 2022.06.09-22:48:01 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804670223
+   :END:
+*** Front
+ in RL *plans* aren't enough in ... environments
+*** Back
+    stochastic
+** 2022.06.09-22:49:56 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804670298
+   :END:
+*** Front
+ in RL the agent needs to come up with a ... not with a *plan*
+*** Back
+    policy
+** 2022.06.09-22:53:18 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804670373
+   :END:
+*** Front
+ in RL policies are ... plans. policies cover all possible ...
+*** Back
+    1. universal
+    2. states
+** 2022.06.10-10:28:18 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654852582337
+   :END:
+*** Front
+ in RL, *policies* prescribe action only for ... states
+*** Back
+    non-terminal
+** 2022.06.10-10:37:08 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654852582411
+   :END:
+*** Front
+ in RL, which *symbol* is used to denote *policy*?
+*** Back
+    pi
+** 2022.06.10-11:19:22 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654852582610
+   :END:
+*** Front
+    what's the name of this equation
+[[file:./images/screenshot-162.png]]
+*** Back
+    Bellman equation
+** 2022.06.10-11:20:50 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654852582685
+   :END:
+*** Front
+ in RL the *Bellman equation* tells us how to find the ... of states acording to a particular ...
+*** Back
+    1. value
+    2. policy
+** 2022.06.10-12:13:53 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654852582760
+   :END:
+*** Front
+ in RL, *advantage function* is the difference between ... and ... under a particular *policy*
+*** Back
+    1. action value
+    2. state value
+** 2022.06.10-12:17:22 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654860060160
+   :END:
+*** Front
+in RL, The *advantage function* describes how much better it is to take action a instead of following ...: the advantage of choosing action a over the ... action.
+*** Back
+    1. policy π
+    2. default
+** 2022.06.10-14:06:08 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654860060235
+   :END:
+*** Front
+    in RL, when;
+    1. policy
+    2. state-value functions
+    3. action-value functions
+    4. action-adventage functions
+    are the *best they can be* we call it ...
+*** Back
+    optimality
+** 2022.06.10-14:09:58 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654860060334
+   :END:
+*** Front
+ in RL; Policies, state-value functions, action-value functions, and action-advantage functions are the components we use to ..., ..., and ... behaviors
+*** Back
+    1. describe
+    2. evaluate
+    3. improve
