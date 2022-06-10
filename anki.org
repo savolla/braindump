@@ -151,6 +151,7 @@ MDP = {
    :PROPERTIES:
    :ANKI_NOTE_TYPE: Basic
    :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654852582337
    :END:
 *** Front
  in RL, *policies* prescribe action only for ... states
@@ -160,6 +161,7 @@ MDP = {
    :PROPERTIES:
    :ANKI_NOTE_TYPE: Basic
    :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654852582411
    :END:
 *** Front
  in RL, which *symbol* is used to denote *policy*?
@@ -169,6 +171,7 @@ MDP = {
    :PROPERTIES:
    :ANKI_NOTE_TYPE: Basic
    :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654852582610
    :END:
 *** Front
     what's the name of this equation
@@ -179,12 +182,34 @@ MDP = {
    :PROPERTIES:
    :ANKI_NOTE_TYPE: Basic
    :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654852582685
    :END:
 *** Front
  in RL the *Bellman equation* tells us how to find the ... of states acording to a particular ...
 *** Back
     1. value
     2. policy
+** 2022.06.10-12:13:53 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654852582760
+   :END:
+*** Front
+ in RL, *advantage function* is the difference between ... and ... under a particular *policy*
+*** Back
+    1. action value
+    2. state value
+** 2022.06.10-12:17:22 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+in RL, The *advantage function* describes how much better it is to take action a instead of following ...: the advantage of choosing action a over the ... action.
+*** Back
+    1. policy π
+    2. default
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
