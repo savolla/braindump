@@ -147,6 +147,15 @@ MDP = {
 *** Back
     1. universal
     2. states
+** 2022.06.10-10:28:18 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+ in RL, *policies* prescribe action only for ... states
+*** Back
+    non-terminal
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
