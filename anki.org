@@ -59,6 +59,7 @@ MDP = {
    :PROPERTIES:
    :ANKI_NOTE_TYPE: Basic
    :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804669825
    :END:
 *** Front
     define every set in $MDP(S, A, T, R, S_0, y, H)$
@@ -74,6 +75,7 @@ MDP = {
    :PROPERTIES:
    :ANKI_NOTE_TYPE: Basic
    :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804669924
    :END:
 *** Front
     meaning of 'O' and 'E' in $POMDP(S, A, T, R, S0, y, H, O, E)
@@ -84,6 +86,7 @@ MDP = {
    :PROPERTIES:
    :ANKI_NOTE_TYPE: Basic
    :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804669999
    :END:
 *** Front
     in RL the *POMDP*, the states are ... . This means the agent can’t observe the ... of the system, but can observe a ... instead, called an ... .
@@ -96,6 +99,7 @@ MDP = {
    :PROPERTIES:
    :ANKI_NOTE_TYPE: Basic
    :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804670073
    :END:
 *** Front
     ... and ... are the foundations from which virtually every other RL (and DRL) algorithm originates
@@ -106,11 +110,43 @@ MDP = {
    :PROPERTIES:
    :ANKI_NOTE_TYPE: Basic
    :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804670148
    :END:
 *** Front
     in RL when an *agent* has *full access to an MDP*, there’s no ... because you can look at the *dynamics* and *rewards* and *calculate expectations directly*
 *** Back
     uncertainty
+** 2022.06.09-22:48:01 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804670223
+   :END:
+*** Front
+ in RL *plans* aren't enough in ... environments
+*** Back
+    stochastic
+** 2022.06.09-22:49:56 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804670298
+   :END:
+*** Front
+ in RL the agent needs to come up with a ... not with a *plan*
+*** Back
+    policy
+** 2022.06.09-22:53:18 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :ANKI_NOTE_ID: 1654804670373
+   :END:
+*** Front
+ in RL policies are ... plans. policies cover all possible ...
+*** Back
+    1. universal
+    2. states
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
