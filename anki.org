@@ -165,6 +165,26 @@ MDP = {
  in RL, which *symbol* is used to denote *policy*?
 *** Back
     pi
+** 2022.06.10-11:19:22 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+    what's the name of this equation
+[[file:./images/screenshot-162.png]]
+*** Back
+    Bellman equation
+** 2022.06.10-11:20:50 :ai:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: notitia
+   :END:
+*** Front
+ in RL the *Bellman equation* tells us how to find the ... of states acording to a particular ...
+*** Back
+    1. value
+    2. policy
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
