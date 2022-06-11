@@ -62,6 +62,27 @@ state-value function
 in RL, what *theta* parameter means in *iterative policy evaluation* algorithm?
 *** Back
 it's a treshold. this algorithm will make changes to the value-function on each iteration. so if the change becomes less than *theta* then the algorithm stops
+** 2022.06.11-18:46:02 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+implement *iterative policy evaluation* algorithm in python.
+*** Back
+#+begin_src python
+def iterative_policy_evaluation(policy, MDP, gamma=1.0, theta=1e-10):
+    prev_V = np.zeros(len(MDP))
+    while True:
+        V = np.zeros(len(MDP))
+        for state in range(len(MDP)):
+            for prob, next_state, reward, done in P[ state ][ policy(state) ]:
+                V[state] += prob * (reward + gamma*prev_V[next_state] * (not done))
+        if np.max(np.abs(prev_V - V)) < theta:
+            break
+        prev_V = V.copy()
+    return V
+#+end_src
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
