@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       93cf7b4a-2f59-4f56-9bbe-6119ab950548
+:END:
+#+title: my favorite latex template
+
+#+begin_src sh
+#+title: My Title
+#+OPTIONS: toc:nil
+#+OPTIONS: author:nil
+#+OPTIONS: date:nil
+#+LaTeX_HEADER: \usepackage[T1]{fontenc}
+#+LaTeX_HEADER: \usepackage{mathpazo}
+#+LaTeX_HEADER: \linespread{1.05}
+#+LaTeX_HEADER: \usepackage[scaled]{helvet}
+#+LaTeX_HEADER: \usepackage{courier}
+#+LaTeX_CLASS_OPTIONS: [captions=tableheading]
+#+LATEX_HEADER: \makeatletter \@ifpackageloaded{geometry}{\geometry{margin=2cm}}{\usepackage[margin=2cm]{geometry}} \makeatother
+#+LaTeX_CLASS_OPTIONS: [a4paper,twocolumn]
+#+end_src

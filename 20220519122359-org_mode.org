@@ -8,3 +8,5 @@
 * how to
 1. [[id:c4740fa0-decf-4d34-ad48-8ab8c2334d54][capture todo]]
 * concepts
+* listof
+[[id:93cf7b4a-2f59-4f56-9bbe-6119ab950548][my favorite latex template]]
