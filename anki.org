@@ -35,6 +35,24 @@ in RL, if you have *optimal Q-function* you can find ... and ...
 *** Back
 1. optimal V-function
 2. optimal policy
+** 2022.06.11-17:59:57 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL, which *algorithm* is used to *asses/evaluate* a particular *policy*?
+*** Back
+iterative policy evaluation
+** 2022.06.11-18:03:18 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL, what does *iterative policy evaluation* algorithm try to calculate?
+*** Back
+value-function
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
