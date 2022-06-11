@@ -2,6 +2,28 @@
 #+startup: content
 
 * notitia
+** 2022.06.11-14:56:53 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+there could be ... optimal policy for a given MDP but there can only be one optimal ..., optimal ... , and optimal ....
+*** Back
+1. more than one
+2. state-value function
+3. action-value function
+4. action-advantage function
+** 2022.06.11-15:02:56 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL if you had the *optimal V-function*, you could use the *MDP* to do
+a _one-step search_ for the *optimal Q-function* and then use this to *build the optimal policy*
+*** Back
+better study than flashcards
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
