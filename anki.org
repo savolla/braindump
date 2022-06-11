@@ -52,7 +52,16 @@ iterative policy evaluation
 *** Front
 in RL, what does *iterative policy evaluation* algorithm try to calculate?
 *** Back
-value-function
+state-value function
+** 2022.06.11-18:21:17 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL, what *theta* parameter means in *iterative policy evaluation* algorithm?
+*** Back
+it's a treshold. this algorithm will make changes to the value-function on each iteration. so if the change becomes less than *theta* then the algorithm stops
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
