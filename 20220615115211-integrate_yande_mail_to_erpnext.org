@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       584ef417-041a-429a-97b8-ec7eeccf1eb7
+:END:
+#+title: integrate yande mail to erpnext
+#+filetags: :how_to:
+1. go to your yandex mail
+2. settings
+3. security settings
+4. "uygulama şifreleri"
+5. create a new password for erpnext

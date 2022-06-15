@@ -7,6 +7,7 @@ a nice and easy to use ERP system
 * fact
 * tip
 * howto
+[[id:584ef417-041a-429a-97b8-ec7eeccf1eb7][integrate yande mail to erpnext]]
 * concept
 * snippet
 * listof
