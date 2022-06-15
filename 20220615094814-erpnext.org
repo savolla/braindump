@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2ca12afa-a11a-48f2-ba73-643e9ad0c71d
+:END:
+#+title: erpnext
+#+filetags: :what_is:
+a nice and easy to use ERP system
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof
