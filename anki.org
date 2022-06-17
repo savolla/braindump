@@ -83,6 +83,24 @@ def iterative_policy_evaluation(policy, MDP, gamma=1.0, theta=1e-10):
         prev_V = V.copy()
     return V
 #+end_src
+** 2022.06.17-14:21:49 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+second name of *state-value function*?
+*** Back
+Q-function
+** 2022.06.17-14:22:18 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+second name of *Q-function*?
+*** Back
+state-value function
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
