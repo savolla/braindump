@@ -96,6 +96,7 @@
 :END:
 + [[https://user-content.gitlab-static.net/37cfea2cee75ee2862ec5d2d18a803949477adbf/68747470733a2f2f692e6962622e636f2f64424a384859742f32313131343536322d312d322e706e67][FBI messaging apps access]]
 + [[https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn#instant-messaging][privacy tools list]]
++ [[https://www.deviceinfo.me][deviceinfo]] check how much data is collected from you
 * other
 :PROPERTIES:
 :ID:       c80c3335-260d-452c-92c4-73e928de892d
