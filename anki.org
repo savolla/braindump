@@ -2,77 +2,6 @@
 #+startup: content
 
 * notitia
-** 2022.06.19-11:46:49 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1655639287650
-:END:
-*** Front
-in RL, what *gamma* value should be at the beginning?
-*** Back
-0.99
-** 2022.06.19-11:57:30 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL, what ~policy_evaluation~ function actually calculates?
-*** Back
-*state-value* function of the policy
-** 2022.06.19-11:59:53 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL, what ~policy_imprevement~ function returns?
-*** Back
-a better policy
-** 2022.06.19-12:00:26 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL, what does ~policy_evaluation~ function takes as *arguments*?
-*** Back
-1. pi: policy
-2. P: MDP
-3. gamma: discount factor
-4. theta: treshold for termination
-** 2022.06.19-12:03:09 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL, we use *infinite loop* inside ~policy_iteration~ function. and we use ... and ... functions in it *respectively*
-*** Back
-1. ~policy_evaluation~
-2. ~policy_improvement~
-** 2022.06.19-12:07:53 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL, what ~policy_iteration~ function returns?
-*** Back
-1. state-value function (V)
-2. *optimal* policy (pi)
-** 2022.06.19-12:08:45 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL, what ~policy_iteration~ function takes as *arguments*?
-*** Back
-1. P: MDP
-2. gamma: reward discount
-3. theta: treshold
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
@@ -2886,3 +2815,108 @@ state-value function
 test flashcard deleteme
 *** Back
 test flashcard deleteme
+
+** 2022.06.19-11:46:49 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655639287650
+:END:
+*** Front
+in RL, what *gamma* value should be at the beginning?
+*** Back
+0.99
+** 2022.06.19-11:57:30 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+*** Front
+in RL, what ~policy_evaluation~ function actually calculates?
+*** Back
+*state-value* function of the policy
+** 2022.06.19-11:59:53 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+*** Front
+in RL, what ~policy_imprevement~ function returns?
+*** Back
+a better policy
+** 2022.06.19-12:00:26 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+*** Front
+in RL, what does ~policy_evaluation~ function takes as *arguments*?
+*** Back
+1. pi: policy
+2. P: MDP
+3. gamma: discount factor
+4. theta: treshold for termination
+** 2022.06.19-12:03:09 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+*** Front
+in RL, we use *infinite loop* inside ~policy_iteration~ function. and we use ... and ... functions in it *respectively*
+*** Back
+1. ~policy_evaluation~
+2. ~policy_improvement~
+** 2022.06.19-12:07:53 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+*** Front
+in RL, what ~policy_iteration~ function returns?
+*** Back
+1. state-value function (V)
+2. *optimal* policy (pi)
+** 2022.06.19-12:08:45 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+*** Front
+in RL, what ~policy_iteration~ function takes as *arguments*?
+*** Back
+1. P: MDP
+2. gamma: reward discount
+3. theta: treshold
+** 2022.06.19-12:10:20 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+*** Front
+in RL, tell me the *algorithm* of ~policy_iteration~ function
+*** Back
+1. generate a policy with random actions
+2. store the current policy for later comparison
+3. evaluate that policy
+4. improve that policy
+5. compare previous and current policy
+6. if different, go to step 2
+7. if same, return *state-value* and *optimal policy*
+** 2022.06.19-12:22:55 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+*** Front
+An MDP can have ... *optimal policy*, but it can have ... *optimal state-value function*
+*** Back
+1. multiple
+2. only one
