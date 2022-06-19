@@ -11,6 +11,15 @@
 in RL,the algorithm PI is essential algorithm. and it's acronym for ...
 *** Back
 policy iteration
+** 2022.06.19-13:20:50 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL, the goal of both PI and VI algorithms is to find ... for a given MDP
+*** Back
+optimal policy
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
