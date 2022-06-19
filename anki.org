@@ -2,105 +2,6 @@
 #+startup: content
 
 * notitia
-** 2022.06.11-14:56:53 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-there could be ... optimal policy for a given MDP but there can only be one optimal ..., optimal ... , and optimal ....
-*** Back
-1. more than one
-2. state-value function
-3. action-value function
-4. action-advantage function
-** 2022.06.11-15:02:56 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL if you had the *optimal V-function*, you could use the ... to do a _one-step search_ for the ... and then use this to ...
-*** Back
-1. MDP
-2. optimal Q-function
-3. build the optimal policy
-** 2022.06.11-15:07:01 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL, if you have *optimal Q-function* you can find ... and ...
-*** Back
-1. optimal V-function
-2. optimal policy
-** 2022.06.11-17:59:57 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL, which *algorithm* is used to *asses/evaluate* a particular *policy*?
-*** Back
-iterative policy evaluation
-** 2022.06.11-18:03:18 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL, what does *iterative policy evaluation* algorithm try to calculate?
-*** Back
-state-value function
-** 2022.06.11-18:21:17 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-in RL, what *theta* parameter means in *iterative policy evaluation* algorithm?
-*** Back
-it's a treshold. this algorithm will make changes to the value-function on each iteration. so if the change becomes less than *theta* then the algorithm stops
-** 2022.06.11-18:46:02 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-implement *iterative policy evaluation* algorithm in python.
-*** Back
-#+begin_src python
-def iterative_policy_evaluation(policy, MDP, gamma=1.0, theta=1e-10):
-    prev_V = np.zeros(len(MDP))
-    while True:
-        V = np.zeros(len(MDP))
-        for state in range(len(MDP)):
-            for prob, next_state, reward, done in P[ state ][ policy(state) ]:
-                V[state] += prob * (reward + gamma*prev_V[next_state] * (not done))
-        if np.max(np.abs(prev_V - V)) < theta:
-            break
-        prev_V = V.copy()
-    return V
-#+end_src
-** 2022.06.17-14:21:49 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-second name of *state-value function*?
-*** Back
-Q-function
-** 2022.06.17-14:22:18 :ai:
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: notitia
-:END:
-*** Front
-second name of *Q-function*?
-*** Back
-state-value function
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
@@ -2795,3 +2696,122 @@ in RL, The *advantage function* describes how much better it is to take action a
     1. describe
     2. evaluate
     3. improve
+
+** 2022.06.11-14:56:53 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655638532124
+:END:
+*** Front
+there could be ... optimal policy for a given MDP but there can only be one optimal ..., optimal ... , and optimal ....
+*** Back
+1. more than one
+2. state-value function
+3. action-value function
+4. action-advantage function
+** 2022.06.11-15:02:56 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655638532314
+:END:
+*** Front
+in RL if you had the *optimal V-function*, you could use the ... to do a _one-step search_ for the ... and then use this to ...
+*** Back
+1. MDP
+2. optimal Q-function
+3. build the optimal policy
+** 2022.06.11-15:07:01 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655638532423
+:END:
+*** Front
+in RL, if you have *optimal Q-function* you can find ... and ...
+*** Back
+1. optimal V-function
+2. optimal policy
+** 2022.06.11-17:59:57 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655638532497
+:END:
+*** Front
+in RL, which *algorithm* is used to *asses/evaluate* a particular *policy*?
+*** Back
+iterative policy evaluation
+** 2022.06.11-18:03:18 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655638532574
+:END:
+*** Front
+in RL, what does *iterative policy evaluation* algorithm try to calculate?
+*** Back
+state-value function
+** 2022.06.11-18:21:17 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655638532674
+:END:
+*** Front
+in RL, what *theta* parameter means in *iterative policy evaluation* algorithm?
+*** Back
+it's a treshold. this algorithm will make changes to the value-function on each iteration. so if the change becomes less than *theta* then the algorithm stops
+** 2022.06.11-18:46:02 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: Wrong number of arguments: ((t) nil "Lazy load a babel package when a block is executed during exporting." (+org--babel-lazy-load-library-a (org-babel-get-src-block-info))), 1
+:END:
+*** Front
+implement *iterative policy evaluation* algorithm in python.
+*** Back
+#+begin_src python
+def iterative_policy_evaluation(policy, MDP, gamma=1.0, theta=1e-10):
+    prev_V = np.zeros(len(MDP))
+    while True:
+        V = np.zeros(len(MDP))
+        for state in range(len(MDP)):
+            for prob, next_state, reward, done in P[ state ][ policy(state) ]:
+                V[state] += prob * (reward + gamma*prev_V[next_state] * (not done))
+        if np.max(np.abs(prev_V - V)) < theta:
+            break
+        prev_V = V.copy()
+    return V
+#+end_src
+** 2022.06.17-14:21:49 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655638532799
+:END:
+*** Front
+second name of *state-value function*?
+*** Back
+Q-function
+** 2022.06.17-14:22:18 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655638532873
+:END:
+*** Front
+second name of *Q-function*?
+*** Back
+state-value function
+** 2022.06.19-11:27:24 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655638532973
+:END:
+*** Front
+test flashcard deleteme
+*** Back
+test flashcard deleteme
