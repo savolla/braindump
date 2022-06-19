@@ -19,6 +19,7 @@ version control tool
 1. [[id:2e205daf-0372-424a-9fce-a38aaf225e0c][revert commit]]
 2. [[id:027be770-257f-4212-af1c-acaf0308bf3b][delete branch]]
 3. [[id:08bf576f-b403-47a7-8cc1-fbfcc6d5fac8][add all changes]]
+4. [[id:c518eef1-8ca5-4652-9f36-744450f8aba2][save credentials password username]]
 * concepts
 :PROPERTIES:
 :ID:       44e95ebd-9e40-4d0d-a626-068f20eea3df
