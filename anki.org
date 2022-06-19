@@ -2,6 +2,15 @@
 #+startup: content
 
 * notitia
+** 2022.06.19-13:02:20 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+in RL,the algorithm PI is essential algorithm. and it's acronym for ...
+*** Back
+policy iteration
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
