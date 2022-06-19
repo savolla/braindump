@@ -6,6 +6,7 @@
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655646623952
 :END:
 *** Front
 in RL,the algorithm PI is essential algorithm. and it's acronym for ...
@@ -15,11 +16,32 @@ policy iteration
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655646624132
 :END:
 *** Front
 in RL, the goal of both PI and VI algorithms is to find ... for a given MDP
 *** Back
 optimal policy
+** 2022.06.19-13:44:18 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655646624223
+:END:
+*** Front
+insipid
+*** Back
+tatsız
+** 2022.06.19-13:50:10 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655646624324
+:END:
+*** Front
+settle
+*** Back
+yerleşmek
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
