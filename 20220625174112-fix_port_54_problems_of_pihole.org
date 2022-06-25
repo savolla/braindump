@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       15204b4b-ae8b-4abb-9f2e-3bd7132b9ea8
+:END:
+#+title: fix port 54 problems of pihole
+#+filetags: :how_to:
+read [[https://medium.com/@niktrix/getting-rid-of-systemd-resolved-consuming-port-53-605f0234f32f][this]]

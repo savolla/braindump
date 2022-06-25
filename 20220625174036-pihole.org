@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       8a5ff4b0-e069-407e-a542-ebbfa783281a
+:END:
+#+title: pihole
+#+filetags: :what_is:
+black hole for internet advertisement
+* fact
+* tip
+* howto
+1. [[id:15204b4b-ae8b-4abb-9f2e-3bd7132b9ea8][fix port 54 problems of pihole]]
+* concept
+* snippet
+* listof
