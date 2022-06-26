@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4ef19d88-07a3-4329-9d17-3e5674d547c4
+:END:
+#+title: opensnitch
+#+filetags: :what_is:
+like simplewall but for [[id:dc704116-8fd7-4969-943d-a783aac1a279][linux]]
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof
