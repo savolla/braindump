@@ -98,6 +98,7 @@
 + [[https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn#instant-messaging][privacy tools list]]
 + [[https://www.deviceinfo.me][deviceinfo]] check how much data is collected from you
 + [[https://www.dnsleaktest.com/][dnsleaktest]]
++ [[https://firebog.net/][firebog]] block list for [[id:8a5ff4b0-e069-407e-a542-ebbfa783281a][pihole]]
 * other
 :PROPERTIES:
 :ID:       c80c3335-260d-452c-92c4-73e928de892d
