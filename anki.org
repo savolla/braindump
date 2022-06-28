@@ -2,46 +2,44 @@
 #+startup: content
 
 * notitia
-** 2022.06.19-13:02:20 :ai:
+** 2022.06.28-07:41:17 :vocabulary:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1655646623952
+:ANKI_NOTE_ID: 1656402193854
 :END:
 *** Front
-in RL,the algorithm PI is essential algorithm. and it's acronym for ...
+resort
 *** Back
-policy iteration
-** 2022.06.19-13:20:50 :ai:
+başvurmak
+** 2022.06.28-07:41:39 :vocabulary:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1655646624132
+:ANKI_NOTE_ID: 1656402193985
 :END:
 *** Front
-in RL, the goal of both PI and VI algorithms is to find ... for a given MDP
+*başvurmak* in English?
 *** Back
-optimal policy
-** 2022.06.19-13:44:18 :vocabulary:
+resort
+** 2022.06.28-07:55:08 :vocabulary:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1655646624223
 :END:
 *** Front
-insipid
+*ayrıca* in Turkish
 *** Back
-tatsız
-** 2022.06.19-13:50:10 :vocabulary:
+Besides
+** 2022.06.28-07:55:54 :vocabulary:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
-:ANKI_NOTE_ID: 1655646624324
 :END:
 *** Front
-settle
+Besides
 *** Back
-yerleşmek
+ayrıca
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
@@ -2960,3 +2958,47 @@ An MDP can have ... *optimal policy*, but it can have ... *optimal state-value f
 *** Back
 1. multiple
 2. only one
+** 2022.06.19-13:02:20 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655646623952
+:ANKI_FAILURE_REASON: Error communicating with AnkiConnect using cURL: exited abnormally with code 7
+:END:
+*** Front
+in RL,the algorithm PI is essential algorithm. and it's acronym for ...
+*** Back
+policy iteration
+** 2022.06.19-13:20:50 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655646624132
+:ANKI_FAILURE_REASON: Error communicating with AnkiConnect using cURL: exited abnormally with code 7
+:END:
+*** Front
+in RL, the goal of both PI and VI algorithms is to find ... for a given MDP
+*** Back
+optimal policy
+** 2022.06.19-13:44:18 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655646624223
+:ANKI_FAILURE_REASON: Error communicating with AnkiConnect using cURL: exited abnormally with code 7
+:END:
+*** Front
+insipid
+*** Back
+tatsız
+** 2022.06.19-13:50:10 :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1655646624324
+:ANKI_FAILURE_REASON: Error communicating with AnkiConnect using cURL: exited abnormally with code 7
+:END:
+*** Front
+settle
+*** Back
+yerleşmek
