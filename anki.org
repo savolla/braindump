@@ -101,6 +101,7 @@ can be array or tuple
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: Wrong number of arguments: ((t) nil "Lazy load a babel package when a block is executed during exporting." (+org--babel-lazy-load-library-a (org-babel-get-src-block-info))), 1
 :END:
 *** Front
 example definition of ~__slots__~ in python
@@ -112,6 +113,7 @@ __slots__ = ['a', 'b', 'c']
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1656413683370
 :END:
 *** Front
 when using ~__slots__~ in python, variable names must be surrounded by ...
@@ -121,6 +123,7 @@ single quotation marks
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1656413683500
 :END:
 *** Front
 to enable *shared memory* between class objects, define shared variables in ...
@@ -130,6 +133,7 @@ to enable *shared memory* between class objects, define shared variables in ...
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: Wrong number of arguments: ((t) nil "Lazy load a babel package when a block is executed during exporting." (+org--babel-lazy-load-library-a (org-babel-get-src-block-info))), 1
 :END:
 *** Front
 how to make python to run ~main~ function when run
