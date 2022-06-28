@@ -26,6 +26,7 @@ resort
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1656402972154
 :END:
 *** Front
 *ayrıca* in Turkish
@@ -35,11 +36,31 @@ Besides
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1656402972222
 :END:
 *** Front
 Besides
 *** Back
 ayrıca
+** 2022.06.28-08:52:36 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what is *contour plot*?
+*** Back
+[[file:./images/screenshot-164.png]]
+** 2022.06.28-08:53:51 :ai:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+what's the *name* of this plot?
+[[file:./images/screenshot-165.png]]
+*** Back
+contour plot
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
