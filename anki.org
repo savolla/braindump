@@ -46,6 +46,7 @@ ayrıca
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1656406484556
 :END:
 *** Front
 what is *contour plot*?
@@ -55,12 +56,76 @@ what is *contour plot*?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1656406484779
 :END:
 *** Front
 what's the *name* of this plot?
 [[file:./images/screenshot-165.png]]
 *** Back
 contour plot
+** 2022.06.28-10:01:33 :python:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_FAILURE_REASON: Wrong number of arguments: ((t) nil "Lazy load a babel package when a block is executed during exporting." (+org--babel-lazy-load-library-a (org-babel-get-src-block-info))), 1
+:END:
+*** Front
+python code snippet for *abstract method definition*
+*** Back
+#+begin_src python
+@abstractmethod
+def f(self):
+    pass
+#+end_src
+** 2022.06.28-10:15:13 :python:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1656411464075
+:END:
+*** Front
+what is ~__slots__~ in python?
+*** Back
+class attribute which enables *shared memory* between class objects
+** 2022.06.28-10:16:09 :python:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:ANKI_NOTE_ID: 1656411464151
+:END:
+*** Front
+in python what type is ~__slots__~ ?
+*** Back
+can be array or tuple
+** 2022.06.28-10:18:02 :python:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+example definition of ~__slots__~ in python
+*** Back
+#+begin_src python
+__slots__ = ['a', 'b', 'c']
+#+end_src
+** 2022.06.28-10:18:57 :python:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+when using ~__slots__~ in python, variable names must be surrounded by ...
+*** Back
+single quotation marks
+** 2022.06.28-10:19:42 :python:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+to enable *shared memory* between class objects, define shared variables in ...
+*** Back
+~__slots__~
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
