@@ -126,6 +126,18 @@ single quotation marks
 to enable *shared memory* between class objects, define shared variables in ...
 *** Back
 ~__slots__~
+** 2022.06.28-10:54:03 :python:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: notitia
+:END:
+*** Front
+how to make python to run ~main~ function when run
+*** Back
+#+begin_src python
+if __name__ == "__main__":
+    main()
+#+end_src
 * ros1 flashcards
 * java
 ** 2022.05.31-09:39:08 :java:
