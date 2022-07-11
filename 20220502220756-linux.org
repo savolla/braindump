@@ -19,6 +19,7 @@ a pinguin.
 1. [[id:35b87b25-fbc5-4353-9b49-4f7af448e72d][change system language in linux]]
 2. [[id:4e348a7c-620b-4fc3-8b87-a01a32b034c2][preview pdf in ranger]]
 3. [[id:8a713353-1c51-446a-8e55-e438dea63160][create hard links]]
+4. [[id:3bf9e5ab-c983-4c75-94a3-884dec148dbd][get user PUID and PGID]]
 ** arch linux
 :PROPERTIES:
 :ID:       44606af5-91d8-4265-8124-973b485bef4d

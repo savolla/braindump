@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3bf9e5ab-c983-4c75-94a3-884dec148dbd
+:END:
+#+title: get user PUID and PGID
+#+filetags: :how_to:
+#+begin_src sh
+id -u # PUID
+id -g # PGID
+#+end_src
