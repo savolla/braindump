@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       eb60f2ba-c7aa-4527-b293-5f232567cc62
+:END:
+#+title: assign a vscode keybinding
+#+filetags: :vscode:how_to:
+test note, deleteme later
