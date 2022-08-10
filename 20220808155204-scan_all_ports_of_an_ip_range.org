@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       1a3d3e1e-3332-447f-abd2-f6cb5b3a1f7c
+:END:
+#+title: scan all ports of an ip range
+#+filetags: :nmap:how_to:
+
+- wide range of scan
+#+begin_src sh
+nmap -p- 192.168.*.*
+#+end_src
+
+- only one subnet
+#+begin_src sh
+nmap -p- 192.168.1.*
+#+end_src
+
+you get the idea.

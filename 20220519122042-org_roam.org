@@ -9,6 +9,7 @@
 #+end_quote
 
 * facts
+- never leave your *url* links without *http:/* or *https:/* prefixes. It will cause "cannot resolve" errors while exporting your notes to something else like *markdown* or *html*
 * how to
 :PROPERTIES:
 :ID:       93dbaef9-102c-4aaa-a2eb-68d98e971797
@@ -20,4 +21,6 @@
 ** [[id:0dd448d5-c3f1-453a-8ee5-64e708e42ce0][create capture template]]
 ** [[id:f64016d9-3da2-43ee-9b4f-1509df7f6fe2][create alias of a note title]]
 ** [[id:4ab19018-01d2-40dd-81cf-2840f5110f3f][refresh database]]
+** [[id:80ea22d3-1704-41b2-a119-493ff35945d2][full text search org-roam notes]]
 * concepts
+* problem

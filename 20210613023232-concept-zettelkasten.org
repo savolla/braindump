@@ -5,7 +5,7 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 02:32]
 
-Effective [[file:20210613023308-keyword-note_taking.org][note taking]] and personal knowledge management system. Found by [[id:37b6fb9d-baa3-448d-b906-1d51a21ad2dc][Niklas Luhmann]]. Zettelkasten means "slip-box" in English
+Effective [[file:20210613023308-keyword-note_taking.org][note taking]] and personal knowledge management system. Found by [[id:21e4a789-db52-4a0a-bd1a-aeb04ce35340][Niklas Luhmann]] Zettelkasten means "slip-box" in English
 
 - see also ::
 #  + [[roam:why is zettelkasten important]]

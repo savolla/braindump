@@ -5,7 +5,7 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 14:10]
 
-It is a [[id:af5f039a-d974-424f-be4d-eac872fb4b66][Python]] feature that helps us to *extend* the ability of a function without modifying it. It looks like this =@profiler=
+It is a [[id:4420715b-9509-4d22-bfea-8a95aafb72af][python]] feature that helps us to *extend* the ability of a function without modifying it. It looks like this =@profiler=
 
 - see also ::
 #  + [[roam:why is Python decorator important]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       465f7c8d-4cc4-45c6-9d82-551b374e8a01
+:END:
+#+title: install doom emacs
+#+filetags: :how_to:
+1. [[id:5557f2d0-7dac-4294-ac72-50bfbef3bd7c][install doom emacs dependencies]]
+2. enter the following to install
+#+begin_src sh
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.emacs.d
+~/.emacs.d/bin/doom install
+#+end_src

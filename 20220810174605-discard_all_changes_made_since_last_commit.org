@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0fefe718-0a38-4eb0-8a46-88d01e877f25
+:END:
+#+title: discard all changes since last commit
+#+filetags: :git:how_to:
+#+begin_src sh
+git reset HEAD --hard
+#+end_src
+
+see also: [[id:d492db04-26f9-4f7b-85a5-03a6234347ef][remove files added since last commit]]

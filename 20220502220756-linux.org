@@ -89,3 +89,6 @@ a pinguin.
 :ID:       edb2e87f-2723-427d-8c94-3fb75701b15e
 :END:
 ** [[id:4ef19d88-07a3-4329-9d17-3e5674d547c4][opensnitch]]
+** [[id:b7e2bdf5-7697-47a7-a25d-ce8822687b6e][nmap]]
+** [[id:12a85cce-58fc-4447-89f1-219f210accf6][hugo]]
+** [[id:a27b998d-c5a0-4ba8-8453-125f91b39303][cacaview]]

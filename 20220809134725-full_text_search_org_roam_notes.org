@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       80ea22d3-1704-41b2-a119-493ff35945d2
+:END:
+#+title: full text search org-roam notes
+#+source: https://org-roam.discourse.group/t/using-consult-ripgrep-with-org-roam-for-searching-notes/1226
+#+filetags: :how_to:
+1. install [[id:cf0788c5-9867-4a68-a84b-27462fd09f2c][ripgrep]] first.
+2. put the following function into [[roam:doom emacs]] config;
+#+begin_src elisp
+(defun org-roam-rg-search ()
+  "Search org-roam directory using consult-ripgrep. With live-preview."
+  (interactive)
+  (let ((consult-ripgrep-command "rg --null --ignore-case --type org --line-buffered --color=always --max-columns=500 --no-heading --line-number . -e ARG OPTS"))
+    (consult-ripgrep org-roam-directory)))
+#+end_src
+3. [[roam:refresh doom emacs]]
+4. consider to [[id:302a09c0-6750-4666-bc27-e9a0206da2cd][assign keybinding in doom emacs]]
+   
+
+

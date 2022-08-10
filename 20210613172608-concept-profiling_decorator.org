@@ -5,4 +5,4 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 17:26]
 
-It is a special [[id:96d6accb-3532-46c7-a3a3-ddf96b00871f][Python decorator]] which looks like =@profile=. You can use that decorator after you define the [[id:92ee769b-8c4c-403c-92df-731a1dd56367][Python profiling function]] somewhere in you code. And then put this decorator *above the function definition*.
+It is a special [[id:6745570c-16ff-4fcd-9343-5284e6a485ec][Python decorator]] which looks like =@profile=. You can use that decorator after you define the [[id:caddf693-f2d4-4b91-bab8-99fb2cd49c07][Python profiling function]] somewhere in you code. And then put this decorator *above the function definition*.

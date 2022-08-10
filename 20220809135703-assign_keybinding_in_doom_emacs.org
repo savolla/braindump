@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       302a09c0-6750-4666-bc27-e9a0206da2cd
+:END:
+#+title: assign keybinding in doom emacs
+#+filetags: :how_to:
+use the following convention;
+#+begin_src elisp
+(map! :leader :desc "description for the keybinding"  "x y z" #'emacs-function-to-call)
+#+end_src

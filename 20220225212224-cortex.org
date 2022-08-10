@@ -43,6 +43,8 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 :PROPERTIES:
 :ID:       aa5efb5b-1645-4cca-b37d-a05c82ef7459
 :END:
+** learning robotics
+*** Notes from TrajOpt documentation
 * area
 :PROPERTIES:
 :ID:       659c3620-91b1-422c-af3a-dee88d08714d
@@ -140,6 +142,7 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 2. [[id:966ee79e-dfb8-4266-9637-26e27e783805][windows]]
 3. [[id:86ae2e73-456e-40b2-8a77-ee868461e410][macos]]
 4. [[id:6dfa96a6-c412-4c70-a1ee-f56ab1bb57d4][bsd]]
+5. [[id:4ac17954-dcdc-4c6a-9624-07bd709093f7][android]]
 ** erp
 1. [[id:2ca12afa-a11a-48f2-ba73-643e9ad0c71d][erpnext]]
 ** self-host
@@ -148,7 +151,6 @@ Hey It's [[id:2bd58916-cc2f-4693-a661-6d2687fd5efd][savolla]] and I'm backing up
 :PROPERTIES:
 :id: 10005ac7-41a9-4c8e-8114-1edb6b704184
 :END:
-** [[Internship]]
 ** [[id:486a9873-2ed1-4e60-9476-bc2124741e16][bookmarks]]
 * archive
 :PROPERTIES:

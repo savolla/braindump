@@ -9,7 +9,7 @@
 #+LAST_MODIFIED: [2021-07-05 Pzt 10:39]
 
 # You can link multiple Concepts and Permanent Notes!
-switch to project view and go under your PLC and unfold "PLC Tags" double click "add new tag table" Here you will define your inputs and outputs with descriptie names
+switch to project view and go under your PLC and unfold "PLC Tags" double click "add new tag table" Here you will define your inputs and outputs with descriptive names
 
  - see also ::
 # Continuation or Related notes here

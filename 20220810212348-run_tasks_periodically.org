@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       363ed789-dee7-433a-9cce-05476359e4d9
+:END:
+#+title: run tasks periodically
+#+filetags: :termux:how_to:
+
+the following example will run ~script.sh~ every hour.
+1. install ~cronie~ on [[id:28b09bce-9f31-4ddb-bbdb-cc9b56717057][termux]]
+   #+begin_src sh
+pkg install cronie
+   #+end_src
+
+2. edit crontab by
+   #+begin_src sh
+crontab -e
+   #+end_src
+
+3. add the following
+   #+begin_src sh
+0 * * * * /path/to/your/script.sh
+   #+end_src

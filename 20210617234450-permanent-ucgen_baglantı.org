@@ -9,7 +9,7 @@
 #+LAST_MODIFIED: [2021-06-17 Prş 23:44]
 
 # You can link multiple Concepts and Permanent Notes!
-TODO:
+TODO
 
  - see also ::
 # Continuation or Related notes here

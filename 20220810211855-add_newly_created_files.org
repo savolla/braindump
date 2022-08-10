@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       21c5a79b-6147-4b00-b783-148271b7c405
+:END:
+#+title: add all newly created files
+#+filetags: :git:how_to:
+#+begin_src sh
+git add --all
+# or
+git add -A
+#+end_src

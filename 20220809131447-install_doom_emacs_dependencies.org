@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5557f2d0-7dac-4294-ac72-50bfbef3bd7c
+:END:
+#+title: install doom emacs dependencies
+#+filetags: :how_to:
+
+1. Git 2.23+
+2. Emacs 27.1+ (28.1 is recommended, or native-comp. 29+ is not supported).
+3. ripgrep 11.0+
+4. GNU find
+5. OPTIONAL: fd 7.3.0+ (improves file indexing performance for some commands)

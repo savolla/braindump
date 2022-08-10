@@ -7,7 +7,7 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 05:44]
 
-There are several methods of doing code optimization in [[id:af5f039a-d974-424f-be4d-eac872fb4b66][Python]]
+There are several methods of doing code optimization in [[id:4420715b-9509-4d22-bfea-8a95aafb72af][python]]
 
 + [[file:20210613162953-permanent-when_you_need_code_optimization.org][when you need code optimization]]
 + [[file:20210613173826-code_profiling_in_python.org][code profiling in python]]

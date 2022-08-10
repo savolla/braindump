@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7b7bd6b0-6974-4f4a-a428-d340be44c573
+:END:
+#+title: beaglebone black
+#+filetags: :what_is:
+
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof

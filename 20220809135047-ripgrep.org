@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       cf0788c5-9867-4a68-a84b-27462fd09f2c
+:END:
+#+title: ripgrep
+#+filetags: :what_is:
+
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof

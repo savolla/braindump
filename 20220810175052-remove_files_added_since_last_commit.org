@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d492db04-26f9-4f7b-85a5-03a6234347ef
+:END:
+#+title: remove files added since last commit
+#+filetags: :git:how_to:
+#+begin_src sh
+git clean -fd
+#+end_src

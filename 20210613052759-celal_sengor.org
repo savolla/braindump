@@ -4,13 +4,10 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 05:27]
 
-TODO:
+TODO
 
 - website ::
 - social ::
 - mail ::
-
-- see also ::
-  + [[id:324afa9b-b2b5-42af-9d2b-f4e2a2bb3f33][Person]]
 
 - references ::

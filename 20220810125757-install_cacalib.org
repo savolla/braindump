@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       01249a1f-6685-4868-b843-d525cc7d8447
+:END:
+#+title: install cacalib
+#+filetags: :how_to:
+* [[id:12e2e52b-4a24-46b0-8ffb-ab8f315b7c4c][ubuntu]]
+#+begin_src sh
+sudo apt-get install libcaca0 caca-utils
+#+end_src
+* [[id:44606af5-91d8-4265-8124-973b485bef4d][arch linux]]
+#+begin_src sh
+sudo pacman -S libcaca # didn't test it yet.
+#+end_src

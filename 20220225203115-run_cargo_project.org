@@ -4,5 +4,5 @@
 #+title: run cargo project
 #+filetags: :how_to:
 #+begin_src sh
-cargo run
+cargo run /path/to/project
 #+end_src

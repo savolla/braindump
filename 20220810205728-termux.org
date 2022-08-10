@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       28b09bce-9f31-4ddb-bbdb-cc9b56717057
+:END:
+#+title: termux
+#+filetags: :what_is:
+#+begin_quote
+terminal application for [[id:4ac17954-dcdc-4c6a-9624-07bd709093f7][android]]
+#+end_quote
+
+* fact
+* tip
+* howto
+[[id:363ed789-dee7-433a-9cce-05476359e4d9][run tasks periodically]]
+[[id:9a74076d-4489-4bac-b8e1-f506765c85cd][prevent deep sleep]]
+* concept
+* snippet
+* listof

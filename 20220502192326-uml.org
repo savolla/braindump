@@ -9,7 +9,7 @@
 * concepts
 ** inheritance
 + UML representation
-  #+begin_src plantuml :results output
+  #+begin_src plantuml :file output.png
     @startuml
     class A{}
     class B{}
@@ -22,7 +22,7 @@
   A *is a* B
 ** composition
 + UML representation
-  #+begin_src plantuml :results output
+  #+begin_src plantuml :file output.png
     @startuml
     class A{}
     class B{}
@@ -35,7 +35,7 @@
   A *has a* B
 ** aggregation
 + UML representation
-  #+begin_src plantuml :results output
+  #+begin_src plantuml :file output
     @startuml
     class A{}
     class B{}
@@ -48,7 +48,7 @@
   A *may have a* B
 ** association
 + UML representation
-  #+begin_src plantuml :results output
+  #+begin_src plantuml :file output.png
     @startuml
     class A{}
     class B{}
@@ -61,7 +61,7 @@
   A *uses* B
 ** implementation
 + UML representation
-  #+begin_src plantuml :results output
+  #+begin_src plantuml :file output.png
     @startuml
     class A{}
     interface B{}
@@ -74,7 +74,7 @@
   A *implements* B
 ** dependency
 + UML representation
-  #+begin_src plantuml :results output
+  #+begin_src plantuml :file output.png
     @startuml
     class A{}
     interface B{}

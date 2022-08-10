@@ -5,7 +5,7 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 03:06]
 
-An [[file:20210613031022-embedded_systems.org][Embedded Systems]] [[file:20210613031809-concept-engineer.org][Engineer]] who has lots of other interests like [[file:20210613031640-music.org][Music]], [[file:20210613031700-digital_art.org][Digital Art]], [[id:05c272d6-b64d-4ce9-8aff-e89767372877][Productivity]] and [[file:20210613031722-mathematics.org][Mathematics]]. He is the owner of this second brain.
+An [[file:20210613031022-embedded_systems.org][Embedded Systems]] [[file:20210613031809-concept-engineer.org][Engineer]] who has lots of other interests like [[file:20210613031640-music.org][Music]], [[file:20210613031700-digital_art.org][Digital Art]], [[id:6e48ae06-6408-468f-8803-3b32216e7f2c][productivity]] and [[file:20210613031722-mathematics.org][Mathematics]]. He is the owner of this second brain.
 
 - blog      :: https://savolla.github.io/
 - mail      :: savolla@protonmail.com

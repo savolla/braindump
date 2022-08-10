@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b7e2bdf5-7697-47a7-a25d-ce8822687b6e
+:END:
+#+title: nmap
+#+filetags: :what_is:
+
+* fact
+* tip
+* howto
+[[id:1a3d3e1e-3332-447f-abd2-f6cb5b3a1f7c][scan all ports of an ip range]]
+[[id:de36d42b-bfb1-45eb-942d-43ee3a88da20][scan online ips on local network]]
+[[id:c6484606-0a92-446f-a3cb-2d18e075f9df][detect os and services running in a subnet]]
+
+* concept
+* snippet
+* listof

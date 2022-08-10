@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       de36d42b-bfb1-45eb-942d-43ee3a88da20
+:END:
+#+title: scan online ips on local network
+#+filetags: :nmap:how_to:
+
+#+begin_src rust
+nmap -sP 192.168.1.0/24
+#+end_src
+- notice that we use [[id:65b1f5ae-8a11-41e4-b71a-6a1069a42434][subnet notation]]

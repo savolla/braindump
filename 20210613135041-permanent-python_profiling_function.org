@@ -9,7 +9,7 @@
 #+LAST_MODIFIED: [2021-06-13 Paz 13:50]
 
 # You can link multiple Concepts and Permanent Notes!
-This is a special function definition that uses [[id:9ed738ca-8bb8-484a-8eb2-1bdc3b6bd770][cProfile]] module to do [[file:20210613164032-concept-code_profiling.org][code profiling]] on the given function. After you define it, [[file:20210613154136-permanent-use_profiling_function.org][use profiling function]] with [[file:20210613172608-concept-profiling_decorator.org][profiling decorator]]
+This is a special function definition that uses [[id:fa2fe7be-1bcd-48de-9ee8-dbb783a0ef34][cProfile]] module to do [[file:20210613164032-concept-code_profiling.org][code profiling]] on the given function. After you define it, [[file:20210613154136-permanent-use_profiling_function.org][use profiling function]] with [[file:20210613172608-concept-profiling_decorator.org][profiling decorator]]
 
 #+begin_src python
 import cProfile, pstats, io

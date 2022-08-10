@@ -2,5 +2,7 @@
 :ID:       08bf576f-b403-47a7-8cc1-fbfcc6d5fac8
 :END:
 #+title: add all changes
-#+filetags: :how_to:
-~git add --all~
+#+filetags: :git:how_to:
+#+begin_src sh
+git add -u
+#+end_src

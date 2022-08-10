@@ -2,7 +2,7 @@
 :ID:       2e205daf-0372-424a-9fce-a38aaf225e0c
 :END:
 #+title: revert commit
-#+filetags: :how_to:
+#+filetags: :git:how_to:
 1. do ~git log~
 2. find your commit and copy its *hash*
 3. do ~git checkout COMMIT_HASH~

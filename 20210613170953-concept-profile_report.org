@@ -5,7 +5,7 @@
 #+CREATED: [2021-06-13 Paz]
 #+LAST_MODIFIED: [2021-06-13 Paz 17:09]
 
-Result of [[file:20210613164032-concept-code_profiling.org][code profiling]]. Shows names, running time and number of calls of all functions. It's like a map which helps us to optimize our code. The only thing we need to do is [[id:1c6ca6c9-e6d2-475e-b957-006a9a3c90fb][interpret the profiling report]].
+Result of [[file:20210613164032-concept-code_profiling.org][code profiling]]. Shows names, running time and number of calls of all functions. It's like a map which helps us to optimize our code. The only thing we need to do is [[id:944a1176-1c2b-4ac9-afe1-ad25165cc7b7][interpret the profiling report]]
 
 - see also ::
 #  + [[roam:why is profile report important]]

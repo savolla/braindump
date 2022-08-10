@@ -3,4 +3,4 @@
 :END:
 #+title: object-oriented programming
 #+filetags: :what_is:
-a programming paradigm that found by [[id:bf866fed-788a-4b92-be12-488b77f655e1][Alan Kay]]. Example languages are c++, java
+a programming paradigm that found by [[id:bf866fed-788a-4b92-be12-488b77f655e1][Alan Kay]]. Example languages are  [[id:17e1fd53-ea7b-4685-8c36-3b5712ea6aaf][c++]], java

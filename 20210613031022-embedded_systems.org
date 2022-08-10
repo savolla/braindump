@@ -656,7 +656,7 @@ a MEMS device that can be used as a *Compass*. We have it inside our smart phone
 [[file:./images/screenshot-91.png]]
 a MEMS device that can detect *rotation* and *angular velocity*.
 
-*** Carry Flag :TODO:
+*** Carry Flag :TODO
 *** Zero Flag
 
 set if result is 0. reset if non-zero
@@ -998,5 +998,5 @@ They can be seen useless but they can be used for *Data Storage*
  [[file:./images/screenshot-141.png]]
 
 * Platforms
- * [[./stm32f407vgt6.org][stm32f407vgt6]]
- * [[./beagleboneblack.org][BBB]]
+[[id:09f9d403-aa77-43fc-9ff2-b45a906a6b8d][stm32f4]]
+[[id:7b7bd6b0-6974-4f4a-a428-d340be44c573][beaglebone black]]

@@ -76,14 +76,14 @@
 :PROPERTIES:
 :ID:       4d280b39-c817-45c0-bd71-77e53822453e
 :END:
-1. [[xdcc.eu/search.php][xdcc]] : look here if you cannot find your book anywhere
-2. [[cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers][enchanced book search]] : google search that is modified for outputing books
+1. [[https://www.xdcc.eu/][xdcc]]: look here if you cannot find your book anywhere
+2. [[https://cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers][enchanced book search]]: google search that is modified for outputing books
 3. [[https://ravebooksearch.com/#gsc.tab=0][book search]] : pirated book search engine just like torlook
 ** torrent sites
 :PROPERTIES:
 :ID:       3c8e0a94-cee5-4ce7-a8d7-bb275bd47148
 :END:
-1. [[en.btdig.com/index.htm][btdigg]] : contains old torrents but has a huge collection
+1. [[https://en.btdig.com/index.htm][btdigg]]: contains old torrents but has a huge collection
 ** games
 1. [[https://idleendeavor.github.io/gamesearch/index.html#gsc.tab=0][game search]]
 ** software

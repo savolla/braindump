@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       944a1176-1c2b-4ac9-afe1-ad25165cc7b7
+:END:
+#+title: interpret the profiling report
+#+filetags: :how_to:
+
+The most important columns in the profiling report are *cumtime* and *filename*. We see how much time a function takes to run in cumtime. In *filename* column we see the *name of the function*. *ncalls* column is also useful. It will help us to determine where the problem is. Here are steps to [[file:20210613160940-permanent-find_the_slowest_function_in_profiling_report.org][find the slowest function in profiling report]]

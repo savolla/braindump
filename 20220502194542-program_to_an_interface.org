@@ -5,7 +5,7 @@
 #+filetags: :how_to:
 
 + code *reuse* için kullanılan prensiptir. sınıfları birbirine bağımlı hale getirmeden kullanman gerekir. bunu nasıl yaparız? aşağıda birbirine bağımlı sınıflar gösterilmiştir;
-  #+begin_src plantuml :results output
+  #+begin_src plantuml :file output.png
   @startuml
   class A {
       ...
@@ -47,7 +47,7 @@
     };
     #+end_src
 + A sınıfı, B'yi import etti ve B'den sadece 2 method kullandı. method4 de B.cpp ile beraber geldi ki A ona ihtiyaç duymuyor. bu senaryoda yarın öbür gün B yerine başka bir sınıf kullanmak istersek, A classında bir çok değişiklik yapmamız gerekir. bunu önlemek için *programming to interface* dizayn prensibini kullanırız. UML diyagramı ve kod örneği aşağıda verilmiştir;
-  #+begin_src plantuml :results output
+  #+begin_src plantuml :file output.png
   @startuml
   class A {
       ...

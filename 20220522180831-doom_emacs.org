@@ -7,4 +7,8 @@ great [[id:57b6b95f-28d5-49d2-90d7-f28bf9c613a6][emacs]] configuration
 * facts
 * how to
 [[id:603a21d5-8ecc-46d8-9b0b-74a97e0d0d4e][refresh doom emacs]]
+[[id:5557f2d0-7dac-4294-ac72-50bfbef3bd7c][install doom emacs dependencies]]
+[[id:465f7c8d-4cc4-45c6-9d82-551b374e8a01][install doom emacs]]
 * concepts
+* problem
+[[id:6def263f-0956-4954-81a1-fd357b7f5cb0][doom emacs broke right after update]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b6fc511f-87e8-4c23-a499-4db2def80b9a
+:END:
+#+title: ignore untracked files
+#+filetags: :git:how_to:
+
+* from command line (not permanent)
+#+begin_src sh
+git status -uno
+#+end_src
+
+* from config (persistent)
+#+begin_src sh
+git config --local status.showUntrackedFiles no
+#+end_src

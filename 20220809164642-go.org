@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b53e8547-27b9-4753-93b3-63aa319a64a5
+:END:
+#+title: go
+#+filetags: :what_is:
+programing [[id:8111db82-8826-4b34-b343-4bd200b61a4c][launguage]] written by [[roam:google]]
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof

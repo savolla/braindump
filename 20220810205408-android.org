@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4ac17954-dcdc-4c6a-9624-07bd709093f7
+:END:
+#+title: android
+#+filetags: :what_is:
+#+begin_quote
+phone os
+#+end_quote
+
+* fact
+* tip
+* howto
+* concept
+* snippet
+* apps
+:PROPERTIES:
+:ID:       c928e613-a4d5-4f68-af61-ec9a56eefedf
+:END:
+[[id:28b09bce-9f31-4ddb-bbdb-cc9b56717057][termux]]

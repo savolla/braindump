@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9a74076d-4489-4bac-b8e1-f506765c85cd
+:END:
+#+title: prevent deep sleep
+#+filetags: :termux:how_to:
+swipe down your phone, look at notification area and you'll see [[id:28b09bce-9f31-4ddb-bbdb-cc9b56717057][termux]] here. pinch down the widget and select *acquire wakelock* that's it. now [[id:28b09bce-9f31-4ddb-bbdb-cc9b56717057][termux]] will never sleep and [[id:8194abf4-e158-4c27-82a9-cad138f4c9f6][ssh]]  connections won't be slow anymore.

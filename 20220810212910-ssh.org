@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8194abf4-e158-4c27-82a9-cad138f4c9f6
+:END:
+#+title: ssh
+#+filetags: :what_is:
+#+begin_quote
+secure shell. remotely access any host with 21 port open
+#+end_quote
+
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof

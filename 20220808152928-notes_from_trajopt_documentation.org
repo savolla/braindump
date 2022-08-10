@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       40637220-25b2-4f25-a17d-2e1386f56df6
+:END:
+#+title: Notes from TrajOpt documentation
+#+filetags: :book:
+
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof
+
+* fleeting notes

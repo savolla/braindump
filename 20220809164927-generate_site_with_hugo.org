@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       cf3b710d-0602-4b59-9431-d423930ede9e
+:END:
+#+title: generate site with hugo
+#+filetags: :how_to:

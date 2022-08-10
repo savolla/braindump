@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       bedeb4ff-de46-4ae7-84d3-32836995a041
+:END:
+#+title: start hugo server
+#+filetags: :how_to:
+#+begin_src sh
+hugo server -D
+#+end_src

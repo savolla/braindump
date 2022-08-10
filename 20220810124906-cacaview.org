@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a27b998d-c5a0-4ba8-8453-125f91b39303
+:END:
+#+title: cacaview
+#+filetags: :what_is:
+#+begin_quote
+utility for converting images, gifs and videos to pixel arts.
+#+end_quote
+
+* fact
+* tip
+* howto
+[[id:2e821e3f-a66a-41f4-861f-6cadfc407ef3][convert image to pixel art]]
+[[id:01249a1f-6685-4868-b843-d525cc7d8447][install cacalib]]
+* concept
+* snippet
+* listof

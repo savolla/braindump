@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       655d5fdb-7527-46cb-8d06-f209ee0694bf
+:END:
+#+title: google
+#+filetags: :what_is:
+evil company.
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof

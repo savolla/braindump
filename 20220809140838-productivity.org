@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6e48ae06-6408-468f-8803-3b32216e7f2c
+:END:
+#+title: productivity
+#+filetags: :what_is:
+
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof

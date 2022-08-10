@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       09f9d403-aa77-43fc-9ff2-b45a906a6b8d
+:END:
+#+title: stm32f4
+#+filetags: :what_is:
+
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof

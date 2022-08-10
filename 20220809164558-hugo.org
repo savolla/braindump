@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       12a85cce-58fc-4447-89f1-219f210accf6
+:END:
+#+title: hugo
+#+filetags: :what_is:
+very nice tool to build static websites. written in [[id:b53e8547-27b9-4753-93b3-63aa319a64a5][go]]
+* fact
+* tip
+* howto
+[[id:cf3b710d-0602-4b59-9431-d423930ede9e][generate site with hugo]]
+[[id:bedeb4ff-de46-4ae7-84d3-32836995a041][start hugo server]]
+* concept
+* snippet
+* listof

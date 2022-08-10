@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2e821e3f-a66a-41f4-861f-6cadfc407ef3
+:END:
+#+title: convert image to pixel art
+#+filetags: :how_to:
+1. install cacalib and it's utilities
+2. view
+   #+begin_src sh
+cacaview /path/to/image
+   #+end_src

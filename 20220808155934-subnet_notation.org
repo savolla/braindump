@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       65b1f5ae-8a11-41e4-b71a-6a1069a42434
+:END:
+#+title: subnet notation
+#+filetags: :what_is:
+
+* fact
+* tip
+* howto
+* concept
+* snippet
+* listof

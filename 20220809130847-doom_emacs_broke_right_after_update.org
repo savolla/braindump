@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6def263f-0956-4954-81a1-fd357b7f5cb0
+:END:
+#+title: doom emacs broke right after update
+in this case you have to re-[[id:465f7c8d-4cc4-45c6-9d82-551b374e8a01][install doom emacs]]. this will pull the latest version of [[roam:doom emacs]] and everything will be alright again.
