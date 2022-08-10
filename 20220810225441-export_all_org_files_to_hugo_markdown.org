@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c3a25d20-6a16-4534-ac83-93e693124dcd
+:END:
+#+title: export all org files to hugo markdown
+#+filetags: :ox-hugo:hugo:how_to:
+add the following function inside [[roam:doom emacs]] config. also consider to [[roam:assign keybinding]] for this function.
+#+begin_src elisp
+(defun export-all-org-files-to-hugo-markdown ()
+  "Publish all org files in a directory"
+  (interactive)
+  (save-excursion
+    (mapc
+     (lambda (file)
+       (with-current-buffer
+       (find-file-noselect file)
+     (org-hugo-export-to-md)))
+     ;; (org-md-export-to-markdown)))
+       (file-expand-wildcards  "*.org"))))
+#+end_src
