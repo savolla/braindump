@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2022-08-11 Thu 19:12 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>cortex</title>
+<meta name="author" content="Oleksiy Nehlyadyuk" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">cortex</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orgfd8f4e0">1. project</a>
+<ul>
+<li><a href="#org7b9fcb0">1.1. currently reading books</a></li>
+<li><a href="#org15ed113">1.2. articles to read</a></li>
+<li><a href="#org88bc8dc">1.3. books to read</a></li>
+<li><a href="#org0c5c2b2">1.4. videos to watch</a></li>
+<li><a href="#orgf66acf7">1.5. vocabulary to memorize</a></li>
+<li><a href="#org4b7667a">1.6. evergreen notes</a></li>
+<li><a href="#orgf65367f">1.7. orphan notes</a></li>
+<li><a href="#org43a359d">1.8. flashcards</a></li>
+<li><a href="#org6634793">1.9. learning robotics</a>
+<ul>
+<li><a href="#org0df467f">1.9.1. Notes from TrajOpt documentation</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org5e7ef65">2. area</a>
+<ul>
+<li><a href="#orgba12d19">2.1. note taking</a></li>
+<li><a href="#org27fff5f">2.2. Image Processing</a></li>
+<li><a href="#org0c159e3">2.3. sociology</a></li>
+<li><a href="#org0a8f8b5">2.4. embedded systems</a></li>
+<li><a href="#org3aa2120">2.5. music</a></li>
+<li><a href="#org9f4c5b2">2.6. PLC</a></li>
+<li><a href="#org618a4f9">2.7. programming</a>
+<ul>
+<li><a href="#org2532471">2.7.1. launguage</a></li>
+<li><a href="#orgd593985">2.7.2. tools</a></li>
+<li><a href="#org529c189">2.7.3. style</a></li>
+</ul>
+</li>
+<li><a href="#org3a17f33">2.8. robotics</a>
+<ul>
+<li><a href="#org2d752b9">2.8.1. framework</a></li>
+<li><a href="#org825127f">2.8.2. tools</a></li>
+</ul>
+</li>
+<li><a href="#orgeff49ff">2.9. math</a>
+<ul>
+<li><a href="#orgc77873b">2.9.1. linear algebra</a></li>
+</ul>
+</li>
+<li><a href="#org9ef3ef6">2.10. software engineering</a></li>
+<li><a href="#org1d5d708">2.11. virtualization</a>
+<ul>
+<li><a href="#org7624630">2.11.1. tools</a></li>
+</ul>
+</li>
+<li><a href="#org58cb279">2.12. operating systems</a></li>
+<li><a href="#orgb227f8c">2.13. erp</a></li>
+<li><a href="#orge6a9825">2.14. self-host</a></li>
+</ul>
+</li>
+<li><a href="#orgae1ba97">3. resource</a>
+<ul>
+<li><a href="#orgcf22398">3.1. bookmarks</a></li>
+</ul>
+</li>
+<li><a href="#orgd8198dc">4. archive</a></li>
+</ul>
+</div>
+</div>
+<blockquote>
+<p>
+Hey It&rsquo;s <a href="20220225214646-savolla.html#ID-2bd58916-cc2f-4693-a661-6d2687fd5efd">savolla</a> and I&rsquo;m backing up my brain here so I can find it if I lose it!
+</p>
+</blockquote>
+
+<div id="outline-container-orgfd8f4e0" class="outline-2">
+<h2 id="orgfd8f4e0"><span class="section-number-2">1.</span> project</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org7b9fcb0" class="outline-3">
+<h3 id="org7b9fcb0"><span class="section-number-3">1.1.</span> <a href="20210613045926-currently_reading_books.html#ID-15cef94f-c12e-4531-b5dd-d2ca6ca4a1d6">currently reading books</a></h3>
+<div class="outline-text-3" id="text-1-1">
+</div>
+</div>
+<div id="outline-container-org15ed113" class="outline-3">
+<h3 id="org15ed113"><span class="section-number-3">1.2.</span> <a href="20210613053024-articles_to_read.html#ID-28f1ce3a-1854-40e1-bfa1-55adc27a34b0">articles to read</a></h3>
+<div class="outline-text-3" id="text-1-2">
+</div>
+</div>
+<div id="outline-container-org88bc8dc" class="outline-3">
+<h3 id="org88bc8dc"><span class="section-number-3">1.3.</span> <a href="20220123190045-books_do_i_need_to_read.html#ID-e877b9f4-38b5-49db-90d8-03398cb0c66d">books to read</a></h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+</div>
+<div id="outline-container-org0c5c2b2" class="outline-3">
+<h3 id="org0c5c2b2"><span class="section-number-3">1.4.</span> <a href="20210613053209-videos_to_watch.html#ID-f997711b-064d-4c21-9132-3ab6f389f40a">videos to watch</a></h3>
+<div class="outline-text-3" id="text-1-4">
+</div>
+</div>
+<div id="outline-container-orgf66acf7" class="outline-3">
+<h3 id="orgf66acf7"><span class="section-number-3">1.5.</span> <a href="20210613040440-vocabulary.html#ID-9247a0ae-028d-4a78-bc67-f54139704abb">vocabulary to memorize</a></h3>
+<div class="outline-text-3" id="text-1-5">
+</div>
+</div>
+<div id="outline-container-org4b7667a" class="outline-3">
+<h3 id="org4b7667a"><span class="section-number-3">1.6.</span> <a href="20220522130637-evergreen_notes.html#ID-a408c12c-7adc-4e8d-ab8c-af5f03b13dc5">evergreen notes</a></h3>
+</div>
+<div id="outline-container-orgf65367f" class="outline-3">
+<h3 id="orgf65367f"><span class="section-number-3">1.7.</span> <a href="20210705233511-index-orphan.html#ID-c4ac8e0e-4c75-4ef0-84b7-19feb7da2d4c">orphan notes</a></h3>
+<div class="outline-text-3" id="text-1-7">
+</div>
+</div>
+<div id="outline-container-org43a359d" class="outline-3">
+<h3 id="org43a359d"><span class="section-number-3">1.8.</span> <a href="./anki.html">flashcards</a></h3>
+<div class="outline-text-3" id="text-1-8">
+</div>
+</div>
+<div id="outline-container-org6634793" class="outline-3">
+<h3 id="org6634793"><span class="section-number-3">1.9.</span> learning robotics</h3>
+<div class="outline-text-3" id="text-1-9">
+</div>
+<div id="outline-container-org0df467f" class="outline-4">
+<h4 id="org0df467f"><span class="section-number-4">1.9.1.</span> Notes from TrajOpt documentation</h4>
+</div>
+</div>
+</div>
+<div id="outline-container-org5e7ef65" class="outline-2">
+<h2 id="org5e7ef65"><span class="section-number-2">2.</span> area</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgba12d19" class="outline-3">
+<h3 id="orgba12d19"><span class="section-number-3">2.1.</span> <a href="20220225212416-note_taking.html#ID-3f190252-a13d-494f-a189-aeebd6a3d13f">note taking</a></h3>
+<div class="outline-text-3" id="text-2-1">
+</div>
+</div>
+<div id="outline-container-org27fff5f" class="outline-3">
+<h3 id="org27fff5f"><span class="section-number-3">2.2.</span> <a href="20210706112127-index-image_processing.html">Image Processing</a></h3>
+<div class="outline-text-3" id="text-2-2">
+</div>
+</div>
+<div id="outline-container-org0c159e3" class="outline-3">
+<h3 id="org0c159e3"><span class="section-number-3">2.3.</span> <a href="20210613204240-society.html#ID-3787f6f9-ef8e-4bbd-b510-5b1c2badb1f6">sociology</a></h3>
+<div class="outline-text-3" id="text-2-3">
+</div>
+</div>
+<div id="outline-container-org0a8f8b5" class="outline-3">
+<h3 id="org0a8f8b5"><span class="section-number-3">2.4.</span> <a href="20210613031022-embedded_systems.html#ID-4af165e1-f967-4751-b307-1d13417f1d7d">embedded systems</a></h3>
+<div class="outline-text-3" id="text-2-4">
+</div>
+</div>
+<div id="outline-container-org3aa2120" class="outline-3">
+<h3 id="org3aa2120"><span class="section-number-3">2.5.</span> <a href="20210613031640-music.html#ID-867d220e-78b2-4b85-959b-73d8e1998abe">music</a></h3>
+<div class="outline-text-3" id="text-2-5">
+</div>
+</div>
+<div id="outline-container-org9f4c5b2" class="outline-3">
+<h3 id="org9f4c5b2"><span class="section-number-3">2.6.</span> <a href="20210705095257-index-plc.html">PLC</a></h3>
+<div class="outline-text-3" id="text-2-6">
+</div>
+</div>
+<div id="outline-container-org618a4f9" class="outline-3">
+<h3 id="org618a4f9"><span class="section-number-3">2.7.</span> programming</h3>
+<div class="outline-text-3" id="text-2-7">
+</div>
+<div id="outline-container-org2532471" class="outline-4">
+<h4 id="org2532471"><span class="section-number-4">2.7.1.</span> launguage</h4>
+<div class="outline-text-4" id="text-2-7-1">
+<ol class="org-ol">
+<li><a href="20220225164701-rust.html#ID-d07772aa-e40d-4502-b561-13ae3c568685">rust</a></li>
+<li><a href="20220123172252-python.html#ID-4420715b-9509-4d22-bfea-8a95aafb72af">python</a></li>
+<li><a href="20210705235434-index-c.html#ID-4ff7c40a-1446-44b9-b6d1-cc30501c04e7">c</a></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgd593985" class="outline-4">
+<h4 id="orgd593985"><span class="section-number-4">2.7.2.</span> tools</h4>
+<div class="outline-text-4" id="text-2-7-2">
+<ol class="org-ol">
+<li><a href="20220225202746-git.html#ID-1c2b92b8-7abc-406c-bf41-d2e02aa18f24">git</a></li>
+<li><a href="20220423224439-emacs.html#ID-57b6b95f-28d5-49d2-90d7-f28bf9c613a6">emacs</a></li>
+<li><a href="20220427220517-vscode.html#ID-08620983-b436-44d8-930e-7b50951c0af4">vscode</a></li>
+<li><a href="20220604191346-rr.html#ID-72a1f67e-02b1-4858-962a-9142fc7711ea">rr</a></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org529c189" class="outline-4">
+<h4 id="org529c189"><span class="section-number-4">2.7.3.</span> style</h4>
+<div class="outline-text-4" id="text-2-7-3">
+<ol class="org-ol">
+<li><a href="20220502194831-hungarian_notation.html#ID-c8c0a88f-6f74-4ac5-8c64-17cf6c61d873">hungarian notation</a></li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org3a17f33" class="outline-3">
+<h3 id="org3a17f33"><span class="section-number-3">2.8.</span> robotics</h3>
+<div class="outline-text-3" id="text-2-8">
+</div>
+<div id="outline-container-org2d752b9" class="outline-4">
+<h4 id="org2d752b9"><span class="section-number-4">2.8.1.</span> framework</h4>
+<div class="outline-text-4" id="text-2-8-1">
+<ol class="org-ol">
+<li><a href="20220327132530-ros.html#ID-71bdbf8c-de11-4bbe-b639-111b2d32bdf6">ros</a></li>
+<li><a href="20220327132613-ros2.html#ID-f96c207e-6917-4d8b-9304-faf4b5d9693d">ros2</a></li>
+<li><a href="20220425213800-tesseract.html#ID-2e073578-fc85-468d-af40-238498963e02">tesseract</a></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org825127f" class="outline-4">
+<h4 id="org825127f"><span class="section-number-4">2.8.2.</span> tools</h4>
+<div class="outline-text-4" id="text-2-8-2">
+<ol class="org-ol">
+<li><a href="20220428095258-catkin.html#ID-102fff00-e855-4649-a15f-d5e1e9670c27">catkin</a></li>
+<li><a href="20220521130239-rviz.html#ID-e9789ff6-6013-4782-9bd0-6a7ff921837b">rviz</a></li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-orgeff49ff" class="outline-3">
+<h3 id="orgeff49ff"><span class="section-number-3">2.9.</span> math</h3>
+<div class="outline-text-3" id="text-2-9">
+</div>
+<div id="outline-container-orgc77873b" class="outline-4">
+<h4 id="orgc77873b"><span class="section-number-4">2.9.1.</span> linear algebra</h4>
+<div class="outline-text-4" id="text-2-9-1">
+</div>
+</div>
+</div>
+<div id="outline-container-org9ef3ef6" class="outline-3">
+<h3 id="org9ef3ef6"><span class="section-number-3">2.10.</span> software engineering</h3>
+<div class="outline-text-3" id="text-2-10">
+<ol class="org-ol">
+<li><a href="20220502183012-software_architecture.html#ID-a6b13c62-7b2f-403a-858d-619eba2e9658">software architecture</a></li>
+<li><a href="20220502183923-software_design.html#ID-fb3bbfae-6961-4477-bd4d-455e9b9cf36a">software design</a></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org1d5d708" class="outline-3">
+<h3 id="org1d5d708"><span class="section-number-3">2.11.</span> virtualization</h3>
+<div class="outline-text-3" id="text-2-11">
+</div>
+<div id="outline-container-org7624630" class="outline-4">
+<h4 id="org7624630"><span class="section-number-4">2.11.1.</span> tools</h4>
+<div class="outline-text-4" id="text-2-11-1">
+<ol class="org-ol">
+<li><a href="20220502215445-qemu.html#ID-55bd51b4-57e2-49d0-aa4f-a60f877dd402">qemu</a></li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org58cb279" class="outline-3">
+<h3 id="org58cb279"><span class="section-number-3">2.12.</span> operating systems</h3>
+<div class="outline-text-3" id="text-2-12">
+<ol class="org-ol">
+<li><a href="20220502220756-linux.html#ID-dc704116-8fd7-4969-943d-a783aac1a279">linux</a></li>
+<li><a href="20220502220856-windows.html#ID-966ee79e-dfb8-4266-9637-26e27e783805">windows</a></li>
+<li><a href="20220502220959-macos.html#ID-86ae2e73-456e-40b2-8a77-ee868461e410">macos</a></li>
+<li><a href="20220502221142-bsd.html#ID-6dfa96a6-c412-4c70-a1ee-f56ab1bb57d4">bsd</a></li>
+<li><a href="20220810205408-android.html#ID-4ac17954-dcdc-4c6a-9624-07bd709093f7">android</a></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgb227f8c" class="outline-3">
+<h3 id="orgb227f8c"><span class="section-number-3">2.13.</span> erp</h3>
+<div class="outline-text-3" id="text-2-13">
+<ol class="org-ol">
+<li><a href="20220615094814-erpnext.html#ID-2ca12afa-a11a-48f2-ba73-643e9ad0c71d">erpnext</a></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orge6a9825" class="outline-3">
+<h3 id="orge6a9825"><span class="section-number-3">2.14.</span> self-host</h3>
+<div class="outline-text-3" id="text-2-14">
+<ol class="org-ol">
+<li><a href="20220625174036-pihole.html#ID-8a5ff4b0-e069-407e-a542-ebbfa783281a">pihole</a></li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-orgae1ba97" class="outline-2">
+<h2 id="orgae1ba97"><span class="section-number-2">3.</span> resource</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orgcf22398" class="outline-3">
+<h3 id="orgcf22398"><span class="section-number-3">3.1.</span> <a href="20210612195325-bookmarks.html#ID-486a9873-2ed1-4e60-9476-bc2124741e16">bookmarks</a></h3>
+</div>
+</div>
+<div id="outline-container-orgd8198dc" class="outline-2">
+<h2 id="orgd8198dc"><span class="section-number-2">4.</span> archive</h2>
+<div class="outline-text-2" id="text-4">
+<ol class="org-ol">
+<li><a href="20210613190332-finished_projects.html#ID-89480b0f-bc30-43b8-9eff-2c2b875a2ce5">finished projects</a></li>
+</ol>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Oleksiy Nehlyadyuk</p>
+<p class="date">Created: 2022-08-11 Thu 19:12</p>
+</div>
+</body>
+</html>
